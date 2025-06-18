@@ -1,0 +1,23 @@
+{
+  "nazev": "PROZMĚNU",
+  "zkratka": "PZ",
+  "sidlo": "792 01 Bruntál, tř. Osvobození 767/21",
+  "den_registrace": "2014-07-31",
+  "cislo_registrace": "MV-94190-6/VS-2014",
+  "identifikacni_cislo": "03254763",
+  "statutarni_organ": "Předsednictvo, za které jedná předseda.",
+  "osoby": [
+    {
+      "role": "předseda",
+      "jmeno": "Radek Zatloukal",
+      "datum_narozeni": "1971-07-20",
+      "adresa": "tř. Osvobození 767/21, 792 01 Bruntál"
+    },
+    {
+      "role": "místopředseda",
+      "jmeno": "Jozef Hmurčík-Solár",
+      "datum_narozeni": "1972-09-23",
+      "adresa": "Dr. E. Beneše 310/49, 792 01 Bruntál"
+    }
+  ]
+}

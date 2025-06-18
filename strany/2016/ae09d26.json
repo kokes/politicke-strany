@@ -1,0 +1,47 @@
+{
+  "nazev": "Česká národní fronta",
+  "zkratka": "ČNF",
+  "sidlo": "703 00 Ostrava, Obránců míru 208/12",
+  "den_registrace": "2016-01-05",
+  "cislo_registrace": "MV-178137-4/VS-2015",
+  "identifikacni_cislo": "04690753",
+  "statutarni_organ": "Představenstvo, za které jedná samostatně předseda nebo společně tři členové představenstva.",
+  "osoby": [
+    {
+      "role": "předseda",
+      "jmeno": "Ondřej  Vrba",
+      "datum_narozeni": "1998-01-08",
+      "adresa": "Dostálova 990/11, 713 00 Ostrava"
+    },
+    {
+      "role": "místopředseda",
+      "jmeno": "Tomáš Gajec",
+      "datum_narozeni": "1976-06-25",
+      "adresa": "Paskovská  1004/59, 720 00 Ostrava"
+    },
+    {
+      "role": "člen",
+      "jmeno": "Tomáš Rehovič",
+      "datum_narozeni": "1990-02-23",
+      "adresa": "Staňkova 223/25, 700 30 Ostrava"
+    },
+    {
+      "role": "člen",
+      "jmeno": "Adam Šodek",
+      "datum_narozeni": "1989-08-23",
+      "adresa": "Francouzská 6015/69, 708 00 Ostrava"
+    },
+    {
+      "role": "člen",
+      "jmeno": "Tomáš Vrba",
+      "datum_narozeni": "1970-11-25",
+      "adresa": "K Maliňáku 774/17, 713 00 Ostrava"
+    },
+    {
+      "role": "člen",
+      "jmeno": "Tomáš Vrba",
+      "datum_narozeni": "1990-07-28",
+      "adresa": "Fráni Šrámka 2458/30, 709 00 Ostrava"
+    }
+  ]
+}

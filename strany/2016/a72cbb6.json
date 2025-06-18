@@ -1,0 +1,41 @@
+{
+  "nazev": "Politické hnutí PRO 2016",
+  "zkratka": "PRO2016",
+  "sidlo": "370 01 České Budějovice, Radniční 133/1",
+  "den_registrace": "2016-06-17",
+  "cislo_registrace": "MV-69530-4/VS-2016",
+  "identifikacni_cislo": "05177111",
+  "statutarni_organ": "Předsednictvo, jménem hnutí jedná samostatně předseda.",
+  "osoby": [
+    {
+      "role": "předseda",
+      "jmeno": "Tibor Batthyány",
+      "datum_narozeni": "1978-01-07",
+      "adresa": "Felberova 123/3, 460 05 Liberec"
+    },
+    {
+      "role": "1.místopředsedkyně",
+      "jmeno": "Mgr. Bc. Radka Paulová",
+      "datum_narozeni": "1976-09-30",
+      "adresa": "Kasárenská 1100, 383 01 Prachatice"
+    },
+    {
+      "role": "místopředsedkyně",
+      "jmeno": "Ing. Hana Naiclerová, MBA.",
+      "datum_narozeni": "1972-06-19",
+      "adresa": "Borová 362/10, 796 01 Prostějov"
+    },
+    {
+      "role": "místopředseda",
+      "jmeno": "Mgr. Václav Velek",
+      "datum_narozeni": "1982-02-18",
+      "adresa": "U Trojice 105, 381 01 Český Krumlov"
+    },
+    {
+      "role": "místopředseda",
+      "jmeno": "Alena Šafránková",
+      "datum_narozeni": "1966-05-04",
+      "adresa": "Jindřicha z Lipé 97/23, 470 01 Česká Lípa"
+    }
+  ]
+}

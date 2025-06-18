@@ -1,0 +1,17 @@
+{
+  "nazev": "Pražané.cz",
+  "zkratka": "Pražané",
+  "sidlo": "110 00 Praha, Vladislavova 1747/16",
+  "den_registrace": "2014-02-28",
+  "cislo_registrace": "MV-22772-4/VS-2014",
+  "identifikacni_cislo": "02718707",
+  "statutarni_organ": "Předseda.",
+  "osoby": [
+    {
+      "role": "předsedkyně",
+      "jmeno": "Martina Schopper",
+      "datum_narozeni": "1972-05-17",
+      "adresa": "Na Beránku II 280, 252 25 Ořech"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "nazev": "Solidarita, Vlast a Zákon",
+  "zkratka": "SVAZ",
+  "sidlo": "594 01 Velké Meziříčí, Třebíčská 1299/56",
+  "den_registrace": "2014-07-31",
+  "cislo_registrace": "MV-99058-4/VS-2014",
+  "identifikacni_cislo": "03254755",
+  "statutarni_organ": "Předsednictvo, za které jedná předseda.",
+  "osoby": [
+    {
+      "role": "předseda",
+      "jmeno": "Miloš Komínek",
+      "datum_narozeni": "1965-01-25",
+      "adresa": "Třebíčská 1299/56, 594 01 Velké Meziříčí"
+    },
+    {
+      "role": "místopředsedkyně",
+      "jmeno": "Lenka Pestrová",
+      "datum_narozeni": "1965-08-11",
+      "adresa": "Radnická 29/1, 594 01 Velké Meziříčí"
+    },
+    {
+      "role": "člen",
+      "jmeno": "Mgr. Luděk Růžička",
+      "datum_narozeni": "1971-11-21",
+      "adresa": "Čelakovského 611, 675 51 Jaroměřice nad Rokytnou"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "nazev": "HNUTÍ SOCIÁLNĚ SLABÝCH",
+  "zkratka": "HSS",
+  "sidlo": "793 24 Karlova Studánka 12",
+  "den_registrace": "2014-03-10",
+  "cislo_registrace": "MV-110544-4/VS-2013",
+  "identifikacni_cislo": "02750180",
+  "statutarni_organ": "Předseda a výkonný místopředseda, kteří jednají samostatně.",
+  "osoby": [
+    {
+      "role": "předseda",
+      "jmeno": "Ludvík Zifčák",
+      "datum_narozeni": "1960-01-11",
+      "adresa": "793 24 Karlova Studánka 12"
+    },
+    {
+      "role": "výkonný místopředseda",
+      "jmeno": "František Cviček",
+      "datum_narozeni": "1979-04-10",
+      "adresa": "739 47 Kozlovice 343"
+    }
+  ]
+}

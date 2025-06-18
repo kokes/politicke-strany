@@ -1,0 +1,17 @@
+{
+  "nazev": "JIHOČEŠTÍ HASIČI",
+  "zkratka": "JHas",
+  "sidlo": "397 01 Albrechtice nad Vltavou, Jehnědno 20",
+  "den_registrace": "2016-06-14",
+  "cislo_registrace": "MV-76079-4/VS-2016",
+  "identifikacni_cislo": "05164966",
+  "statutarni_organ": "Předseda.",
+  "osoby": [
+    {
+      "role": "předseda",
+      "jmeno": "Ing. Miroslav Ušatý",
+      "datum_narozeni": "1965-11-03",
+      "adresa": "Jehnědno 58, 397 01 Albrechtice nad Vltavou"
+    }
+  ]
+}

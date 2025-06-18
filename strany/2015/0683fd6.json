@@ -1,0 +1,35 @@
+{
+  "nazev": "PRO občané",
+  "zkratka": "HPO",
+  "sidlo": "108 00 Praha, Průmyslová 566/5",
+  "den_registrace": "2015-02-24",
+  "cislo_registrace": "MV-15810-4/VS-2015",
+  "identifikacni_cislo": "03826341",
+  "statutarni_organ": "Výkonný výbor, za který jedná samostatně předseda nebo první místopředseda s dalším místopředsedou.",
+  "osoby": [
+    {
+      "role": "předseda",
+      "jmeno": "Václav Posířil",
+      "datum_narozeni": "1983-07-31",
+      "adresa": "289 32 Hrubý Jeseník 266"
+    },
+    {
+      "role": "1.místopředsedkyně",
+      "jmeno": "Martina Hrušková",
+      "datum_narozeni": "1969-12-16",
+      "adresa": "330 21 Líně  15"
+    },
+    {
+      "role": "místopředseda",
+      "jmeno": "Emil Wagner",
+      "datum_narozeni": "1956-05-14",
+      "adresa": "Dobrovského 535/18, 170 00 Praha"
+    },
+    {
+      "role": "místopředseda",
+      "jmeno": "Milan Skopový",
+      "datum_narozeni": "1973-08-30",
+      "adresa": "Zárubova 514/1, 142 00 Praha"
+    }
+  ]
+}

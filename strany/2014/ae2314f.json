@@ -1,0 +1,17 @@
+{
+  "nazev": "ProOlomouc",
+  "zkratka": "ProOl",
+  "sidlo": "779 00 Olomouc, Na zákopě 322/62",
+  "den_registrace": "2014-07-16",
+  "cislo_registrace": "MV-87222-4/VS-2014",
+  "identifikacni_cislo": "03204669",
+  "statutarni_organ": "Předseda.",
+  "osoby": [
+    {
+      "role": "předseda",
+      "jmeno": "Ing. arch. Tomáš Pejpek",
+      "datum_narozeni": "1966-12-04",
+      "adresa": "Na zákopě 322/62, 779 00 Olomouc"
+    }
+  ]
+}

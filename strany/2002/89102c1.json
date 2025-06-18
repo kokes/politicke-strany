@@ -1,0 +1,17 @@
+{
+  "nazev": "Nezávislí pro Prahu",
+  "zkratka": "NPP",
+  "sidlo": "110 00 Praha, Panská 891/5",
+  "den_registrace": "2002-07-31",
+  "cislo_registrace": "VS-4470/SDR/1-2002",
+  "identifikacni_cislo": "26600781",
+  "statutarni_organ": "Představenstvo za které jední předseda.",
+  "osoby": [
+    {
+      "role": "předseda",
+      "jmeno": "Ing. Lucie Winklerová",
+      "datum_narozeni": "1961-04-18",
+      "adresa": "K bateriím 967/3, 169 00 Praha"
+    }
+  ]
+}

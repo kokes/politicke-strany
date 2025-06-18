@@ -1,0 +1,23 @@
+{
+  "nazev": "REALISTÉ",
+  "zkratka": "REAL",
+  "sidlo": "140 00 Praha, Pod višňovkou 1661/33",
+  "den_registrace": "2016-12-15",
+  "cislo_registrace": "MV-155359-5/VS-2016",
+  "identifikacni_cislo": "05632595",
+  "statutarni_organ": "Dva tajemníci, jednající každý samostatně.",
+  "osoby": [
+    {
+      "role": "tajemník",
+      "jmeno": "Mgr. Michal Moroz",
+      "datum_narozeni": "1980-07-21",
+      "adresa": "Bělehradská 1116/31, 120 00 Praha"
+    },
+    {
+      "role": "tajemník",
+      "jmeno": "RNDr. Jiří Hynek",
+      "datum_narozeni": "1960-12-20",
+      "adresa": "Plavecká 947, 252 42 Jesenice"
+    }
+  ]
+}

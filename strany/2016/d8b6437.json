@@ -1,0 +1,17 @@
+{
+  "nazev": "SNK 1 – Starostové našeho kraje",
+  "zkratka": "SNK 1 - SNK",
+  "sidlo": "360 01 Sadov 1",
+  "den_registrace": "2016-05-13",
+  "cislo_registrace": "MV-70811-2/VS-2016",
+  "identifikacni_cislo": "05081068",
+  "statutarni_organ": "Předseda.",
+  "osoby": [
+    {
+      "role": "předseda",
+      "jmeno": "Eduard Frisch",
+      "datum_narozeni": "1962-10-27",
+      "adresa": "360 01 Sadov 1"
+    }
+  ]
+}

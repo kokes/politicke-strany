@@ -1,0 +1,29 @@
+{
+  "nazev": "Ta naše Třebíč",
+  "zkratka": "TnT",
+  "sidlo": "674 01 Třebíč, Modřínová 302/8",
+  "den_registrace": "2014-06-26",
+  "cislo_registrace": "MV-84873-2/VS-2014",
+  "identifikacni_cislo": "03143848",
+  "statutarni_organ": "Předsednictvo, za které jedná předseda.",
+  "osoby": [
+    {
+      "role": "předseda",
+      "jmeno": "Ing. Martin  Svoboda",
+      "datum_narozeni": "1970-05-05",
+      "adresa": "Modřínová 302/8, 674 01 Třebíč"
+    },
+    {
+      "role": "1. místopředseda",
+      "jmeno": "Bc. Pavel Krčál",
+      "datum_narozeni": "1975-06-20",
+      "adresa": "Na Kopečku 94/6, 674 01 Třebíč"
+    },
+    {
+      "role": "člen",
+      "jmeno": "Zdeněk Sedláček",
+      "datum_narozeni": "1977-05-12",
+      "adresa": "675 22 Stařeč  23"
+    }
+  ]
+}

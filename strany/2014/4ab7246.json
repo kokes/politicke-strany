@@ -1,0 +1,29 @@
+{
+  "nazev": "TŘINÁCTKA",
+  "zkratka": "„13tka“",
+  "sidlo": "155 00 Praha, U jezera 2032/32",
+  "den_registrace": "2014-07-24",
+  "cislo_registrace": "MV-92153-4/VS-2014",
+  "identifikacni_cislo": "03231763",
+  "statutarni_organ": "Předsednictvo, za které jedná samostatně předseda nebo 1. místopředseda nebo 2. místopředseda anebo společně kterýkoliv místopředseda a další volený člen předsednictva.",
+  "osoby": [
+    {
+      "role": "předseda",
+      "jmeno": "PaedDr. et Bc. Pavel  Petrnoušek",
+      "datum_narozeni": "1959-10-21",
+      "adresa": "U jezera 2032/32, 155 00 Praha"
+    },
+    {
+      "role": "místopředsedkyně",
+      "jmeno": "Mgr. Stanislava Andršová",
+      "datum_narozeni": "1973-10-12",
+      "adresa": "Kocianova 1585/2, 155 00 Praha"
+    },
+    {
+      "role": "místopředsedkyně",
+      "jmeno": "Mgr. Olga Zeinertová",
+      "datum_narozeni": "1961-07-16",
+      "adresa": "U jezera 2043/10, 155 00 Praha"
+    }
+  ]
+}

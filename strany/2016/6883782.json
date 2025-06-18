@@ -1,0 +1,17 @@
+{
+  "nazev": "Vaše Ústí",
+  "zkratka": "VÚ",
+  "sidlo": "403 31 Ústí nad Labem, Sibiřská 372",
+  "den_registrace": "2016-04-15",
+  "cislo_registrace": "MV-28619-4/VS-2016",
+  "identifikacni_cislo": "04997808",
+  "statutarni_organ": "Předseda.",
+  "osoby": [
+    {
+      "role": "předsedkyně",
+      "jmeno": "Yveta Tomková",
+      "datum_narozeni": "1973-12-27",
+      "adresa": "Sibiřská 372, 403 31 Ústí nad Labem"
+    }
+  ]
+}

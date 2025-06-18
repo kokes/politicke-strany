@@ -1,0 +1,17 @@
+{
+  "nazev": "Bystrčáci",
+  "zkratka": "BST",
+  "sidlo": "635 00 Brno, Kuršova 978/3",
+  "den_registrace": "2016-05-23",
+  "cislo_registrace": "MV-68575-4/VS-2016",
+  "identifikacni_cislo": "05103487",
+  "statutarni_organ": "Předseda.",
+  "osoby": [
+    {
+      "role": "předsedkyně",
+      "jmeno": "Ing. Hana Jindrová",
+      "datum_narozeni": "1972-05-11",
+      "adresa": "Vondrákova 643/24, 635 00 Brno"
+    }
+  ]
+}

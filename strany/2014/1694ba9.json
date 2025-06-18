@@ -1,0 +1,23 @@
+{
+  "nazev": "Občanské hnutí Můj domov",
+  "zkratka": "Můj domov",
+  "sidlo": "466 04 Jablonec nad Nisou, Pražského povstání 3686/19",
+  "den_registrace": "2014-05-06",
+  "cislo_registrace": "MV-55020-5/VS-2014",
+  "identifikacni_cislo": "02970554",
+  "statutarni_organ": "Předsednictvo, za které jedná samostatně předseda.",
+  "osoby": [
+    {
+      "role": "předseda",
+      "jmeno": "Jan  Ullmann",
+      "datum_narozeni": "1993-11-16",
+      "adresa": "Pražského povstání 3686/19, 466 04 Jablonec nad Nisou"
+    },
+    {
+      "role": "místopředseda",
+      "jmeno": "Ing. Jan Ullmann",
+      "datum_narozeni": "1965-02-18",
+      "adresa": "Pražského povstání 3686/19, 466 04 Jablonec nad Nisou"
+    }
+  ]
+}

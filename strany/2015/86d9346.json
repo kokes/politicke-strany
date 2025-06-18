@@ -1,0 +1,23 @@
+{
+  "nazev": "OSVČ",
+  "zkratka": "OSVČ",
+  "sidlo": "330 16 Všeruby 323",
+  "den_registrace": "2015-12-09",
+  "cislo_registrace": "MV-167950-4/VS-2015",
+  "identifikacni_cislo": "04627695",
+  "statutarni_organ": "Předseda a statutární místopředseda, který vykonává funkci předsedy OSVČ v době jeho nepřítomnosti nebo v případě, že předseda nemůže vykonávat svou funkci.",
+  "osoby": [
+    {
+      "role": "předseda",
+      "jmeno": "Ing. Pavel Šrámek, MBA",
+      "datum_narozeni": "1965-03-25",
+      "adresa": "Pecháčkova 954/28, 318 00 Plzeň"
+    },
+    {
+      "role": "statutární místopředseda",
+      "jmeno": "Petr Ajšman",
+      "datum_narozeni": "1976-09-14",
+      "adresa": "Krokova 339/37, 360 01 Karlovy Vary"
+    }
+  ]
+}

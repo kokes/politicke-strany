@@ -1,0 +1,17 @@
+{
+  "nazev": "Město pro vás",
+  "zkratka": "MPV",
+  "sidlo": "269 01 Rakovník, Dukel. hrdinů 1909",
+  "den_registrace": "2014-07-02",
+  "cislo_registrace": "MV-75061-4/VS-2014",
+  "identifikacni_cislo": "03162125",
+  "statutarni_organ": "Předseda.",
+  "osoby": [
+    {
+      "role": "předseda",
+      "jmeno": "Mgr. Miroslav Koloc",
+      "datum_narozeni": "1964-08-11",
+      "adresa": "Jirkovského 2603, 269 01 Rakovník"
+    }
+  ]
+}

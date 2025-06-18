@@ -1,0 +1,17 @@
+{
+  "nazev": "Národní zájmy",
+  "zkratka": "NZ",
+  "sidlo": "160 00 Praha, Heinemannova 2695/6",
+  "den_registrace": "2015-04-17",
+  "cislo_registrace": "MV-52560-5/VS-2015",
+  "identifikacni_cislo": "04001800",
+  "statutarni_organ": "Sekretář.",
+  "osoby": [
+    {
+      "role": "sekretář",
+      "jmeno": "Jan  Vágner",
+      "datum_narozeni": "1986-06-10",
+      "adresa": "Karla Marxe 573/26, 434 01 Most"
+    }
+  ]
+}

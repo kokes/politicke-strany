@@ -1,0 +1,35 @@
+{
+  "nazev": "SMS – Stát Má Sloužit",
+  "zkratka": "SMSka",
+  "sidlo": "251 01 Popovičky, Na Stádlech 65",
+  "den_registrace": "2014-07-31",
+  "cislo_registrace": "MV-97630-6/VS-2014",
+  "identifikacni_cislo": "03254658",
+  "statutarni_organ": "Předseda a dva místopředsedové, kteří jednají samostatně.",
+  "osoby": [
+    {
+      "role": "předseda",
+      "jmeno": "Karel Leškovský",
+      "datum_narozeni": "1968-11-06",
+      "adresa": "náměstí Míru 600/20, 120 00 Praha"
+    },
+    {
+      "role": "místopředsedkyně",
+      "jmeno": "Radka Kučerová",
+      "datum_narozeni": "1979-07-13",
+      "adresa": "Na Stádlech 101, 251 70 Popovičky"
+    },
+    {
+      "role": "místopředsedkyně",
+      "jmeno": "Alina Mojšová",
+      "datum_narozeni": "2000-12-30",
+      "adresa": "Perucká 2481/5, 120 00 Praha"
+    },
+    {
+      "role": "místopředseda",
+      "jmeno": "Leoš Kučera",
+      "datum_narozeni": "1973-12-23",
+      "adresa": "533 52 Němčice 110"
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "nazev": "„Hnutí Praha-Kunratice“",
+  "zkratka": "„HPK“",
+  "sidlo": "148 00 Praha, Vožická 982/25",
+  "den_registrace": "2014-07-07",
+  "cislo_registrace": "MV-83580-4/VS-2014",
+  "identifikacni_cislo": "03174531",
+  "statutarni_organ": "Předsednictvo, za které jedná předseda nebo výkonný místopředseda.",
+  "osoby": [
+    {
+      "role": "předsedkyně",
+      "jmeno": "Lenka Alinčová",
+      "datum_narozeni": "1958-10-27",
+      "adresa": "Vožická 982/25, 148 00 Praha"
+    },
+    {
+      "role": "výkonný místopředseda",
+      "jmeno": "Ivan Hýža",
+      "datum_narozeni": "1965-09-16",
+      "adresa": "Františka Šimáčka 387/5, 148 00 Praha"
+    },
+    {
+      "role": "člen",
+      "jmeno": "Ondřej Nováček",
+      "datum_narozeni": "1991-01-29",
+      "adresa": "K Zeleným domkům 632/34, 148 00 Praha"
+    },
+    {
+      "role": "člen",
+      "jmeno": "Petr Mozola",
+      "datum_narozeni": "1976-08-10",
+      "adresa": "Kostelní náměstí 17, 148 00 Praha"
+    },
+    {
+      "role": "člen",
+      "jmeno": "Milan Matoušek",
+      "datum_narozeni": "1960-04-14",
+      "adresa": "K Borovíčku 71/12, 148 00 Praha"
+    },
+    {
+      "role": "členka",
+      "jmeno": "Kateřina Talichová",
+      "datum_narozeni": "1979-03-06",
+      "adresa": "Dunajevského 515/2, 148 00 Praha"
+    },
+    {
+      "role": "členka",
+      "jmeno": "Petra Hilmarová",
+      "datum_narozeni": "1973-07-22",
+      "adresa": "Herrova 1553/14, 148 00 Praha"
+    }
+  ]
+}

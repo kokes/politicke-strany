@@ -1,0 +1,29 @@
+{
+  "nazev": "HNUTÍ OBČANŮ KRAJE",
+  "zkratka": "HOK",
+  "sidlo": "539 01 Hlinsko, Rataje 1008",
+  "den_registrace": "2015-11-04",
+  "cislo_registrace": "MV-128844-5/VS-2015",
+  "identifikacni_cislo": "04537556",
+  "statutarni_organ": "Předsedsednictvo, za které jedná předseda.",
+  "osoby": [
+    {
+      "role": "předseda",
+      "jmeno": "Aleš Meloun",
+      "datum_narozeni": "1971-05-16",
+      "adresa": "Rataje 1008, 539 01 Hlinsko"
+    },
+    {
+      "role": "místopředsedkyně",
+      "jmeno": "Renáta Plíšková",
+      "datum_narozeni": "1961-04-16",
+      "adresa": "Žitná 1470, 539 01 Hlinsko"
+    },
+    {
+      "role": "místopředseda",
+      "jmeno": "Petr Svoboda",
+      "datum_narozeni": "1968-09-10",
+      "adresa": "Rataje 858, 539 01 Hlinsko"
+    }
+  ]
+}

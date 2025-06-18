@@ -1,0 +1,29 @@
+{
+  "nazev": "PATRIOT 2014",
+  "zkratka": "PATRIOT 2014",
+  "sidlo": "738 01 Frýdek-Místek, 8. pěšího pluku 81",
+  "den_registrace": "2014-06-12",
+  "cislo_registrace": "MV-67070-5/VS-2014",
+  "identifikacni_cislo": "03100448",
+  "statutarni_organ": "Ústřední rada, za kterou jedná předseda.",
+  "osoby": [
+    {
+      "role": "předseda",
+      "jmeno": "Ing. Hynek Podola",
+      "datum_narozeni": "1974-10-03",
+      "adresa": "Matuškova 1052/6, 736 01 Havířov"
+    },
+    {
+      "role": "1.místopředsedkyně",
+      "jmeno": "Ing. Milena Petrášová",
+      "datum_narozeni": "1964-06-10",
+      "adresa": "Třeneckého 139/1, 736 01 Havířov"
+    },
+    {
+      "role": "2. místopředseda",
+      "jmeno": "Jan Panchártek",
+      "datum_narozeni": "1985-03-04",
+      "adresa": "Matuškova 1052/6, 736 01 Havířov"
+    }
+  ]
+}

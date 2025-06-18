@@ -1,0 +1,29 @@
+{
+  "nazev": "NOVÁ PLZEŇ",
+  "zkratka": "NOPL",
+  "sidlo": "301 00 Plzeň, Otýlie Beníškové 339/1",
+  "den_registrace": "2014-07-22",
+  "cislo_registrace": "MV-92350-4/VS-2014",
+  "identifikacni_cislo": "03219208",
+  "statutarni_organ": "Představenstvo, kdy právní úkony činí společně dva jeho členové, z nichž alespoň jeden je předsedou a druhý členem představenstva anebo společně třemi členy předsedavestva, z nichž jeden je místopředsedou a další dva jsou členy představenstva.",
+  "osoby": [
+    {
+      "role": "předsedkyně",
+      "jmeno": "Martina Šubrtová",
+      "datum_narozeni": "1978-03-10",
+      "adresa": "Kpt. Kudliče 124, 333 01 Stod"
+    },
+    {
+      "role": "1. místopředseda",
+      "jmeno": "Doc. MUDr. Zdeněk  Novotný, CSc.",
+      "datum_narozeni": "1951-05-22",
+      "adresa": "Žitná 544/4A, 322 00 Plzeň"
+    },
+    {
+      "role": "místopředseda",
+      "jmeno": "Josef Lucák",
+      "datum_narozeni": "1977-06-05",
+      "adresa": "Družstevní 257, 334 52 Merklín"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "nazev": "Alternativa pro Česko",
+  "zkratka": "APČ",
+  "sidlo": "110 00 Praha, Kaprova 42/14",
+  "den_registrace": "2016-06-02",
+  "cislo_registrace": "MV-76071-4/VS-2016",
+  "identifikacni_cislo": "05138337",
+  "statutarni_organ": "Předseda.",
+  "osoby": [
+    {
+      "role": "předseda",
+      "jmeno": "Jan Hlava",
+      "datum_narozeni": "1976-02-04",
+      "adresa": "511 01 Mírová pod Kozákovem 57"
+    }
+  ]
+}

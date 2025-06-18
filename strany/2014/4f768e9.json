@@ -1,0 +1,22 @@
+{
+  "nazev": "iČesko",
+  "zkratka": "iČesko",
+  "sidlo": "140 00 Praha, Na Topolce 1348/7",
+  "den_registrace": "2014-07-16",
+  "cislo_registrace": "MV-93640-4/VS-2014",
+  "identifikacni_cislo": "03206211",
+  "statutarni_organ": "Předseda a místopředseda, kteří jednají společně.",
+  "osoby": [
+    {
+      "role": "předseda",
+      "jmeno": "",
+      "adresa": ""
+    },
+    {
+      "role": "místopředseda",
+      "jmeno": "Alois Ullmann",
+      "datum_narozeni": "1984-08-12",
+      "adresa": "Šimáčkova 1371/10, 170 00 Praha"
+    }
+  ]
+}

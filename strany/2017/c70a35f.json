@@ -1,0 +1,35 @@
+{
+  "nazev": "BEZPEČNOST, ODPOVĚDNOST, SOLIDARITA",
+  "zkratka": "BOS",
+  "sidlo": "500 02 Hradec Králové, Veverkova 1343/1",
+  "den_registrace": "2017-04-25",
+  "cislo_registrace": "MV-44645-4/VS-2017",
+  "identifikacni_cislo": "06048099",
+  "statutarni_organ": "Předsednictvo Ústřední rady hnutí, za které jedná společně předseda s dalším místopředsedou nebo první místopředseda společně s dalším místopředsedou",
+  "osoby": [
+    {
+      "role": "předseda",
+      "jmeno": "Jaroslav Bašta",
+      "datum_narozeni": "1948-05-15",
+      "adresa": "Junácká 1469/11, 169 00 Praha"
+    },
+    {
+      "role": "1. místopředseda",
+      "jmeno": "JUDr. Josef Kvasnička",
+      "datum_narozeni": "1950-08-20",
+      "adresa": "Květná 363, 351 35 Plesná"
+    },
+    {
+      "role": "místopředseda",
+      "jmeno": "JUDr. Josef Vaněk",
+      "datum_narozeni": "1949-02-03",
+      "adresa": "351 32 Hazlov 285"
+    },
+    {
+      "role": "místopředseda",
+      "jmeno": "Jiří Osadník",
+      "datum_narozeni": "1953-11-28",
+      "adresa": "Palackého 1986/74, 741 01 Nový Jičín"
+    }
+  ]
+}

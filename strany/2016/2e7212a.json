@@ -1,0 +1,41 @@
+{
+  "nazev": "ALTERNATIVA PRO ČESKOU POLITIKU",
+  "zkratka": "A",
+  "sidlo": "170 00 Praha, Veverkova 1229/9",
+  "den_registrace": "2016-06-02",
+  "cislo_registrace": "MV-77770-2/VS-2016",
+  "identifikacni_cislo": "05133807",
+  "statutarni_organ": "Republiková rada, přičemž stranu zastupuje samostatně předseda.",
+  "osoby": [
+    {
+      "role": "předsedkyně",
+      "jmeno": "PaedDr. Marie Kramaříková",
+      "datum_narozeni": "1955-09-10",
+      "adresa": "Veverkova 1229/9, 170 00 Praha"
+    },
+    {
+      "role": "statutární místopředsedkyně",
+      "jmeno": "Dagmar Knýblová",
+      "datum_narozeni": "1967-04-08",
+      "adresa": "Bezručova 47, 735 52 Bohumín"
+    },
+    {
+      "role": "1.místopředsedkyně",
+      "jmeno": "Kamila Krejčí",
+      "datum_narozeni": "1969-02-27",
+      "adresa": "Anenská 23, 735 52 Bohumín"
+    },
+    {
+      "role": "2. místopředsedkyně",
+      "jmeno": "Ing. Ivana  Némethová",
+      "datum_narozeni": "1967-04-18",
+      "adresa": "Družební 1003/7, 742 21 Kopřivnice"
+    },
+    {
+      "role": "3. místopředsedkyně",
+      "jmeno": "Ing. Hana  Čmielová",
+      "datum_narozeni": "1970-07-29",
+      "adresa": "Bobrovnická 336/52, 725 28 Ostrava"
+    }
+  ]
+}

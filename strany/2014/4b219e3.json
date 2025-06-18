@@ -1,0 +1,17 @@
+{
+  "nazev": "Politické Hnutí Vítkovice",
+  "zkratka": "PHV",
+  "sidlo": "703 00 Ostrava, Nerudova 499/23",
+  "den_registrace": "2014-06-06",
+  "cislo_registrace": "MV-73590-2/VS-2014",
+  "identifikacni_cislo": "03080935",
+  "statutarni_organ": "Předseda.",
+  "osoby": [
+    {
+      "role": "předseda",
+      "jmeno": "Ing. František Kročil",
+      "datum_narozeni": "1960-09-01",
+      "adresa": "Šalounova 778/18, 703 00 Ostrava"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "nazev": "NEZÁVISLÍ PRO PRAHU 10 - HNUTÍ PRO LEPŠÍ DESÍTKU",
+  "zkratka": "NPP10-HPLD",
+  "sidlo": "149 00 Praha, Nad úpadem 413/23",
+  "den_registrace": "2014-07-07",
+  "cislo_registrace": "MV-82740-4/VS-2014",
+  "identifikacni_cislo": "03174697",
+  "statutarni_organ": "Předsednictvo, za které jedná samostatně předseda nebo 1. místopředseda.",
+  "osoby": [
+    {
+      "role": "předseda",
+      "jmeno": "Mgr. Bohumil Zoufalík",
+      "datum_narozeni": "1968-04-17",
+      "adresa": "Jahodová 2706/119, 106 00 Praha"
+    },
+    {
+      "role": "místopředsedkyně",
+      "jmeno": "Kristýna Soukupová",
+      "datum_narozeni": "1990-08-31",
+      "adresa": "250 7 Štěchovice 189"
+    },
+    {
+      "role": "člen",
+      "jmeno": "Mgr. Vladislav Lipovský",
+      "datum_narozeni": "1967-05-14",
+      "adresa": "Kryšpínova 530/9, 109 00 Praha"
+    }
+  ]
+}

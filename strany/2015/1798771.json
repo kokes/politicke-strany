@@ -1,0 +1,17 @@
+{
+  "nazev": "Svoboda a přímá demokracie (SPD)",
+  "zkratka": "SPD",
+  "sidlo": "110 00 Praha, Rytířská 410/6",
+  "den_registrace": "2015-06-02",
+  "cislo_registrace": "MV-71628-4/VS-2015",
+  "identifikacni_cislo": "04134940",
+  "statutarni_organ": "Předseda.",
+  "osoby": [
+    {
+      "role": "předseda",
+      "jmeno": "Tomio Okamura",
+      "datum_narozeni": "1972-07-04",
+      "adresa": "Nad Tejnkou 2503/9a, 169 00 Praha"
+    }
+  ]
+}

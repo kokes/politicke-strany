@@ -1,0 +1,23 @@
+{
+  "nazev": "OBČANÉ SPOLU - NEZÁVISLÍ",
+  "zkratka": "„OSN“",
+  "sidlo": "738 01 Frýdek-Místek, 8. pěšího pluku 2380",
+  "den_registrace": "2014-07-22",
+  "cislo_registrace": "MV-92158-4/VS-2014",
+  "identifikacni_cislo": "03221083",
+  "statutarni_organ": "Představenstvo, za které jedná předseda.",
+  "osoby": [
+    {
+      "role": "předseda",
+      "jmeno": "Kamil  Mach, MBA.",
+      "datum_narozeni": "1970-11-30",
+      "adresa": "Ostravská 513, 738 01 Frýdek-Místek"
+    },
+    {
+      "role": "místopředseda",
+      "jmeno": "Ing. Patrik Salot",
+      "datum_narozeni": "1972-05-30",
+      "adresa": "Radniční 1148, 738 01 Frýdek-Místek"
+    }
+  ]
+}

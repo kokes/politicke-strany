@@ -1,0 +1,17 @@
+{
+  "nazev": "NOVÁ GENERACE",
+  "zkratka": "NG",
+  "sidlo": "370 01 České Budějovice, Rudolfovská tř. 132/71",
+  "den_registrace": "2016-06-21",
+  "cislo_registrace": "MV-82149-4/VS-2016",
+  "identifikacni_cislo": "05183774",
+  "statutarni_organ": "Předseda.",
+  "osoby": [
+    {
+      "role": "předseda",
+      "jmeno": "Bc. Vladislav Nadberežný",
+      "datum_narozeni": "1980-09-11",
+      "adresa": "Rudolfovská tř. 1996/7, 370 01 České Budějovice"
+    }
+  ]
+}

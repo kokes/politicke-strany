@@ -1,0 +1,29 @@
+{
+  "nazev": "JsmePRO!",
+  "zkratka": "JsmePRO!",
+  "sidlo": "415 01 Teplice, Novoveská 3091",
+  "den_registrace": "2016-03-09",
+  "cislo_registrace": "MV-29331-4/VS-2016",
+  "identifikacni_cislo": "04889321",
+  "statutarni_organ": "Řídící rada, za kterou jedná předseda a pověření členové řídící rady.",
+  "osoby": [
+    {
+      "role": "předseda",
+      "jmeno": "Jiří Řehák",
+      "datum_narozeni": "1967-11-08",
+      "adresa": "Novoveská 3091, 415 01 Teplice"
+    },
+    {
+      "role": "místopředseda",
+      "jmeno": "MgA. Pavel Skála",
+      "datum_narozeni": "1986-07-24",
+      "adresa": "Moskevská 3064/19, 434 01 Most"
+    },
+    {
+      "role": "člen a pokladník",
+      "jmeno": "Jindra Rücknágelová",
+      "datum_narozeni": "1955-12-20",
+      "adresa": "440 01 Blažim 56"
+    }
+  ]
+}

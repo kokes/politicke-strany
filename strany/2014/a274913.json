@@ -1,0 +1,17 @@
+{
+  "nazev": "Šance pro Duchcov",
+  "zkratka": "ŠpD",
+  "sidlo": "419 01 Duchcov, Jungmannova 1337/24A",
+  "den_registrace": "2014-07-31",
+  "cislo_registrace": "MV-101160-4/VS-2014",
+  "identifikacni_cislo": "03251501",
+  "statutarni_organ": "Předseda.",
+  "osoby": [
+    {
+      "role": "předseda",
+      "jmeno": "Zdeněk Burda",
+      "datum_narozeni": "1967-10-04",
+      "adresa": "Horská cesta 1218/14, 419 01 Duchcov"
+    }
+  ]
+}

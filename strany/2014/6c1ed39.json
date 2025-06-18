@@ -1,0 +1,29 @@
+{
+  "nazev": "Toryové",
+  "zkratka": "TOR",
+  "sidlo": "169 00 Praha, Bělohorská 193/149",
+  "den_registrace": "2014-03-10",
+  "cislo_registrace": "MV-16009-4/VS-2014",
+  "identifikacni_cislo": "02749947",
+  "statutarni_organ": "Republiková rada, za kterou jedná předseda nebo pověřený místopředseda nebo pověřený člen republikové rady.",
+  "osoby": [
+    {
+      "role": "předseda",
+      "jmeno": "Oldřich Vojíř",
+      "datum_narozeni": "1961-08-13",
+      "adresa": "Průběžná 3142, 434 01 Most"
+    },
+    {
+      "role": "místopředseda",
+      "jmeno": "Marek Vavrečka",
+      "datum_narozeni": "1971-01-18",
+      "adresa": "742 82 Jistebník 198"
+    },
+    {
+      "role": "hlavní pokladník",
+      "jmeno": "Tereza Dalecká",
+      "datum_narozeni": "1990-09-14",
+      "adresa": "Slatinická 3521, 434 01 Most"
+    }
+  ]
+}

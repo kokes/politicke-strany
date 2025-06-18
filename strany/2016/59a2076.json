@@ -1,0 +1,29 @@
+{
+  "nazev": "Slušní lidé",
+  "zkratka": "SL",
+  "sidlo": "612 00 Brno, Štefánikova 119/50",
+  "den_registrace": "2016-01-27",
+  "cislo_registrace": "MV-172837-4/VS-2015",
+  "identifikacni_cislo": "04755685",
+  "statutarni_organ": "Předsednictvo, za které jedná společně předseda a jeden z místopředsedů.",
+  "osoby": [
+    {
+      "role": "předseda",
+      "jmeno": "Zdeněk Pernica",
+      "datum_narozeni": "1986-08-23",
+      "adresa": "Tučkova 920/30, 602 00 Brno"
+    },
+    {
+      "role": "místopředseda",
+      "jmeno": "Radek  Pokora",
+      "datum_narozeni": "1968-10-23",
+      "adresa": "Husova 165/5, 602 00 Brno"
+    },
+    {
+      "role": "místopředseda",
+      "jmeno": "Ivo Crhák",
+      "datum_narozeni": "1992-09-02",
+      "adresa": "Skácelova 2688/53A, 612 00 Brno"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "nazev": "KOMUNISTICKÁ STRANA ČESKÁ 21",
+  "zkratka": "KSČ 21",
+  "sidlo": "779 00 Olomouc, Karafiátová 298/1",
+  "den_registrace": "2014-10-30",
+  "cislo_registrace": "MV-122836-7/VS-2014",
+  "identifikacni_cislo": "03531759",
+  "statutarni_organ": "Předsednictvo ústředního výboru, za které jedná generální tajemník.",
+  "osoby": [
+    {
+      "role": "generální tajemník",
+      "jmeno": "Zdeněk Klímek",
+      "datum_narozeni": "1954-08-16",
+      "adresa": "Přichystalova 1077/70, 779 00 Olomouc"
+    },
+    {
+      "role": "člen",
+      "jmeno": "Pavel Pohludka",
+      "datum_narozeni": "1956-08-21",
+      "adresa": "Švabinského 403/3, 779 00 Olomouc"
+    },
+    {
+      "role": "člen",
+      "jmeno": "Alois Křepský",
+      "datum_narozeni": "1944-06-05",
+      "adresa": "Handkeho 731/5, 779 00 Olomouc"
+    }
+  ]
+}

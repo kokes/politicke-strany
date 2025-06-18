@@ -1,0 +1,17 @@
+{
+  "nazev": "Pévéčko",
+  "zkratka": "PV",
+  "sidlo": "796 01 Prostějov, Brněnská 1442/47",
+  "den_registrace": "2014-06-11",
+  "cislo_registrace": "MV-76380-2/VS-2014",
+  "identifikacni_cislo": "03091805",
+  "statutarni_organ": "Předseda.",
+  "osoby": [
+    {
+      "role": "předseda",
+      "jmeno": "Mgr. Jiří Pospíšil",
+      "datum_narozeni": "1966-03-14",
+      "adresa": "Brněnská 1442/47, 796 01 Prostějov"
+    }
+  ]
+}

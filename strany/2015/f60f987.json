@@ -1,0 +1,17 @@
+{
+  "nazev": "Volba pro kraj",
+  "zkratka": "VOK",
+  "sidlo": "360 01 Karlovy Vary, Dr. Davida Bechera 893/6",
+  "den_registrace": "2015-12-03",
+  "cislo_registrace": "MV-169487-4/VS-2015",
+  "identifikacni_cislo": "04616421",
+  "statutarni_organ": "Předseda.",
+  "osoby": [
+    {
+      "role": "předseda",
+      "jmeno": "Ing. Michal  Soukup",
+      "datum_narozeni": "1948-01-01",
+      "adresa": "U Ovčárny 376/6, 360 07 Karlovy Vary"
+    }
+  ]
+}

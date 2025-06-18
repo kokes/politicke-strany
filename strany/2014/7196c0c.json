@@ -1,0 +1,23 @@
+{
+  "nazev": "Politické hnutí OBRODA",
+  "zkratka": "Obroda",
+  "sidlo": "110 00 Praha, Školská 694/32",
+  "den_registrace": "2014-03-27",
+  "cislo_registrace": "MV-24837-6/VS-2014",
+  "identifikacni_cislo": "02827964",
+  "statutarni_organ": "Předseda samostatně nebo společně dva místopředsedové hnutí.",
+  "osoby": [
+    {
+      "role": "předseda",
+      "jmeno": "Bc. Jiří  Bejlovec",
+      "datum_narozeni": "1990-04-07",
+      "adresa": "Kpt. Stránského 991/10, 198 00 Praha"
+    },
+    {
+      "role": "místopředsedkyně",
+      "jmeno": "Vlasta Kozlerová",
+      "datum_narozeni": "1968-03-09",
+      "adresa": "Březová 1428/12, 419 01 Duchcov"
+    }
+  ]
+}

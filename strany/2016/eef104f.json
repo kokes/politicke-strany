@@ -1,0 +1,17 @@
+{
+  "nazev": "Evolution-Mind",
+  "zkratka": "EM",
+  "sidlo": "190 16 Praha, Malešovská 1650",
+  "den_registrace": "2016-09-14",
+  "cislo_registrace": "MV-120248-2/VS-2016",
+  "identifikacni_cislo": "05391628",
+  "statutarni_organ": "Předseda",
+  "osoby": [
+    {
+      "role": "předseda",
+      "jmeno": "Petr Chobot",
+      "datum_narozeni": "1967-07-03",
+      "adresa": "Vlastina 850/36, 161 00 Praha"
+    }
+  ]
+}

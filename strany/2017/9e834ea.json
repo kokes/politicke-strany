@@ -1,0 +1,23 @@
+{
+  "nazev": "SPORTOVCI",
+  "zkratka": "SPORTOVCI",
+  "sidlo": "679 22 Lipůvka 319",
+  "den_registrace": "2017-07-20",
+  "cislo_registrace": "MV-86138-2/VS-2017",
+  "identifikacni_cislo": "06286950",
+  "statutarni_organ": "Předseda a výkonný tajemník, kteří jednají samostatně.",
+  "osoby": [
+    {
+      "role": "předseda",
+      "jmeno": "Miroslav Procházka",
+      "datum_narozeni": "1980-06-18",
+      "adresa": "Filipova 821/6, 635 00 Brno"
+    },
+    {
+      "role": "výkonný tajemník",
+      "jmeno": "Martin Sehnal",
+      "datum_narozeni": "1991-07-15",
+      "adresa": "679 22 Lipůvka 319"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "nazev": "CESTA ODPOVĚDNÉ SPOLEČNOSTI",
+  "zkratka": "CESTA",
+  "sidlo": "102 00 Praha, Gercenova 856/3",
+  "den_registrace": "2017-01-27",
+  "cislo_registrace": "MV-160151-4/VS-2016",
+  "identifikacni_cislo": "05754577",
+  "statutarni_organ": "Předsednictvo, za které jedná Předseda samostatně v těchto konkrétních případech:a) veškeré administrativní úkony a plnění zákonných povinností vůči státu a státním orgánům,b) veškeré administrativní úkony vůči bankám (kromě sjednávání úvěru nad 100 000 Kč.), c) podepisování smluv s dodavateli služeb do výše ročních nákladů 100 000 Kč., v ostatních případech jednají společně Předseda a 1. Místopředseda.",
+  "osoby": [
+    {
+      "role": "Předseda",
+      "jmeno": "Jan  Kubín",
+      "datum_narozeni": "1963-11-10",
+      "adresa": "Gercenova 856/3, 102 00 Praha"
+    },
+    {
+      "role": "1. místopředseda",
+      "jmeno": "Jaroslav Kuchař",
+      "datum_narozeni": "1963-07-06",
+      "adresa": "Sukova 1609, 432 01 Kadaň"
+    },
+    {
+      "role": "místopředseda",
+      "jmeno": "Oldřich Zima",
+      "datum_narozeni": "1961-05-06",
+      "adresa": "Stříbrný potok  139, 500 09 Hradec Králové"
+    }
+  ]
+}

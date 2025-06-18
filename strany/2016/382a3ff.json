@@ -1,0 +1,29 @@
+{
+  "nazev": "KOMUNISTICKÁ STRANA ČECH, MORAVY A SLEZSKA",
+  "zkratka": "KSČMS",
+  "sidlo": "746 01 Opava, Dostojevského 2132/24",
+  "den_registrace": "2016-02-11",
+  "cislo_registrace": "MV-182663-4/VS-2015",
+  "identifikacni_cislo": "04807898",
+  "statutarni_organ": "Předsednictvo Ústředního výboru, za které jedná generální tajemník.",
+  "osoby": [
+    {
+      "role": "generální tajemník",
+      "jmeno": "Ing. Iva Kalinová",
+      "datum_narozeni": "1946-03-14",
+      "adresa": "Dostojevského 2132/24, 746 01 Opava"
+    },
+    {
+      "role": "tajemník a zástupce generálního tajemníka",
+      "jmeno": "Zdeněk Jakš",
+      "datum_narozeni": "1948-11-25",
+      "adresa": "Ratibořská 1438/49, 747 05 Opava"
+    },
+    {
+      "role": "člen",
+      "jmeno": "David Berger",
+      "datum_narozeni": "1977-08-23",
+      "adresa": "Františka Lýska 1608/9, 700 30 Ostrava"
+    }
+  ]
+}

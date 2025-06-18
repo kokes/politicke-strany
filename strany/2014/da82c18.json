@@ -1,0 +1,29 @@
+{
+  "nazev": "HRADEČTÍ PATRIOTI",
+  "zkratka": "HP",
+  "sidlo": "500 03 Hradec Králové, Pouchovská  1272",
+  "den_registrace": "2014-05-14",
+  "cislo_registrace": "MV-54359-4/VS-2014",
+  "identifikacni_cislo": "02985349",
+  "statutarni_organ": "Předsednictvo, za které jedná předseda samostatně nebo dva členové společně.",
+  "osoby": [
+    {
+      "role": "předseda",
+      "jmeno": "František  Řehounek",
+      "datum_narozeni": "1968-07-25",
+      "adresa": "Písečná 896/36, 500 09 Hradec Králové"
+    },
+    {
+      "role": "místopředseda",
+      "jmeno": "Jan Nymsa",
+      "datum_narozeni": "1985-10-30",
+      "adresa": "Kladská 117/32, 500 03 Hradec Králové"
+    },
+    {
+      "role": "pokladník",
+      "jmeno": "Ing. Jan  Sedunka",
+      "datum_narozeni": "1984-06-02",
+      "adresa": "Na Rozhraní 1511/15, 500 12 Hradec Králové"
+    }
+  ]
+}

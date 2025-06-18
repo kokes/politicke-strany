@@ -1,0 +1,29 @@
+{
+  "nazev": "Motoristé sobě",
+  "zkratka": "AUTO",
+  "sidlo": "118 00 Praha, Thunovská 183/18",
+  "den_registrace": "2017-04-04",
+  "cislo_registrace": "MV-41233-3/VS-2017",
+  "identifikacni_cislo": "05989175",
+  "statutarni_organ": "Předsednictvo, za které jedná samostatně předseda ve všech záležitostech nebo předsedou písemně pověřený člen předsednictva.",
+  "osoby": [
+    {
+      "role": "předseda",
+      "jmeno": "Mgr. Petr Macinka",
+      "datum_narozeni": "1978-08-18",
+      "adresa": "Plzeňská 381/64, 150 00 Praha"
+    },
+    {
+      "role": "člen",
+      "jmeno": "Mgr. Jiří Barták",
+      "datum_narozeni": "1967-10-14",
+      "adresa": "Zálesí 1073/7, 142 00 Praha"
+    },
+    {
+      "role": "členka",
+      "jmeno": "Bc. Renata Maršíková",
+      "datum_narozeni": "1983-04-25",
+      "adresa": "Na domovině 1081/2, 142 00 Praha"
+    }
+  ]
+}

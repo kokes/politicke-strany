@@ -1,0 +1,29 @@
+{
+  "nazev": "Moderní společnost",
+  "zkratka": "MODES",
+  "sidlo": "792 01 Bruntál, Horní 1562/9",
+  "den_registrace": "2014-07-31",
+  "cislo_registrace": "MV-99055-4/VS-2014",
+  "identifikacni_cislo": "03254747",
+  "statutarni_organ": "Republiková rada, za kterou jedná předseda společně s místopředsedou nebo předseda společně s jiným členem republikové rady.",
+  "osoby": [
+    {
+      "role": "předseda",
+      "jmeno": "Jiří Krupa",
+      "datum_narozeni": "1975-12-20",
+      "adresa": "Horní 1562/9, 792 01 Bruntál"
+    },
+    {
+      "role": "místopředsedkyně",
+      "jmeno": "Ing. Pavla Krupová",
+      "datum_narozeni": "1965-08-13",
+      "adresa": "Horní 1562/9, 792 01 Bruntál"
+    },
+    {
+      "role": "členka",
+      "jmeno": "Ludmila Hajná",
+      "datum_narozeni": "1976-03-27",
+      "adresa": "Wolkerova 574/17, 792 01 Bruntál"
+    }
+  ]
+}

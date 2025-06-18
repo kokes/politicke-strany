@@ -1,0 +1,29 @@
+{
+  "nazev": "PLUS",
+  "zkratka": "PLUS",
+  "sidlo": "130 00 Praha, Seifertova 455/17",
+  "den_registrace": "2016-11-30",
+  "cislo_registrace": "MV-153951-2/VS-2016",
+  "identifikacni_cislo": "05598966",
+  "statutarni_organ": "Představenstvo, za které jednají samostatně předseda a místopředseda.",
+  "osoby": [
+    {
+      "role": "předseda",
+      "jmeno": "PhDr. Jindřich  Kadlec",
+      "datum_narozeni": "1957-12-03",
+      "adresa": "Vondroušova 1161/2, 163 00 Praha"
+    },
+    {
+      "role": "místopředseda",
+      "jmeno": "Jiří Masopust",
+      "datum_narozeni": "1970-04-27",
+      "adresa": "Vondroušova 1217/32, 163 00 Praha"
+    },
+    {
+      "role": "členka",
+      "jmeno": "MUDr. Markéta Pekárková",
+      "datum_narozeni": "1963-01-24",
+      "adresa": "Socháňova 1134/5, 163 00 Praha"
+    }
+  ]
+}

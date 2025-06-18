@@ -1,0 +1,29 @@
+{
+  "nazev": "Žít Brno",
+  "zkratka": "ŽTB",
+  "sidlo": "602 00 Brno, Trýbova 961/8",
+  "den_registrace": "2014-06-25",
+  "cislo_registrace": "MV-62081-6/VS-2014",
+  "identifikacni_cislo": "03136922",
+  "statutarni_organ": "Předsednictvo, za které jednají členové samostatně..",
+  "osoby": [
+    {
+      "role": "předseda",
+      "jmeno": "Petr Kalousek",
+      "datum_narozeni": "1980-04-12",
+      "adresa": "Tučkova 981/20, 602 00 Brno"
+    },
+    {
+      "role": "1. místopředseda",
+      "jmeno": "Michal Sadílek",
+      "datum_narozeni": "1981-08-27",
+      "adresa": "Ondráčkova 558/205, 628 00 Brno"
+    },
+    {
+      "role": "2. místopředseda",
+      "jmeno": "Radim Horák",
+      "datum_narozeni": "1981-07-20",
+      "adresa": "Kamenná čtvrť 570/6a, 639 00 Brno"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "nazev": "Karviňáci s Adámkem",
+  "zkratka": "Karviňáci",
+  "sidlo": "734 01 Karviná, Kirovova 2309/1",
+  "den_registrace": "2014-07-14",
+  "cislo_registrace": "MV-82138-4/VS-2014",
+  "identifikacni_cislo": "03194540",
+  "statutarni_organ": "Předseda a jednatel, kdy předseda může zavazovat samostatně hnutí do výše 100 000,- Kč, jednatel může zavazovat samostatně hnutí do výše 50 000,- Kč, v ostatních případěch jednají společně.",
+  "osoby": [
+    {
+      "role": "předsedkyně",
+      "jmeno": "Ing. Věra Vantuchová",
+      "datum_narozeni": "1954-01-25",
+      "adresa": "Studentská 941/10, 734 01 Karviná"
+    },
+    {
+      "role": "místopředsedkyně",
+      "jmeno": "Marta Siudová",
+      "datum_narozeni": "1960-10-17",
+      "adresa": "Kirovova 2309/1, 734 01 Karviná"
+    }
+  ]
+}

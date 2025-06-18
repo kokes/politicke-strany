@@ -1,0 +1,23 @@
+{
+  "nazev": "ÚSTECKÉ FÓRUM OBČANŮ",
+  "zkratka": "UFO",
+  "sidlo": "400 01 Ústí nad Labem, Rembrandtova 382/6",
+  "den_registrace": "2014-03-19",
+  "cislo_registrace": "MV-23318-4/VS-2014",
+  "identifikacni_cislo": "02790840",
+  "statutarni_organ": "Předseda a místopředseda, kteří jednají samostatně.",
+  "osoby": [
+    {
+      "role": "předseda",
+      "jmeno": "MUDr. Jiří Madar",
+      "datum_narozeni": "1958-12-26",
+      "adresa": "Hynaisova 752/26, 400 01 Ústí nad Labem"
+    },
+    {
+      "role": "místopředseda",
+      "jmeno": "Bc. Martin Prachař",
+      "datum_narozeni": "1974-10-25",
+      "adresa": "Březová 1625/41, 400 03 Ústí nad Labem"
+    }
+  ]
+}

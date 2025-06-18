@@ -1,0 +1,23 @@
+{
+  "nazev": "Občané za spokojené bydlení",
+  "zkratka": "OSB",
+  "sidlo": "120 00 Praha, Blanická 1787/22",
+  "den_registrace": "2017-05-19",
+  "cislo_registrace": "MV-59313-4/VS-2017",
+  "identifikacni_cislo": "06118658",
+  "statutarni_organ": "Předseda a místopředseda, každý jedná za hnutí samostatně.",
+  "osoby": [
+    {
+      "role": "předseda",
+      "jmeno": "Ing. Zdeněk Michl",
+      "datum_narozeni": "1979-09-08",
+      "adresa": "Dittrichova 328/19, 120 00 Praha"
+    },
+    {
+      "role": "místopředseda",
+      "jmeno": "Ing. Martin Jírovec",
+      "datum_narozeni": "1968-12-17",
+      "adresa": "Na Libušince 128/1, 128 00 Praha"
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "nazev": "Podpora občanů",
+  "zkratka": "Podpora",
+  "sidlo": "250 01 Brandýs nad Labem, V olšinkách  1734",
+  "den_registrace": "2014-07-03",
+  "cislo_registrace": "MV-79530-4/VS-2014",
+  "identifikacni_cislo": "03170624",
+  "statutarni_organ": "Předsednictvo, za které jedná samostatně předseda nebo 1. místopředseda.",
+  "osoby": [
+    {
+      "role": "předsedkyně",
+      "jmeno": "Miluše Zahrádková",
+      "datum_narozeni": "1969-05-05",
+      "adresa": "Na dolíku 1457, 250 01 Brandýs nad Labem-Stará Boleslav"
+    },
+    {
+      "role": "1. místopředseda",
+      "jmeno": "Ing. Vlastimil Picek",
+      "datum_narozeni": "1956-10-25",
+      "adresa": "V olšinkách 1734, 250 01 Brandýs nad Labem-Stará Boleslav"
+    },
+    {
+      "role": "místopředseda",
+      "jmeno": "Petr Krauskopf",
+      "datum_narozeni": "1982-07-09",
+      "adresa": "Benátecká 1479, 250 01 Brandýs nad Labem-Stará Boleslav"
+    },
+    {
+      "role": "člen",
+      "jmeno": "Tomáš Rejzl",
+      "datum_narozeni": "1972-03-24",
+      "adresa": "Antonína Bečváře 1969, 250 01 Brandýs nad Labem-Stará Boleslav"
+    },
+    {
+      "role": "člen",
+      "jmeno": "Ing. Jiří  Vojta",
+      "datum_narozeni": "1950-07-23",
+      "adresa": "Na vinici 1733, 250 01 Brandýs nad Labem-Stará Boleslav"
+    },
+    {
+      "role": "člen",
+      "jmeno": "Tomáš Picek",
+      "datum_narozeni": "1980-01-28",
+      "adresa": "Generála Sedláčka 1851, 250 01 Brandýs nad Labem-Stará Boleslav"
+    },
+    {
+      "role": "člen",
+      "jmeno": "Ing. Michal Žižák",
+      "datum_narozeni": "1967-08-21",
+      "adresa": "Opočenská 1678, 250 01 Brandýs nad Labem-Stará Boleslav"
+    }
+  ]
+}

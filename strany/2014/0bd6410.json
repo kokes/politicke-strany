@@ -1,0 +1,34 @@
+{
+  "nazev": "Karlovaráci",
+  "zkratka": "KVC",
+  "sidlo": "360 06 Karlovy Vary, Chebská 355/49",
+  "den_registrace": "2014-06-30",
+  "cislo_registrace": "MV-77440-4/VS-2014",
+  "identifikacni_cislo": "03152952",
+  "statutarni_organ": "Předsednictvo, za které jedná předseda nebo místopředseda, a to každý samostatně.",
+  "osoby": [
+    {
+      "role": "předseda",
+      "jmeno": "Miroslav Vaněk",
+      "datum_narozeni": "1966-09-16",
+      "adresa": "Chebská 248/29, 360 06 Karlovy Vary"
+    },
+    {
+      "role": "místopředsedkyně",
+      "jmeno": "JUDr. Hana Zakreničná",
+      "adresa": "Kvapilova 344/30, 360 01 Karlovy Vary"
+    },
+    {
+      "role": "člen",
+      "jmeno": "Jakub Žikeš",
+      "datum_narozeni": "1976-09-12",
+      "adresa": "Pod Strání 159/1, 362 63 Dalovice"
+    },
+    {
+      "role": "člen",
+      "jmeno": "Josef Kopfstein",
+      "datum_narozeni": "1947-02-08",
+      "adresa": "Jana Opletala 807/5, 360 10 Karlovy Vary"
+    }
+  ]
+}

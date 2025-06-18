@@ -1,0 +1,23 @@
+{
+  "nazev": "Pro regiony občanům",
+  "zkratka": "Hnutí PROČ",
+  "sidlo": "436 01 Litvínov, Rooseveltova 2148",
+  "den_registrace": "2014-07-31",
+  "cislo_registrace": "MV-97625-4/VS-2014",
+  "identifikacni_cislo": "03254704",
+  "statutarni_organ": "Předseda a pokladník, kteří jednají samostatně, ve věcech majetkových jednají oba vždy společně.",
+  "osoby": [
+    {
+      "role": "předseda",
+      "jmeno": "Miroslav Beránek",
+      "datum_narozeni": "1965-09-07",
+      "adresa": "Podkrušnohorská 1661, 436 01 Litvínov"
+    },
+    {
+      "role": "pokladník",
+      "jmeno": "Dušan Belák",
+      "datum_narozeni": "1958-05-18",
+      "adresa": "Chudeřínská 44, 436 03 Litvínov"
+    }
+  ]
+}

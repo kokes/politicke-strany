@@ -1,0 +1,46 @@
+{
+  "nazev": "SPOLEHNUTÍ - SPOLEČNÉ HNUTÍ ČESKOLIPANŮ",
+  "zkratka": "SPOLEHNUTÍ",
+  "sidlo": "470 01 Česká Lípa, Bratří Čapků 2870",
+  "den_registrace": "2014-07-22",
+  "cislo_registrace": "MV-93290-4/VS-2014",
+  "identifikacni_cislo": "03221199",
+  "statutarni_organ": "Předsednictvo, za které jedná samostatně předseda nebo výkonný místopředseda.",
+  "osoby": [
+    {
+      "role": "předseda",
+      "jmeno": "Jaroslav Turnhöfer",
+      "datum_narozeni": "1963-03-14",
+      "adresa": "Bratří Čapků 2870, 470 01 Česká Lípa"
+    },
+    {
+      "role": "výkonný místopředseda",
+      "jmeno": "",
+      "adresa": ""
+    },
+    {
+      "role": "člen",
+      "jmeno": "Mgr. Michal Rádl",
+      "datum_narozeni": "1980-12-08",
+      "adresa": "Slovenská 2409, 470 01 Česká Lípa"
+    },
+    {
+      "role": "člen",
+      "jmeno": "JUDr. Stanislav Cenek",
+      "datum_narozeni": "1962-12-15",
+      "adresa": "471 12 Volfartice 85"
+    },
+    {
+      "role": "člen",
+      "jmeno": "Jiří Šubrt",
+      "datum_narozeni": "1969-07-30",
+      "adresa": "Březová 3023, 470 01 Česká Lípa"
+    },
+    {
+      "role": "členka",
+      "jmeno": "Jiřina Mudrová",
+      "datum_narozeni": "1954-09-04",
+      "adresa": "Jiráskova 615/13, 470 01 Česká Lípa"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "nazev": "Alternativa pro Českou republiku 2017",
+  "zkratka": "APAČI 2017",
+  "sidlo": "180 00 Praha, Primátorská 296/38",
+  "den_registrace": "2014-07-29",
+  "cislo_registrace": "MV-99769-4/VS-2014",
+  "identifikacni_cislo": "03244750",
+  "statutarni_organ": "Předsednictvo, za které jedná samostatně předseda nebo výkonný místopředseda.",
+  "osoby": [
+    {
+      "role": "předseda",
+      "jmeno": "Richard Perman",
+      "datum_narozeni": "1955-11-20",
+      "adresa": "Lipová 26, 252 02 Jíloviště"
+    },
+    {
+      "role": "výkonný místopředseda",
+      "jmeno": "",
+      "adresa": ""
+    }
+  ]
+}

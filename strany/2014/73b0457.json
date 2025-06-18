@@ -1,0 +1,23 @@
+{
+  "nazev": "SMĚR - česká cesta",
+  "zkratka": "SMĚR - CS",
+  "sidlo": "468 22 Loužnice 64",
+  "den_registrace": "2014-07-09",
+  "cislo_registrace": "MV-90450-3/VS-2014",
+  "identifikacni_cislo": "03185010",
+  "statutarni_organ": "Předseda společně s výkonným tajemníkem.",
+  "osoby": [
+    {
+      "role": "předseda",
+      "jmeno": "Jan Vondrouš",
+      "datum_narozeni": "1978-04-07",
+      "adresa": "Alfonse Muchy 416/17, 412 01 Litoměřice"
+    },
+    {
+      "role": "výkonný tajemník",
+      "jmeno": "Martin Jakl",
+      "datum_narozeni": "1979-07-24",
+      "adresa": "Jilemnického 2216, 530 02 Pardubice"
+    }
+  ]
+}
