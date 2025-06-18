@@ -67,8 +67,7 @@ if __name__ == "__main__":
     mid = max(ids) if len(ids) > 0 else 0
     # inkrementalni zkouseni jen po kouskach, ale inicialni load
     # udelame velkej
-    # rng = 10 if mid > 0 else 200
-    rng = 10
+    rng = 10 if mid > 0 else 200
     # zkusime par novych IDs
     for j in range(1, rng):
         ids.append(mid + j)

@@ -1,7 +1,6 @@
 name: Scrape latest data
 
 on:
-  pull_request: # TODO: drop
   workflow_dispatch:
   schedule:
     - cron:  '0 4 * * *'
@@ -15,7 +14,7 @@ jobs:
     runs-on: ubuntu-latest
     container:
       image: python:3.13
-    timeout-minutes: 1 # TODO: extend
+    timeout-minutes: 5
     steps:
     - name: Check out this repo
       uses: actions/checkout@v4
