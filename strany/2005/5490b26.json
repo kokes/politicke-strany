@@ -1,0 +1,17 @@
+{
+  "nazev": "Hnutí pro Těšín",
+  "zkratka": "HpT",
+  "sidlo": "737 01 Český Těšín, Masarykovy sady 94/13",
+  "den_registrace": "2005-10-25",
+  "cislo_registrace": "VS-6819/SDR/1-2005",
+  "identifikacni_cislo": "27014193",
+  "statutarni_organ": "Předseda.",
+  "osoby": [
+    {
+      "role": "předseda",
+      "jmeno": "Ing. Lubomír Matěj",
+      "datum_narozeni": "1948-02-28",
+      "adresa": "Masarykovy sady 94/13, 737 01 Český Těšín"
+    }
+  ]
+}

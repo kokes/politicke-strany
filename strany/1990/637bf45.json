@@ -1,0 +1,41 @@
+{
+  "nazev": "Občanská demokratická aliance",
+  "zkratka": "ODA",
+  "sidlo": "140 00 Praha, U Společenské zahrady 319/6",
+  "den_registrace": "1990-03-05",
+  "cislo_registrace": "AVS/1-569/90",
+  "identifikacni_cislo": "00409731",
+  "statutarni_organ": "Politická rada, za kterou jedná předseda ODA nebo dva členové politické rady společně.",
+  "osoby": [
+    {
+      "role": "předseda",
+      "jmeno": "RNDr. Jiřina Nováková, CSc.",
+      "datum_narozeni": "1945-12-31",
+      "adresa": "Klánovická 591/1, 198 00 Praha"
+    },
+    {
+      "role": "místopředseda",
+      "jmeno": "Ing. Petr Bašík",
+      "datum_narozeni": "1957-06-10",
+      "adresa": "B. Němcové 867, 399 01 Milevsko"
+    },
+    {
+      "role": "místopředseda",
+      "jmeno": "Mário Jaromír Císař",
+      "datum_narozeni": "1953-02-02",
+      "adresa": "Táboritská 461/2, 130 00 Praha"
+    },
+    {
+      "role": "člen",
+      "jmeno": "JUDr. Jan  Herda",
+      "datum_narozeni": "1949-03-14",
+      "adresa": "V jezírkách 1544/14, 149 00 Praha"
+    },
+    {
+      "role": "člen",
+      "jmeno": "PhDr. Jakub Cháb",
+      "datum_narozeni": "1963-07-22",
+      "adresa": "Pospíšilova 1426/5, 130 00 Praha"
+    }
+  ]
+}

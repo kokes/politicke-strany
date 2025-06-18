@@ -1,0 +1,17 @@
+{
+  "nazev": "Svobodná občanská samospráva",
+  "zkratka": "SvOS",
+  "sidlo": "696 03 Dubňany, Hodonínská 314",
+  "den_registrace": "2004-06-22",
+  "cislo_registrace": "VS-4550/SDR/1-2004",
+  "identifikacni_cislo": "26668874",
+  "statutarni_organ": "Předsednictvo, za které jedná předseda.",
+  "osoby": [
+    {
+      "role": "předseda",
+      "jmeno": "František  Tříska",
+      "datum_narozeni": "1961-02-18",
+      "adresa": "Hodonínská 314, 696 03 Dubňany"
+    }
+  ]
+}

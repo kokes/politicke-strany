@@ -1,0 +1,17 @@
+{
+  "nazev": "Hnutí pro Havířov",
+  "zkratka": "HPH",
+  "sidlo": "736 01 Havířov, Opletalova 1218/8B",
+  "den_registrace": "1998-08-06",
+  "cislo_registrace": "VS/1-1/4436/98",
+  "identifikacni_cislo": "68321457",
+  "statutarni_organ": "Předseda.",
+  "osoby": [
+    {
+      "role": "předseda",
+      "jmeno": "Ivo Tarkowski",
+      "datum_narozeni": "1971-07-17",
+      "adresa": "Dělnická 1179/29, 736 01 Havířov"
+    }
+  ]
+}

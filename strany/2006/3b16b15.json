@@ -1,0 +1,47 @@
+{
+  "nazev": "Hnutí pro Prahu 11",
+  "zkratka": "HPP 11",
+  "sidlo": "149 00 Praha, Plickova 568/9",
+  "den_registrace": "2006-08-10",
+  "cislo_registrace": "VS-5823/SDR/1-2006",
+  "identifikacni_cislo": "27039145",
+  "statutarni_organ": "Výbor, za který jednají vždy společně minimálně dva členové výboru.",
+  "osoby": [
+    {
+      "role": "předsedkyně/členka výboru",
+      "jmeno": "PhDr. Šárka Zdeňková",
+      "datum_narozeni": "1978-03-06",
+      "adresa": "Koštířova 2285/4, 148 00 Praha"
+    },
+    {
+      "role": "člen výboru",
+      "jmeno": "Ing. Aleš Kulhánek",
+      "datum_narozeni": "1978-05-07",
+      "adresa": "Gregorova 2092/11, 148 00 Praha"
+    },
+    {
+      "role": "člen výboru",
+      "jmeno": "Martin Farmačka",
+      "datum_narozeni": "1974-04-22",
+      "adresa": "Plickova 568/9, 149 00 Praha"
+    },
+    {
+      "role": "člen výboru",
+      "jmeno": "Václav Tejkl",
+      "datum_narozeni": "1980-02-01",
+      "adresa": "Cyprichova 706/1, 149 00 Praha"
+    },
+    {
+      "role": "členka výboru",
+      "jmeno": "RNDr. Kateřina Zelenková",
+      "datum_narozeni": "1960-05-05",
+      "adresa": "Medkova 572/1, 149 00 Praha"
+    },
+    {
+      "role": "členka výboru",
+      "jmeno": "Mgr. Ivana Hovorková",
+      "datum_narozeni": "1986-05-08",
+      "adresa": "Jarníkova 1881/2, 148 00 Praha"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "nazev": "Česká pravice",
+  "zkratka": "ČP",
+  "sidlo": "128 00 Praha, Slavojova 579/9",
+  "den_registrace": "1994-01-07",
+  "cislo_registrace": "VS/1-2069/93",
+  "identifikacni_cislo": "60457333",
+  "statutarni_organ": "Předseda.",
+  "osoby": [
+    {
+      "role": "předseda",
+      "jmeno": "Ing. Michal Simkanič",
+      "datum_narozeni": "1960-10-01",
+      "adresa": "Kpt. Stránského 987/18, 198 00 Praha"
+    }
+  ]
+}

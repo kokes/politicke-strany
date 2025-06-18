@@ -1,0 +1,32 @@
+{
+  "nazev": "Strana podnikatelů, živnostníků a rolníků České republiky",
+  "zkratka": "SPŽRČR",
+  "sidlo": "120 00 Praha, Mikovcova 476/10",
+  "den_registrace": "1992-03-06",
+  "cislo_registrace": "VSC/1-294/92",
+  "identifikacni_cislo": "44991657",
+  "statutarni_organ": "Předseda, první místopředseda, výkonný místopředseda a generální sekretář.",
+  "osoby": [
+    {
+      "role": "předseda",
+      "jmeno": "Rudolf Baránek",
+      "datum_narozeni": "1950-10-08",
+      "adresa": "Osvobození 343/24, 691 41 Břeclav"
+    },
+    {
+      "role": "předseda strany",
+      "jmeno": "Jiří  Novák",
+      "adresa": "U páté baterie 779/4, 162 00 Praha"
+    },
+    {
+      "role": "první místopředseda",
+      "jmeno": "Ing. Rostislav Senjuk",
+      "adresa": "V Zápolí 435/24, 312 00 Plzeň"
+    },
+    {
+      "role": "výkonný místopředseda",
+      "jmeno": "Josef Veselý",
+      "adresa": "Rimavské Soboty 836, 280 02 Kolín"
+    }
+  ]
+}

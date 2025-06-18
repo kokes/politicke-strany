@@ -1,0 +1,23 @@
+{
+  "nazev": "Strana svobodných severu",
+  "zkratka": "SSS",
+  "sidlo": "460 06 Liberec, Zelené údolí 1038",
+  "den_registrace": "2000-08-25",
+  "cislo_registrace": "VS/1-1/4990/2000",
+  "identifikacni_cislo": "70867194",
+  "statutarni_organ": "Rada, za kterou jedná předseda nebo místopředseda.",
+  "osoby": [
+    {
+      "role": "předseda",
+      "jmeno": "Ing. Pavel  Zahradníček",
+      "datum_narozeni": "1953-07-07",
+      "adresa": "Zelené údolí 1038, 460 06 Liberec"
+    },
+    {
+      "role": "místopředseda",
+      "jmeno": "MUDr. Martin  Zítek",
+      "datum_narozeni": "1963-08-24",
+      "adresa": "U Sila 1201, 463 11 Liberec"
+    }
+  ]
+}

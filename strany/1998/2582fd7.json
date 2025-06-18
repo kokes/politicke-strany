@@ -1,0 +1,29 @@
+{
+  "nazev": "Sdružení pro sport a zdraví",
+  "zkratka": "SSZ",
+  "sidlo": "434 01 Most, U Stadionu 1563/2",
+  "den_registrace": "1998-09-01",
+  "cislo_registrace": "VS/1-1/4511/98",
+  "identifikacni_cislo": "68975201",
+  "statutarni_organ": "Sbor zástupců, za který jedná předseda.",
+  "osoby": [
+    {
+      "role": "předseda",
+      "jmeno": "Ing. Luděk Traxmandl",
+      "datum_narozeni": "1958-10-09",
+      "adresa": "Pod Resslem 1978/2, 434 01 Most"
+    },
+    {
+      "role": "místopředseda",
+      "jmeno": "Jaroslav Kozel",
+      "datum_narozeni": "1950-05-02",
+      "adresa": "Maxima Gorkého 1252/11, 434 01 Most"
+    },
+    {
+      "role": "manažer",
+      "jmeno": "František Uhlíř",
+      "datum_narozeni": "1939-01-05",
+      "adresa": "Konstantina Biebla 2374/7, 434 01 Most"
+    }
+  ]
+}

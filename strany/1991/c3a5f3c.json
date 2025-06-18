@@ -1,0 +1,17 @@
+{
+  "nazev": "Národně demokratická strana",
+  "zkratka": "NDS",
+  "sidlo": "141 00 Praha, Dunická 3143/4",
+  "den_registrace": "1991-03-04",
+  "cislo_registrace": "VS/1-681/91",
+  "identifikacni_cislo": "16193334",
+  "statutarni_organ": "Předseda.",
+  "osoby": [
+    {
+      "role": "předseda",
+      "jmeno": "Pavel Pražský",
+      "datum_narozeni": "1960-10-23",
+      "adresa": "Sídliště I 17, 251 68 Kamenice"
+    }
+  ]
+}

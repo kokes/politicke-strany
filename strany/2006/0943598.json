@@ -1,0 +1,17 @@
+{
+  "nazev": "ZVON",
+  "zkratka": "PHZ",
+  "sidlo": "293 01 Mladá Boleslav, Staroměstské náměstí 25/13",
+  "den_registrace": "2006-08-08",
+  "cislo_registrace": "VS-5424/SDR/1-2006",
+  "identifikacni_cislo": "27040178",
+  "statutarni_organ": "Předseda.",
+  "osoby": [
+    {
+      "role": "předseda",
+      "jmeno": "Luboš Dvořák",
+      "datum_narozeni": "1964-06-19",
+      "adresa": "tř. Václava Klementa 804, 293 01 Mladá Boleslav"
+    }
+  ]
+}

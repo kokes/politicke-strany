@@ -1,0 +1,35 @@
+{
+  "nazev": "Demokratická regionální strana",
+  "zkratka": "DRS",
+  "sidlo": "460 01 Liberec , Štefánikovo nám.  780/5",
+  "den_registrace": "1998-06-23",
+  "cislo_registrace": "VS/1-1/3602/1998/r",
+  "identifikacni_cislo": "68435631",
+  "statutarni_organ": "Regionální politické vedení, za které jedná předseda nebo dva jeho členové společně.",
+  "osoby": [
+    {
+      "role": "předseda",
+      "jmeno": "Otto Gudas",
+      "datum_narozeni": "1962-10-04",
+      "adresa": "Maškova 90, 463 12 Liberec"
+    },
+    {
+      "role": "místopředseda",
+      "jmeno": "Alena Kovačičová",
+      "datum_narozeni": "1954-07-27",
+      "adresa": "Hrdinů 121/7, 460 01 Liberec"
+    },
+    {
+      "role": "člen RPV",
+      "jmeno": "Radek Haltuf",
+      "datum_narozeni": "1971-05-18",
+      "adresa": "468 71 Lučany nad Nisou 735"
+    },
+    {
+      "role": "člen RPV",
+      "jmeno": "Jaroslav Pavlas",
+      "datum_narozeni": "1957-01-09",
+      "adresa": "Okálová 1040, 463 11 Liberec"
+    }
+  ]
+}

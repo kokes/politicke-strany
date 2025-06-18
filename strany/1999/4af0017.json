@@ -1,0 +1,29 @@
+{
+  "nazev": "LEPŠÍ ŽIVOT PRO LIDI – zrušení daně z nemovitostí, min. mzda 50.000 Kč, min. důchod 30.000 Kč, návrat cen energií na ceny z roku 2019, v obchodech zboží nejvyšší kvality za ceny dostupné pro každého, STOP válce",
+  "zkratka": "LŽPL",
+  "sidlo": "110 00 Praha, Kaprova 42/14",
+  "den_registrace": "1999-03-22",
+  "cislo_registrace": "VS/1-1/4958/98/r",
+  "identifikacni_cislo": "69347565",
+  "statutarni_organ": "Předsednictvo, za které jedná předseda nebo místopředseda.",
+  "osoby": [
+    {
+      "role": "předseda",
+      "jmeno": "Pavel May",
+      "datum_narozeni": "1962-12-17",
+      "adresa": "Přívozní 1600/2B, 170 00 Praha"
+    },
+    {
+      "role": "místopředseda",
+      "jmeno": "Alan Černohous",
+      "datum_narozeni": "1967-05-02",
+      "adresa": "Horní náměstí 583, 779 00 Olomouc"
+    },
+    {
+      "role": "člen předsednictva",
+      "jmeno": "Pavel Křivka",
+      "datum_narozeni": "1960-06-12",
+      "adresa": "Pod Lipami 711, 530 03 Pardubice"
+    }
+  ]
+}

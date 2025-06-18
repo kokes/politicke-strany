@@ -1,0 +1,191 @@
+{
+  "nazev": "Unie svobody - Demokratická unie",
+  "zkratka": "US-DEU",
+  "sidlo": "120 00 Praha, Rumunská 1798/1",
+  "den_registrace": "1998-01-22",
+  "cislo_registrace": "OVS/1-355/419/98/r",
+  "identifikacni_cislo": "67777708",
+  "statutarni_organ": "Republikový výbor, za který jednají vždy společně dva jeho členové, z nichž alespoň jeden je předsedou nebo místopředsedou.",
+  "osoby": [
+    {
+      "role": "předseda",
+      "jmeno": "MVDr. Jan Černý",
+      "datum_narozeni": "1959-04-23",
+      "adresa": "Kutnohorská 440, 281 63 Kostelec nad Černými Lesy"
+    },
+    {
+      "role": "1. místopředseda",
+      "jmeno": "Mgr. Martin  Píša",
+      "datum_narozeni": "1971-04-24",
+      "adresa": "Na dolinách 599/14, 147 00 Praha"
+    },
+    {
+      "role": "místopředsedkyně",
+      "jmeno": "Mgr. Lenka Černá",
+      "datum_narozeni": "1973-09-27",
+      "adresa": "Palachova 709/13, 400 01 Ústí nad Labem"
+    },
+    {
+      "role": "místopředseda",
+      "jmeno": "Ing. Ondřej Veselý",
+      "datum_narozeni": "1972-09-26",
+      "adresa": "Slovenská 1196/38, 747 06 Opava"
+    },
+    {
+      "role": "místopředseda",
+      "jmeno": "Ing. Petr Forman",
+      "datum_narozeni": "1948-01-01",
+      "adresa": "Ječná 547/15, 120 00 Praha"
+    },
+    {
+      "role": "místopředseda",
+      "jmeno": "Ing. Radomil  Mrklas",
+      "datum_narozeni": "1960-11-06",
+      "adresa": "Broumovská 964/32, 460 06 Liberec"
+    },
+    {
+      "role": "místopředseda",
+      "jmeno": "František Vaněček",
+      "datum_narozeni": "1962-09-15",
+      "adresa": "Litoměřická 987/7, 400 03 Ústí nad Labem"
+    },
+    {
+      "role": "člen VR",
+      "jmeno": "Ing. Ivan Dort",
+      "datum_narozeni": "1947-04-01",
+      "adresa": "763 01 Hostišová 49"
+    },
+    {
+      "role": "člen VR",
+      "jmeno": "Iva Mazíková",
+      "datum_narozeni": "1939-09-12",
+      "adresa": "Fibichova 1593/19, 735 06 Karviná"
+    },
+    {
+      "role": "člen VR",
+      "jmeno": "Ing. Miroslav Zábranský",
+      "datum_narozeni": "1971-02-03",
+      "adresa": "Mezi Silnicemi 128/33, 326 00 Plzeň"
+    },
+    {
+      "role": "člen VR",
+      "jmeno": "MUDr. Karola Haasová",
+      "datum_narozeni": "1964-07-17",
+      "adresa": "Ženíškova 2172/3, 400 11 Ústí nad Labem"
+    },
+    {
+      "role": "člen VR",
+      "jmeno": "Mgr. Tomáš  Jančařík",
+      "datum_narozeni": "1950-03-02",
+      "adresa": "Pod křížkem 1757/2A, 147 00 Praha"
+    },
+    {
+      "role": "člen RV",
+      "jmeno": "Michael  Jankovič",
+      "datum_narozeni": "1949-02-12",
+      "adresa": "Malecí 852, 549 01 Nové Město nad Metují"
+    },
+    {
+      "role": "člen RV",
+      "jmeno": "Mgr. Tomáš Kopecký",
+      "datum_narozeni": "1965-02-18",
+      "adresa": "Na Větrníku 1295, 537 05 Chrudim"
+    },
+    {
+      "role": "člen RV",
+      "jmeno": "Ing. Vladimír Koutský",
+      "datum_narozeni": "1942-12-02",
+      "adresa": "Erbenovo nábřeží 3929/2, 767 01 Kroměříž"
+    },
+    {
+      "role": "člen RV",
+      "jmeno": "Ivan Kunetka",
+      "datum_narozeni": "1961-09-22",
+      "adresa": "U Lip 377, 511 01 Turnov"
+    },
+    {
+      "role": "člen RV",
+      "jmeno": "Ing. Jan Mega",
+      "datum_narozeni": "1953-01-24",
+      "adresa": "Tyršova 443, 664 42 Modřice"
+    },
+    {
+      "role": "člen RV",
+      "jmeno": "Ing. Libor Picka",
+      "datum_narozeni": "1964-04-18",
+      "adresa": "345 25 Bělá nad Radbuzou 30"
+    },
+    {
+      "role": "člen RV",
+      "jmeno": "Václav  Šíma",
+      "datum_narozeni": "1955-05-31",
+      "adresa": "F. X. Šaldy 96/19, 360 04 Karlovy Vary"
+    },
+    {
+      "role": "člen RV",
+      "jmeno": "Martin  Bohdálek",
+      "datum_narozeni": "1971-02-22",
+      "adresa": "588 13 Polná 22"
+    },
+    {
+      "role": "člen RV",
+      "jmeno": "Jiří Miroslav Knedlík",
+      "datum_narozeni": "1949-07-21",
+      "adresa": "Baarova 2812/9, 352 01 Aš"
+    },
+    {
+      "role": "člen RV",
+      "jmeno": "Jiří  Tomek",
+      "datum_narozeni": "1948-04-17",
+      "adresa": "691 24 Přibice  7"
+    },
+    {
+      "role": "člen RV",
+      "jmeno": "Oldřich Ballák",
+      "datum_narozeni": "1938-06-19",
+      "adresa": "Marie Majerové 40/33, 783 36 Křelov-Břuchotín"
+    },
+    {
+      "role": "člen RV",
+      "jmeno": "Ing. Jaromír Barák",
+      "datum_narozeni": "1957-12-09",
+      "adresa": "Na Kopcích 383, 674 01 Třebíč"
+    },
+    {
+      "role": "člen RV",
+      "jmeno": "PharmDr. Radovan Haluza",
+      "datum_narozeni": "1961-06-15",
+      "adresa": "Durychova 1390/8, 500 12 Hradec Králové"
+    },
+    {
+      "role": "člen RV",
+      "jmeno": "Ing. Luboš Matek",
+      "datum_narozeni": "1965-12-10",
+      "adresa": "Jiráskova 1480, 413 01 Roudnice nad Labem"
+    },
+    {
+      "role": "člen RV",
+      "jmeno": "Bc. Martin  Vysoudil",
+      "datum_narozeni": "1982-01-27",
+      "adresa": "Husova 887/9, 779 00 Olomouc"
+    },
+    {
+      "role": "člen RV",
+      "jmeno": "Ing. Tomáš Trnobranský",
+      "datum_narozeni": "1954-12-02",
+      "adresa": "257 91 Sedlec-Prčice 32"
+    },
+    {
+      "role": "člen RV",
+      "jmeno": "Zdeněk Renc",
+      "datum_narozeni": "1947-04-23",
+      "adresa": "Keramiků 2618, 269 01 Rakovník"
+    },
+    {
+      "role": "člen RV",
+      "jmeno": "Mgr. Zuzana Peterová",
+      "datum_narozeni": "1970-11-22",
+      "adresa": "Štefánikova 5, 150 00 Praha 5 - Smíchov"
+    }
+  ]
+}

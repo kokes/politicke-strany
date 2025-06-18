@@ -1,0 +1,41 @@
+{
+  "nazev": "Levice",
+  "zkratka": "Levice",
+  "sidlo": "106 00 Praha, Žirovnická 3133/6",
+  "den_registrace": "1993-08-18",
+  "cislo_registrace": "VS/1-1447/93",
+  "identifikacni_cislo": "49628089",
+  "statutarni_organ": "Předsednictvo, za které jednají současně dva členové.",
+  "osoby": [
+    {
+      "role": "člen",
+      "jmeno": "Vladimír Farana",
+      "datum_narozeni": "1953-05-26",
+      "adresa": "Na Nábřeží 715/103, 736 01 Havířov"
+    },
+    {
+      "role": "člen",
+      "jmeno": "Jakub Višňák",
+      "datum_narozeni": "1984-12-30",
+      "adresa": "Slunečná 214, 251 64 Struhařov"
+    },
+    {
+      "role": "člen",
+      "jmeno": "František Otta",
+      "datum_narozeni": "1999-04-19",
+      "adresa": "Pionýrů 682, 783 91 Uničov"
+    },
+    {
+      "role": "členka",
+      "jmeno": "Romana Howe",
+      "datum_narozeni": "1970-01-12",
+      "adresa": "Dr. E. Beneše 557, 278 01 Kralupy nad Vltavou"
+    },
+    {
+      "role": "členka",
+      "jmeno": "Markéta Juřicová",
+      "datum_narozeni": "2000-09-10",
+      "adresa": "V domově 1675/20, 130 00 Praha"
+    }
+  ]
+}

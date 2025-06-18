@@ -1,0 +1,41 @@
+{
+  "nazev": "Zlínské hnutí nezávislých",
+  "zkratka": "ZHN",
+  "sidlo": "760 01 Zlín, Benešovo nábřeží 3686",
+  "den_registrace": "1998-05-21",
+  "cislo_registrace": "VS/1-1/1826/98",
+  "identifikacni_cislo": "68684011",
+  "statutarni_organ": "Představenstvo, za které jednají předseda a místopředseda, z nichž každý jedná samostatně.",
+  "osoby": [
+    {
+      "role": "předseda představenstva",
+      "jmeno": "Ing. arch. František Petr",
+      "datum_narozeni": "1947-05-11",
+      "adresa": "Benešovo nábřeží 3686, 760 01 Zlín"
+    },
+    {
+      "role": "místopředseda představenstva",
+      "jmeno": "Ludvík Pavlištík",
+      "datum_narozeni": "1947-05-31",
+      "adresa": "třída Tomáše Bati 1285, 760 01 Zlín"
+    },
+    {
+      "role": "člen",
+      "jmeno": "Mgr. Kateřina  Francová",
+      "datum_narozeni": "1977-11-21",
+      "adresa": "Novosady 1328, 769 01 Holešov"
+    },
+    {
+      "role": "člen",
+      "jmeno": "Karel Markytán",
+      "datum_narozeni": "1954-08-17",
+      "adresa": "Za Školou 170, 760 01 Zlín"
+    },
+    {
+      "role": "člen",
+      "jmeno": "Jaromír Šebík",
+      "datum_narozeni": "1952-01-23",
+      "adresa": "Jílová 4571, 760 05 Zlín"
+    }
+  ]
+}

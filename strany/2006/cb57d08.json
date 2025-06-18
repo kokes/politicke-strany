@@ -1,0 +1,29 @@
+{
+  "nazev": "SEMILÁCI",
+  "zkratka": "PSS",
+  "sidlo": "513 01 Semily, Riegrovo náměstí 16",
+  "den_registrace": "2006-07-25",
+  "cislo_registrace": "VS-5074/SDR/1-2006",
+  "identifikacni_cislo": "27038131",
+  "statutarni_organ": "Výkonná rada, za kterou jedná a podepisuje předseda nebo výkonnou radou pověřený člen.",
+  "osoby": [
+    {
+      "role": "předseda",
+      "jmeno": "Bc. Adam Kuršel",
+      "datum_narozeni": "1997-11-28",
+      "adresa": "Josefa Hory 21, 513 01 Semily"
+    },
+    {
+      "role": "člen",
+      "jmeno": "Ing. Sebastian Kuršel",
+      "datum_narozeni": "1994-02-25",
+      "adresa": "Ostrov 24, 513 01 Semily"
+    },
+    {
+      "role": "členka",
+      "jmeno": "MDDr. Anežka Buriánková",
+      "datum_narozeni": "1994-12-30",
+      "adresa": "Ivana Olbrachta 668, 513 01 Semily"
+    }
+  ]
+}

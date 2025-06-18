@@ -1,0 +1,17 @@
+{
+  "nazev": "Strana pro otevřenou společnost",
+  "zkratka": "SOS",
+  "sidlo": "737 01 Český Těšín, Nádražní 16/10",
+  "den_registrace": "1998-02-23",
+  "cislo_registrace": "II/s-OVS/1-896/1998",
+  "identifikacni_cislo": "68346859",
+  "statutarni_organ": "Předseda.",
+  "osoby": [
+    {
+      "role": "předseda",
+      "jmeno": "Marian Kuś",
+      "datum_narozeni": "1963-02-20",
+      "adresa": "Krakovská 1363/12, 110 00 Praha"
+    }
+  ]
+}

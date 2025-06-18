@@ -1,0 +1,28 @@
+{
+  "nazev": "Starostové a osobnosti pro Moravu",
+  "zkratka": "SOM",
+  "sidlo": "602 00 Brno, Střední 396/12",
+  "den_registrace": "2004-02-09",
+  "cislo_registrace": "VS-9837/SDR/1-2003",
+  "identifikacni_cislo": "26652242",
+  "statutarni_organ": "Předsednictvo, za které jedná předseda nebo dva místopředsedové společně.",
+  "osoby": [
+    {
+      "role": "předseda",
+      "jmeno": "JUDr. Jan Kryčer",
+      "datum_narozeni": "1955-11-16",
+      "adresa": "Střední 396/12, 602 00 Brno"
+    },
+    {
+      "role": "první místopředsedkyně",
+      "jmeno": "",
+      "adresa": ""
+    },
+    {
+      "role": "místopředseda",
+      "jmeno": "MUDr. Ladislav Šamlot",
+      "datum_narozeni": "1958-05-03",
+      "adresa": "Vaculíkova 534/11, 638 00 Brno"
+    }
+  ]
+}

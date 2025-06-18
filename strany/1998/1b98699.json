@@ -1,0 +1,29 @@
+{
+  "nazev": "Volba pro město",
+  "zkratka": "VPM",
+  "sidlo": "500 03 Hradec Králové, Severní 760/42",
+  "den_registrace": "1998-06-07",
+  "cislo_registrace": "VS/1-1/4420/4551/98",
+  "identifikacni_cislo": "68210396",
+  "statutarni_organ": "Výbor, za který jedná a podepisuje předseda.",
+  "osoby": [
+    {
+      "role": "předseda",
+      "jmeno": "Mgr. Miroslav Půža, Ph.D.",
+      "datum_narozeni": "1979-05-07",
+      "adresa": "Severní 760/42, 500 03 Hradec Králové"
+    },
+    {
+      "role": "člen výboru",
+      "jmeno": "JUDr. Jiří Všetečka",
+      "datum_narozeni": "1963-03-10",
+      "adresa": "Velké náměstí 148/11, 500 03 Hradec Králové"
+    },
+    {
+      "role": "členka výboru",
+      "jmeno": "JUDr. Milena  Dušková",
+      "datum_narozeni": "1959-09-27",
+      "adresa": "Družstevní 1291, 543 01 Vrchlabí"
+    }
+  ]
+}

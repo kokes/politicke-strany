@@ -1,0 +1,47 @@
+{
+  "nazev": "Občanské demokratické hnutí",
+  "zkratka": "ODH",
+  "sidlo": "407 47 Varnsdorf, Národní  1133",
+  "den_registrace": "2004-11-03",
+  "cislo_registrace": "VS-9017/SDR/1-2003",
+  "identifikacni_cislo": "26679850",
+  "statutarni_organ": "Výkonná rada, za kterou jedná předseda nebo 1. místopředseda.",
+  "osoby": [
+    {
+      "role": "předseda",
+      "jmeno": "Ladislav Houžvička",
+      "datum_narozeni": "1975-02-23",
+      "adresa": "Karlova 2643, 407 47 Varnsdorf"
+    },
+    {
+      "role": "1. místopředseda",
+      "jmeno": "Petr Heinrich",
+      "datum_narozeni": "1963-09-14",
+      "adresa": "Lidická 1062, 407 47 Varnsdorf"
+    },
+    {
+      "role": "místopředseda",
+      "jmeno": "Kateřina Teichmannová",
+      "datum_narozeni": "1978-01-02",
+      "adresa": "Plzeňská 1632, 407 47 Varnsdorf"
+    },
+    {
+      "role": "člen VR",
+      "jmeno": "Zdeněk Janoušek",
+      "datum_narozeni": "1969-05-23",
+      "adresa": "Čelakovická 1199, 407 47 Varnsdorf"
+    },
+    {
+      "role": "člen VR",
+      "jmeno": "František Kabát",
+      "datum_narozeni": "1975-02-06",
+      "adresa": "Truhlářská 1479, 407 47 Varnsdorf"
+    },
+    {
+      "role": "člen VR",
+      "jmeno": "Jan Teichmann",
+      "datum_narozeni": "1975-03-04",
+      "adresa": "Plzeňská 1632, 407 47 Varnsdorf"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "nazev": "ROZUMNÍ",
+  "zkratka": "Rozumní",
+  "sidlo": "118 00 Praha, Nerudova 253/11",
+  "den_registrace": "2002-03-05",
+  "cislo_registrace": "VS-756/SDR/2002",
+  "identifikacni_cislo": "26585979",
+  "statutarni_organ": "Předseda a první místopředseda strany, kteří jednají každý samostatně.",
+  "osoby": [
+    {
+      "role": "předseda",
+      "jmeno": "Mgr. Petr Hannig",
+      "datum_narozeni": "1946-01-20",
+      "adresa": "Na lhotech 732/1, 148 00 Praha"
+    },
+    {
+      "role": "1.místopředsedkyně",
+      "jmeno": "Silvia Weiszová",
+      "datum_narozeni": "1967-07-05",
+      "adresa": "Na lhotech 732/1, 148 00 Praha"
+    }
+  ]
+}

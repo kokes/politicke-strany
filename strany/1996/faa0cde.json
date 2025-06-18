@@ -1,0 +1,17 @@
+{
+  "nazev": "Strana venkova - spojené občanské síly",
+  "zkratka": "SV SOS",
+  "sidlo": "106 00 Praha, Práčská 1881/14",
+  "den_registrace": "1996-10-02",
+  "cislo_registrace": "II/s-OS/3939/96",
+  "identifikacni_cislo": "65992105",
+  "statutarni_organ": "Předsednictvo, za které jedná předseda.",
+  "osoby": [
+    {
+      "role": "předseda",
+      "jmeno": "Ing. Marie Poláchová",
+      "datum_narozeni": "1949-01-17",
+      "adresa": "Hlavní 176, 687 25 Hluk"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "nazev": "Aktiv nezávislých občanů",
+  "zkratka": "ANEO",
+  "sidlo": "614 00 Brno, Vranovská 217/19",
+  "den_registrace": "2001-01-04",
+  "cislo_registrace": "VS/1-1/5889/2000",
+  "identifikacni_cislo": "26517400",
+  "statutarni_organ": "Výkonná rada, za kterou jedná předseda nebo 2 členové výkonné rady.",
+  "osoby": [
+    {
+      "role": "předseda",
+      "jmeno": "Ing. Karol Schneider",
+      "datum_narozeni": "1936-01-20",
+      "adresa": "Nedbalova 482/21, 623 00 Brno"
+    },
+    {
+      "role": "člen",
+      "jmeno": "Ing. arch. Ludmila Kramolišová",
+      "datum_narozeni": "1947-07-10",
+      "adresa": "Černopolní 231/39, 613 00 Brno"
+    },
+    {
+      "role": "člen",
+      "jmeno": "Karel  Mauer",
+      "datum_narozeni": "1936-12-13",
+      "adresa": "Slámova 1095/37, 618 00 Brno"
+    }
+  ]
+}

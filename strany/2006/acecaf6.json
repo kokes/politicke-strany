@@ -1,0 +1,29 @@
+{
+  "nazev": "Strana občanské sebeobrany",
+  "zkratka": "S.O.S. PRAHA",
+  "sidlo": "118 00 Praha , Loretánské náměstí 108/2",
+  "den_registrace": "2006-01-17",
+  "cislo_registrace": "VS-85/SDR/1-2006",
+  "identifikacni_cislo": "27018661",
+  "statutarni_organ": "Vedení strany, za které jedná předseda.",
+  "osoby": [
+    {
+      "role": "předseda",
+      "jmeno": "Ing. Bohumil  Vejtasa",
+      "datum_narozeni": "1950-02-26",
+      "adresa": "Loretánské náměstí 108/2, 118 00 Praha"
+    },
+    {
+      "role": "místopředseda",
+      "jmeno": "PaedDr. Lubomír Mácha",
+      "datum_narozeni": "1956-06-02",
+      "adresa": "Verdunská 910/28, 160 00 Praha"
+    },
+    {
+      "role": "vedoucí regionu Praha",
+      "jmeno": "Jaroslava  Němcová",
+      "datum_narozeni": "1951-02-02",
+      "adresa": "Nerudova 240/33, 118 00 Praha"
+    }
+  ]
+}

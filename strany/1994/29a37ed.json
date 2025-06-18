@@ -1,0 +1,17 @@
+{
+  "nazev": "Národní demokracie",
+  "zkratka": "ND",
+  "sidlo": "272 01 Kladno, U tržnice 1979",
+  "den_registrace": "1994-03-02",
+  "cislo_registrace": "II/s-OS/1-7643/93",
+  "identifikacni_cislo": "69345473",
+  "statutarni_organ": "Jménem strany jedná předseda.",
+  "osoby": [
+    {
+      "role": "předseda",
+      "jmeno": "RNDr. Jan Sedláček",
+      "datum_narozeni": "1995-04-16",
+      "adresa": "Josefa Růžičky 352, 337 01 Rokycany"
+    }
+  ]
+}

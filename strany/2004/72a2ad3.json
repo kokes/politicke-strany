@@ -1,0 +1,29 @@
+{
+  "nazev": "Folklor i Společnost",
+  "zkratka": "FiS",
+  "sidlo": "637 00 Brno, Pivoňkova 530/11",
+  "den_registrace": "2004-12-30",
+  "cislo_registrace": "VS-8954/SDR/1-2004",
+  "identifikacni_cislo": "26986311",
+  "statutarni_organ": "Předsednictvo, za nějž jedná a podepisuje předseda nebo jím pověřený člen předsednictva.",
+  "osoby": [
+    {
+      "role": "předseda",
+      "jmeno": "Dr. Miroslav Lejsek",
+      "datum_narozeni": "1948-11-01",
+      "adresa": "Fanderlíkova 831/70, 616 00 Brno"
+    },
+    {
+      "role": "místopředseda",
+      "jmeno": "Ing. Luděk Pecho",
+      "datum_narozeni": "1956-03-07",
+      "adresa": "Ulrychova 848/8, 624 00 Brno"
+    },
+    {
+      "role": "člen předsednictva",
+      "jmeno": "Božena  Rosenbergová",
+      "datum_narozeni": "1949-05-17",
+      "adresa": "Pivoňkova 530/11, 637 00 Brno"
+    }
+  ]
+}

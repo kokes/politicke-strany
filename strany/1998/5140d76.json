@@ -1,0 +1,23 @@
+{
+  "nazev": "Unie pro sport a zdraví",
+  "zkratka": "USZ",
+  "sidlo": "460 01 Liberec, Jablonecká 88/18",
+  "den_registrace": "1998-09-03",
+  "cislo_registrace": "VS/1-1/4875/98",
+  "identifikacni_cislo": "68954263",
+  "statutarni_organ": "Předseda a místopředseda, kteří jednají samostatně.",
+  "osoby": [
+    {
+      "role": "předseda",
+      "jmeno": "Ing. Jiří  Veselka",
+      "datum_narozeni": "1958-12-28",
+      "adresa": "Ruprechtická 553/27, 460 01 Liberec"
+    },
+    {
+      "role": "místopředseda",
+      "jmeno": "Mirko Gräf",
+      "datum_narozeni": "1928-09-20",
+      "adresa": "Masarykova 628/21, 460 01 Liberec"
+    }
+  ]
+}

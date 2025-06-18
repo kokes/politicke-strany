@@ -1,0 +1,52 @@
+{
+  "nazev": "NEZÁVISLÍ",
+  "zkratka": "NEZ",
+  "sidlo": "709 00 Ostrava, Raisova 1066/6",
+  "den_registrace": "1994-09-08",
+  "cislo_registrace": "II/s-OS/1-881/94",
+  "identifikacni_cislo": "60458399",
+  "statutarni_organ": "Republiková rada - Za hnutí a Republikovou radu jedná navenek předseda hnutí, pověřený místopředseda nebo pověřený člen Republikové rady. Předsedu hnutí zastupuje pověřený místopředseda hnutí.",
+  "osoby": [
+    {
+      "role": "předseda",
+      "jmeno": "Mgr. Patrik Hujdus",
+      "datum_narozeni": "1977-04-03",
+      "adresa": "Pražákova 1098/11, 709 00 Ostrava"
+    },
+    {
+      "role": "místopředsedkyně",
+      "jmeno": "",
+      "adresa": ""
+    },
+    {
+      "role": "místopředseda",
+      "jmeno": "Bc. Martin Polášek",
+      "datum_narozeni": "1971-09-10",
+      "adresa": "Slezská 82/5, 735 42 Těrlicko"
+    },
+    {
+      "role": "člen RR",
+      "jmeno": "Mgr. Miroslav Chlubna",
+      "datum_narozeni": "1974-02-28",
+      "adresa": "Zátiší 178, 735 14 Orlová"
+    },
+    {
+      "role": "člen RR",
+      "jmeno": "Ing. Libor Gavlas",
+      "datum_narozeni": "1978-07-26",
+      "adresa": "Aloise Jiráska 1525/3, 736 01 Havířov"
+    },
+    {
+      "role": "člen RR",
+      "jmeno": "Jiří Lizák",
+      "datum_narozeni": "1968-08-16",
+      "adresa": "Dostálova 994/20, 713 00 Heřmanice"
+    },
+    {
+      "role": "člen RR",
+      "jmeno": "Ing. Karel Poukar",
+      "datum_narozeni": "1950-01-02",
+      "adresa": "Tupolevova 464, 199 00 Praha"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "nazev": "Iniciativa občanů",
+  "zkratka": "IO",
+  "sidlo": "110 00 Praha, Provaznická 400/9",
+  "den_registrace": "1994-08-25",
+  "cislo_registrace": "II/s-OS/1-754/94",
+  "identifikacni_cislo": "68403500",
+  "statutarni_organ": "Republikový výbor, za který jedná předseda s jedním členem výboru.",
+  "osoby": [
+    {
+      "role": "předseda",
+      "jmeno": "Mgr. Michal Vostřez",
+      "datum_narozeni": "1952-05-17",
+      "adresa": "Provaznická 400/9, 110 00 Praha"
+    },
+    {
+      "role": "místopředseda",
+      "jmeno": "Ing. Miroslava Svitáková",
+      "datum_narozeni": "1944-08-18",
+      "adresa": "Plzeňská 1270/99, 150 00 Praha"
+    },
+    {
+      "role": "místopředseda",
+      "jmeno": "Michal Caban",
+      "datum_narozeni": "1961-09-05",
+      "adresa": "Štěpánská 629/59, 110 00 Praha"
+    },
+    {
+      "role": "člen RV",
+      "jmeno": "MVDr. Alexander Bulský",
+      "datum_narozeni": "1936-07-07",
+      "adresa": "Ovčí hájek 2163/24, 158 00 Praha"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "nazev": "Sedma - strana pro Slatiňany, Škrovád, Trpišov, Kunčí, Presy, Podhůru a Kochánovice",
+  "zkratka": "Sedma",
+  "sidlo": "538 21 Slatiňany, Vítězství 387",
+  "den_registrace": "2006-03-20",
+  "cislo_registrace": "VS-9145/SDR/1-2005",
+  "identifikacni_cislo": "27026922",
+  "statutarni_organ": "předseda",
+  "osoby": [
+    {
+      "role": "předseda",
+      "jmeno": "Ing. Jan Picpauer",
+      "datum_narozeni": "1974-06-05",
+      "adresa": "538 21 Slatiňany 98"
+    }
+  ]
+}

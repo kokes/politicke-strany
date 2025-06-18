@@ -1,0 +1,17 @@
+{
+  "nazev": "Strana zdravotně postižených, důchodců a sociálně slabých občanů",
+  "zkratka": "SZP-DO",
+  "sidlo": "190 00 Praha 9, Tupolevova 465",
+  "den_registrace": "1992-02-11",
+  "cislo_registrace": "VS/1-239/92",
+  "identifikacni_cislo": "48136395",
+  "statutarni_organ": "Předseda.",
+  "osoby": [
+    {
+      "role": "předseda",
+      "jmeno": "Zdeněk Štěpánek",
+      "datum_narozeni": "1931-10-25",
+      "adresa": "Tupolevova 465, 199 00 Praha"
+    }
+  ]
+}

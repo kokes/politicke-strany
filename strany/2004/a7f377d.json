@@ -1,0 +1,23 @@
+{
+  "nazev": "Demokratická Unie České republiky",
+  "zkratka": "DEUČR",
+  "sidlo": "400 01 Ústí nad Labem, Všebořická 603/46",
+  "den_registrace": "2004-02-09",
+  "cislo_registrace": "VS-10482/SDR/1-2003",
+  "identifikacni_cislo": "26652161",
+  "statutarni_organ": "Republikové předsednictvo, za které jedná předseda strany.",
+  "osoby": [
+    {
+      "role": "předseda",
+      "jmeno": "Jan Dorant",
+      "datum_narozeni": "1947-12-03",
+      "adresa": "Na Stráni 614/3, 400 01 Ústí nad Labem"
+    },
+    {
+      "role": "místopředseda",
+      "jmeno": "MUDr. Petr Látal",
+      "datum_narozeni": "1949-07-04",
+      "adresa": "Gen. Svobody 661/7, 674 01 Třebíč"
+    }
+  ]
+}

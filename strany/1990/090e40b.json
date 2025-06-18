@@ -1,0 +1,53 @@
+{
+  "nazev": "Strana zelených",
+  "zkratka": "Zelení",
+  "sidlo": "181 00 Praha, Řešovská 495/18",
+  "den_registrace": "1990-02-03",
+  "cislo_registrace": "AVS/1-260/90",
+  "identifikacni_cislo": "00409740",
+  "statutarni_organ": "Předsednictvo, za které jednají spolupředsedové a místopředsedové. K jednání jménem SZ je třeba podpisu jednoho spolupředsedy nebo místopředsedy SZ.",
+  "osoby": [
+    {
+      "role": "Spolupředseda",
+      "jmeno": "Matěj Pomahač",
+      "datum_narozeni": "1984-04-30",
+      "adresa": "Vindyšova 1685/4, 153 00 Praha"
+    },
+    {
+      "role": "Spolupředsedkyně",
+      "jmeno": "Gabriela Svárovská",
+      "datum_narozeni": "1972-07-17",
+      "adresa": "Junácká 1646/7, 169 00 Praha"
+    },
+    {
+      "role": "1.místopředsedkyně",
+      "jmeno": "Jitka Kylišová",
+      "datum_narozeni": "1973-02-26",
+      "adresa": "Na Kovárně 1140/28, 312 00 Plzeň"
+    },
+    {
+      "role": "2. místopředseda",
+      "jmeno": "Tomáš Mígl",
+      "datum_narozeni": "2000-05-30",
+      "adresa": "262 23 Bratkovice 91"
+    },
+    {
+      "role": "člen předsednictva",
+      "jmeno": "Matouš Vencálek",
+      "datum_narozeni": "1989-03-09",
+      "adresa": "Fleischnerova 944/14, 635 00 Brno"
+    },
+    {
+      "role": "členka předsednictva",
+      "jmeno": "Jana Krumpholcová",
+      "datum_narozeni": "1979-12-17",
+      "adresa": "Šmilovského 232/11, 293 01 Mladá Boleslav"
+    },
+    {
+      "role": "členka předsednictva",
+      "jmeno": "Kateřina Kuchtová",
+      "datum_narozeni": "1999-01-19",
+      "adresa": "Soukenická 37, 381 01 Český Krumlov"
+    }
+  ]
+}

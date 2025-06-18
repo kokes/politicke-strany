@@ -1,0 +1,23 @@
+{
+  "nazev": "Nezávislé sdružení občanů Blanska",
+  "zkratka": "NSOB",
+  "sidlo": "678 01 Blansko, Svitavská 425/8",
+  "den_registrace": "1998-08-24",
+  "cislo_registrace": "VS/1-1/4671/98",
+  "identifikacni_cislo": "65764561",
+  "statutarni_organ": "Za NSOB jednají předseda a místopředseda společně.",
+  "osoby": [
+    {
+      "role": "předseda",
+      "jmeno": "Mgr. Michal Král",
+      "datum_narozeni": "1942-02-16",
+      "adresa": "Svitavská 425/8, 678 01 Blansko"
+    },
+    {
+      "role": "místopředseda",
+      "jmeno": "Ing. Pavel  Čípek",
+      "datum_narozeni": "1951-08-06",
+      "adresa": "Masarykova 877/18, 678 01 Blansko"
+    }
+  ]
+}

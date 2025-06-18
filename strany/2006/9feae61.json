@@ -1,0 +1,41 @@
+{
+  "nazev": "Zelení",
+  "zkratka": "„Z\"",
+  "sidlo": "143 00 Praha, Semická 2026/14",
+  "den_registrace": "2006-01-23",
+  "cislo_registrace": "VS-300/SDR/1-2006",
+  "identifikacni_cislo": "27022196",
+  "statutarni_organ": "Předsednictvo, za které jednají předseda nebo společně oba místopředsedové.",
+  "osoby": [
+    {
+      "role": "předseda",
+      "jmeno": "Marek Elexa",
+      "datum_narozeni": "1972-11-27",
+      "adresa": "Pod Přivaděčem 1307, 431 11 Jirkov"
+    },
+    {
+      "role": "místopředseda",
+      "jmeno": "Tomáš Tožička",
+      "datum_narozeni": "1966-12-20",
+      "adresa": "U Města Chersonu 1675/8, 434 01 Most"
+    },
+    {
+      "role": "místopředseda",
+      "jmeno": "doc. PhDr. Olga Lomová",
+      "datum_narozeni": "1957-05-31",
+      "adresa": "Klánova 383/14, 147 00 Praha"
+    },
+    {
+      "role": "člen",
+      "jmeno": "Mojmír  Koščo",
+      "datum_narozeni": "1972-06-06",
+      "adresa": "Úžická 393, 250 70 Odolena Voda"
+    },
+    {
+      "role": "člen",
+      "jmeno": "Milan  Smrž",
+      "datum_narozeni": "1948-04-19",
+      "adresa": "Truhlářská 1105/11, 110 00 Praha"
+    }
+  ]
+}

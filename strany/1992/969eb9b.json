@@ -1,0 +1,29 @@
+{
+  "nazev": "Masarykova demokratická strana",
+  "zkratka": "MDS",
+  "sidlo": "750 02 Přerov, Alšova 2891/2A",
+  "den_registrace": "1992-05-25",
+  "cislo_registrace": "VSC/1-786/92",
+  "identifikacni_cislo": "60456400",
+  "statutarni_organ": "Předseda strany, 1. a 2. místopředseda a to každý samostatně.",
+  "osoby": [
+    {
+      "role": "předseda",
+      "jmeno": "MUDr. Michal Chromec",
+      "datum_narozeni": "1948-04-23",
+      "adresa": "Alšova 2891/2A, 750 02 Přerov"
+    },
+    {
+      "role": "1. místopředseda",
+      "jmeno": "Mgr. Tomáš Chromec",
+      "datum_narozeni": "1988-12-31",
+      "adresa": "Alšova 2891/2A, 750 02 Přerov"
+    },
+    {
+      "role": "2. místopředseda",
+      "jmeno": "Mgr. Jiří  Sekyra",
+      "datum_narozeni": "1949-11-07",
+      "adresa": "Dukelská 1857/4, 412 01 Litoměřice"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "nazev": "Občanská koalice - Politický klub",
+  "zkratka": "OK",
+  "sidlo": "120 00 Praha 2, Náměstí míru  9",
+  "den_registrace": "1998-02-27",
+  "cislo_registrace": "II/s-OVS/1-1298/98/r",
+  "identifikacni_cislo": "67984207",
+  "statutarni_organ": "Předseda a první místopředseda.",
+  "osoby": [
+    {
+      "role": "předseda",
+      "jmeno": "Mgr. Jozef Wagner",
+      "datum_narozeni": "1940-08-30",
+      "adresa": "282 01 Masojedy 8"
+    },
+    {
+      "role": "první místopředseda",
+      "jmeno": "Ing. Jan Trhlík",
+      "adresa": "Na Okrouhlíku 2219/27, 182 00 Praha"
+    }
+  ]
+}

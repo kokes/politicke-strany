@@ -1,0 +1,29 @@
+{
+  "nazev": "Agrární strana",
+  "zkratka": "AS",
+  "sidlo": "110 00 Praha, Klimentská 1209/14",
+  "den_registrace": "1990-03-16",
+  "cislo_registrace": "AVS/1-363/90",
+  "identifikacni_cislo": "00571644",
+  "statutarni_organ": "Tříčlenný ústřední výbor, za který jedná předseda.",
+  "osoby": [
+    {
+      "role": "předseda",
+      "jmeno": "Josef Žrout",
+      "datum_narozeni": "1932-01-12",
+      "adresa": "Drnovská 62, 160 00 Praha"
+    },
+    {
+      "role": "člen",
+      "jmeno": "Alena  Kabeláková",
+      "datum_narozeni": "1962-03-19",
+      "adresa": "Bredetova 828, 140 00 Praha 4"
+    },
+    {
+      "role": "člen",
+      "jmeno": "Petra Kneditová",
+      "datum_narozeni": "1981-09-23",
+      "adresa": "Drnovská 62, 160 00 Praha 6"
+    }
+  ]
+}

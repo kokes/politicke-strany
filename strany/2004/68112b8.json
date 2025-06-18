@@ -1,0 +1,17 @@
+{
+  "nazev": "Strana státu přímé demokracie - Strana práce",
+  "zkratka": "SSPD-SP",
+  "sidlo": "712 00 Ostrava, Vdovská 696/36",
+  "den_registrace": "2004-03-23",
+  "cislo_registrace": "VS-1709/SDR/1-2004",
+  "identifikacni_cislo": "26658356",
+  "statutarni_organ": "Státní rada Strany práce, za kterou jedná předseda.",
+  "osoby": [
+    {
+      "role": "předseda",
+      "jmeno": "Radoslav  Štědroň",
+      "datum_narozeni": "1955-04-21",
+      "adresa": "Vdovská 696/36, 712 00 Ostrava"
+    }
+  ]
+}

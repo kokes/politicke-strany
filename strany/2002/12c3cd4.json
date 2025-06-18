@@ -1,0 +1,29 @@
+{
+  "nazev": "Naděje",
+  "zkratka": "N",
+  "sidlo": "110 00 Praha, Na poříčí 1041/12",
+  "den_registrace": "2002-01-25",
+  "cislo_registrace": "VS-145/SDR/1-2002",
+  "identifikacni_cislo": "26582112",
+  "statutarni_organ": "Předseda a místopředsedové.",
+  "osoby": [
+    {
+      "role": "předseda",
+      "jmeno": "PhDr. Monika  Pajerová",
+      "datum_narozeni": "1966-01-08",
+      "adresa": "Hradešínská 2389/49, 101 00 Praha"
+    },
+    {
+      "role": "místopředseda",
+      "jmeno": "Ing., MUDr. Petr Fiala",
+      "datum_narozeni": "1953-01-04",
+      "adresa": "Řipská 1113/7, 101 00 Praha"
+    },
+    {
+      "role": "místopředseda",
+      "jmeno": "PhDr. Slavomil Hubálek",
+      "datum_narozeni": "1947-06-16",
+      "adresa": "Štěpánská 653/17, 110 00 Praha"
+    }
+  ]
+}

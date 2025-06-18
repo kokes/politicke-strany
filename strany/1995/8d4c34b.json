@@ -1,0 +1,77 @@
+{
+  "nazev": "Komunistická strana Československa",
+  "zkratka": "KSČ",
+  "sidlo": "182 00 Praha, Štíbrova 1216/12",
+  "den_registrace": "1995-03-10",
+  "cislo_registrace": "II/S-OS/1-920/95",
+  "identifikacni_cislo": "63110156",
+  "statutarni_organ": "Předsednictvo ústředního výboru, za které jedná generální tajemník.",
+  "osoby": [
+    {
+      "role": "Generální tajemník",
+      "jmeno": "Roman Blaško",
+      "datum_narozeni": "1969-07-10",
+      "adresa": "742 35 Luboměř 93"
+    },
+    {
+      "role": "zástupce generálního tajemníka",
+      "jmeno": "Jiří Grünbauer",
+      "datum_narozeni": "1955-10-05",
+      "adresa": "Čechovská 123, 261 01 Příbram"
+    },
+    {
+      "role": "člen předsednictva ÚV",
+      "jmeno": "Zbyšek Kupský",
+      "datum_narozeni": "1972-07-21",
+      "adresa": "U školky 74, 250 67 Klecany"
+    },
+    {
+      "role": "člen předsednictva ÚV",
+      "jmeno": "Vladimír Sedláček",
+      "datum_narozeni": "1954-05-29",
+      "adresa": "Loudů 1022, 334 41 Dobřany"
+    },
+    {
+      "role": "člen předsednictva ÚV",
+      "jmeno": "Jozef Servista",
+      "datum_narozeni": "1942-01-10",
+      "adresa": "Stránského 1763/35, 412 01 Litoměřice"
+    },
+    {
+      "role": "člen předsednictva ÚV",
+      "jmeno": "Václav Novák",
+      "datum_narozeni": "1954-03-07",
+      "adresa": "K Oboře 389, 293 06 Bradlec"
+    },
+    {
+      "role": "člen předsednictva ÚV",
+      "jmeno": "Václav Říha",
+      "datum_narozeni": "1936-03-17",
+      "adresa": "Legerova 802/64, 120 00 Praha"
+    },
+    {
+      "role": "člen předsednictva ÚV",
+      "jmeno": "Jindřich Skařupa",
+      "datum_narozeni": "1955-06-07",
+      "adresa": "Pod Kalvárií 289, 747 41 Hradec nad Moravicí"
+    },
+    {
+      "role": "člen předsednictva ÚV",
+      "jmeno": "Antonín Mastík",
+      "datum_narozeni": "1947-01-04",
+      "adresa": "Švabinského 1265/24, 400 03 Ústí nad Labem"
+    },
+    {
+      "role": "člen předsednictva ÚV",
+      "jmeno": "Ján Herák",
+      "datum_narozeni": "1954-11-06",
+      "adresa": "Skupova 2523, 440 01 Louny"
+    },
+    {
+      "role": "tajemník předsednictva ÚV",
+      "jmeno": "Robert Mašek",
+      "datum_narozeni": "1955-12-17",
+      "adresa": "Jírovcova 2118/87, 370 04 České Budějovice"
+    }
+  ]
+}

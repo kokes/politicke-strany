@@ -1,0 +1,17 @@
+{
+  "nazev": "Správný směr",
+  "zkratka": "SPS",
+  "sidlo": "760 01 Zlín, třída Tomáše Bati 2597",
+  "den_registrace": "2004-06-25",
+  "cislo_registrace": "VS-4040/SDR/1-2004",
+  "identifikacni_cislo": "26667843",
+  "statutarni_organ": "Předseda.",
+  "osoby": [
+    {
+      "role": "předseda",
+      "jmeno": "Ing. Josef  Mikeska",
+      "datum_narozeni": "1971-03-14",
+      "adresa": "třída Tomáše Bati 2597, 760 01 Zlín"
+    }
+  ]
+}

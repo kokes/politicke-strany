@@ -1,0 +1,17 @@
+{
+  "nazev": "Mimoňská obroda",
+  "zkratka": "OHMO",
+  "sidlo": "471 24 Mimoň, Tyršovo náměstí 158",
+  "den_registrace": "2006-07-25",
+  "cislo_registrace": "VS-4994/SDR/1-2006",
+  "identifikacni_cislo": "27038378",
+  "statutarni_organ": "Předseda.",
+  "osoby": [
+    {
+      "role": "předseda",
+      "jmeno": "František  Kaiser",
+      "datum_narozeni": "1948-11-07",
+      "adresa": "U Nemocnice 542, 471 24 Mimoň"
+    }
+  ]
+}

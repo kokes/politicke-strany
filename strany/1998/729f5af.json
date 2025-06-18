@@ -1,0 +1,29 @@
+{
+  "nazev": "Pravá volba pro Plzeň",
+  "zkratka": "PVP",
+  "sidlo": "300 00 Plzeň, Na Mazinách 112/16",
+  "den_registrace": "1998-07-14",
+  "cislo_registrace": "VS/1-1/4207/98",
+  "identifikacni_cislo": "68782888",
+  "statutarni_organ": "Politická rada, za kterou jedná předseda nebo dva její členové společně.",
+  "osoby": [
+    {
+      "role": "předseda",
+      "jmeno": "Ing. Vladimír Duchek, Ph.D.",
+      "datum_narozeni": "1965-07-01",
+      "adresa": "Na Mazinách 112/16, 322 00 Plzeň"
+    },
+    {
+      "role": "člen",
+      "jmeno": "Ing. Jan  Anderle",
+      "datum_narozeni": "1956-03-15",
+      "adresa": "K Fořtovně 202/23, 312 00 Plzeň"
+    },
+    {
+      "role": "člen",
+      "jmeno": "Mgr. Stanislav Frank",
+      "datum_narozeni": "1955-06-23",
+      "adresa": "Habrmannovo náměstí 682/7, 312 11 Plzeň"
+    }
+  ]
+}

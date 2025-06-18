@@ -1,0 +1,41 @@
+{
+  "nazev": "Balbínova poetická strana",
+  "zkratka": "BPS",
+  "sidlo": "120 00 Praha, Balbínova 323/6",
+  "den_registrace": "2002-04-08",
+  "cislo_registrace": "VS-1933/SDR/1-2002",
+  "identifikacni_cislo": "26587840",
+  "statutarni_organ": "Předsednictvo strany, za které jednají vždy dva členové společně.",
+  "osoby": [
+    {
+      "role": "geniální guvernér",
+      "jmeno": "Jiří Hrdina",
+      "datum_narozeni": "1952-09-16",
+      "adresa": "Bělehradská 573/61, 120 00 Praha"
+    },
+    {
+      "role": "člen předsednictva",
+      "jmeno": "Petr Borka",
+      "datum_narozeni": "1960-11-12",
+      "adresa": "Balbínova 224/3, 120 00 Praha"
+    },
+    {
+      "role": "člen předsednictva",
+      "jmeno": "Mgr. Ivan Fried",
+      "datum_narozeni": "1952-12-13",
+      "adresa": "Čtvercová 883, 277 11 Neratovice"
+    },
+    {
+      "role": "člen předsednictva",
+      "jmeno": "Monika Kuchtová",
+      "datum_narozeni": "1981-04-30",
+      "adresa": "Otovická 1662/83, 193 00 Praha"
+    },
+    {
+      "role": "člen předsednictva",
+      "jmeno": "Pavel Marek",
+      "datum_narozeni": "1954-05-18",
+      "adresa": "411 72 Hoštka 9"
+    }
+  ]
+}

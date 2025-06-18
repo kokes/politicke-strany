@@ -1,0 +1,29 @@
+{
+  "nazev": "Klub angažovaných nestraníků",
+  "zkratka": "KAN",
+  "sidlo": "326 00 Plzeň, Slovanská 1970/95",
+  "den_registrace": "1990-05-07",
+  "cislo_registrace": "VSP/1-1271/90",
+  "identifikacni_cislo": "00539996",
+  "statutarni_organ": "Předsednictvo ústřední rady, jehož jménem jedná společně předseda a jeden z místopředsedů nebo společně dva místopředsedové.",
+  "osoby": [
+    {
+      "role": "předseda",
+      "jmeno": "Ing. Miroslav  Matějka",
+      "datum_narozeni": "1967-03-25",
+      "adresa": "Slovanská 1970/95, 326 00 Plzeň"
+    },
+    {
+      "role": "1. místopředseda",
+      "jmeno": "Ing. František Laudát",
+      "datum_narozeni": "1960-03-13",
+      "adresa": "Klínecká 1224/14, 152 00 Praha"
+    },
+    {
+      "role": "místopředsedkyně",
+      "jmeno": "Martina Žornová",
+      "datum_narozeni": "1967-10-27",
+      "adresa": "Nad Hrázkou 726, 281 61 Kouřim"
+    }
+  ]
+}

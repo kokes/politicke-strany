@@ -1,0 +1,17 @@
+{
+  "nazev": "Aliance nezávislých občanů",
+  "zkratka": "ANO",
+  "sidlo": "702 00 Ostrava, Na hradbách  4",
+  "den_registrace": "1998-09-08",
+  "cislo_registrace": "VS/1-1/5029/98",
+  "identifikacni_cislo": "None",
+  "statutarni_organ": "Předseda.",
+  "osoby": [
+    {
+      "role": "předseda",
+      "jmeno": "Mgr. Miroslav Tošer",
+      "datum_narozeni": "1959-05-02",
+      "adresa": "Štěpánkovická 812/10, 747 21 Kravaře"
+    }
+  ]
+}

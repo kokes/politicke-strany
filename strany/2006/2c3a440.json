@@ -1,0 +1,22 @@
+{
+  "nazev": "MĚSTO I MLÁDEŽI",
+  "zkratka": "MIM",
+  "sidlo": "390 02 Tábor, Husovo nám. 529/6",
+  "den_registrace": "2006-07-26",
+  "cislo_registrace": "VS-5256/SDR/1-2006",
+  "identifikacni_cislo": "27038530",
+  "statutarni_organ": "Předseda a místopředseda, kteří jednají samostatně.",
+  "osoby": [
+    {
+      "role": "předseda",
+      "jmeno": "Mgr. Tibor Stano",
+      "datum_narozeni": "1971-11-12",
+      "adresa": "Brigádníků 2553, 390 02 Tábor"
+    },
+    {
+      "role": "místopředseda",
+      "jmeno": "Ing. Zdeněk  Havlůj",
+      "adresa": "/, /"
+    }
+  ]
+}

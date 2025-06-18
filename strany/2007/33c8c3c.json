@@ -1,0 +1,17 @@
+{
+  "nazev": "Republikánská strana Čech, Moravy a Slezska",
+  "zkratka": "RSČMS",
+  "sidlo": "293 06 Kosmonosy, Boleslavská 294/52",
+  "den_registrace": "2007-06-14",
+  "cislo_registrace": "VS-5155/SDR/1-2007",
+  "identifikacni_cislo": "71339418",
+  "statutarni_organ": "Předseda.",
+  "osoby": [
+    {
+      "role": "předseda",
+      "jmeno": "Jan Folovský",
+      "datum_narozeni": "1984-01-10",
+      "adresa": "Řezáčova 421/20, 779 00 Olomouc"
+    }
+  ]
+}
