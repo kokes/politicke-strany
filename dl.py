@@ -66,7 +66,9 @@ if __name__ == "__main__":
         ids = [int(ln) for ln in open(IDS_FN)]
 
     mid = max(ids) if len(ids) > 0 else 0
-    rng = 5 if mid > 0 else 100
+    # inkrementalni zkouseni jen po kouskach, ale inicialni load
+    # udelame velkej
+    rng = 5 if mid > 0 else 200
     # zkusime par novych IDs
     for j in range(1, rng):
         ids.append(mid + j)
@@ -121,7 +123,12 @@ if __name__ == "__main__":
                 # TODO: Plati od/plati do? v tom co zbylo
                 dt["osoby"].append(osoba)
 
-        tfn = os.path.join(DATA_DIR, dt["identifikacni_cislo"] + ".json")
+        # puvodne jsem pro nazev souboru pouzival identifikacni cislo,
+        # ale zdaleka ne vsechny strany ho maj
+        fnid = hashlib.sha256(dt["cislo_registrace"].encode("utf-8")).hexdigest()[:7]
+        tdir = os.path.join(DATA_DIR, dt["den_registrace"][:4])
+        os.makedirs(tdir, exist_ok=True)
+        tfn = os.path.join(tdir, fnid + ".json")
         with open(tfn, "wt") as fw:
             json.dump(dt, fw, ensure_ascii=False, indent=2)
 
