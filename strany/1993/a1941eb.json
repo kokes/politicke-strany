@@ -1,0 +1,22 @@
+{
+  "nazev": "Československá strana socialistická",
+  "zkratka": "ČSS",
+  "sidlo": "750 00 Přerov, Palackého 77/1",
+  "den_registrace": "1993-12-17",
+  "cislo_registrace": "VS/1-7045/93",
+  "identifikacni_cislo": "49628763",
+  "statutarni_organ": "Předseda a tajemník.",
+  "osoby": [
+    {
+      "role": "předseda",
+      "jmeno": "Jaroslav  Vojtek",
+      "datum_narozeni": "1947-05-14",
+      "adresa": "751 03 Brodek u Přerova 57"
+    },
+    {
+      "role": "tajemník",
+      "jmeno": "",
+      "adresa": ""
+    }
+  ]
+}

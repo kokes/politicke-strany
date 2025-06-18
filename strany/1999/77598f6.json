@@ -1,0 +1,29 @@
+{
+  "nazev": "Nové hnutí",
+  "zkratka": "NH.",
+  "sidlo": "252 25 Jinočany, Náměstí 5. května 24",
+  "den_registrace": "1999-09-20",
+  "cislo_registrace": "VS/1-1/4632/99",
+  "identifikacni_cislo": "70946566",
+  "statutarni_organ": "Republikový výbor, za který vždy dva členové republikového výboru společně, z nichž jeden je předseda nebo místopředseda.",
+  "osoby": [
+    {
+      "role": "předseda NH",
+      "jmeno": "Stanislav Brázda",
+      "datum_narozeni": "1948-05-30",
+      "adresa": "Běhounkova 2344/27, 158 00 Praha"
+    },
+    {
+      "role": "místopředseda NH",
+      "jmeno": "Libor  Paskovský",
+      "datum_narozeni": "1962-03-04",
+      "adresa": "Gorkého 658/15, 460 01 Liberec"
+    },
+    {
+      "role": "člen RVNH",
+      "jmeno": "Kateřina Kocevová",
+      "datum_narozeni": "1974-09-22",
+      "adresa": "Emilie Hyblerové 528/4, 149 00 Praha"
+    }
+  ]
+}

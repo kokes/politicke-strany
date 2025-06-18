@@ -1,0 +1,16 @@
+{
+  "nazev": "Demokratická strana Československa",
+  "zkratka": "DSČ",
+  "sidlo": "101 00 Praha, Košická 70/10",
+  "den_registrace": "1990-03-21",
+  "cislo_registrace": "AVS/-792/90",
+  "identifikacni_cislo": "48548278",
+  "statutarni_organ": "Výkonný výbor, za který jedná předseda, místopředseda a sekretář.",
+  "osoby": [
+    {
+      "role": "sekretář",
+      "jmeno": "Josef Tuček",
+      "adresa": "/, /"
+    }
+  ]
+}

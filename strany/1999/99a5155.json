@@ -1,0 +1,17 @@
+{
+  "nazev": "Českobudějovická nezávislá nová volba",
+  "zkratka": "ČbNNV",
+  "sidlo": "370 05 České Budějovice, Vltavské nábř. 526/7",
+  "den_registrace": "1999-04-09",
+  "cislo_registrace": "VS/2088/2159/99",
+  "identifikacni_cislo": "69103852",
+  "statutarni_organ": "mluvčí",
+  "osoby": [
+    {
+      "role": "mluvčí",
+      "jmeno": "Ing. Otto Eibl",
+      "datum_narozeni": "1959-05-30",
+      "adresa": "U Výstaviště 1407/18A, 370 05 České Budějovice"
+    }
+  ]
+}

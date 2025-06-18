@@ -1,0 +1,29 @@
+{
+  "nazev": "Pravá alternativa",
+  "zkratka": "PA",
+  "sidlo": "250 87 Mochov, 5. května 67",
+  "den_registrace": "1990-09-14",
+  "cislo_registrace": "VSP/1-2197/90",
+  "identifikacni_cislo": "70954411",
+  "statutarni_organ": "Předsednictvo, za které jedná předseda a tajemník.",
+  "osoby": [
+    {
+      "role": "předseda",
+      "jmeno": "David  Kocour",
+      "datum_narozeni": "1974-04-06",
+      "adresa": "539 42 Svratouch 97"
+    },
+    {
+      "role": "místopředseda",
+      "jmeno": "Alena Mucková",
+      "datum_narozeni": "1956-03-17",
+      "adresa": "M. Chlajna 1279/3, 370 05 České Budějovice"
+    },
+    {
+      "role": "tajemník",
+      "jmeno": "Luděk Hlinka",
+      "datum_narozeni": "1976-12-03",
+      "adresa": "Majakovského 697/25, 360 05 Karlovy Vary"
+    }
+  ]
+}

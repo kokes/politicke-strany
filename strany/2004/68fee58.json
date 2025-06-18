@@ -1,0 +1,23 @@
+{
+  "nazev": "Dělnická strana sociální spravedlnosti",
+  "zkratka": "DSSS",
+  "sidlo": "161 00 Praha, Ciolkovského 853/1",
+  "den_registrace": "2004-01-29",
+  "cislo_registrace": "VS-706/SDR/1-2004",
+  "identifikacni_cislo": "26650797",
+  "statutarni_organ": "Předseda a výkonný místopředseda, kteří jednají společně.",
+  "osoby": [
+    {
+      "role": "předseda",
+      "jmeno": "Tomáš Vandas",
+      "datum_narozeni": "1969-03-03",
+      "adresa": "Teplická 598, 418 01 Bílina"
+    },
+    {
+      "role": "výkonný místopředseda",
+      "jmeno": "Jiří Štěpánek",
+      "datum_narozeni": "1972-03-05",
+      "adresa": "Na Celchu 395/29, 326 00 Plzeň"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "nazev": "\"Evropští demokraté za právo, morálku a spravedlnost\"",
+  "zkratka": "ED-MS",
+  "sidlo": "620 00 Brno, V aleji 263/105",
+  "den_registrace": "2008-07-24",
+  "cislo_registrace": "MV-59412-4/VS-2008",
+  "identifikacni_cislo": "71339523",
+  "statutarni_organ": "Rada, jménem které jedná a podepisuje předseda.",
+  "osoby": [
+    {
+      "role": "předseda",
+      "jmeno": "JUDr. Anna Haisová",
+      "datum_narozeni": "1955-04-10",
+      "adresa": "Joštova 598/3, 602 00 Brno"
+    },
+    {
+      "role": "člen",
+      "jmeno": "Anděla  Plevová",
+      "datum_narozeni": "1949-03-13",
+      "adresa": "V Aleji 105, 620 00 Brno"
+    },
+    {
+      "role": "člen",
+      "jmeno": "Ing. arch. František Kabelka",
+      "datum_narozeni": "1958-07-28",
+      "adresa": "Kohoutovická 432/89, 641 00 Brno"
+    },
+    {
+      "role": "člen",
+      "jmeno": "Emil Šibor",
+      "datum_narozeni": "1964-07-30",
+      "adresa": "ppor. Rozprýmova  967, 664 53 Újezd u Brna"
+    }
+  ]
+}

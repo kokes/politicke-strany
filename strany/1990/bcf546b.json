@@ -1,0 +1,17 @@
+{
+  "nazev": "Asociace Radikálů za Spojené státy evropské",
+  "zkratka": "AR",
+  "sidlo": "Praha, 0",
+  "den_registrace": "1990-06-06",
+  "cislo_registrace": "VSP/1-1561/90",
+  "identifikacni_cislo": "00674621",
+  "statutarni_organ": "Tajemník.",
+  "osoby": [
+    {
+      "role": "tajemník",
+      "jmeno": "Richard Stockar",
+      "datum_narozeni": "1959-01-03",
+      "adresa": "Jakubská 670/14, 110 00 Praha"
+    }
+  ]
+}

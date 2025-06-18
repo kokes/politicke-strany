@@ -1,0 +1,41 @@
+{
+  "nazev": "Strana občanského porozumění",
+  "zkratka": "SOP",
+  "sidlo": "460 01 Liberec, Dr. Milady Horákové 339/12",
+  "den_registrace": "2000-09-04",
+  "cislo_registrace": "VS/1-1/5041/2000",
+  "identifikacni_cislo": "70867208",
+  "statutarni_organ": "Předsednictvo ústředního výboru, za které jedná předseda a úřadující místopředseda samostatně.",
+  "osoby": [
+    {
+      "role": "úřadující místopředseda",
+      "jmeno": "Jaroslav Kotrman",
+      "datum_narozeni": "1951-07-07",
+      "adresa": "Dr. Milady Horákové 339/12, 460 01 Liberec"
+    },
+    {
+      "role": "člen předsednictva",
+      "jmeno": "Ing. Jana  Filipová",
+      "datum_narozeni": "1951-08-05",
+      "adresa": "Věnceslava Metelky 158, 512 11 Vysoké nad Jizerou"
+    },
+    {
+      "role": "člen předsednictva",
+      "jmeno": "David  Hrubec",
+      "datum_narozeni": "1975-02-20",
+      "adresa": "Větrná 2717/10, 400 11 Ústí nad Labem"
+    },
+    {
+      "role": "člen předsednictva",
+      "jmeno": "Ján Chimal",
+      "datum_narozeni": "1969-11-25",
+      "adresa": "Perucká 8, 440 01 Veltěže"
+    },
+    {
+      "role": "člen předsednictva",
+      "jmeno": "Petr Mládek",
+      "datum_narozeni": "1978-10-25",
+      "adresa": "463 72 Višňová  174"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "nazev": "Hnutí proti kriminalitě",
+  "zkratka": "HPK",
+  "sidlo": "Praha",
+  "den_registrace": "1995-11-06",
+  "cislo_registrace": "II/s-OS/1-739/95",
+  "identifikacni_cislo": "61984744",
+  "statutarni_organ": "předseda a místopředsedové, kteří jednají samostatně",
+  "osoby": [
+    {
+      "role": "předseda",
+      "jmeno": "Marek  Tomčala",
+      "adresa": "Trávník 1315/28, 750 02 Přerov"
+    },
+    {
+      "role": "1. místopředseda",
+      "jmeno": "Jana  Šebestová",
+      "adresa": "Trávník 628/9, 750 02 Přerov"
+    },
+    {
+      "role": "2. místopředseda",
+      "jmeno": "Robert Snášel",
+      "adresa": "Dvořákova 1536/22, 750 02 Přerov"
+    }
+  ]
+}

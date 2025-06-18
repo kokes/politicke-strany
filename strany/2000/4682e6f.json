@@ -1,0 +1,17 @@
+{
+  "nazev": "Republikáni Miroslava Sládka",
+  "zkratka": "RMS",
+  "sidlo": "623 00 Brno, Ulička 831/1",
+  "den_registrace": "2000-07-12",
+  "cislo_registrace": "VS/1-13793/2000",
+  "identifikacni_cislo": "70436312",
+  "statutarni_organ": "předseda",
+  "osoby": [
+    {
+      "role": "předseda",
+      "jmeno": "PhDr. Miroslav Sládek",
+      "datum_narozeni": "1950-10-24",
+      "adresa": "Kubánky 98/6, 644 00 Brno"
+    }
+  ]
+}

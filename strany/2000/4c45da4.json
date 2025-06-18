@@ -1,0 +1,17 @@
+{
+  "nazev": "Nestraníci pro Moravu",
+  "zkratka": "NPM",
+  "sidlo": "635 00 Brno, Kubíčkova 1115/8",
+  "den_registrace": "2000-03-06",
+  "cislo_registrace": "VS/1-1/741/815/2000",
+  "identifikacni_cislo": "70907277",
+  "statutarni_organ": "předseda",
+  "osoby": [
+    {
+      "role": "předseda",
+      "jmeno": "Leona Žáková",
+      "datum_narozeni": "1974-04-28",
+      "adresa": "Skořepka 240/14, 602 00 Brno"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "nazev": "Národní strana",
+  "zkratka": "NS",
+  "sidlo": "110 00 Praha , Senovážné náměstí 978/23",
+  "den_registrace": "2002-10-31",
+  "cislo_registrace": "VS-3640/SDR/1-2002",
+  "identifikacni_cislo": "26607701",
+  "statutarni_organ": "Zemská rada, která jedná prostřednictvím předsedy.",
+  "osoby": [
+    {
+      "role": "předseda",
+      "jmeno": "Mgr. Petra Edelmannová",
+      "datum_narozeni": "1975-02-27",
+      "adresa": "Renoirova 620/4, 152 00 Praha"
+    }
+  ]
+}

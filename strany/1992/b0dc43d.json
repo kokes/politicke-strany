@@ -1,0 +1,17 @@
+{
+  "nazev": "Česká strana národně sociální",
+  "zkratka": "ČSNS",
+  "sidlo": "120 00 Praha, Legerova 1854/22",
+  "den_registrace": "1992-03-25",
+  "cislo_registrace": "VSC/1-754/92",
+  "identifikacni_cislo": "00442721",
+  "statutarni_organ": "Předseda.",
+  "osoby": [
+    {
+      "role": "předseda",
+      "jmeno": "Ing. Michal Klusáček",
+      "datum_narozeni": "1979-10-23",
+      "adresa": "Lesní 2, 471 52 Sloup v Čechách"
+    }
+  ]
+}

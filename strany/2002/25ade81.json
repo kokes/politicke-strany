@@ -1,0 +1,17 @@
+{
+  "nazev": "Koalice PRO kraj",
+  "zkratka": "Koalice PRO kraj",
+  "sidlo": "400 01 Ústí nad Labem, Vaníčkova 835/9",
+  "den_registrace": "2002-04-22",
+  "cislo_registrace": "VS-2402/SDR/1-2002",
+  "identifikacni_cislo": "26592118",
+  "statutarni_organ": "Předseda.",
+  "osoby": [
+    {
+      "role": "předsedkyně",
+      "jmeno": "Mgr. Helena Kubcová",
+      "datum_narozeni": "1955-07-31",
+      "adresa": "Na Vyhlídce 2340/11, 400 11 Ústí nad Labem"
+    }
+  ]
+}

@@ -1,0 +1,107 @@
+{
+  "nazev": "STAROSTOVÉ A NEZÁVISLÍ",
+  "zkratka": "STAN",
+  "sidlo": "118 00 Praha, Malostranské náměstí  266/5",
+  "den_registrace": "2004-08-19",
+  "cislo_registrace": "VS-5908/SDR/1-2004",
+  "identifikacni_cislo": "26673908",
+  "statutarni_organ": "Předsednictvo hnutí, a to samostatně předsedou či 1. místopředsedou anebo společně dvěma místopředsedy.",
+  "osoby": [
+    {
+      "role": "předseda",
+      "jmeno": "Vít Rakušan",
+      "datum_narozeni": "1978-06-16",
+      "adresa": "Bachmačská 396, 280 02 Kolín"
+    },
+    {
+      "role": "1. místopředseda",
+      "jmeno": "Lukáš Vlček",
+      "datum_narozeni": "1982-02-27",
+      "adresa": "Na Blatech 916, 395 01 Pacov"
+    },
+    {
+      "role": "místopředsedkyně",
+      "jmeno": "Michaela Šebelová",
+      "datum_narozeni": "1982-06-16",
+      "adresa": "739 13 Kunčice pod Ondřejníkem 735"
+    },
+    {
+      "role": "místopředseda",
+      "jmeno": "Pavel Čížek",
+      "datum_narozeni": "1964-04-20",
+      "adresa": "335 61 Spálené Poříčí 6"
+    },
+    {
+      "role": "místopředseda",
+      "jmeno": "Karel Dvořák",
+      "datum_narozeni": "1986-07-01",
+      "adresa": "Bartoškova 1411/20, 140 00 Praha"
+    },
+    {
+      "role": "místopředseda",
+      "jmeno": "Jan  Farský",
+      "datum_narozeni": "1979-07-11",
+      "adresa": "Mikoláše Alše 617, 513 01 Semily"
+    },
+    {
+      "role": "člen předsednictva",
+      "jmeno": "Viktor Vojtko",
+      "datum_narozeni": "1978-09-01",
+      "adresa": "Rybářská 2310/45, 370 10 České Budějovice"
+    },
+    {
+      "role": "člen předsednictva",
+      "jmeno": "Tomáš Dubský",
+      "datum_narozeni": "1973-07-21",
+      "adresa": "539 01 Vysočina, Možděnice 32"
+    },
+    {
+      "role": "člen předsednictva",
+      "jmeno": "Ondřej Lochman",
+      "datum_narozeni": "1980-10-30",
+      "adresa": "5. května 46, 295 01 Mnichovo Hradiště"
+    },
+    {
+      "role": "člen předsednictva",
+      "jmeno": "Jan Papajanovský",
+      "datum_narozeni": "1994-11-07",
+      "adresa": "405 02 Česká Kamenice, Huníkov 235"
+    },
+    {
+      "role": "člen předsednictva",
+      "jmeno": "Miroslav Balatka",
+      "datum_narozeni": "1970-07-13",
+      "adresa": "Brněnská 1494, 356 01 Sokolov"
+    },
+    {
+      "role": "člen předsednictva",
+      "jmeno": "Martin Dvořák",
+      "datum_narozeni": "1956-11-11",
+      "adresa": "Puškinova 1138/5, 500 02 Hradec Králové"
+    },
+    {
+      "role": "členka předsednictva",
+      "jmeno": "Kateřina Arnotová",
+      "datum_narozeni": "1973-12-19",
+      "adresa": "Úslavská 589/4, 196 00 Praha"
+    },
+    {
+      "role": "členka předsednictva",
+      "jmeno": "Hana Naiclerová",
+      "datum_narozeni": "1972-06-19",
+      "adresa": "Borová 362/10, 796 01 Prostějov"
+    },
+    {
+      "role": "členka předsednictva",
+      "jmeno": "Petra Pecková",
+      "datum_narozeni": "1975-10-12",
+      "adresa": "Zámecká 21, 251 64 Mnichovice"
+    },
+    {
+      "role": "členka předsednictva",
+      "jmeno": "Petra Korlaar",
+      "datum_narozeni": "1982-07-09",
+      "adresa": "Zámecká 1808/4, 692 01 Mikulov"
+    }
+  ]
+}

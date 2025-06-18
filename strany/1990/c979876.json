@@ -1,0 +1,17 @@
+{
+  "nazev": "COEXISTENTIA",
+  "zkratka": "COEX",
+  "sidlo": "737 01 Český Těšín, Střelniční 209/28",
+  "den_registrace": "1990-02-27",
+  "cislo_registrace": "AVS/1-514/90",
+  "identifikacni_cislo": "00494887",
+  "statutarni_organ": "Předseda.",
+  "osoby": [
+    {
+      "role": "předseda",
+      "jmeno": "dr. Ing. Stanislav Gawlik",
+      "datum_narozeni": "1941-05-06",
+      "adresa": "Kaštanová 866, 739 92 Návsí"
+    }
+  ]
+}

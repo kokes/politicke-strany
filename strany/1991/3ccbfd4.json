@@ -1,0 +1,17 @@
+{
+  "nazev": "Hnutí angažovaných Romů",
+  "zkratka": "HAR",
+  "sidlo": "370 00 České Budějovice, Pražská 1",
+  "den_registrace": "1991-01-30",
+  "cislo_registrace": "VSP/1-342/91",
+  "identifikacni_cislo": "15271471",
+  "statutarni_organ": "předseda",
+  "osoby": [
+    {
+      "role": "předseda",
+      "jmeno": "Juraj  Markovič",
+      "datum_narozeni": "1946-04-26",
+      "adresa": "N. Frýda 1248/6, 370 05 České Budějovice"
+    }
+  ]
+}

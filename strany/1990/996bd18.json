@@ -1,0 +1,17 @@
+{
+  "nazev": "Sdružení pro republiku - Republikánská strana Československa",
+  "zkratka": "SPR-RSČ",
+  "sidlo": "293 06 Kosmonosy, Boleslavská 294/52",
+  "den_registrace": "1990-02-26",
+  "cislo_registrace": "AVS/1-301/90",
+  "identifikacni_cislo": "00536687",
+  "statutarni_organ": "Předseda.",
+  "osoby": [
+    {
+      "role": "předseda",
+      "jmeno": "PhDr. Miroslav Sládek",
+      "datum_narozeni": "1950-10-24",
+      "adresa": "Šafaříkova 221/6, 612 00 Brno"
+    }
+  ]
+}

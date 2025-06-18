@@ -1,0 +1,47 @@
+{
+  "nazev": "Strana svobodných demokratů",
+  "zkratka": "SSD",
+  "sidlo": "110 00 Praha, Novotného lávka 200/5",
+  "den_registrace": "1990-03-26",
+  "cislo_registrace": "AVS/1-850/90",
+  "identifikacni_cislo": "00499668",
+  "statutarni_organ": "Předsednictvo, za které jedná předseda nebo každý  z místopředsedů samostatně.",
+  "osoby": [
+    {
+      "role": "předseda",
+      "jmeno": "Jiří  Křemen",
+      "datum_narozeni": "1966-09-27",
+      "adresa": "Na Skalkách 941, 277 11 Neratovice"
+    },
+    {
+      "role": "1. místopředseda",
+      "jmeno": "JUDr. Vladimír Musílek",
+      "datum_narozeni": "1953-12-21",
+      "adresa": "Ocelíkova 672/1, 149 00 Praha"
+    },
+    {
+      "role": "2. místopředseda",
+      "jmeno": "Miloš Kubík",
+      "datum_narozeni": "1953-05-23",
+      "adresa": "256 01 Struhařov 7"
+    },
+    {
+      "role": "3. místopředseda",
+      "jmeno": "Jiří Schwarzer",
+      "datum_narozeni": "1971-09-12",
+      "adresa": "Plickova 553/21, 149 00 Praha"
+    },
+    {
+      "role": "místopředseda",
+      "jmeno": "Mgr. Jan Pánek",
+      "datum_narozeni": "1967-01-11",
+      "adresa": "Pražská 465, 506 01 Jičín"
+    },
+    {
+      "role": "místopředseda",
+      "jmeno": "Petr Pešek",
+      "datum_narozeni": "1963-10-08",
+      "adresa": "Luční 314, 435 42 Litvínov"
+    }
+  ]
+}

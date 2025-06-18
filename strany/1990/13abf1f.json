@@ -1,0 +1,53 @@
+{
+  "nazev": "Konzervativní strana",
+  "zkratka": "KONS",
+  "sidlo": "110 00 Praha, Rybná 716/24",
+  "den_registrace": "1990-03-16",
+  "cislo_registrace": "AVS/1-714/90",
+  "identifikacni_cislo": "15271960",
+  "statutarni_organ": "Předsednictvo, za které jedná předseda nebo dva členové předsednictva.",
+  "osoby": [
+    {
+      "role": "předseda",
+      "jmeno": "RNDr. Jan Kubalčík, Ph.D.",
+      "datum_narozeni": "1972-08-26",
+      "adresa": "798 53 Jesenec 62"
+    },
+    {
+      "role": "místopředseda",
+      "jmeno": "Mgr. Ing. Michal Struha",
+      "datum_narozeni": "1977-04-26",
+      "adresa": "Baškirská 1407/7, 101 00 Praha"
+    },
+    {
+      "role": "kancléř",
+      "jmeno": "Ing. Jan Mega",
+      "datum_narozeni": "1953-01-24",
+      "adresa": "Tyršova 443, 664 42 Modřice"
+    },
+    {
+      "role": "člen předsednictva",
+      "jmeno": "Mgr. Cyril Modra",
+      "datum_narozeni": "1974-12-09",
+      "adresa": "Rybníček 321/3, 602 00 Brno"
+    },
+    {
+      "role": "člen předsednictva",
+      "jmeno": "Dušan Stuchlík",
+      "datum_narozeni": "1972-03-01",
+      "adresa": "410 02 Vchynice 9"
+    },
+    {
+      "role": "členka předsednictva",
+      "jmeno": "Gabriela Sedláčková",
+      "datum_narozeni": "1985-01-30",
+      "adresa": "Chelčického 1129/10, 130 00 Praha"
+    },
+    {
+      "role": "členka předsednictva",
+      "jmeno": "Ing. Kristina Štefanová Holíková",
+      "datum_narozeni": "1978-09-12",
+      "adresa": "Lužná 291/19, 617 00 Brno"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "nazev": "Strana pro ekologii a zdraví",
+  "zkratka": "SEZ",
+  "sidlo": "403 40 Ústí nad Labem 86",
+  "den_registrace": "2008-09-18",
+  "cislo_registrace": "MV-56390-10/VS-2008",
+  "identifikacni_cislo": "71339531",
+  "statutarni_organ": "Předsednictvo republikové rady, a to vždy společně dvěma členy, z nichž alespoň jeden je předsedou nebo místopředsedou strany a druhý je členem předsednictva republikové rady.",
+  "osoby": [
+    {
+      "role": "předseda",
+      "jmeno": "Ing. David  Tirpák",
+      "datum_narozeni": "1974-11-01",
+      "adresa": "Velká hradební  1660, 400 01 Ústí nad Labem"
+    },
+    {
+      "role": "místopředseda",
+      "jmeno": "Heřman  Král",
+      "datum_narozeni": "1950-01-04",
+      "adresa": "471 01 Zahrádky 40"
+    },
+    {
+      "role": "místopředseda",
+      "jmeno": "Mgr. Anna Vernerová",
+      "datum_narozeni": "1954-02-13",
+      "adresa": "Dlouhá 715/38, 110 00 Praha"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "nazev": "Nezávislí starostové",
+  "zkratka": "NEST",
+  "sidlo": "664 51 Šlapanice, Dlouhá 560/22",
+  "den_registrace": "2008-07-18",
+  "cislo_registrace": "MV-59411-3/VS-2008",
+  "identifikacni_cislo": "71339515",
+  "statutarni_organ": "Hlavní výbor, jeho jménem jedná a podepisuje předseda.",
+  "osoby": [
+    {
+      "role": "předseda",
+      "jmeno": "Ing. Jan Střechovský",
+      "datum_narozeni": "1963-04-18",
+      "adresa": "Dlouhá 560/22, 664 51 Šlapanice"
+    },
+    {
+      "role": "člen",
+      "jmeno": "Ing. Andrea  Hudlíková",
+      "datum_narozeni": "1980-06-05",
+      "adresa": "Kyjevská 290/1, 625 00 Brno"
+    },
+    {
+      "role": "člen",
+      "jmeno": "Mgr. Lubomír Konečný",
+      "datum_narozeni": "1954-06-21",
+      "adresa": "Brněnská 1418/88, 664 51 Šlapanice"
+    }
+  ]
+}

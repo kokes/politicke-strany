@@ -1,0 +1,17 @@
+{
+  "nazev": "Moravská demokratická strana",
+  "zkratka": "MODS",
+  "sidlo": "602 00 Brno, Starobrněnská 690/20",
+  "den_registrace": "1994-04-26",
+  "cislo_registrace": "II/s-OS/1-461/94",
+  "identifikacni_cislo": "65842626",
+  "statutarni_organ": "předseda",
+  "osoby": [
+    {
+      "role": "předseda",
+      "jmeno": "Ing. Pavel  Dohnal",
+      "datum_narozeni": "1961-05-04",
+      "adresa": "Čtvrtě 1177, 687 25 Hluk"
+    }
+  ]
+}

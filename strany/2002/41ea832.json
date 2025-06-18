@@ -1,0 +1,40 @@
+{
+  "nazev": "„Jirkov 21. století\"",
+  "zkratka": "J 21 S",
+  "sidlo": "431 11 Jirkov, Krušnohorská 1661",
+  "den_registrace": "2002-07-26",
+  "cislo_registrace": "VS-4142/SDR/1-2001",
+  "identifikacni_cislo": "26600218",
+  "statutarni_organ": "Výbor, za který jedná předseda nebo pověřený člen výboru.",
+  "osoby": [
+    {
+      "role": "předseda",
+      "jmeno": "",
+      "adresa": ""
+    },
+    {
+      "role": "místopředsedkyně",
+      "jmeno": "Renata Fotrová",
+      "datum_narozeni": "1967-12-29",
+      "adresa": "Nerudova 1001, 431 11 Jirkov"
+    },
+    {
+      "role": "člen",
+      "jmeno": "MVDr. Pavel Klier",
+      "datum_narozeni": "1968-05-29",
+      "adresa": "Horova 640, 431 11 Jirkov"
+    },
+    {
+      "role": "člen",
+      "jmeno": "Jiří  Sadílek",
+      "datum_narozeni": "1961-03-27",
+      "adresa": "Panorama 357, 431 11 Jirkov"
+    },
+    {
+      "role": "členka",
+      "jmeno": "Ing. Miroslava Neubertová",
+      "datum_narozeni": "1986-08-31",
+      "adresa": "K. Marxe 1683, 431 11 Jirkov"
+    }
+  ]
+}

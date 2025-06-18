@@ -1,0 +1,17 @@
+{
+  "nazev": "Tábor 2020",
+  "zkratka": "T2020",
+  "sidlo": "390 01 Tábor, Pražská 223/6",
+  "den_registrace": "2002-02-14",
+  "cislo_registrace": "VS-709/SDR/1-2002",
+  "identifikacni_cislo": "26582406",
+  "statutarni_organ": "Předseda.",
+  "osoby": [
+    {
+      "role": "předseda",
+      "jmeno": "Ing. Štěpán  Pavlík",
+      "datum_narozeni": "1971-02-17",
+      "adresa": "Klokotská 106/7, 390 01 Tábor"
+    }
+  ]
+}

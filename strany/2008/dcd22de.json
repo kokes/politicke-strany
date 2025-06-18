@@ -1,0 +1,47 @@
+{
+  "nazev": "Severočeši.cz",
+  "zkratka": "S.cz",
+  "sidlo": "400 01 Ústí nad Labem, Pařížská 538/19",
+  "den_registrace": "2008-04-14",
+  "cislo_registrace": "MV-30869/VS-2008",
+  "identifikacni_cislo": "71339493",
+  "statutarni_organ": "Předsednictvo, jehož jménem jedná a podepisuje předseda nebo první místopředseda nebo jiný pověřený člen Předsednictva hnutí.",
+  "osoby": [
+    {
+      "role": "předseda",
+      "jmeno": "Ing. Bronislav Schwarz",
+      "datum_narozeni": "1966-10-07",
+      "adresa": "Spojeneckých letců 916, 435 11 Lom"
+    },
+    {
+      "role": "první místopředseda",
+      "jmeno": "Ing. Luboš Pitín",
+      "datum_narozeni": "1964-07-23",
+      "adresa": "Jana Kříže 910/8, 434 01 Most"
+    },
+    {
+      "role": "místopředseda",
+      "jmeno": "Ing. Petr Pípal",
+      "datum_narozeni": "1959-03-06",
+      "adresa": "K Emance 300, 417 03 Dubí"
+    },
+    {
+      "role": "místopředseda",
+      "jmeno": "Lukas Wünsch",
+      "datum_narozeni": "1974-05-11",
+      "adresa": "Kaštanová 587, 412 01 Litoměřice"
+    },
+    {
+      "role": "člen",
+      "jmeno": "Jaroslav Doubrava",
+      "datum_narozeni": "1948-04-04",
+      "adresa": "403 38 Telnice 178"
+    },
+    {
+      "role": "člen",
+      "jmeno": "Radek Slavík",
+      "datum_narozeni": "1972-08-03",
+      "adresa": "Na výsluní 438/23, 408 01 Rumburk"
+    }
+  ]
+}

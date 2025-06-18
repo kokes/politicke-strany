@@ -1,0 +1,23 @@
+{
+  "nazev": "Liberálové.CZ",
+  "zkratka": "LIB",
+  "sidlo": "158 00 Praha - Košíře, Jinonická  804/80",
+  "den_registrace": "2002-03-21",
+  "cislo_registrace": "VS-1429/SDR/1-2002",
+  "identifikacni_cislo": "26586908",
+  "statutarni_organ": "Předsednictvo, za které jednají předseda nebo společně místopředsedové, v hospodářských a administrativních otázkách tajemník.",
+  "osoby": [
+    {
+      "role": "předseda",
+      "jmeno": "Pavel  Weiss",
+      "datum_narozeni": "1980-05-13",
+      "adresa": "Mírové náměstí 1, 432 01 Kadaň"
+    },
+    {
+      "role": "místopředseda",
+      "jmeno": "Derek Pilous",
+      "datum_narozeni": "1972-02-19",
+      "adresa": "Novoměstská 15, 251 01 Říčany u Prahy"
+    }
+  ]
+}

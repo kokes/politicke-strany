@@ -1,0 +1,23 @@
+{
+  "nazev": "Demokracie",
+  "zkratka": "DK",
+  "sidlo": "793 23 Karlovice 287",
+  "den_registrace": "2008-02-05",
+  "cislo_registrace": "MV-12633-1/VS-2008",
+  "identifikacni_cislo": "71339434",
+  "statutarni_organ": "Republiková rada, za kterou jedná předseda.",
+  "osoby": [
+    {
+      "role": "předseda",
+      "jmeno": "Petr  Czasch",
+      "datum_narozeni": "1960-08-09",
+      "adresa": "793 26 Karlovice 19"
+    },
+    {
+      "role": "místopředseda",
+      "jmeno": "Ph.D. Jiří Polák",
+      "datum_narozeni": "1933-05-23",
+      "adresa": "Assarhusavägen 64, S-247 36, S. Sandby, Sweden"
+    }
+  ]
+}

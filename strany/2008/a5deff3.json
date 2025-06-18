@@ -1,0 +1,17 @@
+{
+  "nazev": "Strana podnikatelů a živnostníků",
+  "zkratka": "„SPŽ\"",
+  "sidlo": "120 00 Praha, Jaromírova 663/42",
+  "den_registrace": "2008-07-10",
+  "cislo_registrace": "MV-11513-5/VS-2008",
+  "identifikacni_cislo": "71339507",
+  "statutarni_organ": "Předseda.",
+  "osoby": [
+    {
+      "role": "předseda",
+      "jmeno": "Jaroslav Samek",
+      "datum_narozeni": "1935-05-31",
+      "adresa": "Jaromírova 663/42, 128 00 Praha"
+    }
+  ]
+}

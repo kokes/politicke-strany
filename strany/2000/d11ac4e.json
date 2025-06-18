@@ -1,0 +1,41 @@
+{
+  "nazev": "SNK Evropští demokraté",
+  "zkratka": "SNK ED",
+  "sidlo": "530 21 Pardubice, Pernštýnské náměstí 117",
+  "den_registrace": "2000-08-24",
+  "cislo_registrace": "VS/1-1/4900/2000",
+  "identifikacni_cislo": "70869553",
+  "statutarni_organ": "Předsednictvo.Právní úkony ve všech věcech týk. se nákupu, prodeje nebo zatěžov.nemovit.,ve věc.směneč.,úvěrů a půjček a udělení plné moci v pís.formě činí vždy dva čl.předs.společ.; z nichž jeden je předseda či místopředseda strany ostatní práv.úk.činí kterýk.jeho člen samostatně.",
+  "osoby": [
+    {
+      "role": "předseda",
+      "jmeno": "René  Živný",
+      "datum_narozeni": "1974-03-10",
+      "adresa": "Karla IV. 2591, 530 02 Pardubice"
+    },
+    {
+      "role": "místopředsedkyně",
+      "jmeno": "Zdeňka Marková",
+      "datum_narozeni": "1956-06-22",
+      "adresa": "Karníkova 1148, 592 31 Nové Město na Moravě"
+    },
+    {
+      "role": "člen",
+      "jmeno": "Stanislav Boloňský",
+      "datum_narozeni": "1948-08-10",
+      "adresa": "Školní nám. 492, 252 63 Roztoky"
+    },
+    {
+      "role": "člen",
+      "jmeno": "Zdeněk Jirsa",
+      "datum_narozeni": "1953-08-08",
+      "adresa": "588 45 Dolní Cerekev 201"
+    },
+    {
+      "role": "člen",
+      "jmeno": "Petr Řezníček",
+      "datum_narozeni": "1951-02-23",
+      "adresa": "Jungmannovo nábřeží 399, 537 01 Chrudim"
+    }
+  ]
+}

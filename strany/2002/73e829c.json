@@ -1,0 +1,23 @@
+{
+  "nazev": "Dělnická strana",
+  "zkratka": "DS",
+  "sidlo": "161 00 Praha 6, Ciolkovského  853",
+  "den_registrace": "2002-12-20",
+  "cislo_registrace": "VS-7089/SDR/1-2002",
+  "identifikacni_cislo": "26614278",
+  "statutarni_organ": "Předseda a 1. místopředseda kteří jednají samostatně.",
+  "osoby": [
+    {
+      "role": "předseda",
+      "jmeno": "Tomáš Vandas",
+      "datum_narozeni": "1969-03-03",
+      "adresa": "270 23 Velká Buková 64"
+    },
+    {
+      "role": "1. místopředseda",
+      "jmeno": "Jiří  Štěpánek",
+      "datum_narozeni": "1972-03-05",
+      "adresa": "Ciolkovského 853/1, 161 00 Praha"
+    }
+  ]
+}

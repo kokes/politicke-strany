@@ -1,0 +1,33 @@
+{
+  "nazev": "Sdružení nezávislých kandidátů města České Budějovice",
+  "zkratka": "SNKČB",
+  "sidlo": "České Budějovice, 0",
+  "den_registrace": "1994-09-12",
+  "cislo_registrace": "II/s-OS/1-904/94",
+  "identifikacni_cislo": "60075872",
+  "statutarni_organ": "Za SNK ČB jednají vždy 2 funkcionáři, a to buď předseda a místopředseda společně nebo jednatel a pokladník společně.",
+  "osoby": [
+    {
+      "role": "předseda",
+      "jmeno": "PhDr. Jaromír  Procházka",
+      "datum_narozeni": "1951-11-28",
+      "adresa": "nám. Přemysla Otakara II. 50/14, 370 01 České Budějovice"
+    },
+    {
+      "role": "místopředseda",
+      "jmeno": "Ing. Roman  Skočdopole",
+      "adresa": "/, /"
+    },
+    {
+      "role": "pokladník",
+      "jmeno": "Miroslav Pokorný",
+      "adresa": "/, /"
+    },
+    {
+      "role": "jednatel",
+      "jmeno": "Jiří Milisdörfer",
+      "datum_narozeni": "1945-05-07",
+      "adresa": "Na Nábřeží 661/15, 370 01 České Budějovice"
+    }
+  ]
+}

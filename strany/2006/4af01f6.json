@@ -1,0 +1,17 @@
+{
+  "nazev": "4 VIZE - www.4vize.cz",
+  "zkratka": "4 VIZE",
+  "sidlo": "252 64 Velké Přílepy, Máchova 685",
+  "den_registrace": "2006-03-08",
+  "cislo_registrace": "VS-1708/SDR/1-2006",
+  "identifikacni_cislo": "27023842",
+  "statutarni_organ": "Hlavní koordinátor.",
+  "osoby": [
+    {
+      "role": "Koordinátor",
+      "jmeno": "Zdeněk Macura",
+      "datum_narozeni": "1974-05-06",
+      "adresa": "Máchova 685, 252 64 Velké Přílepy"
+    }
+  ]
+}

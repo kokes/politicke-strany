@@ -1,0 +1,65 @@
+{
+  "nazev": "Starostové pro Liberecký kraj",
+  "zkratka": "SLK",
+  "sidlo": "463 34 Hrádek nad Nisou, Turistická 197",
+  "den_registrace": "2008-04-10",
+  "cislo_registrace": "MV-26612-4/VS-2008",
+  "identifikacni_cislo": "71339485",
+  "statutarni_organ": "Představenstvo hnutí, za které jednají  společně  dva  členové,  z nichž jeden je předsedou a druhý členem představenstva anebo společně tři členové představenstva, z nichž jeden je místopředsedou hnutí a další dva jsou členy představenstva hnutí.",
+  "osoby": [
+    {
+      "role": "předseda",
+      "jmeno": "Martin  Půta",
+      "datum_narozeni": "1971-09-13",
+      "adresa": "Turistická 197, 463 34 Hrádek nad Nisou"
+    },
+    {
+      "role": "1. místopředseda",
+      "jmeno": "Ing. Jan  Sviták",
+      "datum_narozeni": "1974-08-20",
+      "adresa": "471 15 Prysk 101"
+    },
+    {
+      "role": "místopředsedkyně",
+      "jmeno": "Ing. Květa Vinklátová",
+      "datum_narozeni": "1965-09-13",
+      "adresa": "Hrdinů 113/21, 460 01 Liberec"
+    },
+    {
+      "role": "místopředseda",
+      "jmeno": "Ing. Michael  Canov",
+      "datum_narozeni": "1960-12-10",
+      "adresa": "Střelecký vrch 666, 463 31 Chrastava"
+    },
+    {
+      "role": "místopředseda",
+      "jmeno": "Ing. Tomáš Hocke",
+      "datum_narozeni": "1975-07-23",
+      "adresa": "Josefa Štrégla 2164, 511 01 Turnov"
+    },
+    {
+      "role": "místopředseda",
+      "jmeno": "Mgr. Jiří Ulvr",
+      "datum_narozeni": "1972-05-05",
+      "adresa": "512 33 Studenec 399"
+    },
+    {
+      "role": "místopředseda",
+      "jmeno": "Jiří Černý",
+      "datum_narozeni": "1984-05-07",
+      "adresa": "468 47 Zlatá Olešnice 188"
+    },
+    {
+      "role": "místopředseda",
+      "jmeno": "Mgr. Daniel David",
+      "datum_narozeni": "1971-09-15",
+      "adresa": "468 11 Janov nad Nisou 461"
+    },
+    {
+      "role": "místopředseda",
+      "jmeno": "Ing. Radek Lípa",
+      "datum_narozeni": "1979-12-08",
+      "adresa": "470 02 Zákupy 44"
+    }
+  ]
+}

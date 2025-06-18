@@ -1,0 +1,35 @@
+{
+  "nazev": "Klíčové hnutí",
+  "zkratka": "KH",
+  "sidlo": "120 00 Praha, Ječná 529/29",
+  "den_registrace": "2008-01-04",
+  "cislo_registrace": "MV-246-2/VS-2008",
+  "identifikacni_cislo": "71339426",
+  "statutarni_organ": "Předsednictvo, za které jednají předseda nebo místopředsedové.",
+  "osoby": [
+    {
+      "role": "předseda",
+      "jmeno": "Taťana Fischerová",
+      "datum_narozeni": "1947-06-06",
+      "adresa": "Ječná 529/29, 120 00 Praha"
+    },
+    {
+      "role": "místopředseda",
+      "jmeno": "Barbora Seifertová",
+      "datum_narozeni": "1962-11-25",
+      "adresa": "Šternova 144/17, 158 00 Praha"
+    },
+    {
+      "role": "člen",
+      "jmeno": "Ondřej  Louka",
+      "datum_narozeni": "1982-08-24",
+      "adresa": "Ševčíkova 3056, 407 47 Varnsdorf"
+    },
+    {
+      "role": "členka",
+      "jmeno": "Monika Šatavová",
+      "datum_narozeni": "1964-09-19",
+      "adresa": "U Malvazinky 2255/15, 150 00 Praha"
+    }
+  ]
+}

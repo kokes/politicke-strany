@@ -1,0 +1,28 @@
+{
+  "nazev": "Demokraté 92",
+  "zkratka": "D 92",
+  "sidlo": "Praha",
+  "den_registrace": "1992-03-13",
+  "cislo_registrace": "VSC/1-406/92",
+  "identifikacni_cislo": "45248541",
+  "statutarni_organ": "Představenstvo, za které jedná předseda, místopředseda a hospodář spolu s jedním dalším členem představenstva.",
+  "osoby": [
+    {
+      "role": "předseda",
+      "jmeno": "Stanislav Musil",
+      "datum_narozeni": "1993-04-25",
+      "adresa": "Radnická 1004, 592 31 Nové Město na Moravě"
+    },
+    {
+      "role": "člen představenstva",
+      "jmeno": "Miroslav  Janatka",
+      "datum_narozeni": "1998-02-07",
+      "adresa": "468 49 Kořenov"
+    },
+    {
+      "role": "člen představenstva",
+      "jmeno": "RNDr. Mirko  Vaněček",
+      "adresa": "Biskupova 68, 130 00 Praha 3"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "nazev": "Hnutí 90",
+  "zkratka": "H 90",
+  "sidlo": "102 00 Praha, Azalková 1216/29",
+  "den_registrace": "1991-01-24",
+  "cislo_registrace": "VSP/1-3848/90",
+  "identifikacni_cislo": "None",
+  "statutarni_organ": "Předseda a 1. místopředseda.",
+  "osoby": [
+    {
+      "role": "předseda",
+      "jmeno": "Ing. Pavel  Poláček, CSc.",
+      "adresa": "/, /"
+    },
+    {
+      "role": "1. místopředseda",
+      "jmeno": "MUDr. Zdeněk  Pinta",
+      "datum_narozeni": "1931-04-23",
+      "adresa": "Na hroudě 1864/69, 100 00 Praha"
+    }
+  ]
+}

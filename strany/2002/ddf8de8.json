@@ -1,0 +1,17 @@
+{
+  "nazev": "Volba pro budoucnost",
+  "zkratka": "VPB",
+  "sidlo": "320 00 Plzeň, Klatovská 128",
+  "den_registrace": "2002-03-28",
+  "cislo_registrace": "VS-1777/SDR/1-2002",
+  "identifikacni_cislo": "26587891",
+  "statutarni_organ": "Předsednictvo, jménem kterého jedná předseda samostatně nebo dva členové předsednictva současně.",
+  "osoby": [
+    {
+      "role": "předseda",
+      "jmeno": "Daniel Zajíc",
+      "datum_narozeni": "1961-08-10",
+      "adresa": "Thámova 1089/4, 301 00 Plzeň"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "nazev": "Evropská demokratická strana",
+  "zkratka": "EDS",
+  "sidlo": "160 00 Praha, Na baště sv. Jiří 259/9",
+  "den_registrace": "2008-11-19",
+  "cislo_registrace": "MV-83369-5/VS-2008",
+  "identifikacni_cislo": "71339566",
+  "statutarni_organ": "Předsednictvo, které jedná vždy společně dvěma členy, z nichž alespoň jeden je předsedou, druhý členem předsednictva.",
+  "osoby": [
+    {
+      "role": "předseda",
+      "jmeno": "Jana  Hybášková",
+      "datum_narozeni": "1965-06-26",
+      "adresa": "Na baště sv. Jiří 259/9, 160 00 Praha"
+    },
+    {
+      "role": "1. místopředseda",
+      "jmeno": "RNDr. Václav Šrámek",
+      "datum_narozeni": "1950-08-05",
+      "adresa": "Jerevanská 727/4, 100 00 Praha"
+    },
+    {
+      "role": "místopředseda",
+      "jmeno": "Jaroslav Čapek",
+      "adresa": ""
+    }
+  ]
+}

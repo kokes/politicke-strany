@@ -1,0 +1,17 @@
+{
+  "nazev": "Demokratická unie",
+  "zkratka": "DEU",
+  "sidlo": "190 14 Praha, U trativodu 358",
+  "den_registrace": "1994-03-07",
+  "cislo_registrace": "II/s-OS/1-207/94",
+  "identifikacni_cislo": "61379999",
+  "statutarni_organ": "Předsednictvo, za které jedná předseda.",
+  "osoby": [
+    {
+      "role": "předseda",
+      "jmeno": "Ing. Ratibor  Majzlík",
+      "datum_narozeni": "1945-11-15",
+      "adresa": "U trativodu 358, 190 14 Praha"
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "nazev": "Občanská liga FORUM",
+  "zkratka": "OLF",
+  "sidlo": "184 00 Praha , Hrušovanské nám. 1",
+  "den_registrace": "1998-08-24",
+  "cislo_registrace": "VS/1-1/4813/98",
+  "identifikacni_cislo": "69061564",
+  "statutarni_organ": "Za představenstvo jednají vždy dva členové společně, z nichž jeden musí být předseda nebo místopředseda představenstva.",
+  "osoby": [
+    {
+      "role": "předseda",
+      "jmeno": "Ing. Dalibor  Stejskal",
+      "datum_narozeni": "1953-07-16",
+      "adresa": "Spořická 748/5A, 184 00 Praha"
+    },
+    {
+      "role": "místopředseda",
+      "jmeno": "Miroslav Vokurka",
+      "datum_narozeni": "1952-02-16",
+      "adresa": "Osecká 547/12, 184 00 Praha"
+    },
+    {
+      "role": "člen představenstva",
+      "jmeno": "Ing. Michael  Bohin",
+      "datum_narozeni": "1970-01-08",
+      "adresa": "Doubická 776/4, 184 00 Praha"
+    },
+    {
+      "role": "člen představenstva",
+      "jmeno": "Antonín  Matějka",
+      "datum_narozeni": "1948-12-21",
+      "adresa": "Prunéřovská 309/11, 184 00 Praha"
+    },
+    {
+      "role": "člen představenstva",
+      "jmeno": "Jaroslava  Plevová",
+      "datum_narozeni": "1950-05-27",
+      "adresa": "Pod zámečkem 516/6, 184 00 Praha"
+    }
+  ]
+}

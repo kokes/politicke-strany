@@ -1,0 +1,16 @@
+{
+  "nazev": "Strana drobných podnikatelů",
+  "zkratka": "SDP",
+  "sidlo": "160 00 Praha, Bubenečská 382/43",
+  "den_registrace": "1990-09-26",
+  "cislo_registrace": "VSP/4-2289/90",
+  "identifikacni_cislo": "None",
+  "statutarni_organ": "předseda, sekretář",
+  "osoby": [
+    {
+      "role": "předseda",
+      "jmeno": "Zdeněk  Škoda",
+      "adresa": "dr. Zikmunda Wintra 362/6, 160 00 Praha"
+    }
+  ]
+}

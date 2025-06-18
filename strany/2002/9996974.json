@@ -1,0 +1,29 @@
+{
+  "nazev": "„SONOB - sdružení ochrany nájemníků a ostatního bydlení\"",
+  "zkratka": "SONOB",
+  "sidlo": "110 00 Praha, Skořepka 423/9",
+  "den_registrace": "2002-02-19",
+  "cislo_registrace": "VS-4561/SDR/1-2002",
+  "identifikacni_cislo": "26599210",
+  "statutarni_organ": "Výbor, za který jedná předseda.",
+  "osoby": [
+    {
+      "role": "předseda",
+      "jmeno": "JUDr. Vladimír Hruška",
+      "datum_narozeni": "1953-10-20",
+      "adresa": "Skořepka 423/9, 110 00 Praha"
+    },
+    {
+      "role": "člen výboru",
+      "jmeno": "Hana Sieglová",
+      "datum_narozeni": "1961-06-12",
+      "adresa": "Biskupský dvůr 1147/6, 110 00 Praha"
+    },
+    {
+      "role": "člen výboru",
+      "jmeno": "Alena  Šimková",
+      "datum_narozeni": "1955-10-15",
+      "adresa": "381 01 Bohdalovice 35"
+    }
+  ]
+}

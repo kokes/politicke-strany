@@ -1,0 +1,29 @@
+{
+  "nazev": "Nestraníci",
+  "zkratka": "NK",
+  "sidlo": "565 01 Choceň, K. H. Borovského 672",
+  "den_registrace": "2006-05-29",
+  "cislo_registrace": "VS-3350/SDR/1-2006",
+  "identifikacni_cislo": "27034500",
+  "statutarni_organ": "Předsednictvo, za které jedná a podepisuje vždy předseda společně s alespoň jedním z místopředsedů.",
+  "osoby": [
+    {
+      "role": "předsedkyně",
+      "jmeno": "Věra  Uhlířová",
+      "datum_narozeni": "1959-12-10",
+      "adresa": "K. H. Borovského 672, 565 01 Choceň"
+    },
+    {
+      "role": "místopředseda",
+      "jmeno": "David Šimek",
+      "datum_narozeni": "1977-03-21",
+      "adresa": "Gorkého 2231/35E, 568 02 Svitavy"
+    },
+    {
+      "role": "místopředseda",
+      "jmeno": "Petr Hájek",
+      "datum_narozeni": "1967-03-07",
+      "adresa": "Hradební 37, 562 01 Ústí nad Orlicí"
+    }
+  ]
+}

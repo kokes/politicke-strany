@@ -1,0 +1,41 @@
+{
+  "nazev": "Strana za životní jistoty",
+  "zkratka": "SŽJ",
+  "sidlo": "120 00 Praha, Trojická 437/20",
+  "den_registrace": "1990-03-14",
+  "cislo_registrace": "AVS/1-720/90",
+  "identifikacni_cislo": "00499421",
+  "statutarni_organ": "Statutární orgán strany; předseda a místopředsedové. V neběžných záležitostech (politické dohody, půjčky apod.) je potřeba podpisu tří statutárních zástžupců, jeden z nich vždy předseda.",
+  "osoby": [
+    {
+      "role": "předseda",
+      "jmeno": "Mgr. Marcela Kozerová",
+      "datum_narozeni": "1945-01-29",
+      "adresa": "Družby 340, 530 09 Pardubice"
+    },
+    {
+      "role": "1. místopředseda",
+      "jmeno": "Miroslav Neubert",
+      "datum_narozeni": "1938-06-12",
+      "adresa": "Osiková 3219, 415 01 Teplice"
+    },
+    {
+      "role": "místopředseda",
+      "jmeno": "Ing. Zdeněk Mašek, CSc.",
+      "datum_narozeni": "1934-07-07",
+      "adresa": "Zeyerova 923/12, 779 00 Olomouc"
+    },
+    {
+      "role": "místopředseda",
+      "jmeno": "Ing. Alexej Weiss",
+      "datum_narozeni": "1921-10-31",
+      "adresa": "U Ladronky 1162/44, 169 00 Praha"
+    },
+    {
+      "role": "místopředseda",
+      "jmeno": "Mgr. Miroslava Zatloukalová",
+      "datum_narozeni": "1933-01-09",
+      "adresa": "Staňkova 232/16, 700 30 Ostrava"
+    }
+  ]
+}

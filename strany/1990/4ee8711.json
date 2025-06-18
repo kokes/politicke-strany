@@ -1,0 +1,29 @@
+{
+  "nazev": "Celostátní aktiv občanů",
+  "zkratka": "CAO",
+  "sidlo": "Praha 1",
+  "den_registrace": "1990-03-20",
+  "cislo_registrace": "AVS/1-75/90",
+  "identifikacni_cislo": "00505978",
+  "statutarni_organ": "předseda, místopředseda, tajemník",
+  "osoby": [
+    {
+      "role": "předseda",
+      "jmeno": "Ing. Martin  Žežula",
+      "datum_narozeni": "1929-12-03",
+      "adresa": "Obránců míru  123, 160 00 Praha 6"
+    },
+    {
+      "role": "místopředseda",
+      "jmeno": "doc. dr. Ján Liguš",
+      "datum_narozeni": "1941-07-02",
+      "adresa": "Nechvílova 1838/15, 148 00 Praha"
+    },
+    {
+      "role": "tajemník",
+      "jmeno": "Julius Kolín",
+      "datum_narozeni": "1970-11-11",
+      "adresa": "Polská 2553, 272 01 Kladno"
+    }
+  ]
+}

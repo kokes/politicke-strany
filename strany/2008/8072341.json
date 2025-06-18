@@ -1,0 +1,17 @@
+{
+  "nazev": "ALTERNATIVA",
+  "zkratka": "ALTERNATIVA",
+  "sidlo": "360 01 Karlovy Vary, Jiráskova 1375/11",
+  "den_registrace": "2008-04-02",
+  "cislo_registrace": "MV-27031-4/VS-2008",
+  "identifikacni_cislo": "71339451",
+  "statutarni_organ": "manažer",
+  "osoby": [
+    {
+      "role": "manažer",
+      "jmeno": "Ing. Jiří  Kotek",
+      "datum_narozeni": "1957-10-12",
+      "adresa": "Vrchlického 1375/2, 360 01 Karlovy Vary"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "nazev": "Spojení demokraté - Sdružení nezávislých",
+  "zkratka": "SD-SN",
+  "sidlo": "140 00 Praha, Lounských 791/10",
+  "den_registrace": "2002-07-18",
+  "cislo_registrace": "VS-4585/SDR/1-2002",
+  "identifikacni_cislo": "26595940",
+  "statutarni_organ": "Předsednictvo, a to vždy buď předseda nebo místopředseda strany.",
+  "osoby": [
+    {
+      "role": "předsedkyně",
+      "jmeno": "Alena Dernerová",
+      "datum_narozeni": "1958-09-13",
+      "adresa": "Jaroslava Seiferta 2158/12, 434 01 Most"
+    },
+    {
+      "role": "místopředseda",
+      "jmeno": "Petr Heinzl",
+      "datum_narozeni": "1981-07-17",
+      "adresa": "Veselá 13, 512 63 Semily"
+    },
+    {
+      "role": "členka předsednictva",
+      "jmeno": "Zuzana Jiříková",
+      "datum_narozeni": "1962-05-07",
+      "adresa": "Sklářská 210, 417 23 Košťany"
+    },
+    {
+      "role": "členka předsednictva",
+      "jmeno": "Dana Tichá",
+      "datum_narozeni": "1960-12-24",
+      "adresa": "Růžová 85/3, 390 01 Tábor"
+    }
+  ]
+}
