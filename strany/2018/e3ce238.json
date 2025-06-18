@@ -1,0 +1,17 @@
+{
+  "nazev": "Sdružení pro Místní Správu",
+  "zkratka": "SMS",
+  "sidlo": "190 11 Praha, Podnikatelská 539",
+  "den_registrace": "2018-06-18",
+  "cislo_registrace": "MV-64441-4/VS-2018",
+  "identifikacni_cislo": "07218443",
+  "statutarni_organ": "Předseda.",
+  "osoby": [
+    {
+      "role": "předseda",
+      "jmeno": "Ing. Michaela Vondráčková, Ph.D.",
+      "datum_narozeni": "1962-03-20",
+      "adresa": "Listopadová 282, 190 12 Praha"
+    }
+  ]
+}

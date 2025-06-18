@@ -1,0 +1,29 @@
+{
+  "nazev": "Změna pro Prahu 12",
+  "zkratka": "ZPP 12",
+  "sidlo": "143 00 Praha, K dolům 73/65",
+  "den_registrace": "2022-06-06",
+  "cislo_registrace": "MV-98667-3/OV-2022",
+  "identifikacni_cislo": "17213754",
+  "statutarni_organ": "Výbor, za který jedná a podepisuje předseda.",
+  "osoby": [
+    {
+      "role": "předseda",
+      "jmeno": "Michael Valášek, prof.",
+      "datum_narozeni": "1956-03-25",
+      "adresa": "Palmetová 2104/40, 143 00 Praha"
+    },
+    {
+      "role": "místopředseda",
+      "jmeno": "Ing. Jiří Flieger",
+      "datum_narozeni": "1967-04-08",
+      "adresa": "Na Havránce 395/37, 143 00 Praha"
+    },
+    {
+      "role": "člen",
+      "jmeno": "Ing. Jindřich Bašta",
+      "datum_narozeni": "1957-05-24",
+      "adresa": "Levského 3210/5, 143 00 Praha"
+    }
+  ]
+}

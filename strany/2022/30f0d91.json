@@ -1,0 +1,29 @@
+{
+  "nazev": "ZA SPORT A ZDRAVÝ MĚLNÍK",
+  "zkratka": "ZSZME",
+  "sidlo": "276 01 Mělník, Palackého 138/1",
+  "den_registrace": "2022-07-08",
+  "cislo_registrace": "MV-112005-5/OV-2022",
+  "identifikacni_cislo": "17313813",
+  "statutarni_organ": "Předsednictvo, za které jedná předseda, v jeho nepřítomnosti místopředseda spolu s dalším členem předsednictva.",
+  "osoby": [
+    {
+      "role": "předseda",
+      "jmeno": "Ing. Martin Spurný",
+      "datum_narozeni": "1964-08-20",
+      "adresa": "277 41 Kly 69"
+    },
+    {
+      "role": "místopředseda",
+      "jmeno": "Milan Němec",
+      "datum_narozeni": "1955-10-31",
+      "adresa": "Jílová 4164, 276 01 Mělník"
+    },
+    {
+      "role": "člen",
+      "jmeno": "Rudolf Kraj",
+      "datum_narozeni": "1977-12-05",
+      "adresa": "Pod Chloumečkem 3606, 276 01 Mělník"
+    }
+  ]
+}

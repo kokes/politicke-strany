@@ -1,0 +1,23 @@
+{
+  "nazev": "Vize národních socialistů",
+  "zkratka": "VIZE-NS",
+  "sidlo": "411 56 Bohušovice nad Ohří, U Stadionu 297",
+  "den_registrace": "2018-07-11",
+  "cislo_registrace": "MV-74505-4/VS-2018",
+  "identifikacni_cislo": "07283911",
+  "statutarni_organ": "Předseda společně s výkonným tajemníkem, samostatně jedná předseda v případech zavazování hnutí do výše 200.000,- Kč, výkonný tajemník může jednat samostatně v případech zavazování hnutí do výše 100.000,- Kč.",
+  "osoby": [
+    {
+      "role": "předseda",
+      "jmeno": "Jan Vondrouš",
+      "datum_narozeni": "1978-04-07",
+      "adresa": "U Stadionu 297, 411 56 Bohušovice nad Ohří"
+    },
+    {
+      "role": "výkonná tajemnice",
+      "jmeno": "Anna Voříšková",
+      "datum_narozeni": "1992-12-28",
+      "adresa": "Matěje Kopeckého 406/1, 400 03 Ústí nad Labem"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "nazev": "Naše Obec",
+  "zkratka": "NAŠE",
+  "sidlo": "109 00 Praha, Boloňská 602",
+  "den_registrace": "2018-07-23",
+  "cislo_registrace": "MV- 74479-4/VS-2018",
+  "identifikacni_cislo": "07312946",
+  "statutarni_organ": "Rada, za kterou jedná předseda. Jde-li o záležitosti zavazující hnutí nad částku 100.000 Kč. jedná spolu s jedním z místopředsedů.",
+  "osoby": [
+    {
+      "role": "předseda",
+      "jmeno": "",
+      "adresa": ""
+    },
+    {
+      "role": "1. místopředseda",
+      "jmeno": "",
+      "adresa": ""
+    }
+  ]
+}

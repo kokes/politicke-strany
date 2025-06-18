@@ -1,0 +1,17 @@
+{
+  "nazev": "JAUNER Československo 2018",
+  "zkratka": "JAUNER",
+  "sidlo": "779 00 Olomouc, Partyzánská 698/6A",
+  "den_registrace": "2018-06-14",
+  "cislo_registrace": "MV-50831-13/VS-2018",
+  "identifikacni_cislo": "07213328",
+  "statutarni_organ": "Předseda.",
+  "osoby": [
+    {
+      "role": "předseda",
+      "jmeno": "Václav Šimek",
+      "datum_narozeni": "1972-02-10",
+      "adresa": "Partyzánská 698/6A, 779 00 Olomouc"
+    }
+  ]
+}

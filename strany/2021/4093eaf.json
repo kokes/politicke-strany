@@ -1,0 +1,35 @@
+{
+  "nazev": "PŘÍSAHA občanské hnutí",
+  "zkratka": "PŘÍSAHA",
+  "sidlo": "128 00 Praha, Horská 2106/2b",
+  "den_registrace": "2021-04-08",
+  "cislo_registrace": "MV- 54127-2/OV-2021",
+  "identifikacni_cislo": "10742409",
+  "statutarni_organ": "Předsednictvo výkonné rady, za kterou jedná předseda.",
+  "osoby": [
+    {
+      "role": "předseda",
+      "jmeno": "Mgr. Róbert Šlachta",
+      "datum_narozeni": "1971-07-22",
+      "adresa": "Šumická 688, 691 23 Pohořelice"
+    },
+    {
+      "role": "1. Místopředseda",
+      "jmeno": "Mgr. Jaroslav Pelc",
+      "datum_narozeni": "1971-05-05",
+      "adresa": "Bory Kříže 994, 272 04 Kladno"
+    },
+    {
+      "role": "místopředsedkyně",
+      "jmeno": "Nikola Bartůšek",
+      "datum_narozeni": "1985-05-11",
+      "adresa": "Netolická 1146/6, 370 05 České Budějovice"
+    },
+    {
+      "role": "místopředseda",
+      "jmeno": "Petr Vokřál",
+      "datum_narozeni": "1964-01-19",
+      "adresa": "Jana Uhra 178/24, 602 00 Brno"
+    }
+  ]
+}

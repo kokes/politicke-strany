@@ -1,0 +1,29 @@
+{
+  "nazev": "Pro Česko",
+  "zkratka": "PROČ",
+  "sidlo": "530 02 Pardubice, třída Míru 70",
+  "den_registrace": "2019-03-12",
+  "cislo_registrace": "MV-27075-4/VS-2019",
+  "identifikacni_cislo": "07979754",
+  "statutarni_organ": "Předsednictvo, za které jedná samostatně předseda nebo společně místopředseda a další člen předsednictva.",
+  "osoby": [
+    {
+      "role": "předseda",
+      "jmeno": "Radek Kňava",
+      "datum_narozeni": "1981-01-21",
+      "adresa": "třída Míru 70, 530 02 Pardubice"
+    },
+    {
+      "role": "místopředseda",
+      "jmeno": "Lukáš Doubek",
+      "datum_narozeni": "1983-06-04",
+      "adresa": "Baštecká 179, 281 23 Starý Kolín"
+    },
+    {
+      "role": "členka",
+      "jmeno": "Hana Filipová",
+      "datum_narozeni": "1970-02-16",
+      "adresa": "533 04 Sezemice 18"
+    }
+  ]
+}

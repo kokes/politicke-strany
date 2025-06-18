@@ -1,0 +1,29 @@
+{
+  "nazev": "SLAVIČÍN 2018 - sdružení nezávislých kandidátů",
+  "zkratka": "SLAVIČÍN 2018",
+  "sidlo": "763 21 Slavičín, Cihlářská 776",
+  "den_registrace": "2022-07-08",
+  "cislo_registrace": "MV-114294-4/OV-2022",
+  "identifikacni_cislo": "17313155",
+  "statutarni_organ": "Předsednictvo, za které jedná předseda.",
+  "osoby": [
+    {
+      "role": "předsedkyně",
+      "jmeno": "Ing. Zuzana Matulová",
+      "datum_narozeni": "1989-02-24",
+      "adresa": "Cihlářská 776, 763 21 Slavičín"
+    },
+    {
+      "role": "místopředsedkyně",
+      "jmeno": "Bc. Marie Studeníková",
+      "datum_narozeni": "1967-08-29",
+      "adresa": "Žižkovská 90, 763 21 Slavičín"
+    },
+    {
+      "role": "místopředseda",
+      "jmeno": "Jaroslav Mana",
+      "datum_narozeni": "1987-08-17",
+      "adresa": "762 32 Slavičín 142"
+    }
+  ]
+}

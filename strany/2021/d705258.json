@@ -1,0 +1,23 @@
+{
+  "nazev": "Fakt Brno",
+  "zkratka": "Fakt Brno",
+  "sidlo": "613 00 Brno, Merhautova 836/64",
+  "den_registrace": "2021-06-16",
+  "cislo_registrace": "MV-83415-4/OV-2021",
+  "identifikacni_cislo": "10954899",
+  "statutarni_organ": "Lídr a tajemník, každý jedná samostatně.",
+  "osoby": [
+    {
+      "role": "lídr hnutí",
+      "jmeno": "Ing. David Pokorný",
+      "datum_narozeni": "1995-04-20",
+      "adresa": "Jugoslávská 588/18, 613 00 Brno"
+    },
+    {
+      "role": "tajemník hnutí",
+      "jmeno": "Bc. Marek Šoška",
+      "datum_narozeni": "1998-03-25",
+      "adresa": "Jugoslávská 588/18, 613 00 Brno"
+    }
+  ]
+}

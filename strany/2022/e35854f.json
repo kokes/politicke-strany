@@ -1,0 +1,17 @@
+{
+  "nazev": "Hnutí pro Žabiny",
+  "zkratka": "HpŽ",
+  "sidlo": "616 00 Brno, Navrátilova 87/22",
+  "den_registrace": "2022-07-14",
+  "cislo_registrace": "MV-114749-4/OV-2022",
+  "identifikacni_cislo": "17331722",
+  "statutarni_organ": "Předseda.",
+  "osoby": [
+    {
+      "role": "předseda",
+      "jmeno": "Mgr. Vít Cvrček",
+      "datum_narozeni": "1966-04-03",
+      "adresa": "Březinova 747/29A, 616 00 Brno"
+    }
+  ]
+}

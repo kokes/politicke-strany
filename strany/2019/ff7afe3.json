@@ -1,0 +1,17 @@
+{
+  "nazev": "Jednotní",
+  "zkratka": "JEDNOTNÍ",
+  "sidlo": "747 74 Holasovice 218",
+  "den_registrace": "2019-03-15",
+  "cislo_registrace": "MV-38864-3/VS-2019",
+  "identifikacni_cislo": "07991070",
+  "statutarni_organ": "Předseda.",
+  "osoby": [
+    {
+      "role": "předseda",
+      "jmeno": "Martin Šatný",
+      "datum_narozeni": "1977-06-22",
+      "adresa": "Antonína Sovy 1210/14, 747 05 Opava"
+    }
+  ]
+}

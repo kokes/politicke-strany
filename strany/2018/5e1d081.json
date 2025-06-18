@@ -1,0 +1,29 @@
+{
+  "nazev": "Hnutí PRO Hodonín",
+  "zkratka": "PRO-HOD",
+  "sidlo": "695 01 Hodonín, Na Pískách 4117/4",
+  "den_registrace": "2018-06-19",
+  "cislo_registrace": "MV-59343-4/VS-2018",
+  "identifikacni_cislo": "07223471",
+  "statutarni_organ": "Předsednictvo, za které jedná předseda.",
+  "osoby": [
+    {
+      "role": "předseda",
+      "jmeno": "Libor Střecha",
+      "datum_narozeni": "1974-04-05",
+      "adresa": "Na Pískách 4117/4, 695 01 Hodonín"
+    },
+    {
+      "role": "místopředseda",
+      "jmeno": "Petr Uřičář",
+      "datum_narozeni": "1981-02-12",
+      "adresa": "Lužní 3637/1, 695 01 Hodonín"
+    },
+    {
+      "role": "člen",
+      "jmeno": "Pavel Dvořáček",
+      "datum_narozeni": "1974-02-14",
+      "adresa": "tř. Dukelských hrdinů 1201/19, 695 01 Hodonín"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "nazev": "Správná Volba",
+  "zkratka": "SpV",
+  "sidlo": "430 03 Chomutov, Dobrovského 5706",
+  "den_registrace": "2022-04-27",
+  "cislo_registrace": "MV-99816-10/OV-2021",
+  "identifikacni_cislo": "17084997",
+  "statutarni_organ": "Předsednictvo, za které jedná předseda, předsednictvem pověřený člen předsednictva.",
+  "osoby": [
+    {
+      "role": "předseda",
+      "jmeno": "Ing. Pavel Umlauf",
+      "datum_narozeni": "1970-04-18",
+      "adresa": "Dobrovského 5706, 430 03 Chomutov"
+    },
+    {
+      "role": "místopředseda",
+      "jmeno": "MUDr. Ota Staňo",
+      "datum_narozeni": "1957-03-21",
+      "adresa": "Edisonova 3428/8, 430 01 Chomutov"
+    },
+    {
+      "role": "místopředseda",
+      "jmeno": "Ing. Miloň Houda",
+      "datum_narozeni": "1968-05-19",
+      "adresa": "Březenecká 4750, 430 04 Chomutov"
+    }
+  ]
+}

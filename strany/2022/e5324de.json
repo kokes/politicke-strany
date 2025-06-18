@@ -1,0 +1,29 @@
+{
+  "nazev": "Mourek – politická strana",
+  "zkratka": "Mourek",
+  "sidlo": "180 00 Praha, Františka Kadlece 2378/32",
+  "den_registrace": "2022-05-27",
+  "cislo_registrace": "MV-96390-2/OV-2022",
+  "identifikacni_cislo": "17187087",
+  "statutarni_organ": "Předsednictvo, za které jedná společně předseda a jeden z místopředsedů nebo předsednictvo společně.",
+  "osoby": [
+    {
+      "role": "předseda",
+      "jmeno": "Petr Špringr",
+      "datum_narozeni": "1984-08-30",
+      "adresa": "Františka Kadlece 2378/32, 180 00 Praha"
+    },
+    {
+      "role": "místopředsedkyně",
+      "jmeno": "Kristina Špringr",
+      "datum_narozeni": "1986-08-12",
+      "adresa": "Křižíkova 452/64, 186 00 Praha"
+    },
+    {
+      "role": "místopředseda",
+      "jmeno": "Ondřej Havlena",
+      "datum_narozeni": "1984-04-12",
+      "adresa": "náměstí Dr. Václava Holého 1048/7, 180 00 Praha"
+    }
+  ]
+}

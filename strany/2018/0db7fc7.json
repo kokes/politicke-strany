@@ -1,0 +1,29 @@
+{
+  "nazev": "VIZE pro Česko",
+  "zkratka": "VIZE",
+  "sidlo": "253 01 Chýně, Modřínová 496",
+  "den_registrace": "2018-07-18",
+  "cislo_registrace": "MV-78360-2/VS-2018",
+  "identifikacni_cislo": "07301600",
+  "statutarni_organ": "Republiková rada, za kterou jedná předseda společně s místopředsedou nebo předseda společně s členem rady.",
+  "osoby": [
+    {
+      "role": "předseda",
+      "jmeno": "Mgr. Libor Michálek, MPA",
+      "datum_narozeni": "1968-12-14",
+      "adresa": "Modřínová 496, 253 01 Chýně"
+    },
+    {
+      "role": "místopředseda",
+      "jmeno": "Bohuslav Zapadlo",
+      "datum_narozeni": "1973-09-04",
+      "adresa": "Karla Engliše 1499/15, 150 00 Praha"
+    },
+    {
+      "role": "členka",
+      "jmeno": "Mgr. Andrea Haines",
+      "datum_narozeni": "1977-07-27",
+      "adresa": "370 07 Vidov 107"
+    }
+  ]
+}

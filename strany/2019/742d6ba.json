@@ -1,0 +1,41 @@
+{
+  "nazev": "Společně pro kraj",
+  "zkratka": "SproK",
+  "sidlo": "561 51 Letohrad, Komenského 275",
+  "den_registrace": "2019-08-19",
+  "cislo_registrace": "MV-104993-4/VS-2019",
+  "identifikacni_cislo": "08431345",
+  "statutarni_organ": "Předsednictvo, za které jedná předseda.",
+  "osoby": [
+    {
+      "role": "předseda",
+      "jmeno": "Petr Fiala",
+      "datum_narozeni": "1968-11-24",
+      "adresa": "Hausenská 864, 561 51 Letohrad"
+    },
+    {
+      "role": "člen",
+      "jmeno": "Václav Kubín",
+      "datum_narozeni": "1961-11-12",
+      "adresa": "Orlická 749, 561 69 Králíky"
+    },
+    {
+      "role": "člen",
+      "jmeno": "Jan Stránský",
+      "datum_narozeni": "1977-12-09",
+      "adresa": "560 02 Přívrat 129"
+    },
+    {
+      "role": "člen",
+      "jmeno": "Josef Kozel",
+      "datum_narozeni": "1974-05-08",
+      "adresa": "Jarkovského 57, 538 03 Heřmanův Městec"
+    },
+    {
+      "role": "člen",
+      "jmeno": "Miroslav Krčil",
+      "datum_narozeni": "1975-02-05",
+      "adresa": "Družstevní 1409, 539 01 Hlinsko"
+    }
+  ]
+}

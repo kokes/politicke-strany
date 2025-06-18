@@ -1,0 +1,29 @@
+{
+  "nazev": "Urza.cz: Nechceme vaše hlasy; ke svobodě se nelze provolit. Odmítneme každou politickou funkci; nechceme totiž lidem nařizovat, jak mají žít. Máme jinou vizi. Jdeme jinou cestou — najdete ji na webu www.urza.cz.",
+  "zkratka": "Nevolte Urza.cz.",
+  "sidlo": "272 01 Kladno, V Bažantnici 2654",
+  "den_registrace": "2021-07-20",
+  "cislo_registrace": "MV-113572-2/OV-2021",
+  "identifikacni_cislo": "11677309",
+  "statutarni_organ": "Výbor, každý člen jedná samostatně.",
+  "osoby": [
+    {
+      "role": "člen",
+      "jmeno": "Martin Urza",
+      "datum_narozeni": "1987-06-04",
+      "adresa": "Košířské náměstí 520/2, 150 00 Praha"
+    },
+    {
+      "role": "členka",
+      "jmeno": "Anna Honzíková",
+      "datum_narozeni": "1995-03-01",
+      "adresa": "Dívčí 151, 407 21 Česká Kamenice"
+    },
+    {
+      "role": "členka",
+      "jmeno": "Iveta Kůrková",
+      "datum_narozeni": "1988-07-27",
+      "adresa": "Na Chodovci 2541/28, 141 00 Praha"
+    }
+  ]
+}

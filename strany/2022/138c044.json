@@ -1,0 +1,26 @@
+{
+  "nazev": "SRDCEM PRO ...",
+  "zkratka": "SRDCEM PRO ...",
+  "sidlo": "360 01 Karlovy Vary, Na Vyhlídce 496/26",
+  "den_registrace": "2022-06-27",
+  "cislo_registrace": "MV-102857-4/OV-2022",
+  "identifikacni_cislo": "17280451",
+  "statutarni_organ": "Představenstvo, za které jedná předseda samostatně nebo dva místopředsedové společně.",
+  "osoby": [
+    {
+      "role": "předseda",
+      "jmeno": "",
+      "adresa": ""
+    },
+    {
+      "role": "místopředseda",
+      "jmeno": "",
+      "adresa": ""
+    },
+    {
+      "role": "člen předsednictva",
+      "jmeno": "",
+      "adresa": ""
+    }
+  ]
+}

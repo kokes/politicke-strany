@@ -1,0 +1,17 @@
+{
+  "nazev": "Občané SPOLU",
+  "zkratka": "O. SPOLU",
+  "sidlo": "571 01 Moravská Třebová, Nerudova 1384/76",
+  "den_registrace": "2022-05-11",
+  "cislo_registrace": "MV-69463-6/OV-2022",
+  "identifikacni_cislo": "17133742",
+  "statutarni_organ": "Předseda. V neběžných záležitostech je potřeba podpisu předsedy a jednoho člena rady. Neběžnou záležitostí je zejména uzavírání politických dohod a zavazování se nad částku vyšší než 50. 000 Kč.",
+  "osoby": [
+    {
+      "role": "předseda",
+      "jmeno": "Jiří Bárta",
+      "datum_narozeni": "1963-08-27",
+      "adresa": "Vodní 128/2, 571 01 Moravská Třebová"
+    }
+  ]
+}

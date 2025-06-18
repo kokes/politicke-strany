@@ -1,0 +1,28 @@
+{
+  "nazev": "JSI PRO? Jistota Solidarita Investice pro budoucnost",
+  "zkratka": "JSI PRO?",
+  "sidlo": "602 00 Brno, Příkop 6",
+  "den_registrace": "2019-03-14",
+  "cislo_registrace": "MV-29782-5/VS-2019",
+  "identifikacni_cislo": "07990197",
+  "statutarni_organ": "Předsednictvo, jehož jménem jedná předseda nebo dva místopředsedové společně.",
+  "osoby": [
+    {
+      "role": "předseda",
+      "jmeno": "Petr Kováč",
+      "datum_narozeni": "1973-03-23",
+      "adresa": "Husova 165/5, 602 00 Brno"
+    },
+    {
+      "role": "místopředsedkyně",
+      "jmeno": "Šárka Konečná",
+      "adresa": ""
+    },
+    {
+      "role": "místopředseda",
+      "jmeno": "Lukáš Dvořák",
+      "datum_narozeni": "1995-03-13",
+      "adresa": "Havlíčkovo náměstí 663, 679 06 Jedovnice"
+    }
+  ]
+}

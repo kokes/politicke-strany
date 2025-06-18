@@ -1,0 +1,23 @@
+{
+  "nazev": "Za lepší Střekov",
+  "zkratka": "ZLS",
+  "sidlo": "400 03 Ústí nad Labem, Purkyňova 1022/53",
+  "den_registrace": "2018-05-25",
+  "cislo_registrace": "MV-52447-4/VS-2018",
+  "identifikacni_cislo": "07156871",
+  "statutarni_organ": "Předseda a místopředseda, každý zastupuje samostaně.",
+  "osoby": [
+    {
+      "role": "předseda",
+      "jmeno": "Mgr. Jiří Železný",
+      "datum_narozeni": "1973-10-29",
+      "adresa": "Purkyňova 214/39, 400 03 Ústí nad Labem"
+    },
+    {
+      "role": "místopředseda",
+      "jmeno": "Petr Vinš",
+      "datum_narozeni": "1973-10-07",
+      "adresa": "Rubensova 275/12, 400 03 Ústí nad Labem"
+    }
+  ]
+}

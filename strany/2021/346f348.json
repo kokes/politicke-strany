@@ -1,0 +1,29 @@
+{
+  "nazev": "Manifest.cz - Pravá Svoboda a Prosperita",
+  "zkratka": "Manifest.cz",
+  "sidlo": "101 00 Praha, U vršovického nádraží 99/24",
+  "den_registrace": "2021-06-03",
+  "cislo_registrace": "MV-49205-4/OV-2021",
+  "identifikacni_cislo": "10922202",
+  "statutarni_organ": "Předsednictvo, za které jedná předseda.",
+  "osoby": [
+    {
+      "role": "předseda",
+      "jmeno": "David Tesař",
+      "datum_narozeni": "1975-12-16",
+      "adresa": "U staré cihelny 2879/5, 130 00 Praha"
+    },
+    {
+      "role": "1. místopředseda",
+      "jmeno": "Lukáš Neterda",
+      "datum_narozeni": "1978-06-08",
+      "adresa": "Na Dvorcích 284/12, 140 00 Praha"
+    },
+    {
+      "role": "2. místopředsedkyně",
+      "jmeno": "Karen  Pumrová",
+      "datum_narozeni": "1967-11-06",
+      "adresa": "250 01 Dřevčice 144"
+    }
+  ]
+}

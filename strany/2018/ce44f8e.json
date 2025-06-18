@@ -1,0 +1,29 @@
+{
+  "nazev": "Národní obroda",
+  "zkratka": "NOB",
+  "sidlo": "101 00 Praha, Korunní 2569/108",
+  "den_registrace": "2018-02-23",
+  "cislo_registrace": "MV-5095-6/VS-2018",
+  "identifikacni_cislo": "06893376",
+  "statutarni_organ": "Výkonný výbor Republikového výboru, za který jedná předseda nebo pověřený místopředseda RV hnutí.",
+  "osoby": [
+    {
+      "role": "předsedkyně",
+      "jmeno": "Jana Matějná",
+      "datum_narozeni": "1986-08-16",
+      "adresa": "Chotěbuzská 250, 735 61 Chotěbuz"
+    },
+    {
+      "role": "místopředseda",
+      "jmeno": "Pavel Weisgarber",
+      "datum_narozeni": "1977-05-06",
+      "adresa": ""
+    },
+    {
+      "role": "výkonný místopředseda",
+      "jmeno": "Pavel Matějný",
+      "datum_narozeni": "1968-04-17",
+      "adresa": "Chotěbuzská 250, 735 61 Chotěbuz"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "nazev": "TVŮJ KANDIDÁT",
+  "zkratka": "TUJKA",
+  "sidlo": "120 00 Praha, Ječná 529/29",
+  "den_registrace": "2019-03-14",
+  "cislo_registrace": "MV-33601-4/VS-2019",
+  "identifikacni_cislo": "07986858",
+  "statutarni_organ": "Předseda.",
+  "osoby": [
+    {
+      "role": "předseda",
+      "jmeno": "Daniel Konečný",
+      "datum_narozeni": "1973-03-05",
+      "adresa": "Ječná 529/29, 120 00 Praha"
+    }
+  ]
+}

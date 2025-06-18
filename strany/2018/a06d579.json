@@ -1,0 +1,23 @@
+{
+  "nazev": "Slezská lidem",
+  "zkratka": "Slezská",
+  "sidlo": "713 00 Ostrava, Koněvova 789/81",
+  "den_registrace": "2018-05-31",
+  "cislo_registrace": "MV-56551-4/VS-2018",
+  "identifikacni_cislo": "07174101",
+  "statutarni_organ": "Předseda a místopředseda, každý jedná samostatně.",
+  "osoby": [
+    {
+      "role": "předseda",
+      "jmeno": "Ing. Lubomír Noga, Ph.D., MBA",
+      "datum_narozeni": "1975-01-25",
+      "adresa": "Koněvova 789/81, 713 00 Ostrava"
+    },
+    {
+      "role": "místopředseda",
+      "jmeno": "Mgr. Kamil Horák",
+      "datum_narozeni": "1974-11-07",
+      "adresa": "Na Jánské 2060/16, 710 00 Ostrava"
+    }
+  ]
+}

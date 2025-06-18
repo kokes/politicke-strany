@@ -1,0 +1,22 @@
+{
+  "nazev": "Budoucnost",
+  "zkratka": "Budoucnost",
+  "sidlo": "198 00 Praha, Stružná 1299",
+  "den_registrace": "2020-05-22",
+  "cislo_registrace": "MV-72216-4/OV-2020",
+  "identifikacni_cislo": "09182004",
+  "statutarni_organ": "Spolupředsedající; v případě nakládání s majetkem hnutí v částce převyšující 1 milión Kč je potřeba schválení Radou hnutí.",
+  "osoby": [
+    {
+      "role": "Spolupředseda",
+      "jmeno": "Jakub Kovařík",
+      "datum_narozeni": "1992-07-27",
+      "adresa": "Máchova 1137/8, 120 00 Praha"
+    },
+    {
+      "role": "Spolupředsedkyně",
+      "jmeno": "",
+      "adresa": ""
+    }
+  ]
+}

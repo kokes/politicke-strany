@@ -1,0 +1,29 @@
+{
+  "nazev": "Hnutí NEJ",
+  "zkratka": "NEJ",
+  "sidlo": "739 91 Jablunkov, Nádražní 52",
+  "den_registrace": "2022-07-15",
+  "cislo_registrace": "MV-103442-6/OV-2022",
+  "identifikacni_cislo": "17333709",
+  "statutarni_organ": "Jednat a podepisovat jménem hnutí je Předseda, případně jím nebo celostátním sněmem ve stanoveném rozsahu písemně pověřený člen výkonného výboru.",
+  "osoby": [
+    {
+      "role": "předseda",
+      "jmeno": "Luboš Čmiel",
+      "datum_narozeni": "1970-05-11",
+      "adresa": "Nádražní 191, 739 91 Jablunkov"
+    },
+    {
+      "role": "člen výkonného výboru",
+      "jmeno": "Petr Hamrozi",
+      "datum_narozeni": "1980-12-24",
+      "adresa": "Nádražní 52, 739 91 Jablunkov"
+    },
+    {
+      "role": "člen výkonného výboru",
+      "jmeno": "Robert Kawulok",
+      "datum_narozeni": "1977-05-22",
+      "adresa": "Bělá 1082, 739 91 Jablunkov"
+    }
+  ]
+}

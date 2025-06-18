@@ -1,0 +1,29 @@
+{
+  "nazev": "ROZVÍJÍME HRADEC",
+  "zkratka": "RH",
+  "sidlo": "500 03 Hradec Králové, Eliščino nábřeží 280/23",
+  "den_registrace": "2022-06-17",
+  "cislo_registrace": "MV-96389-4/OV-2022",
+  "identifikacni_cislo": "17254353",
+  "statutarni_organ": "Předsednictvo, za které jedná předseda.",
+  "osoby": [
+    {
+      "role": "předseda",
+      "jmeno": "JUDr. Jan Holásek. LL.M.",
+      "datum_narozeni": "1972-11-16",
+      "adresa": "Zámeček 638/21, 500 08 Hradec Králové"
+    },
+    {
+      "role": "místopředseda",
+      "jmeno": "Ing. Petr  Nebeský",
+      "datum_narozeni": "1969-07-21",
+      "adresa": "Denisovo náměstí 56/6, 500 04 Hradec Králové"
+    },
+    {
+      "role": "člen",
+      "jmeno": "In. Michal Skaunic",
+      "datum_narozeni": "1966-08-19",
+      "adresa": "Cihlářská 745/2C, 503 11 Hradec Králové"
+    }
+  ]
+}

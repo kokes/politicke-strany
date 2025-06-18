@@ -1,0 +1,23 @@
+{
+  "nazev": "VIZE - národní socialisté",
+  "zkratka": "VIZENS",
+  "sidlo": "411 56 Bohušovice nad Ohří, U Stadionu 297",
+  "den_registrace": "2020-07-22",
+  "cislo_registrace": "MV-110176-5/OV-2020",
+  "identifikacni_cislo": "09352741",
+  "statutarni_organ": "Předseda společně s výkonným tajemníkem.",
+  "osoby": [
+    {
+      "role": "předseda",
+      "jmeno": "Bc. Jan  Vondouš",
+      "datum_narozeni": "1978-04-07",
+      "adresa": "U Stadionu 297, 411 56 Bohušovice nad Ohří"
+    },
+    {
+      "role": "výkonný tajemník",
+      "jmeno": "Vlasta Kaulerová",
+      "datum_narozeni": "1998-09-21",
+      "adresa": "Školní 32, 411 81 Brozany nad Ohří"
+    }
+  ]
+}

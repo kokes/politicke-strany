@@ -1,0 +1,53 @@
+{
+  "nazev": "SPOLEK ZA ZDRAVOU JIHLAVU",
+  "zkratka": "SZZJ",
+  "sidlo": "586 01 Jihlava, Sokolovská 2294/108",
+  "den_registrace": "2022-06-06",
+  "cislo_registrace": "MV-89769-4/OV-2022",
+  "identifikacni_cislo": "17212596",
+  "statutarni_organ": "Rada, a to společně dvěma jeho členy, z nichž alespoň jeden je předsedou a druhý členem rady anebo společně třemi členy rady, z nichž jeden je místopředsedou hnutí.",
+  "osoby": [
+    {
+      "role": "předseda",
+      "jmeno": "Milan Matějka",
+      "datum_narozeni": "1963-02-25",
+      "adresa": "Sokolovská 2294/108, 586 01 Jihlava"
+    },
+    {
+      "role": "místopředseda",
+      "jmeno": "Bc. Libor Novák, DBA, MBA",
+      "datum_narozeni": "1955-06-09",
+      "adresa": "Stamicova 3856/11, 586 01 Jihlava"
+    },
+    {
+      "role": "člen",
+      "jmeno": "MUDr. Vít Pávek",
+      "datum_narozeni": "1976-11-10",
+      "adresa": "Sokolovská 3013/49, 586 01 Jihlava"
+    },
+    {
+      "role": "člen",
+      "jmeno": "Ing. Jan Kubát",
+      "datum_narozeni": "1973-10-07",
+      "adresa": "Mošnova 2572/20, 586 01 Jihlava"
+    },
+    {
+      "role": "člen",
+      "jmeno": "Aleš Beďač",
+      "datum_narozeni": "1978-01-15",
+      "adresa": "Sokolovská 3048/119, 586 01 Jihlava"
+    },
+    {
+      "role": "členka",
+      "jmeno": "Hana Borská",
+      "datum_narozeni": "1971-07-06",
+      "adresa": "Nerudova 1505/22, 586 01 Jihlava"
+    },
+    {
+      "role": "členka",
+      "jmeno": "Olga Poukarová",
+      "datum_narozeni": "1946-06-30",
+      "adresa": "Stamicova 3857/13, 586 01 Jihlava"
+    }
+  ]
+}

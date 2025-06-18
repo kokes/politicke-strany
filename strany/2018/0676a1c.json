@@ -1,0 +1,17 @@
+{
+  "nazev": "PRVNÍ REPUBLIKA",
+  "zkratka": "NÁRODOVCI",
+  "sidlo": "460 15 Liberec, Vlčí vrch 673/30",
+  "den_registrace": "2018-11-26",
+  "cislo_registrace": "MV-126625-4/VS-2018",
+  "identifikacni_cislo": "07671008",
+  "statutarni_organ": "Předseda.",
+  "osoby": [
+    {
+      "role": "předseda",
+      "jmeno": "Matouš Bulíř",
+      "datum_narozeni": "1983-03-21",
+      "adresa": "Vlčí vrch 673/30, 460 15 Liberec"
+    }
+  ]
+}

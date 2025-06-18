@@ -1,0 +1,29 @@
+{
+  "nazev": "Vinohrady společně",
+  "zkratka": "VS",
+  "sidlo": "628 00 Brno, Prušánecká  4173/14",
+  "den_registrace": "2018-07-27",
+  "cislo_registrace": "MV-77727-7/VS-2018",
+  "identifikacni_cislo": "07324758",
+  "statutarni_organ": "Předsednictvo, jménem hnutí jedná jeho předseda.",
+  "osoby": [
+    {
+      "role": "předseda",
+      "jmeno": "Jiří Tlamka",
+      "datum_narozeni": "1985-11-01",
+      "adresa": "Prušánecká 4173/14, 628 00 Brno"
+    },
+    {
+      "role": "místopředseda",
+      "jmeno": "MUDr. Pavel Horský",
+      "datum_narozeni": "1956-06-13",
+      "adresa": "Prušánecká 4179/10, 628 00 Brno"
+    },
+    {
+      "role": "místopředseda",
+      "jmeno": "Miloslav Klaus",
+      "datum_narozeni": "1963-04-29",
+      "adresa": "Prušánecká 4173/14, 628 00 Brno"
+    }
+  ]
+}

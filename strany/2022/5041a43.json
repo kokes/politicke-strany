@@ -1,0 +1,17 @@
+{
+  "nazev": "PRO Právo Respekt Odbornost",
+  "zkratka": "PRO",
+  "sidlo": "171 00 Praha, Povltavská  829/36A",
+  "den_registrace": "2022-04-27",
+  "cislo_registrace": "MV-71883-4/OV-2022",
+  "identifikacni_cislo": "17085438",
+  "statutarni_organ": "Předseda.",
+  "osoby": [
+    {
+      "role": "předseda",
+      "jmeno": "Jindřich Rajchl",
+      "datum_narozeni": "1976-09-27",
+      "adresa": "Mužíkova 1252/32, 500 08 Hradec Králové"
+    }
+  ]
+}

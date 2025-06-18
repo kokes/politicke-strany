@@ -1,0 +1,29 @@
+{
+  "nazev": "Alternativa pro Vás",
+  "zkratka": "ApV",
+  "sidlo": "284 01 Kutná Hora, Fučíkova 336/3",
+  "den_registrace": "2018-07-16",
+  "cislo_registrace": "MV-78356-2/VS-2018",
+  "identifikacni_cislo": "07289731",
+  "statutarni_organ": "Výkonný výbor, za který jedná předseda.",
+  "osoby": [
+    {
+      "role": "předseda",
+      "jmeno": "Mgr. Tomáš Morawski",
+      "datum_narozeni": "1986-07-25",
+      "adresa": "Fučíkova 336/3, 284 01 Kutná Hora"
+    },
+    {
+      "role": "člen",
+      "jmeno": "Ing. Lukáš Jelínek",
+      "datum_narozeni": "1977-09-14",
+      "adresa": "Jakubská 3, 284 01 Kutná Hora"
+    },
+    {
+      "role": "členka",
+      "jmeno": "Mgr. Jana Červená",
+      "datum_narozeni": "1982-09-27",
+      "adresa": "Vavřinecká 332, 284 04 Kutná Hora"
+    }
+  ]
+}

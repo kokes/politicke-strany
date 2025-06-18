@@ -1,0 +1,29 @@
+{
+  "nazev": "„Marek Hilšer do Senátu“",
+  "zkratka": "MHS",
+  "sidlo": "118 00 Praha, Pohořelec 110/26",
+  "den_registrace": "2018-05-25",
+  "cislo_registrace": "MV-50348-4/VS-2018",
+  "identifikacni_cislo": "07157029",
+  "statutarni_organ": "Předsednictvo, za které jedná předseda.",
+  "osoby": [
+    {
+      "role": "předseda",
+      "jmeno": "MUDr. Marek Hilšer",
+      "datum_narozeni": "1976-03-23",
+      "adresa": "Pohořelec 110/26, 118 00 Praha"
+    },
+    {
+      "role": "místopředsedkyně",
+      "jmeno": "Mgr. Marie Tichá",
+      "datum_narozeni": "1978-02-07",
+      "adresa": "Pohořelec 110/26, 118 00 Praha"
+    },
+    {
+      "role": "člen předsednictva",
+      "jmeno": "MUDr. Pavel Vychytil",
+      "datum_narozeni": "1980-10-05",
+      "adresa": "561 02 Dolní Dobrouč 6"
+    }
+  ]
+}

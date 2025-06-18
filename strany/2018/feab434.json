@@ -1,0 +1,29 @@
+{
+  "nazev": "Brno Plus",
+  "zkratka": "Brno+",
+  "sidlo": "625 00 Brno, Ukrajinská 544/17",
+  "den_registrace": "2018-06-12",
+  "cislo_registrace": "MV-58861-4/VS-2018",
+  "identifikacni_cislo": "07204752",
+  "statutarni_organ": "Rada, za kterou jedná předseda.",
+  "osoby": [
+    {
+      "role": "předseda",
+      "jmeno": "Mgr. Ing. Robert  Kotzian, Ph.D.",
+      "datum_narozeni": "1974-08-06",
+      "adresa": "Ukrajinská 544/17, 625 00 Brno"
+    },
+    {
+      "role": "místopředseda",
+      "jmeno": "Mgr. et Bc. Richard  Duřpekt, EFA",
+      "datum_narozeni": "1979-04-03",
+      "adresa": "Moldavská 527/3, 625 00 Brno"
+    },
+    {
+      "role": "člen",
+      "jmeno": "Jaroslav  Dittrich",
+      "datum_narozeni": "1984-12-18",
+      "adresa": "Řípská 1469/19, 627 00 Brno"
+    }
+  ]
+}

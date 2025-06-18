@@ -1,0 +1,41 @@
+{
+  "nazev": "Za naše města",
+  "zkratka": "ZNM",
+  "sidlo": "751 31 Lipník nad Bečvou, náměstí T. G. Masaryka 92/5",
+  "den_registrace": "2022-06-21",
+  "cislo_registrace": "MV-100498-4/OV-2022",
+  "identifikacni_cislo": "17263581",
+  "statutarni_organ": "Předsednictvo, za které jedná předseda.",
+  "osoby": [
+    {
+      "role": "předseda",
+      "jmeno": "Bc. Pavel Šoltys, Dis",
+      "datum_narozeni": "1965-02-22",
+      "adresa": "Na Zelince 1165/21, 751 31 Lipník nad Bečvou"
+    },
+    {
+      "role": "místopředseda",
+      "jmeno": "Ondřej Nevrlý",
+      "datum_narozeni": "2000-10-19",
+      "adresa": "Staškova 730/16, 789 85 Mohelnice"
+    },
+    {
+      "role": "člen",
+      "jmeno": "Pavel Svoboda",
+      "datum_narozeni": "1972-02-02",
+      "adresa": "Bratrská 1033/16, 751 31 Lipník nad Bečvou"
+    },
+    {
+      "role": "členka",
+      "jmeno": "MUDr. Martina Dvořáková",
+      "datum_narozeni": "1968-09-14",
+      "adresa": "Mlýnecká 1545, 751 31 Lipník nad Bečvou"
+    },
+    {
+      "role": "členka",
+      "jmeno": "Kateřina Suchánková",
+      "datum_narozeni": "1967-12-03",
+      "adresa": "náměstí T. G. Masaryka 49/23, 751 31 Lipník nad Bečvou"
+    }
+  ]
+}

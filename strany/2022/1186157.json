@@ -1,0 +1,17 @@
+{
+  "nazev": "LEPŠÍ SEVER",
+  "zkratka": "LS",
+  "sidlo": "435 13 Meziboří, Okružní 350",
+  "den_registrace": "2022-05-25",
+  "cislo_registrace": "MV-82621-4/OV-2022",
+  "identifikacni_cislo": "17177782",
+  "statutarni_organ": "Předseda.",
+  "osoby": [
+    {
+      "role": "předseda",
+      "jmeno": "Martin Havelka",
+      "datum_narozeni": "1998-05-07",
+      "adresa": "Židovická 152, 434 01 Most"
+    }
+  ]
+}

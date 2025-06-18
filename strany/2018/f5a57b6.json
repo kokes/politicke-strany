@@ -1,0 +1,29 @@
+{
+  "nazev": "DOST JE DOST ! Občané za svá práva",
+  "zkratka": "Dost je Dost !",
+  "sidlo": "140 00 Praha, Pod vilami  756/14",
+  "den_registrace": "2018-07-23",
+  "cislo_registrace": "MV-74478-6/VS-2018",
+  "identifikacni_cislo": "07307977",
+  "statutarni_organ": "Představenstvo, jehož jménem jedná předseda nebo společně dva členové představenstva.",
+  "osoby": [
+    {
+      "role": "předseda",
+      "jmeno": "Mgr. Rudolf Karel Mazáč",
+      "datum_narozeni": "1939-09-01",
+      "adresa": "Pod vilami 756/14, 140 00 Praha"
+    },
+    {
+      "role": "člen",
+      "jmeno": "Ladislav Kunert",
+      "datum_narozeni": "1958-12-29",
+      "adresa": "Nad Šálkovnou 1530/13, 147 00 Praha"
+    },
+    {
+      "role": "člen",
+      "jmeno": "Václav Kraml",
+      "datum_narozeni": "1966-07-28",
+      "adresa": "Pod vilami 756/14, 140 00 Praha"
+    }
+  ]
+}

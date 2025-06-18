@@ -1,0 +1,23 @@
+{
+  "nazev": "Osmička žije",
+  "zkratka": "8žije",
+  "sidlo": "182 00 Praha, Mirovická 1116/29",
+  "den_registrace": "2022-06-21",
+  "cislo_registrace": "MV-107204-5/OV-2022",
+  "identifikacni_cislo": "17262984",
+  "statutarni_organ": "Předsednictvo, za které jedná samostatně předseda, v případě jeho nepřítomnosti či nemožnosti jednat jej zastupuje první místopředseda, a pokud je nepřítomen či nemůže jednat ani první místopředseda, pak jednají navenek společně místopředseda stany a další člen.",
+  "osoby": [
+    {
+      "role": "předseda",
+      "jmeno": "Tomáš Němeček",
+      "datum_narozeni": "1973-05-18",
+      "adresa": "Mirovická 1116/29, 182 00 Praha"
+    },
+    {
+      "role": "1.místopředsedkyně",
+      "jmeno": "Ilona Tůmová",
+      "datum_narozeni": "1966-09-05",
+      "adresa": "Pod Labuťkou 782/17, 180 00 Praha"
+    }
+  ]
+}

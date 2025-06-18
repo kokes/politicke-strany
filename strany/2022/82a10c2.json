@@ -1,0 +1,17 @@
+{
+  "nazev": "Malá strana velkých cílů",
+  "zkratka": "MSVC",
+  "sidlo": "586 01 Jihlava, Polní 4144/4",
+  "den_registrace": "2022-07-15",
+  "cislo_registrace": "MV-118517-7/OV-2022",
+  "identifikacni_cislo": "17334799",
+  "statutarni_organ": "Předseda.",
+  "osoby": [
+    {
+      "role": "předseda",
+      "jmeno": "Bohumír Fatr",
+      "datum_narozeni": "1958-03-12",
+      "adresa": "Polní 4144/4, 586 01 Jihlava"
+    }
+  ]
+}

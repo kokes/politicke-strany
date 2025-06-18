@@ -1,0 +1,40 @@
+{
+  "nazev": "Hnutí PES",
+  "zkratka": "PES",
+  "sidlo": "262 23 Jince, Eškova 33",
+  "den_registrace": "2021-03-04",
+  "cislo_registrace": "MV-27071-5/OV-2021",
+  "identifikacni_cislo": "09983503",
+  "statutarni_organ": "Předsednictvo, za které jedná samostatně předseda a 1. místopředseda.",
+  "osoby": [
+    {
+      "role": "předseda",
+      "jmeno": "",
+      "adresa": ""
+    },
+    {
+      "role": "1. místopředseda",
+      "jmeno": "Jiří Janeček",
+      "datum_narozeni": "1973-12-29",
+      "adresa": "Eškova 33, 262 23 Jince"
+    },
+    {
+      "role": "místopředseda",
+      "jmeno": "Jiří Stuchlík",
+      "datum_narozeni": "1974-03-14",
+      "adresa": "Ostravská 49, 739 25 Sviadnov"
+    },
+    {
+      "role": "místopředseda",
+      "jmeno": "Marcel Huml",
+      "datum_narozeni": "1973-12-05",
+      "adresa": "431 11 Všestudy 40"
+    },
+    {
+      "role": "místopředseda",
+      "jmeno": "Radek Žďárecký",
+      "datum_narozeni": "1969-10-19",
+      "adresa": "Střížovická 1036/32A, 400 01 Ústí nad Labem"
+    }
+  ]
+}

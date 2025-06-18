@@ -1,0 +1,17 @@
+{
+  "nazev": "VOLNÝ blok",
+  "zkratka": "VOLNÝ blok",
+  "sidlo": "747 14 Ludgeřovice, Lesní 809/9",
+  "den_registrace": "2022-04-19",
+  "cislo_registrace": "MV-38015-6/OV-2022",
+  "identifikacni_cislo": "17055512",
+  "statutarni_organ": "Předseda.",
+  "osoby": [
+    {
+      "role": "předseda",
+      "jmeno": "Mgr. Lubomír Volný",
+      "datum_narozeni": "1973-07-03",
+      "adresa": "Karla Pokorného 1352/63, 708 00 Ostrava"
+    }
+  ]
+}

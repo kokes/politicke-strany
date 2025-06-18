@@ -1,0 +1,17 @@
+{
+  "nazev": "HNUTÍ SPRÁVNÁ CESTA",
+  "zkratka": "SPRÁVNÁ CESTA",
+  "sidlo": "349 01 Stříbro, Tovární 541",
+  "den_registrace": "2022-07-18",
+  "cislo_registrace": "MV-113882-6/OV-2022",
+  "identifikacni_cislo": "17335191",
+  "statutarni_organ": "Předseda.",
+  "osoby": [
+    {
+      "role": "předseda",
+      "jmeno": "Václav Kozák",
+      "datum_narozeni": "2001-04-01",
+      "adresa": "Dukelská 1617, 349 01 Stříbro"
+    }
+  ]
+}

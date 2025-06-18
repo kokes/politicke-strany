@@ -1,0 +1,23 @@
+{
+  "nazev": "Klidné město",
+  "zkratka": "KM",
+  "sidlo": "251 01 Říčany, Ruská 1813/8",
+  "den_registrace": "2018-06-08",
+  "cislo_registrace": "MV-63155-2/VS-2018",
+  "identifikacni_cislo": "07196989",
+  "statutarni_organ": "Předseda a místopředseda, kteří jednají samostatně.",
+  "osoby": [
+    {
+      "role": "předseda",
+      "jmeno": "Ing. Vladimír Polánský",
+      "datum_narozeni": "1954-11-26",
+      "adresa": "Ruská 1813/8, 251 01 Říčany"
+    },
+    {
+      "role": "místopředsedkyně",
+      "jmeno": "Ing. Simona Gebauerová",
+      "datum_narozeni": "1970-05-25",
+      "adresa": "Rybova 549/12, 251 01 Říčany"
+    }
+  ]
+}

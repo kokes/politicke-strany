@@ -1,0 +1,35 @@
+{
+  "nazev": "Mladí pro Pardubický kraj",
+  "zkratka": "MPK",
+  "sidlo": "538 36 Žumberk 132",
+  "den_registrace": "2020-07-01",
+  "cislo_registrace": "MV-94675-5/OV-2020",
+  "identifikacni_cislo": "09301020",
+  "statutarni_organ": "Předsednictvo, za které jedná předseda.",
+  "osoby": [
+    {
+      "role": "předseda",
+      "jmeno": "Bc. Petr Žampach",
+      "datum_narozeni": "1996-09-18",
+      "adresa": "538 36 Žumberk 132"
+    },
+    {
+      "role": "1. místopředseda",
+      "jmeno": "Josef Ročeň",
+      "datum_narozeni": "1996-08-30",
+      "adresa": "539 55 Miřetice 12"
+    },
+    {
+      "role": "místopředsedkyně",
+      "jmeno": "Barbora Doubková",
+      "datum_narozeni": "2002-03-26",
+      "adresa": "565 53 Sloupnice 309"
+    },
+    {
+      "role": "místopředseda",
+      "jmeno": "Ing. Milan Sýs, Ph.D.",
+      "datum_narozeni": "1986-09-04",
+      "adresa": "Dukelská 155, 538 54 Luže"
+    }
+  ]
+}

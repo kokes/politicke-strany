@@ -1,0 +1,22 @@
+{
+  "nazev": "OBČANSKÉ HNUTÍ",
+  "zkratka": "OH",
+  "sidlo": "101 00 Praha, Korunní 2569/108G",
+  "den_registrace": "2020-12-28",
+  "cislo_registrace": "MV-188862-4/OV-2020",
+  "identifikacni_cislo": "09780734",
+  "statutarni_organ": "Předsednictvo, za které jedná předseda.",
+  "osoby": [
+    {
+      "role": "předseda",
+      "jmeno": "Pavel Krejčí",
+      "datum_narozeni": "1980-07-02",
+      "adresa": "Ocelíkova 672/1, 149 00 Praha"
+    },
+    {
+      "role": "místopředseda",
+      "jmeno": "",
+      "adresa": ""
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "nazev": "JISTOTA A BUDOUCNOST",
+  "zkratka": "JAB",
+  "sidlo": "267 51 Zdice, Čs. armády 71",
+  "den_registrace": "2022-02-24",
+  "cislo_registrace": "MV-40377-2/OV-2022",
+  "identifikacni_cislo": "14290910",
+  "statutarni_organ": "Předseda; první místopředseda, který vykonává funkci předsedy v době jeho nepřítomnosti nebo v případě, že předseda nemůže vykonávat svou funkci.",
+  "osoby": [
+    {
+      "role": "předseda",
+      "jmeno": "Miloš Petera",
+      "datum_narozeni": "1958-03-14",
+      "adresa": "Kaprová 2539, 288 02 Nymburk"
+    },
+    {
+      "role": "první místopředseda",
+      "jmeno": "Richard Dolejš",
+      "datum_narozeni": "1970-08-13",
+      "adresa": "Družstevní 741, 267 51 Zdice"
+    }
+  ]
+}

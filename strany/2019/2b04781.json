@@ -1,0 +1,17 @@
+{
+  "nazev": "Trikolora",
+  "zkratka": "Trikolora",
+  "sidlo": "130 00 Praha, Hartigova 1964/210",
+  "den_registrace": "2019-06-25",
+  "cislo_registrace": "MV-82512-4/VS-2019",
+  "identifikacni_cislo": "08288909",
+  "statutarni_organ": "Předseda.",
+  "osoby": [
+    {
+      "role": "předsedkyně",
+      "jmeno": "Zuzana Majerová",
+      "datum_narozeni": "1972-06-28",
+      "adresa": "779 00 Bukovany 26"
+    }
+  ]
+}

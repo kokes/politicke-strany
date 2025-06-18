@@ -1,0 +1,34 @@
+{
+  "nazev": "Havířovský družstevník",
+  "zkratka": "HD",
+  "sidlo": "735 64 Havířov, Hornosušská 1041/2",
+  "den_registrace": "2017-11-02",
+  "cislo_registrace": "MV-115930-4/VS-2017",
+  "identifikacni_cislo": "06576095",
+  "statutarni_organ": "Předsednictvo, za které jedná předseda, případně místopředseda nebo pověřený člen předsednictva.",
+  "osoby": [
+    {
+      "role": "předseda",
+      "jmeno": "",
+      "adresa": ""
+    },
+    {
+      "role": "člen",
+      "jmeno": "Roman Kolodziej",
+      "datum_narozeni": "1971-08-31",
+      "adresa": "735 34 Stonava 1073"
+    },
+    {
+      "role": "člen",
+      "jmeno": "Václav Lolek",
+      "datum_narozeni": "1972-06-14",
+      "adresa": "Akátová 461/7, 736 01 Havířov"
+    },
+    {
+      "role": "členka",
+      "jmeno": "Jana Zamrazilová",
+      "datum_narozeni": "1948-10-29",
+      "adresa": "Mládí 1102/5, 736 01 Havířov"
+    }
+  ]
+}

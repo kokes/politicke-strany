@@ -1,0 +1,29 @@
+{
+  "nazev": "ANO, vytrollíme europarlament",
+  "zkratka": "„EU TROLL“",
+  "sidlo": "627 00 Brno, Bučovická 937/8",
+  "den_registrace": "2018-07-03",
+  "cislo_registrace": "MV-66648-4/VS-2018",
+  "identifikacni_cislo": "07266782",
+  "statutarni_organ": "Předseda a místopředseda, každý jedná samostatně.",
+  "osoby": [
+    {
+      "role": "předseda",
+      "jmeno": "Jiří Kyjovský",
+      "datum_narozeni": "1988-05-09",
+      "adresa": "Tovačovského 3761/33, 636 00 Brno"
+    },
+    {
+      "role": "místopředseda",
+      "jmeno": "Antonín Capoušek",
+      "datum_narozeni": "1983-10-27",
+      "adresa": "415 01 Bžany 50"
+    },
+    {
+      "role": "místopředseda",
+      "jmeno": "Tomáš Sus",
+      "datum_narozeni": "1987-07-14",
+      "adresa": "Húskova 1043/14, 618 00 Brno"
+    }
+  ]
+}

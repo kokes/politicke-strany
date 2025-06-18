@@ -1,0 +1,17 @@
+{
+  "nazev": "O vás pro vás",
+  "zkratka": "OVPV",
+  "sidlo": "370 06 České Budějovice, Pohůrecká 414/3",
+  "den_registrace": "2020-07-27",
+  "cislo_registrace": "MV-184938-6/OV-2019",
+  "identifikacni_cislo": "09363149",
+  "statutarni_organ": "Předseda.",
+  "osoby": [
+    {
+      "role": "předseda",
+      "jmeno": "Jaromír Dušek",
+      "datum_narozeni": "1982-12-16",
+      "adresa": "nám. Přemysla Otakara II. 2/2, 370 01 České Budějovice"
+    }
+  ]
+}

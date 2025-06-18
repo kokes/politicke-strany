@@ -1,0 +1,41 @@
+{
+  "nazev": "Strana národní svobody",
+  "zkratka": "SNS",
+  "sidlo": "284 03 Kutná Hora, U Nadjezdu 368",
+  "den_registrace": "2021-07-14",
+  "cislo_registrace": "MV-100439-4/OV-2021",
+  "identifikacni_cislo": "11661704",
+  "statutarni_organ": "Předseda a 2 pověření místopředsedové, kteří jednají společně.",
+  "osoby": [
+    {
+      "role": "předseda",
+      "jmeno": "Jiří Janata",
+      "datum_narozeni": "1966-10-20",
+      "adresa": "U Nadjezdu 368, 284 03 Kutná Hora"
+    },
+    {
+      "role": "místopředsedkyně",
+      "jmeno": "Věra Polnická",
+      "datum_narozeni": "1974-10-09",
+      "adresa": "J. Jungmanna 1010/23, 286 01 Čáslav"
+    },
+    {
+      "role": "místopředsedkyně",
+      "jmeno": "Barbora Haškovcová",
+      "datum_narozeni": "1974-09-24",
+      "adresa": "Kúty 1947, 760 01 Zlín"
+    },
+    {
+      "role": "místopředseda",
+      "jmeno": "Miroslav Zeťák",
+      "datum_narozeni": "1977-09-10",
+      "adresa": "Sušilova 1330, 755 01 Vsetín"
+    },
+    {
+      "role": "místopředseda",
+      "jmeno": "Pavel Hakr",
+      "datum_narozeni": "1954-02-22",
+      "adresa": "386 01 Osek 109"
+    }
+  ]
+}

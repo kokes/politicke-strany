@@ -1,0 +1,28 @@
+{
+  "nazev": "SEN 21",
+  "zkratka": "SEN 21",
+  "sidlo": "150 00 Praha, Štefánikova 1/65",
+  "den_registrace": "2017-12-19",
+  "cislo_registrace": "MV-133520-6/VS-2017",
+  "identifikacni_cislo": "06695205",
+  "statutarni_organ": "Předseda samostatně nebo 1. místopředseda a místopředseda, a to vždy společně.",
+  "osoby": [
+    {
+      "role": "předseda",
+      "jmeno": "Mgr. Václav Láska",
+      "datum_narozeni": "1974-08-04",
+      "adresa": "Nad Palatou 3073/31, 150 00 Praha"
+    },
+    {
+      "role": "1.místopředsedkyně",
+      "jmeno": "Monika Shaw Salajová MSc.",
+      "datum_narozeni": "1987-03-26",
+      "adresa": "Naskové 1318/1d, 150 00 Praha"
+    },
+    {
+      "role": "místopředseda",
+      "jmeno": "",
+      "adresa": ""
+    }
+  ]
+}

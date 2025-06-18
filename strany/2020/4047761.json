@@ -1,0 +1,29 @@
+{
+  "nazev": "Alternativa pro nezávislé kandidáty 2020 - ANK 2020",
+  "zkratka": "ANK 2020",
+  "sidlo": "708 00 Ostrava, Slavíkova 6068/18",
+  "den_registrace": "2020-06-08",
+  "cislo_registrace": "MV-86632-2/OV-2020",
+  "identifikacni_cislo": "09227041",
+  "statutarni_organ": "Předsednictvo, za které jedná předseda.",
+  "osoby": [
+    {
+      "role": "předseda",
+      "jmeno": "doc. MUDr. Peter Koliba, CSc.",
+      "datum_narozeni": "1953-07-05",
+      "adresa": "Na Horečkách 204, 747 64 Budišovice"
+    },
+    {
+      "role": "místopředsedkyně",
+      "jmeno": "Bc. Milena Ogurčáková",
+      "datum_narozeni": "1970-11-13",
+      "adresa": "Na Horečkách 167, 747 64 Budišovice"
+    },
+    {
+      "role": "členka",
+      "jmeno": "Kateřina Pochybová",
+      "datum_narozeni": "1993-07-30",
+      "adresa": "Podroužkova 1681/7, 708 00 Ostrava"
+    }
+  ]
+}

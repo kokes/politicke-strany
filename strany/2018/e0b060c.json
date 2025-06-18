@@ -1,0 +1,29 @@
+{
+  "nazev": "Hnutí 2018",
+  "zkratka": "H2018",
+  "sidlo": "350 02 Cheb, Blanická 166/20",
+  "den_registrace": "2018-07-11",
+  "cislo_registrace": "MV-71489-4/VS-2018",
+  "identifikacni_cislo": "07283202",
+  "statutarni_organ": "Výbor, za který jedná předseda.",
+  "osoby": [
+    {
+      "role": "předsedkyně",
+      "jmeno": "RNDr. Gabriela Licková, Ph.D.",
+      "datum_narozeni": "1967-08-29",
+      "adresa": "Blanická 166/20, 350 02 Cheb"
+    },
+    {
+      "role": "člen",
+      "jmeno": "Pavel Pagáč",
+      "datum_narozeni": "1975-09-03",
+      "adresa": "Mírová 2018/13, 350 02 Cheb"
+    },
+    {
+      "role": "člen",
+      "jmeno": "Lukáš Hofrajtr",
+      "datum_narozeni": "1983-11-24",
+      "adresa": "Židovská 399/22, 350 02 Cheb"
+    }
+  ]
+}

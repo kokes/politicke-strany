@@ -1,0 +1,41 @@
+{
+  "nazev": "spOLečně",
+  "zkratka": "spOL",
+  "sidlo": "779 00 Olomouc, Školní 182/4",
+  "den_registrace": "2018-05-11",
+  "cislo_registrace": "MV-51813-2/VS-2018",
+  "identifikacni_cislo": "07118317",
+  "statutarni_organ": "Předsednictvo, za které jedná předseda nebo místopředseda.",
+  "osoby": [
+    {
+      "role": "předseda",
+      "jmeno": "JUDr. Robert Runták",
+      "datum_narozeni": "1976-09-14",
+      "adresa": "Hrnčířská 1184/28, 779 00 Olomouc"
+    },
+    {
+      "role": "místopředseda",
+      "jmeno": "Mgr. Pavel Fryšák",
+      "datum_narozeni": "1977-06-18",
+      "adresa": "Tomkova 57/27, 779 00 Olomouc"
+    },
+    {
+      "role": "člen",
+      "jmeno": "Ing. Stanislav Flek",
+      "datum_narozeni": "1969-09-09",
+      "adresa": "Bystrovanská  700/65, 779 00 Olomouc"
+    },
+    {
+      "role": "člen",
+      "jmeno": "Milan Hebelka",
+      "datum_narozeni": "1979-03-30",
+      "adresa": "Za Zlatou koulí 332/3, 779 00 Olomouc"
+    },
+    {
+      "role": "členka",
+      "jmeno": "Jolana Látalová",
+      "datum_narozeni": "1970-12-03",
+      "adresa": "Družstevní 732/32, 779 00 Olomouc"
+    }
+  ]
+}

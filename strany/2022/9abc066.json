@@ -1,0 +1,29 @@
+{
+  "nazev": "HODOŇÁCI",
+  "zkratka": "Hodoňáci",
+  "sidlo": "695 01 Hodonín, Dobrovolského 250/13",
+  "den_registrace": "2022-01-06",
+  "cislo_registrace": "MV-183376-4/OV-2021",
+  "identifikacni_cislo": "14130297",
+  "statutarni_organ": "Předsednictvo, předseda a dva místopředsedové jednají samostatně.",
+  "osoby": [
+    {
+      "role": "předsedkyně",
+      "jmeno": "Mgr.Terézia  Mlýnková Išková",
+      "datum_narozeni": "1990-05-30",
+      "adresa": "Dobrovolského 250/13, 695 01 Hodonín"
+    },
+    {
+      "role": "místopředseda",
+      "jmeno": "František Náhlík",
+      "datum_narozeni": "1990-11-12",
+      "adresa": "Žižkova  4523 /16d, 695 01 Hodonín"
+    },
+    {
+      "role": "místopředseda",
+      "jmeno": "Radek Mlček",
+      "datum_narozeni": "1981-07-04",
+      "adresa": "Brněnská 773/14, 695 01 Hodonín"
+    }
+  ]
+}

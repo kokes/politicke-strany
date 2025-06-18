@@ -1,0 +1,23 @@
+{
+  "nazev": "Společně pro Strakonice",
+  "zkratka": "SPS",
+  "sidlo": "386 01 Strakonice, Mikoláše Alše 780",
+  "den_registrace": "2018-06-21",
+  "cislo_registrace": "MV-68072-2-/VS-2018",
+  "identifikacni_cislo": "07230052",
+  "statutarni_organ": "Předsednictvo, za které jednají samostatně předseda nebo 1. místopředseda.",
+  "osoby": [
+    {
+      "role": "předseda",
+      "jmeno": "Milan Jungvirt",
+      "datum_narozeni": "1964-04-07",
+      "adresa": "Mikoláše Alše 780, 386 01 Strakonice"
+    },
+    {
+      "role": "místopředsedkyně",
+      "jmeno": "Miroslava Bartáčková",
+      "datum_narozeni": "1991-01-25",
+      "adresa": "Na Ohradě 92, 386 01 Strakonice"
+    }
+  ]
+}

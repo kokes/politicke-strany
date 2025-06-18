@@ -1,0 +1,41 @@
+{
+  "nazev": "KOLONÁDA – HNUTÍ PATRIOTŮ",
+  "zkratka": "KOLONÁDA",
+  "sidlo": "360 01 Karlovy Vary, Moskevská 946/10",
+  "den_registrace": "2018-06-27",
+  "cislo_registrace": "MV-72006-2/VS-2018",
+  "identifikacni_cislo": "07247311",
+  "statutarni_organ": "Rada, za kterou jednají samostatně předseda nebo místopředseda.",
+  "osoby": [
+    {
+      "role": "předseda",
+      "jmeno": "Ing. arch. Alexander Mikoláš",
+      "datum_narozeni": "1954-09-26",
+      "adresa": "Závodu míru 739/9A, 360 17 Karlovy Vary"
+    },
+    {
+      "role": "člen",
+      "jmeno": "Ing. Martin Lojda",
+      "datum_narozeni": "1955-02-17",
+      "adresa": "K Letišti 50, 360 01 Karlovy Vary"
+    },
+    {
+      "role": "člen",
+      "jmeno": "Ivan Šendera",
+      "datum_narozeni": "1940-07-05",
+      "adresa": "Západní 1725/45, 360 01 Karlovy Vary"
+    },
+    {
+      "role": "člen",
+      "jmeno": "Bedřich Ziegler",
+      "datum_narozeni": "1961-11-16",
+      "adresa": "Moskevská 2035/21, 360 01 Karlovy Vary"
+    },
+    {
+      "role": "člen",
+      "jmeno": "Mgr. Alexander Mikoláš",
+      "datum_narozeni": "1985-11-22",
+      "adresa": "Blahoslavova 636/26A, 360 01 Karlovy Vary"
+    }
+  ]
+}

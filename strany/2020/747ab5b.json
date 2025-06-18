@@ -1,0 +1,17 @@
+{
+  "nazev": "ZA OBČANY",
+  "zkratka": "ZA OBČANY",
+  "sidlo": "516 01 Rychnov nad Kněžnou, Staré náměstí 68",
+  "den_registrace": "2020-06-12",
+  "cislo_registrace": "MV- 84656-5/OV-2020",
+  "identifikacni_cislo": "09244263",
+  "statutarni_organ": "Předseda.",
+  "osoby": [
+    {
+      "role": "předseda",
+      "jmeno": "JUDr. Miroslav Antl",
+      "datum_narozeni": "1955-02-21",
+      "adresa": "Sekaninova 417/40, 500 11 Hradec Králové"
+    }
+  ]
+}

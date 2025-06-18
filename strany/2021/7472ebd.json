@@ -1,0 +1,29 @@
+{
+  "nazev": "DOST",
+  "zkratka": "DOST",
+  "sidlo": "196 00 Praha, Machnova 242/16",
+  "den_registrace": "2021-03-03",
+  "cislo_registrace": "MV-23724-4/OV-2021",
+  "identifikacni_cislo": "09977023",
+  "statutarni_organ": "Předsednictvo, za které jedná předseda.",
+  "osoby": [
+    {
+      "role": "předseda",
+      "jmeno": "Miroslav Bušovský",
+      "datum_narozeni": "1963-06-08",
+      "adresa": "Machnova 242/16, 196 00 Praha"
+    },
+    {
+      "role": "místopředsedkyně",
+      "jmeno": "Monika Bušovská",
+      "datum_narozeni": "1987-01-26",
+      "adresa": "Machnova 242/16, 196 00 Praha"
+    },
+    {
+      "role": "místopředseda",
+      "jmeno": "Jiří Miksa",
+      "datum_narozeni": "1964-04-09",
+      "adresa": "Karlovarská 345, 273 61 Velká Dobrá"
+    }
+  ]
+}

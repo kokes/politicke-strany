@@ -1,0 +1,35 @@
+{
+  "nazev": "Občané městských částí Opavy",
+  "zkratka": "OMČO",
+  "sidlo": "747 73 Opava, Novosvětská 121/28",
+  "den_registrace": "2018-02-13",
+  "cislo_registrace": "MV-142464-4/VS-2017",
+  "identifikacni_cislo": "06860176",
+  "statutarni_organ": "Představenstvo, za které jednají společně 2 členové, z nichž alespoň jeden je předsedou a druhý členem představenstva anebo společně třemi členy představenstva, z nichž jeden je místopředsedou hnutí a další dva jsou členy představenstva hnutí.",
+  "osoby": [
+    {
+      "role": "předseda",
+      "jmeno": "Miroslav Kořistka",
+      "datum_narozeni": "1971-08-11",
+      "adresa": "Povodňová 190/5, 747 73 Opava"
+    },
+    {
+      "role": "1. místopředseda",
+      "jmeno": "Jiří Koreník",
+      "datum_narozeni": "1969-03-26",
+      "adresa": "Novosvětská 121/28, 747 73 Opava"
+    },
+    {
+      "role": "místopředseda",
+      "jmeno": "René Holuša",
+      "datum_narozeni": "1974-06-09",
+      "adresa": "Okružní 72/5, 746 01 Opava"
+    },
+    {
+      "role": "místopředseda",
+      "jmeno": "Ing. Lumír Měch",
+      "datum_narozeni": "1967-08-26",
+      "adresa": "Podvihovská 224/55, 747 70 Opava"
+    }
+  ]
+}

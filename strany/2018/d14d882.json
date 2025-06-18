@@ -1,0 +1,17 @@
+{
+  "nazev": "Čisté Budějovice",
+  "zkratka": "ČiB",
+  "sidlo": "370 01 České Budějovice, Bachmačská 372/1",
+  "den_registrace": "2018-07-16",
+  "cislo_registrace": "MV-75589-2/VS-2018",
+  "identifikacni_cislo": "07290853",
+  "statutarni_organ": "Předseda.",
+  "osoby": [
+    {
+      "role": "předseda",
+      "jmeno": "Ing. Jan Mádl",
+      "datum_narozeni": "1985-01-27",
+      "adresa": "Česká 222/7, 370 01 České Budějovice"
+    }
+  ]
+}

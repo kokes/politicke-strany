@@ -1,0 +1,17 @@
+{
+  "nazev": "Evropa společně",
+  "zkratka": "ESO",
+  "sidlo": "149 00 Praha, K jezeru 482/18",
+  "den_registrace": "2019-02-11",
+  "cislo_registrace": "MV-17573-2/VS-2019",
+  "identifikacni_cislo": "07882467",
+  "statutarni_organ": "Předseda.",
+  "osoby": [
+    {
+      "role": "předseda",
+      "jmeno": "Jaromír Štětina",
+      "datum_narozeni": "1943-04-06",
+      "adresa": "K jezeru 482/18, 149 00 Praha"
+    }
+  ]
+}

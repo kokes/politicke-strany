@@ -1,0 +1,41 @@
+{
+  "nazev": "Moravské zemské hnutí",
+  "zkratka": "MZH",
+  "sidlo": "602 00 Brno, Moravské náměstí 1007/14",
+  "den_registrace": "2018-04-09",
+  "cislo_registrace": "MV-16414-4/VS-2018",
+  "identifikacni_cislo": "07027761",
+  "statutarni_organ": "Rada, za kterou jedná předseda, v době jeho nepřítomnosti místopředseda, popřípadě další, předsedou nebo v době jeho nepřítomnosti místopředsedou pověřený člen rady hnutí.",
+  "osoby": [
+    {
+      "role": "předseda",
+      "jmeno": "Mgr. Pavel Trčala, MA",
+      "datum_narozeni": "1978-03-31",
+      "adresa": "Veveří 464/17, 602 00 Brno"
+    },
+    {
+      "role": "místopředseda",
+      "jmeno": "Ing. Vladan  Ševčík",
+      "datum_narozeni": "1974-10-01",
+      "adresa": "683 01 Olšany 256"
+    },
+    {
+      "role": "člen",
+      "jmeno": "Mgr. Ing. Jiří Kolářský",
+      "datum_narozeni": "1958-04-13",
+      "adresa": "Božetěchova 2284/85, 612 00 Brno"
+    },
+    {
+      "role": "člen",
+      "jmeno": "Mgr. MgA. Tomáš Kočko",
+      "datum_narozeni": "1972-03-04",
+      "adresa": "691 09 Vrbice 492"
+    },
+    {
+      "role": "členka",
+      "jmeno": "Vladimíra Melounová",
+      "datum_narozeni": "1952-10-04",
+      "adresa": "Klímova 2053/14, 616 00 Brno"
+    }
+  ]
+}

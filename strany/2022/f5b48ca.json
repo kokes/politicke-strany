@@ -1,0 +1,29 @@
+{
+  "nazev": "A DOST! PRO LEPŠÍ BUDOUCNOST",
+  "zkratka": "AD PRO LB",
+  "sidlo": "373 12 Borovany, Nová 356",
+  "den_registrace": "2022-03-22",
+  "cislo_registrace": "MV-46277-4/OV-2022",
+  "identifikacni_cislo": "14369664",
+  "statutarni_organ": "Představenstvo, za které jedná předseda nebo dva místopředsedové společně.",
+  "osoby": [
+    {
+      "role": "předseda",
+      "jmeno": "Tomáš Šnorek",
+      "datum_narozeni": "1986-10-05",
+      "adresa": "Nová 356, 373 12 Borovany"
+    },
+    {
+      "role": "1. místopředseda",
+      "jmeno": "Erik Horáček",
+      "datum_narozeni": "1977-05-09",
+      "adresa": "U Cihelny 676, 373 12 Borovany"
+    },
+    {
+      "role": "místopředseda",
+      "jmeno": "Tomáš Jindra",
+      "datum_narozeni": "1986-11-09",
+      "adresa": "Vodárenská 509, 373 12 Borovany"
+    }
+  ]
+}

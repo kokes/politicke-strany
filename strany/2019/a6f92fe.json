@@ -1,0 +1,29 @@
+{
+  "nazev": "Změna 2020",
+  "zkratka": "Z 2020",
+  "sidlo": "375 01 Týn nad Vltavou, Bohunická 535",
+  "den_registrace": "2019-12-13",
+  "cislo_registrace": "MV-153319-4/VS-2019",
+  "identifikacni_cislo": "08773297",
+  "statutarni_organ": "Předsednictvo, za které společně jednají dva členové, z nichž alespoň jeden je předsedou a druhý členem předsednictva anebo společně třemi členy předsednictva, z nichž jeden je místopředsedou hnutí a další dva jsou členy předsednictva hnutí.",
+  "osoby": [
+    {
+      "role": "předseda",
+      "jmeno": "Mgr. Jiří Zimola",
+      "datum_narozeni": "1971-03-28",
+      "adresa": "Obora 834, 378 33 Nová Bystřice"
+    },
+    {
+      "role": "1. místopředseda",
+      "jmeno": "Ing. Stanislav Mrvka",
+      "datum_narozeni": "1953-05-25",
+      "adresa": "Denisova 353, 377 01 Jindřichův Hradec"
+    },
+    {
+      "role": "2. místopředseda",
+      "jmeno": "David Slepička",
+      "datum_narozeni": "1975-07-15",
+      "adresa": "Vodňanská 466, 375 01 Týn nad Vltavou"
+    }
+  ]
+}

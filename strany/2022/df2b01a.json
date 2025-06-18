@@ -1,0 +1,29 @@
+{
+  "nazev": "Volt Česko",
+  "zkratka": "Volt",
+  "sidlo": "160 00 Praha, Na dlouhém lánu 343/34",
+  "den_registrace": "2022-06-29",
+  "cislo_registrace": "MV-109613-4/OV-2022",
+  "identifikacni_cislo": "17290775",
+  "statutarni_organ": "Předsednictvo, za které jednají oba spolupředsedové strany společně, případně jiný jimi pověřený člen předsednictva.",
+  "osoby": [
+    {
+      "role": "předseda",
+      "jmeno": "Adam Hanka",
+      "datum_narozeni": "1989-02-27",
+      "adresa": "Na dlouhém lánu 343/34, 160 00 Praha"
+    },
+    {
+      "role": "místopředsedkyně",
+      "jmeno": "Daniela Dolejší",
+      "datum_narozeni": "1998-04-05",
+      "adresa": "Plzeňská 638, 339 01 Klatovy"
+    },
+    {
+      "role": "místopředseda",
+      "jmeno": "Adam Hruška",
+      "datum_narozeni": "1996-11-13",
+      "adresa": "289 07 Opolany 80"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "nazev": "DOMOV",
+  "zkratka": "DOMOV",
+  "sidlo": "120 00 Praha, Sarajevská 1051/10",
+  "den_registrace": "2019-03-11",
+  "cislo_registrace": "MV-16230-6/VS-2019",
+  "identifikacni_cislo": "07972733",
+  "statutarni_organ": "Předsednictvo, za které jedná předseda.",
+  "osoby": [
+    {
+      "role": "předseda",
+      "jmeno": "Mgr. David Tygr Ploc MBA",
+      "datum_narozeni": "1973-07-21",
+      "adresa": "Janovská 400, 109 00 Praha"
+    },
+    {
+      "role": "statutární místopředsedkyně",
+      "jmeno": "Michaela Teyrovská",
+      "datum_narozeni": "1968-07-02",
+      "adresa": "Sarajevská 1051/10, 120 00 Praha"
+    },
+    {
+      "role": "místopředseda",
+      "jmeno": "Ota Dračka",
+      "datum_narozeni": "1955-01-23",
+      "adresa": "Pod vyhlídkou 447, 407 22 Benešov nad Ploučnicí"
+    }
+  ]
+}
