@@ -22,7 +22,6 @@ def download_if_not_cached(url):
     )
 
     if os.path.exists(file_path):
-        logging.info("Using cached file: %s", file_path)
         with open(file_path, "rb") as f:
             return f.read()
     else:
@@ -72,6 +71,8 @@ if __name__ == "__main__":
     # zkusime par novych IDs
     for j in range(1, rng):
         ids.append(mid + j)
+
+    changed, added = [], []
 
     os.makedirs(DATA_DIR, exist_ok=True)
     # list, abychom to duplikovali (budem mazat)
@@ -129,8 +130,31 @@ if __name__ == "__main__":
         tdir = os.path.join(DATA_DIR, dt["den_registrace"][:4])
         os.makedirs(tdir, exist_ok=True)
         tfn = os.path.join(tdir, fnid + ".json")
-        with open(tfn, "wt") as fw:
-            json.dump(dt, fw, ensure_ascii=False, indent=2)
+
+        serialised = json.dumps(dt, ensure_ascii=False, indent=2)
+        write = False
+        if not os.path.exists(tfn):
+            logging.info("Nova strana: %s", dt["nazev"])
+            added.append(dt["nazev"])
+            write = True
+        else:
+            existing = open(tfn, "rt").read()
+            if existing != serialised:
+                logging.info("Zmenena strana: %s", dt["nazev"])
+                changed.append(dt["nazev"])
+                write = True
+
+        if write:
+            with open(tfn, "wt") as fw:
+                fw.write(serialised)
+
+    if len(changed) + len(added) > 0:
+        print(f"Změněno: {len(changed)}, přidáno: {len(added)}")
+        print()
+        for el in sorted(changed):
+            print(f"Změna ve straně: {el}")
+        for el in sorted(added):
+            print(f"Nová strana: {el}")
 
     with open(IDS_FN, "wt") as fw:
         for pid in ids:
