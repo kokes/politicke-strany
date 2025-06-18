@@ -2,7 +2,6 @@ name: Scrape latest data
 
 on:
   pull_request: # TODO: drop
-  push:
   workflow_dispatch:
   schedule:
     - cron:  '0 4 * * *'
