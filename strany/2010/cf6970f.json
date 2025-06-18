@@ -1,0 +1,23 @@
+{
+  "nazev": "Desítka pro domácí",
+  "zkratka": "DPD",
+  "sidlo": "101 00 Praha, Bulharská 1401/38",
+  "den_registrace": "2010-07-20",
+  "cislo_registrace": "MV-63894-6/VS-2010",
+  "identifikacni_cislo": "71443142",
+  "statutarni_organ": "Předseda a místopředseda, kteří jednají samostatněně.",
+  "osoby": [
+    {
+      "role": "předseda",
+      "jmeno": "MgA. Jiří  Vrba",
+      "datum_narozeni": "1971-12-06",
+      "adresa": "K louži 784/3, 101 00 Praha"
+    },
+    {
+      "role": "místopředseda",
+      "jmeno": "Martin Kurka",
+      "datum_narozeni": "1974-08-05",
+      "adresa": "Učňovská 378/4, 190 00 Praha"
+    }
+  ]
+}

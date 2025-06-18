@@ -1,0 +1,35 @@
+{
+  "nazev": "Starostové pro občany",
+  "zkratka": "STO",
+  "sidlo": "675 34 Police 131",
+  "den_registrace": "2012-07-27",
+  "cislo_registrace": "MV-77160-4/VS-2012",
+  "identifikacni_cislo": "71443444",
+  "statutarni_organ": "Představenstvo, a to společně dvěma členy, z nichž alespoň jeden je předsedou a druhý členem představenstva anebo společně 3 členy představenstva, z nichž jeden je místopředsedou hnutí a další 2 jsou členy představenstva hnutí.",
+  "osoby": [
+    {
+      "role": "předseda",
+      "jmeno": "Karel  Janoušek",
+      "datum_narozeni": "1965-04-11",
+      "adresa": "675 34 Police 131"
+    },
+    {
+      "role": "1. místopředseda",
+      "jmeno": "Petr Bárta",
+      "datum_narozeni": "1968-08-26",
+      "adresa": "Miřátky 30, 582 82 Golčův Jeníkov"
+    },
+    {
+      "role": "místopředseda",
+      "jmeno": "Ing. Miroslav Kabelka",
+      "datum_narozeni": "1970-10-28",
+      "adresa": "675 44 Jakubov u Moravských Budějovic 137"
+    },
+    {
+      "role": "místopředseda",
+      "jmeno": "Miroslav Jirků",
+      "datum_narozeni": "1960-11-19",
+      "adresa": "Jiřice 199, 396 01 Humpolec"
+    }
+  ]
+}

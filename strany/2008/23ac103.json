@@ -1,0 +1,35 @@
+{
+  "nazev": "Liga spořádaných lidí",
+  "zkratka": "LSL",
+  "sidlo": "263 01 Dobříš, U Ovčína 1452",
+  "den_registrace": "2008-11-24",
+  "cislo_registrace": "MV-82670-5/VS-2008",
+  "identifikacni_cislo": "71339574",
+  "statutarni_organ": "Předsednictvo. Právní úkony ve věcech týkajících se nákupu, prodeje nebo zatěžování nemovitostí, úvěrů a půjček a udělení plné moci v písemné formě činí vždy dva členové předsednictva společně, z nichž jeden je předseda či místopředseda. Ostatní právní úkony činí předseda.",
+  "osoby": [
+    {
+      "role": "předseda",
+      "jmeno": "Milan Tichý",
+      "datum_narozeni": "1947-04-11",
+      "adresa": "U Ovčína 1452, 263 01 Dobříš"
+    },
+    {
+      "role": "místopředseda",
+      "jmeno": "JUDr. Jaroslav Musil",
+      "datum_narozeni": "1941-04-26",
+      "adresa": "Antonína Dvořáka 90, 263 01 Dobříš"
+    },
+    {
+      "role": "člen předsednictva",
+      "jmeno": "Ing. Jiří Šebek",
+      "datum_narozeni": "1959-11-23",
+      "adresa": "U Slavie 701, 263 01 Dobříš"
+    },
+    {
+      "role": "člen předsednictva",
+      "jmeno": "Dagmar  Drncová",
+      "datum_narozeni": "1958-02-19",
+      "adresa": "U Ovčína 1451, 263 01 Dobříš"
+    }
+  ]
+}

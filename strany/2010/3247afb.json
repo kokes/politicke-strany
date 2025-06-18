@@ -1,0 +1,17 @@
+{
+  "nazev": "Nový Impuls",
+  "zkratka": "NI",
+  "sidlo": "765 02 Otrokovice, Hlavní 1250",
+  "den_registrace": "2010-04-06",
+  "cislo_registrace": "MV-24612-6/VS-2010",
+  "identifikacni_cislo": "71339779",
+  "statutarni_organ": "Předseda.",
+  "osoby": [
+    {
+      "role": "předseda",
+      "jmeno": "Zdeněk Novák",
+      "datum_narozeni": "1957-10-01",
+      "adresa": "tř. Tomáše Bati 1829, 765 02 Otrokovice"
+    }
+  ]
+}

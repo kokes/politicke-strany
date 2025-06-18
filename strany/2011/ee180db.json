@@ -1,0 +1,17 @@
+{
+  "nazev": "JIHOČEŠI 2012",
+  "zkratka": "JIH 12",
+  "sidlo": "398 55 Kovářov 44",
+  "den_registrace": "2011-12-07",
+  "cislo_registrace": "MV-127700-4/VS-2011",
+  "identifikacni_cislo": "71443312",
+  "statutarni_organ": "Předseda.",
+  "osoby": [
+    {
+      "role": "předseda",
+      "jmeno": "Pavel Hroch",
+      "datum_narozeni": "1962-12-03",
+      "adresa": "398 55 Kovářov 44"
+    }
+  ]
+}

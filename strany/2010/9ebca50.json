@@ -1,0 +1,29 @@
+{
+  "nazev": "Nová budoucnost",
+  "zkratka": "NB",
+  "sidlo": "466 05 Jablonec nad Nisou, Podhorská 635/85",
+  "den_registrace": "2010-04-30",
+  "cislo_registrace": "MV-40546-6/VS-2010",
+  "identifikacni_cislo": "71339841",
+  "statutarni_organ": "Republikové předsednictvo, za který jedná předseda.",
+  "osoby": [
+    {
+      "role": "předseda",
+      "jmeno": "Petr Jonáš",
+      "datum_narozeni": "1991-06-01",
+      "adresa": "Haškova 950/34, 460 06 Liberec"
+    },
+    {
+      "role": "místopředseda",
+      "jmeno": "Jan Novák",
+      "datum_narozeni": "1989-09-02",
+      "adresa": "Pod altánem 428/34, 100 00 Praha"
+    },
+    {
+      "role": "místopředseda",
+      "jmeno": "Petr Procházka",
+      "datum_narozeni": "1990-05-06",
+      "adresa": "Husitská 107/23, 130 00 Praha"
+    }
+  ]
+}

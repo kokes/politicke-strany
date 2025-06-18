@@ -1,0 +1,35 @@
+{
+  "nazev": "OBČANÉ.CZ",
+  "zkratka": "Občané",
+  "sidlo": "140 21 Praha, 5. května 1640/65",
+  "den_registrace": "2009-04-20",
+  "cislo_registrace": "MV-23857-4/VS-2009",
+  "identifikacni_cislo": "71339671",
+  "statutarni_organ": "Předsednictvo, za které jedná předseda nebo jím pověřený místopředseda.",
+  "osoby": [
+    {
+      "role": "předseda",
+      "jmeno": "Petr  Havlík",
+      "datum_narozeni": "1959-04-21",
+      "adresa": "Na hřebenech II 1163/3c, 147 00 Praha"
+    },
+    {
+      "role": "místopředsedkyně",
+      "jmeno": "Marcela Roche",
+      "datum_narozeni": "1973-04-17",
+      "adresa": "388 01 Uzeničky 5"
+    },
+    {
+      "role": "místopředseda",
+      "jmeno": "Ing. Libor Halman",
+      "datum_narozeni": "1955-11-25",
+      "adresa": "Nitranská 918/14, 130 00 Praha"
+    },
+    {
+      "role": "místopředseda",
+      "jmeno": "Ivan Pilný",
+      "datum_narozeni": "1944-07-06",
+      "adresa": "Za Pohořelcem 696/6, 169 00 Praha"
+    }
+  ]
+}

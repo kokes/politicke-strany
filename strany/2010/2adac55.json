@@ -1,0 +1,29 @@
+{
+  "nazev": "Hnutí O co jim jde?!",
+  "zkratka": "OCJJ",
+  "sidlo": "360 01 Karlovy Vary, Plzeňská 1428/105",
+  "den_registrace": "2010-07-13",
+  "cislo_registrace": "MV-64740-6/VS-2010",
+  "identifikacni_cislo": "71340017",
+  "statutarni_organ": "Rada, za kterou jedná předseda nebo místopředseda, přičemž každý jedná samostatně.",
+  "osoby": [
+    {
+      "role": "předseda",
+      "jmeno": "Ing. Otmar Homolka",
+      "datum_narozeni": "1957-08-25",
+      "adresa": "Moskevská 1681/41, 360 01 Karlovy Vary"
+    },
+    {
+      "role": "místopředseda",
+      "jmeno": "Jaroslav Fujdiar",
+      "datum_narozeni": "1974-02-15",
+      "adresa": "Svatošská 302/23, 360 07 Karlovy Vary"
+    },
+    {
+      "role": "pokladník",
+      "jmeno": "Mgr. Jindřich  Čermák",
+      "datum_narozeni": "1982-08-20",
+      "adresa": "Havlíčkova 1387/9, 360 01 Karlovy Vary"
+    }
+  ]
+}

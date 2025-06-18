@@ -1,0 +1,17 @@
+{
+  "nazev": "Středočeši2012.cz",
+  "zkratka": "S2012",
+  "sidlo": "253 01 Hostivice, Fibichova 389",
+  "den_registrace": "2012-07-12",
+  "cislo_registrace": "MV-67346-7/VS-2012",
+  "identifikacni_cislo": "71443380",
+  "statutarni_organ": "Předseda.",
+  "osoby": [
+    {
+      "role": "předseda",
+      "jmeno": "Přemysl Šanovec",
+      "datum_narozeni": "1989-04-13",
+      "adresa": "17. listopadu 903, 253 01 Hostivice"
+    }
+  ]
+}

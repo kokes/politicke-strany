@@ -1,0 +1,17 @@
+{
+  "nazev": "Národní socialisté",
+  "zkratka": "NÁR.SOC.",
+  "sidlo": "155 00 Praha, Radlická 505/58",
+  "den_registrace": "2011-11-01",
+  "cislo_registrace": "MV-115880-4/VS-2011",
+  "identifikacni_cislo": "71443291",
+  "statutarni_organ": "Předseda.",
+  "osoby": [
+    {
+      "role": "předseda",
+      "jmeno": "JUDr. Jaroslav Král, CSc.",
+      "datum_narozeni": "1951-12-17",
+      "adresa": "U jezera 2044/8, 155 00 Praha"
+    }
+  ]
+}

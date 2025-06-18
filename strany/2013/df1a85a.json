@@ -1,0 +1,65 @@
+{
+  "nazev": "Naše Město F-M",
+  "zkratka": "NMFM",
+  "sidlo": "738 01 Frýdek-Místek, Josefa Václava Sládka 35",
+  "den_registrace": "2013-11-12",
+  "cislo_registrace": "MV-128257-4/VS-2013",
+  "identifikacni_cislo": "71443649",
+  "statutarni_organ": "Výbor, za který jedná samostatně předseda nebo místopředseda.",
+  "osoby": [
+    {
+      "role": "předseda",
+      "jmeno": "Petr Korč",
+      "datum_narozeni": "1976-01-12",
+      "adresa": "Farní 16, 738 01 Frýdek-Místek"
+    },
+    {
+      "role": "místopředseda",
+      "jmeno": "Ing. Jiří Kajzar",
+      "datum_narozeni": "1963-12-25",
+      "adresa": "Lidická 2454, 738 01 Frýdek-Místek"
+    },
+    {
+      "role": "člen",
+      "jmeno": "Mgr. Zbyněk Šostý",
+      "datum_narozeni": "1962-11-24",
+      "adresa": "El. Krásnohorské 248, 738 01 Frýdek-Místek"
+    },
+    {
+      "role": "člen",
+      "jmeno": "Ing. Miroslav Bártek",
+      "datum_narozeni": "1961-05-28",
+      "adresa": "Josefa Václava Sládka 2191, 738 01 Frýdek-Místek"
+    },
+    {
+      "role": "člen",
+      "jmeno": "Tomáš  Chlebek",
+      "datum_narozeni": "1966-10-12",
+      "adresa": "Josefa Myslivečka 1882, 738 01 Frýdek-Místek"
+    },
+    {
+      "role": "člen",
+      "jmeno": "Marcel Drabina",
+      "datum_narozeni": "1963-10-30",
+      "adresa": "Stará Riviera 34, 738 01 Frýdek-Místek"
+    },
+    {
+      "role": "člen",
+      "jmeno": "Mgr. Tomáš Pyško",
+      "datum_narozeni": "1967-10-03",
+      "adresa": "Nad Lipinou 2512, 738 01 Frýdek-Místek"
+    },
+    {
+      "role": "členka",
+      "jmeno": "Ing. Kamila Šponerová",
+      "datum_narozeni": "1978-10-31",
+      "adresa": "Říční 866, 738 01 Frýdek-Místek"
+    },
+    {
+      "role": "členka",
+      "jmeno": "Ing. Bc. Gabriela Rumíšková",
+      "datum_narozeni": "1973-06-16",
+      "adresa": "Nové dvory-Kamenec 3628, 738 01 Frýdek-Místek"
+    }
+  ]
+}

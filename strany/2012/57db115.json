@@ -1,0 +1,17 @@
+{
+  "nazev": "Nová budoucnost pro Liberecký kraj",
+  "zkratka": "NBPLK",
+  "sidlo": "466 01 Jablonec nad Nisou, Široká 4860/10",
+  "den_registrace": "2012-08-02",
+  "cislo_registrace": "MV-81800-4/VS-2012",
+  "identifikacni_cislo": "71443452",
+  "statutarni_organ": "Republikové předsednictvo, jehož každý člen jedná samostatně.",
+  "osoby": [
+    {
+      "role": "člen",
+      "jmeno": "Mgr. Pavel Žur",
+      "datum_narozeni": "1966-05-05",
+      "adresa": "Široká 4860/10, 466 01 Jablonec nad Nisou"
+    }
+  ]
+}

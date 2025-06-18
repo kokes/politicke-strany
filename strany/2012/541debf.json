@@ -1,0 +1,29 @@
+{
+  "nazev": "za Morální Očistu Regionu",
+  "zkratka": "M.O.R.",
+  "sidlo": "763 02 Zlín, 1. máje 613",
+  "den_registrace": "2012-07-24",
+  "cislo_registrace": "MV-80301-2/VS-2012",
+  "identifikacni_cislo": "71443436",
+  "statutarni_organ": "Řídící rada, za kterou jedná předseda.",
+  "osoby": [
+    {
+      "role": "předsedkyně",
+      "jmeno": "Mgr. Eva Štauderová",
+      "datum_narozeni": "1972-03-08",
+      "adresa": "Přílucká 4121, 760 01 Zlín"
+    },
+    {
+      "role": "1.místopředsedkyně",
+      "jmeno": "Bc. Jiřina  Gajdošíková",
+      "datum_narozeni": "1972-04-20",
+      "adresa": "1. máje 613, 763 02 Zlín"
+    },
+    {
+      "role": "2. místopředseda",
+      "jmeno": "Miroslav Rafaja",
+      "datum_narozeni": "1970-08-30",
+      "adresa": "763 11 Zlín 57"
+    }
+  ]
+}

@@ -1,0 +1,107 @@
+{
+  "nazev": "TOP 09",
+  "zkratka": "TOP 09",
+  "sidlo": "110 00 Praha, Opletalova 1603/57",
+  "den_registrace": "2009-06-26",
+  "cislo_registrace": "MV-43744-6/VS-2009",
+  "identifikacni_cislo": "71339728",
+  "statutarni_organ": "Předsednictvo, za které jednají navenek předseda nebo samostatně první místopředseda anebo společně místopředseda strany a další člen předsednictva.",
+  "osoby": [
+    {
+      "role": "předsedkyně",
+      "jmeno": "Markéta  Pekarová Adamová",
+      "datum_narozeni": "1984-10-02",
+      "adresa": "Drahobejlova 2433/12, 190 00 Praha"
+    },
+    {
+      "role": "předseda Klubu poslanců",
+      "jmeno": "Jan Jakob",
+      "datum_narozeni": "1982-12-02",
+      "adresa": "Lidická 365, 252 63 Roztoky"
+    },
+    {
+      "role": "1. místopředseda",
+      "jmeno": "Vlastimil Válek",
+      "datum_narozeni": "1960-05-17",
+      "adresa": "Belcrediho 637/6, 628 00 Brno"
+    },
+    {
+      "role": "předseda Klubu starostů TOP 09, z.s.",
+      "jmeno": "Tomáš Třetina",
+      "datum_narozeni": "1972-03-31",
+      "adresa": "Opálkova  1551, 672 01 Moravský Krumlov"
+    },
+    {
+      "role": "vedoucí národní delegace v poslaneckém klubu Evropského parlamentu",
+      "jmeno": "Luděk Niedermayer",
+      "datum_narozeni": "1966-03-13",
+      "adresa": "Na Vyhlídce 255, 252 06 Měchenice"
+    },
+    {
+      "role": "místopředsedkyně",
+      "jmeno": "Martina Ochodnická",
+      "datum_narozeni": "1983-12-19",
+      "adresa": "588 42 Větrný Jeníkov 137"
+    },
+    {
+      "role": "místopředseda",
+      "jmeno": "Michal Kučera",
+      "datum_narozeni": "1968-10-04",
+      "adresa": "V Domcích 2722, 440 01 Louny"
+    },
+    {
+      "role": "místopředseda",
+      "jmeno": "Tomáš Czernin",
+      "datum_narozeni": "1962-03-04",
+      "adresa": "1. máje 1, 289 01 Dymokury"
+    },
+    {
+      "role": "místopředseda",
+      "jmeno": "Matěj Ondřej Havel",
+      "datum_narozeni": "1987-02-12",
+      "adresa": "Tichá 148/1, 500 03 Hradec Králové"
+    },
+    {
+      "role": "člen předsednictva",
+      "jmeno": "Jakub Lepš",
+      "datum_narozeni": "1974-06-04",
+      "adresa": "Jurkovičova 970/8, 149 00 Praha"
+    },
+    {
+      "role": "člen předsednictva",
+      "jmeno": "Michal Vozobule",
+      "datum_narozeni": "1980-12-08",
+      "adresa": "Manětínská 1543/69, 323 00 Plzeň"
+    },
+    {
+      "role": "člen předsednictva",
+      "jmeno": "Radovan Auer",
+      "datum_narozeni": "1975-01-21",
+      "adresa": "Zborovská 1519/24, 787 01 Šumperk"
+    },
+    {
+      "role": "člen předsednictva",
+      "jmeno": "Pavel Klíma",
+      "datum_narozeni": "1971-05-26",
+      "adresa": "Obora 22, 391 75 Malšice"
+    },
+    {
+      "role": "člen předsednictva",
+      "jmeno": "Pavel Kounovský",
+      "datum_narozeni": "1967-09-28",
+      "adresa": "Sokolská 177, 471 24 Mimoň"
+    },
+    {
+      "role": "člen předsednictva",
+      "jmeno": "Herbert Pavera",
+      "datum_narozeni": "1958-01-04",
+      "adresa": "Hornická 578/29, 747 23 Bolatice"
+    },
+    {
+      "role": "člen předsednictva",
+      "jmeno": "Pavel Svoboda",
+      "datum_narozeni": "1987-10-26",
+      "adresa": "Sakařova 978, 530 03 Pardubice"
+    }
+  ]
+}

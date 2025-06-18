@@ -1,0 +1,29 @@
+{
+  "nazev": "Ženy za Brod",
+  "zkratka": "ŽB",
+  "sidlo": "580 01 Havlíčkův Brod, Prokopa Holého 787",
+  "den_registrace": "2010-05-10",
+  "cislo_registrace": "MV-42277-6/VS-2010",
+  "identifikacni_cislo": "71339850",
+  "statutarni_organ": "Rada, za kterou jedná předseda a místopředseda, a to každý samostatně.",
+  "osoby": [
+    {
+      "role": "předsedkyně",
+      "jmeno": "PhDr. Ivana  Štrossová",
+      "datum_narozeni": "1956-10-04",
+      "adresa": "Prokopa Holého 787, 580 01 Havlíčkův Brod"
+    },
+    {
+      "role": "místopředsedkyně",
+      "jmeno": "Eva  Vyoralová",
+      "datum_narozeni": "1942-07-24",
+      "adresa": "U Šlapanky 1086, 580 01 Havlíčkův Brod"
+    },
+    {
+      "role": "pokladník",
+      "jmeno": "Blanka Muzikářová",
+      "datum_narozeni": "1958-11-09",
+      "adresa": "Pod Vodárnou 2690, 580 01 Havlíčkův Brod"
+    }
+  ]
+}

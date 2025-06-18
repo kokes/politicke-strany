@@ -1,0 +1,17 @@
+{
+  "nazev": "Jundrováci",
+  "zkratka": "Jundrováci",
+  "sidlo": "637 00 Brno, Jasanová 756/7",
+  "den_registrace": "2010-06-28",
+  "cislo_registrace": "MV-57011-6/VS-2010",
+  "identifikacni_cislo": "71339965",
+  "statutarni_organ": "Předseda.",
+  "osoby": [
+    {
+      "role": "předseda",
+      "jmeno": "Ing. Ondřej Šťastník",
+      "datum_narozeni": "1972-03-13",
+      "adresa": "Jasanová 756/7, 637 00 Brno"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "nazev": "ČESKÝ POLITICKÝ STŘED",
+  "zkratka": "ČPST",
+  "sidlo": "110 00 Praha, Václavské náměstí 846/1",
+  "den_registrace": "2009-03-24",
+  "cislo_registrace": "MV-21271-4/VS-2009",
+  "identifikacni_cislo": "71339663",
+  "statutarni_organ": "Výkonný výbor ÚV, za který jedná předseda nebo pověřený místopředseda ÚV strany.",
+  "osoby": [
+    {
+      "role": "člen",
+      "jmeno": "Jana Vaňková",
+      "datum_narozeni": "1951-09-17",
+      "adresa": "Doubravická 1303/6, 149 00 Praha"
+    },
+    {
+      "role": "člen",
+      "jmeno": "JUDr. Jiří Kutil",
+      "datum_narozeni": "1941-11-09",
+      "adresa": "Radlická 2343/48, 150 00 Praha"
+    },
+    {
+      "role": "člen",
+      "jmeno": "Bohumil Veselý",
+      "datum_narozeni": "1950-11-27",
+      "adresa": "286 01 Čejkovice 35"
+    }
+  ]
+}

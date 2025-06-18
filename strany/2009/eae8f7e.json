@@ -1,0 +1,53 @@
+{
+  "nazev": "Strana soukromníků České republiky",
+  "zkratka": "Soukromníci",
+  "sidlo": "110 00 Praha, Školská 660/3",
+  "den_registrace": "2009-03-13",
+  "cislo_registrace": "MV-15624-6/VS-2009",
+  "identifikacni_cislo": "71339655",
+  "statutarni_organ": "Předsednictvo, za které jedná samostatně předseda nebo první místopředseda, jedná-li se o finanční operace ve výši nad 100.000,-Kč, je nutný podpis předsedy společně s podpisem 1. místopředsedy nebo předsedy a  dvou místopředsedů, resp. 1. místopředsedy a dvou místopředsedů.",
+  "osoby": [
+    {
+      "role": "předseda",
+      "jmeno": "Petr Bajer",
+      "datum_narozeni": "1967-05-13",
+      "adresa": "Ottmarova 1149, 534 01 Holice"
+    },
+    {
+      "role": "1. místopředseda",
+      "jmeno": "Ing. Ladislav Linek",
+      "datum_narozeni": "1959-05-04",
+      "adresa": "Soběslavská 2314/15, 130 00 Praha"
+    },
+    {
+      "role": "místopředseda",
+      "jmeno": "Petr Jurča",
+      "datum_narozeni": "1965-09-27",
+      "adresa": "Bezručova 1204, 357 35 Chodov"
+    },
+    {
+      "role": "místopředseda",
+      "jmeno": "Jan  Baránek",
+      "datum_narozeni": "1979-06-29",
+      "adresa": "Osvobození 343/24, 691 41 Břeclav"
+    },
+    {
+      "role": "člen",
+      "jmeno": "Jaroslav Sojka",
+      "datum_narozeni": "1971-04-20",
+      "adresa": "Pod Hájkem 93/45, 664 91 Ivančice"
+    },
+    {
+      "role": "člen",
+      "jmeno": "MUDr. Jaroslav Jeníček, CSc.",
+      "datum_narozeni": "1965-04-10",
+      "adresa": "Dubinská 2328, 190 16 Praha"
+    },
+    {
+      "role": "členka",
+      "jmeno": "Zora Mlčáková",
+      "datum_narozeni": "1956-02-23",
+      "adresa": "373 84 Dubné 179"
+    }
+  ]
+}

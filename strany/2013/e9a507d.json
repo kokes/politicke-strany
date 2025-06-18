@@ -1,0 +1,29 @@
+{
+  "nazev": "Zlín 21",
+  "zkratka": "Z21",
+  "sidlo": "760 01 Zlín, Filmová 174",
+  "den_registrace": "2013-09-05",
+  "cislo_registrace": "MV-100236-4/VS-2013",
+  "identifikacni_cislo": "71443614",
+  "statutarni_organ": "představenstvo, za které jednají samostatně předseda a místopředseda",
+  "osoby": [
+    {
+      "role": "předseda",
+      "jmeno": "Ing. Čestmír Vančura",
+      "datum_narozeni": "1953-12-23",
+      "adresa": "Obeciny VIII 3609, 760 01 Zlín"
+    },
+    {
+      "role": "místopředseda",
+      "jmeno": "Mgr. Jaroslav Juráš",
+      "datum_narozeni": "1980-01-10",
+      "adresa": "Zborovská 4140, 760 01 Zlín"
+    },
+    {
+      "role": "člen",
+      "jmeno": "Ing. Tomáš Dudák",
+      "datum_narozeni": "1976-07-05",
+      "adresa": "třída Tomáše Bati 3119, 760 01 Zlín"
+    }
+  ]
+}

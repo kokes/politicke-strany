@@ -1,0 +1,45 @@
+{
+  "nazev": "Občané České republiky",
+  "zkratka": "OČR",
+  "sidlo": "162 00 Praha, Křenova 438/7",
+  "den_registrace": "2013-04-22",
+  "cislo_registrace": "MV-36922-4/VS-2013",
+  "identifikacni_cislo": "71443533",
+  "statutarni_organ": "Republiková rada, za kterou jedná samostatně předseda nebo společně oba místopředsedové.",
+  "osoby": [
+    {
+      "role": "předseda",
+      "jmeno": "",
+      "adresa": ""
+    },
+    {
+      "role": "1. místopředseda",
+      "jmeno": "",
+      "adresa": ""
+    },
+    {
+      "role": "2. místopředseda",
+      "jmeno": "Josef Kronych",
+      "datum_narozeni": "1972-04-20",
+      "adresa": "Mírová 390/3, 435 43 Horní Jiřetín"
+    },
+    {
+      "role": "člen",
+      "jmeno": "Petr Šimon",
+      "datum_narozeni": "1969-11-07",
+      "adresa": "Hutnická 2776/18, 434 01 Most"
+    },
+    {
+      "role": "člen",
+      "jmeno": "Jindřich Kalda",
+      "datum_narozeni": "1963-10-01",
+      "adresa": "náměstí Boženy Němcové 36/7, 415 01 Újezdeček"
+    },
+    {
+      "role": "členka",
+      "jmeno": "Ing. Lenka Trepešová",
+      "datum_narozeni": "1991-08-01",
+      "adresa": "Říční 763, 431 51 Klášterec nad Ohří"
+    }
+  ]
+}

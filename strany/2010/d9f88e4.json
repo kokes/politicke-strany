@@ -1,0 +1,17 @@
+{
+  "nazev": "Nezávislí pro Bílinu",
+  "zkratka": "NEZÁVISLÍ - BÍLINA",
+  "sidlo": "418 01 Bílina, Jižní 305",
+  "den_registrace": "2010-06-10",
+  "cislo_registrace": "MV-52855-6/VS-2010",
+  "identifikacni_cislo": "71339914",
+  "statutarni_organ": "Předseda.",
+  "osoby": [
+    {
+      "role": "předseda",
+      "jmeno": "Mgr. Zdeněk  Svoboda, Ph.D.",
+      "datum_narozeni": "1976-06-25",
+      "adresa": "Jižní 305, 418 01 Bílina"
+    }
+  ]
+}

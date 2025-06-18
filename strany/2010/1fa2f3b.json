@@ -1,0 +1,29 @@
+{
+  "nazev": "Občanské hnutí pro Mimoň",
+  "zkratka": "OHM",
+  "sidlo": "471 24 Mimoň, Okrouhlická 95",
+  "den_registrace": "2010-07-29",
+  "cislo_registrace": "MV-69910-6/VS-2010",
+  "identifikacni_cislo": "71443193",
+  "statutarni_organ": "Rada, za kterou jedná předseda nebo místopředseda, a to každý samostatně.",
+  "osoby": [
+    {
+      "role": "předseda",
+      "jmeno": "Marek Astaloš",
+      "datum_narozeni": "1973-05-25",
+      "adresa": "Okrouhlická 95, 471 24 Mimoň"
+    },
+    {
+      "role": "místopředseda",
+      "jmeno": "Jana Pešková",
+      "datum_narozeni": "1972-11-15",
+      "adresa": "Okrouhlická 97, 471 24 Mimoň"
+    },
+    {
+      "role": "místopředseda",
+      "jmeno": "Nina  Smolíková",
+      "datum_narozeni": "1978-02-28",
+      "adresa": "Sídliště pod Ralskem 583, 474 21 Mimoň"
+    }
+  ]
+}

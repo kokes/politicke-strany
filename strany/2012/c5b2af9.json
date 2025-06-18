@@ -1,0 +1,29 @@
+{
+  "nazev": "Strana Češi",
+  "zkratka": "Češi",
+  "sidlo": "100 00 Praha, Žernovská 1316/6",
+  "den_registrace": "2012-07-20",
+  "cislo_registrace": "MV-78880-2/VS-2012",
+  "identifikacni_cislo": "71443428",
+  "statutarni_organ": "Řídící výbor, za který jedná a podepisuje předseda strany nebo řídícím výborem pověřený člen předsednictva.",
+  "osoby": [
+    {
+      "role": "předseda",
+      "jmeno": "Ing. Ladislav Adamec",
+      "datum_narozeni": "1957-06-23",
+      "adresa": "Milady Horákové 387/56, 170 00 Praha"
+    },
+    {
+      "role": "místopředseda",
+      "jmeno": "Ing. Vojtěch  Sedláček",
+      "datum_narozeni": "1950-09-01",
+      "adresa": "Květinková 371/4, 130 00 Praha"
+    },
+    {
+      "role": "člen",
+      "jmeno": "Ing. Oldřich  Dostalík",
+      "datum_narozeni": "1958-11-05",
+      "adresa": "Chorvatská 1460, 250 82 Úvaly"
+    }
+  ]
+}

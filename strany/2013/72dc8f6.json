@@ -1,0 +1,17 @@
+{
+  "nazev": "Úsvit - Národní Koalice",
+  "zkratka": "Úsvit",
+  "sidlo": "160 00 Praha, Velflíkova 1428/4",
+  "den_registrace": "2013-06-19",
+  "cislo_registrace": "MV-60042-6/VS-2013",
+  "identifikacni_cislo": "71443576",
+  "statutarni_organ": "Sekretář.",
+  "osoby": [
+    {
+      "role": "sekretář",
+      "jmeno": "Jan Zilvar",
+      "datum_narozeni": "1965-01-15",
+      "adresa": "Na Terasách 1496/12, 312 00 Plzeň"
+    }
+  ]
+}

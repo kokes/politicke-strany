@@ -1,0 +1,21 @@
+{
+  "nazev": "Zemští Demokraté",
+  "zkratka": "ZEDEM",
+  "sidlo": "642 00 Brno, Pražská 674/156",
+  "den_registrace": "2012-10-19",
+  "cislo_registrace": "MV-81350-4/VS-2012",
+  "identifikacni_cislo": "71443495",
+  "statutarni_organ": "Předseda a první místopředseda, každý samostatně.",
+  "osoby": [
+    {
+      "role": "předseda",
+      "jmeno": "MVDr. Milan Dvořák, PhD.",
+      "adresa": ""
+    },
+    {
+      "role": "1.místopředsedkyně",
+      "jmeno": "Kateřina Poludová, Dis.",
+      "adresa": ""
+    }
+  ]
+}

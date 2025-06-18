@@ -1,0 +1,23 @@
+{
+  "nazev": "Libertas.cz",
+  "zkratka": "Libertas",
+  "sidlo": "110 00 Praha, Dlouhá 616/12",
+  "den_registrace": "2009-01-13",
+  "cislo_registrace": "MV-1495-2/VS-2009",
+  "identifikacni_cislo": "71339604",
+  "statutarni_organ": "Předseda a místopředseda, kteří jednají společně.",
+  "osoby": [
+    {
+      "role": "předseda",
+      "jmeno": "Jan Fuka",
+      "datum_narozeni": "1953-03-28",
+      "adresa": "431 91 Loučná pod Klínovcem 100E"
+    },
+    {
+      "role": "místopředseda",
+      "jmeno": "Jaroslava Fuková",
+      "datum_narozeni": "1958-01-11",
+      "adresa": "Krokova 4553, 430 01 Chomutov"
+    }
+  ]
+}

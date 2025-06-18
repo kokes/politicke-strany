@@ -1,0 +1,23 @@
+{
+  "nazev": "Patrioti České republiky",
+  "zkratka": "Patrioti ČR",
+  "sidlo": "181 00 Praha, Řešovská 519/1",
+  "den_registrace": "2014-02-10",
+  "cislo_registrace": "MV-8204-6/VS-2014",
+  "identifikacni_cislo": "71443681",
+  "statutarni_organ": "Předsednictvo, za které jedná společně předseda a místopředseda.",
+  "osoby": [
+    {
+      "role": "předseda",
+      "jmeno": "Jiří Vítek",
+      "datum_narozeni": "1973-06-03",
+      "adresa": "Řešovská 519/1, 181 00 Praha"
+    },
+    {
+      "role": "1. místopředseda",
+      "jmeno": "Michal Švarc",
+      "datum_narozeni": "1965-02-16",
+      "adresa": "Nad Kotlaskou I 395, 180 00 Praha"
+    }
+  ]
+}

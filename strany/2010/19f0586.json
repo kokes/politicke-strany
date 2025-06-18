@@ -1,0 +1,29 @@
+{
+  "nazev": "Česká strana regionů",
+  "zkratka": "ČSR",
+  "sidlo": "530 03 Pardubice, Na Drážce 1539",
+  "den_registrace": "2010-07-29",
+  "cislo_registrace": "MV-68061-6/VS-2010",
+  "identifikacni_cislo": "71443207",
+  "statutarni_organ": "Výbor, za který jedná předseda nebo místopředseda nebo jiný pověřený člen výboru.",
+  "osoby": [
+    {
+      "role": "předseda",
+      "jmeno": "František Brendl",
+      "datum_narozeni": "1976-05-20",
+      "adresa": "Spojilská 37, 530 03 Pardubice"
+    },
+    {
+      "role": "místopředseda",
+      "jmeno": "Libor Hlaváč",
+      "datum_narozeni": "1977-03-31",
+      "adresa": "Na Drážce 1539, 530 03 Pardubice"
+    },
+    {
+      "role": "pokladník",
+      "jmeno": "Klára Hlaváčová",
+      "datum_narozeni": "1984-09-10",
+      "adresa": "Dubinská 758, 530 12 Pardubice"
+    }
+  ]
+}

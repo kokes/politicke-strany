@@ -1,0 +1,27 @@
+{
+  "nazev": "SDRUŽENÍ PRO REPUBLIKU - REPUBLIKÁNSKÁ STRANA ČECH, MORAVY A SLEZSKA",
+  "zkratka": "SPR-RSČMS",
+  "sidlo": "779 00 Olomouc, Pekařská 490/11",
+  "den_registrace": "2010-06-24",
+  "cislo_registrace": "MV-57833-6/VS-2010",
+  "identifikacni_cislo": "71339922",
+  "statutarni_organ": "Předseda a místopředsedové, kteří jednají samostatně.",
+  "osoby": [
+    {
+      "role": "předseda",
+      "jmeno": "Ing. Pavel Mužný",
+      "datum_narozeni": "1952-04-26",
+      "adresa": "Balbínova 364/17, 779 00 Olomouc"
+    },
+    {
+      "role": "1. místopředseda",
+      "jmeno": "",
+      "adresa": ""
+    },
+    {
+      "role": "2. místopředseda",
+      "jmeno": "",
+      "adresa": ""
+    }
+  ]
+}

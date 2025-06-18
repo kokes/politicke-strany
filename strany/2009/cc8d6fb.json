@@ -1,0 +1,17 @@
+{
+  "nazev": "Hnutí Za Telefonování Zdarma",
+  "zkratka": "HZTZ.CZ",
+  "sidlo": "466 01 Jablonec nad Nisou, Máchova 766/29",
+  "den_registrace": "2009-06-15",
+  "cislo_registrace": "MV-32981-8/VS-2009",
+  "identifikacni_cislo": "71339680",
+  "statutarni_organ": "Guru.",
+  "osoby": [
+    {
+      "role": "Guru",
+      "jmeno": "Tomáš  Jenček",
+      "datum_narozeni": "1981-10-24",
+      "adresa": "Máchova 29, 466 01 Jablonec nad Nisou"
+    }
+  ]
+}

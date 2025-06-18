@@ -1,0 +1,29 @@
+{
+  "nazev": "Ostravak",
+  "zkratka": "Ostravak",
+  "sidlo": "702 00 Ostrava, Brandlova 1267/6",
+  "den_registrace": "2010-07-29",
+  "cislo_registrace": "MV-67190-6/VS-2010",
+  "identifikacni_cislo": "71443215",
+  "statutarni_organ": "Představenstvo, za které jedná samostatně předseda nebo společně dva členové představenstva, z nichž alespoň jeden je místopředsedou představenstva.",
+  "osoby": [
+    {
+      "role": "předseda",
+      "jmeno": "MUDr. Tomáš Málek",
+      "datum_narozeni": "1968-02-22",
+      "adresa": "Balbínova 627/28, 725 29 Ostrava"
+    },
+    {
+      "role": "místopředsedkyně",
+      "jmeno": "Ing. Petra Bernfeldová",
+      "datum_narozeni": "1977-10-04",
+      "adresa": "Poděbradova 2961/60, 702 00 Ostrava"
+    },
+    {
+      "role": "člen",
+      "jmeno": "JUDr. Lukáš Semerák",
+      "datum_narozeni": "1972-01-11",
+      "adresa": "Pobialova 1208/21, 702 00 Ostrava"
+    }
+  ]
+}

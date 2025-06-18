@@ -1,0 +1,17 @@
+{
+  "nazev": "Pardubice pro lidi",
+  "zkratka": "PPL",
+  "sidlo": "530 06 Pardubice, Pražská 71",
+  "den_registrace": "2013-05-20",
+  "cislo_registrace": "MV-55441-4/VS-2013",
+  "identifikacni_cislo": "71443550",
+  "statutarni_organ": "Předseda.",
+  "osoby": [
+    {
+      "role": "předseda",
+      "jmeno": "Petr Králíček",
+      "datum_narozeni": "1981-05-29",
+      "adresa": "Pražská 71, 530 06 Pardubice"
+    }
+  ]
+}

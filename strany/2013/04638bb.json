@@ -1,0 +1,23 @@
+{
+  "nazev": "Strana důchodců Františka Burdy",
+  "zkratka": "SDFB",
+  "sidlo": "396 01 Humpolec, Lipnická 1209",
+  "den_registrace": "2013-05-09",
+  "cislo_registrace": "MV-80389-4/VS-2010",
+  "identifikacni_cislo": "71443541",
+  "statutarni_organ": "Předseda a místopředseda.",
+  "osoby": [
+    {
+      "role": "předseda",
+      "jmeno": "František Burda",
+      "datum_narozeni": "1941-10-31",
+      "adresa": "Lipnická 1209, 396 01 Humpolec"
+    },
+    {
+      "role": "místopředsedkyně",
+      "jmeno": "Jana Procházková",
+      "datum_narozeni": "1944-03-07",
+      "adresa": "Smetanova 48, 396 01 Humpolec"
+    }
+  ]
+}

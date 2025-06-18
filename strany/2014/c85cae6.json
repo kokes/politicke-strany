@@ -1,0 +1,17 @@
+{
+  "nazev": "Alternativa pro Plzeň",
+  "zkratka": "APPlzeň.cz",
+  "sidlo": "326 00 Plzeň, Mikulášské náměstí 495/10",
+  "den_registrace": "2014-01-07",
+  "cislo_registrace": "MV-144082-4/VS-2013",
+  "identifikacni_cislo": "71443673",
+  "statutarni_organ": "Řídící výbor, jeho jménem jedná předseda nebo 2 zastupující členové.",
+  "osoby": [
+    {
+      "role": "člen",
+      "jmeno": "Zdeněk Sláma",
+      "datum_narozeni": "1985-07-10",
+      "adresa": "Komenského 720/5, 323 00 Plzeň"
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "nazev": "ZVUK 12",
+  "zkratka": "ZVUK 12",
+  "sidlo": "767 01 Kroměříž, Postoupky 245",
+  "den_registrace": "2012-07-17",
+  "cislo_registrace": "MV-75845-4/VS-2012",
+  "identifikacni_cislo": "71443401",
+  "statutarni_organ": "Předsednictvo, za které jedná samostatně předseda a v jeho nepřítomnosti první místopředseda, případně druhý místopředseda.",
+  "osoby": [
+    {
+      "role": "předseda",
+      "jmeno": "Jiří Kašík",
+      "datum_narozeni": "1964-07-02",
+      "adresa": "767 01 Kroměříž 245"
+    },
+    {
+      "role": "1. místopředseda",
+      "jmeno": "Martin Hassa",
+      "datum_narozeni": "1968-01-17",
+      "adresa": "3. pluku 4576/11, 767 01 Kroměříž"
+    },
+    {
+      "role": "2. místopředseda",
+      "jmeno": "Ing. Ivo Thurner",
+      "datum_narozeni": "1974-04-28",
+      "adresa": "Přílucká 283, 763 11 Želechovice nad Dřevnicí"
+    },
+    {
+      "role": "člen",
+      "jmeno": "Ondřej Daníček",
+      "datum_narozeni": "1988-09-06",
+      "adresa": "768 05 Koryčany 114"
+    },
+    {
+      "role": "členka",
+      "jmeno": "Stanislava Pulkrábková",
+      "datum_narozeni": "1978-11-10",
+      "adresa": "Kostnická 3223/2, 767 01 Kroměříž"
+    }
+  ]
+}

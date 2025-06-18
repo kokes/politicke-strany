@@ -1,0 +1,23 @@
+{
+  "nazev": "BEZPEČNÉ ULICE",
+  "zkratka": "BEZ-UL",
+  "sidlo": "161 00 Praha, Ciolkovského 853/1",
+  "den_registrace": "2011-05-09",
+  "cislo_registrace": "MV-37556-4/VS-2011",
+  "identifikacni_cislo": "71443266",
+  "statutarni_organ": "Předseda strany a 1. místopředseda strany, jež jednají každý samostatně.",
+  "osoby": [
+    {
+      "role": "předseda",
+      "jmeno": "Mgr. Jiří Štěpánek",
+      "datum_narozeni": "1972-03-05",
+      "adresa": "Na Celchu 395/29, 326 00 Plzeň"
+    },
+    {
+      "role": "1.místopředsedkyně",
+      "jmeno": "Hana Pavlíčková",
+      "datum_narozeni": "1947-07-24",
+      "adresa": "Rumburská 261/17, 190 00 Praha"
+    }
+  ]
+}

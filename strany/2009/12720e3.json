@@ -1,0 +1,41 @@
+{
+  "nazev": "Česká pirátská strana",
+  "zkratka": "Piráti",
+  "sidlo": "128 00 Praha, Na Moráni 360/3",
+  "den_registrace": "2009-06-17",
+  "cislo_registrace": "MV-39553-7/VS-2009",
+  "identifikacni_cislo": "71339698",
+  "statutarni_organ": "Republikové předsednictvo, za které jedná předseda nebo jiný pověřený člen předsednictva.",
+  "osoby": [
+    {
+      "role": "předseda",
+      "jmeno": "MUDr. Zdeněk Hřib",
+      "datum_narozeni": "1981-05-21",
+      "adresa": "náměstí Svatopluka Čecha 1356/8, 101 00 Praha"
+    },
+    {
+      "role": "1. místopředseda",
+      "jmeno": "Ing. et Ing. Martin Šmída",
+      "datum_narozeni": "1985-06-11",
+      "adresa": "U sokolovny 144, 751 03 Majetín"
+    },
+    {
+      "role": "2. místopředsedkyně",
+      "jmeno": "Mgr. Hana Hajnová",
+      "datum_narozeni": "1985-07-18",
+      "adresa": "28. října 397, 588 56 Telč"
+    },
+    {
+      "role": "3. místopředseda",
+      "jmeno": "Michal Bláha",
+      "datum_narozeni": "1972-10-19",
+      "adresa": "Velenovského 648, 251 64 Mnichovice"
+    },
+    {
+      "role": "4. místopředsedkyně",
+      "jmeno": "PhDr. Olga Richterová, Ph.D.",
+      "datum_narozeni": "1985-01-21",
+      "adresa": "Oblouková 491/14, 101 00 Praha"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "nazev": "Hnutí FAIR PLAY",
+  "zkratka": "HnutiFairPlay.cz",
+  "sidlo": "106 00 Praha, Žirovnická 3133/6",
+  "den_registrace": "2012-08-03",
+  "cislo_registrace": "MV-83873-4/VS-2012",
+  "identifikacni_cislo": "71443479",
+  "statutarni_organ": "Předseda.",
+  "osoby": [
+    {
+      "role": "předseda",
+      "jmeno": "Mgr. Filip Sedlák",
+      "datum_narozeni": "1984-01-05",
+      "adresa": "Štrossova 1063, 530 03 Pardubice"
+    }
+  ]
+}

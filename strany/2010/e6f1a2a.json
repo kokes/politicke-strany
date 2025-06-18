@@ -1,0 +1,29 @@
+{
+  "nazev": "Strakonická Veřejnost",
+  "zkratka": "SV",
+  "sidlo": "386 01 Strakonice, Velké náměstí 149",
+  "den_registrace": "2010-07-08",
+  "cislo_registrace": "MV-57411-6/VS-2010",
+  "identifikacni_cislo": "71340009",
+  "statutarni_organ": "Rada, jejímž jménem jedná předseda nebo v jeho nepřítomnosti místopředseda, a to samostatně.",
+  "osoby": [
+    {
+      "role": "předseda",
+      "jmeno": "Mgr. Břetislav  Hrdlička",
+      "datum_narozeni": "1962-01-06",
+      "adresa": "U Židovského hřbitova 54, 386 01 Strakonice"
+    },
+    {
+      "role": "místopředseda",
+      "jmeno": "František Christelbauer",
+      "datum_narozeni": "1966-08-06",
+      "adresa": "Bezděkovská 427, 386 01 Strakonice"
+    },
+    {
+      "role": "archivář",
+      "jmeno": "Ivana Hrdličková",
+      "datum_narozeni": "1966-10-30",
+      "adresa": "U Židovského hřbitova 54, 386 01 Strakonice"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "nazev": "Pro Třebíč",
+  "zkratka": "ProTR",
+  "sidlo": "674 01 Třebíč, Obránců míru 489/20",
+  "den_registrace": "2010-04-20",
+  "cislo_registrace": "MV-35568-6/VS-2010",
+  "identifikacni_cislo": "71339809",
+  "statutarni_organ": "Představenstvo, za které jednají dva mluvčí, a to každý samostatně.",
+  "osoby": [
+    {
+      "role": "mluvčí",
+      "jmeno": "Mgr. Pavel  Pacal",
+      "datum_narozeni": "1974-03-02",
+      "adresa": "Obránců míru 489/20, 674 01 Třebíč"
+    },
+    {
+      "role": "mluvčí",
+      "jmeno": "Bc. Jaromíra Hanáčková",
+      "datum_narozeni": "1958-11-22",
+      "adresa": "382 82 Benešov nad Černou 215"
+    },
+    {
+      "role": "člen",
+      "jmeno": "Ing. Jitka  Bínová",
+      "datum_narozeni": "1973-11-01",
+      "adresa": "Obránců míru 489/20, 674 01 Třebíč"
+    }
+  ]
+}

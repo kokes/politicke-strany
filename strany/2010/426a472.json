@@ -1,0 +1,29 @@
+{
+  "nazev": "VLASTENECKÁ STRANA",
+  "zkratka": "VS",
+  "sidlo": "470 01 Česká Lípa, Sokolská 270/8",
+  "den_registrace": "2010-07-21",
+  "cislo_registrace": "MV- 54543-8/VS-2010",
+  "identifikacni_cislo": "71443169",
+  "statutarni_organ": "Předsednictvo, za které jedná předseda nebo místopředseda každý samostatně; jde-li o uzavírání politických dohod a zavazování se nad částku 50.000,- Kč jednají společně dva členové předsednictva.",
+  "osoby": [
+    {
+      "role": "předseda",
+      "jmeno": "Roman Podzimek",
+      "datum_narozeni": "1966-11-14",
+      "adresa": "Újezd 2222, 470 01 Česká Lípa"
+    },
+    {
+      "role": "místopředseda",
+      "jmeno": "JUDr. Josef Klofáč",
+      "datum_narozeni": "1942-02-17",
+      "adresa": "Havířská 1994, 470 01 Česká Lípa"
+    },
+    {
+      "role": "místopředseda",
+      "jmeno": "JUDr. Jan Jeřábek",
+      "datum_narozeni": "1943-07-10",
+      "adresa": "V zahradách 528/13, 180 00 Praha"
+    }
+  ]
+}

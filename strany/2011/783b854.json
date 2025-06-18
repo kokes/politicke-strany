@@ -1,0 +1,29 @@
+{
+  "nazev": "Strana přátel časopisu MAXIM a jejich přátel za maximální svobodu projevu, za vybudování mocné armády a za život bez zbytečných omezení a zákazů",
+  "zkratka": "„MAXIM“",
+  "sidlo": "373 01 Tři Sekery 73",
+  "den_registrace": "2011-11-22",
+  "cislo_registrace": "MV-68841-10/VS-2010",
+  "identifikacni_cislo": "71443304",
+  "statutarni_organ": "Předseda a místopředsedové, kteří jednají samostatně. V něběžných záležitostech, kterými je uzavírání politických dohod a zavazování se nad částku vyšší než 50 000,- Kč, je třeba podpisu dvou statutárních zástupců.",
+  "osoby": [
+    {
+      "role": "předseda",
+      "jmeno": "Pavel Vondráček",
+      "datum_narozeni": "1971-05-14",
+      "adresa": "353 01 Tři Sekery 73"
+    },
+    {
+      "role": "místopředseda",
+      "jmeno": "Ivan Brezina",
+      "datum_narozeni": "1967-09-21",
+      "adresa": "Na výtoni 401/7, 128 00 Praha"
+    },
+    {
+      "role": "místopředseda",
+      "jmeno": "Petr  Bílek",
+      "datum_narozeni": "1974-01-22",
+      "adresa": "Nedvězská 3336/2, 100 00 Praha"
+    }
+  ]
+}

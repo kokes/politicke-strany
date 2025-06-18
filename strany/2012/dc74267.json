@@ -1,0 +1,28 @@
+{
+  "nazev": "politické hnutí Změna",
+  "zkratka": "Změna",
+  "sidlo": "460 07 Liberec, 1. máje 97/25",
+  "den_registrace": "2012-06-08",
+  "cislo_registrace": "MV-57571-5/VS-2012",
+  "identifikacni_cislo": "71443363",
+  "statutarni_organ": "Celostátní rada, za kterou jedná předseda.",
+  "osoby": [
+    {
+      "role": "předseda",
+      "jmeno": "",
+      "adresa": ""
+    },
+    {
+      "role": "člen",
+      "jmeno": "Ing. Libor  Witassek",
+      "datum_narozeni": "1969-05-15",
+      "adresa": "Sluneční 1348/3, 746 01 Opava"
+    },
+    {
+      "role": "člen",
+      "jmeno": "Ing. achr. Jan Horký",
+      "datum_narozeni": "1983-11-17",
+      "adresa": "Boženy Němcové 1541/5, 750 02 Přerov"
+    }
+  ]
+}

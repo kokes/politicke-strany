@@ -1,0 +1,26 @@
+{
+  "nazev": "PATRIOTI",
+  "zkratka": "PATRIOTI",
+  "sidlo": "547 01 Náchod, Vítkova 368",
+  "den_registrace": "2012-07-20",
+  "cislo_registrace": "MV-77900-4/VS-2012",
+  "identifikacni_cislo": "71443410",
+  "statutarni_organ": "Ceslostátní předsednictvo, za které jedná předseda, v jeho nepřítomnosti místopředseda nebo další pověřený člen předsednictva.",
+  "osoby": [
+    {
+      "role": "předseda",
+      "jmeno": "",
+      "adresa": ""
+    },
+    {
+      "role": "místopředseda",
+      "jmeno": "",
+      "adresa": ""
+    },
+    {
+      "role": "člen",
+      "jmeno": "",
+      "adresa": ""
+    }
+  ]
+}

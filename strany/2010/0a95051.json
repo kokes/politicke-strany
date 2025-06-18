@@ -1,0 +1,29 @@
+{
+  "nazev": "SLATINŠTÍ NEZÁVISLÍ",
+  "zkratka": "SN SLATINA",
+  "sidlo": "627 00 Brno, Tuřanka 1260/1",
+  "den_registrace": "2010-06-29",
+  "cislo_registrace": "MV-63899-4/VS-2010",
+  "identifikacni_cislo": "71339990",
+  "statutarni_organ": "Výkonný výbor, za který jedná předseda.",
+  "osoby": [
+    {
+      "role": "předseda",
+      "jmeno": "Ing. Václav Klajsner",
+      "datum_narozeni": "1962-04-25",
+      "adresa": "Křehlíkova 1100/56, 627 00 Brno"
+    },
+    {
+      "role": "místopředseda",
+      "jmeno": "Miroslav Smutný",
+      "datum_narozeni": "1945-07-06",
+      "adresa": "Langrova 820/5, 627 00 Brno"
+    },
+    {
+      "role": "místopředseda",
+      "jmeno": "Ing. Zdeněk Vilím",
+      "datum_narozeni": "1969-04-10",
+      "adresa": "Tuřanka 223/24, 627 00 Brno"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "nazev": "Sdružení nezávislých Holešovska",
+  "zkratka": "SNH",
+  "sidlo": "769 01 Holešov, Dlažánky 310/6",
+  "den_registrace": "2010-08-02",
+  "cislo_registrace": "MV-69191-6/VS-2010",
+  "identifikacni_cislo": "71443231",
+  "statutarni_organ": "Představenstvo, za které jedná předseda.",
+  "osoby": [
+    {
+      "role": "předseda",
+      "jmeno": "JUDr. Jarmila Pokorná",
+      "datum_narozeni": "1951-03-16",
+      "adresa": "Sportovní 1460, 769 01 Holešov"
+    },
+    {
+      "role": "místopředseda",
+      "jmeno": "Ing. Jaromír Tomšů",
+      "datum_narozeni": "1964-03-08",
+      "adresa": "Jiráskova 893/4, 769 01 Holešov"
+    },
+    {
+      "role": "člen",
+      "jmeno": "Mgr. Jarmila Růžičková",
+      "datum_narozeni": "1959-05-26",
+      "adresa": "Novosady 1568, 769 01 Holešov"
+    }
+  ]
+}

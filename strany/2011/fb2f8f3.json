@@ -1,0 +1,17 @@
+{
+  "nazev": "Strana rovných příležitostí",
+  "zkratka": "SRP",
+  "sidlo": "439 42 Postoloprty, Hálkova 37",
+  "den_registrace": "2011-12-19",
+  "cislo_registrace": "MV-126300-4/VS-2011",
+  "identifikacni_cislo": "71443321",
+  "statutarni_organ": "Předseda.",
+  "osoby": [
+    {
+      "role": "předseda",
+      "jmeno": "Miroslav Kováč",
+      "datum_narozeni": "1970-12-04",
+      "adresa": "Mírové náměstí 318, 439 42 Postoloprty"
+    }
+  ]
+}

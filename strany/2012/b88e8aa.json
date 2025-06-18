@@ -1,0 +1,29 @@
+{
+  "nazev": "HOZK",
+  "zkratka": "HOZK",
+  "sidlo": "104 00 Praha, Václava Trojana 1540/13",
+  "den_registrace": "2012-06-19",
+  "cislo_registrace": "MV-64747-4/VS-2012",
+  "identifikacni_cislo": "71443371",
+  "statutarni_organ": "Výkonný výbor, za který jedná společně předseda a jeden místopředseda.",
+  "osoby": [
+    {
+      "role": "předseda",
+      "jmeno": "PhDr. Martin Vacek, MBA",
+      "datum_narozeni": "1971-12-02",
+      "adresa": "Václava Trojana 1540/13, 104 00 Praha"
+    },
+    {
+      "role": "1. místopředseda",
+      "jmeno": "Ing. Mgr. Rudolf Mládek",
+      "datum_narozeni": "1956-12-13",
+      "adresa": "Vodnická 321/3, 149 00 Praha"
+    },
+    {
+      "role": "místopředseda",
+      "jmeno": "Bc. Marek  Paták",
+      "datum_narozeni": "1968-10-01",
+      "adresa": "Hvozdenská 92, 763 11 Zlín"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "nazev": "Ústečané",
+  "zkratka": "Ú",
+  "sidlo": "400 01 Ústí nad Labem, Mírové náměstí 2442/6",
+  "den_registrace": "2013-09-05",
+  "cislo_registrace": "MV-103900-4/VS-2013",
+  "identifikacni_cislo": "71443622",
+  "statutarni_organ": "představenstvo, za které jedná předseda spolu s členem představenstva nebo společně dva členové představenstva, z nichž alespoň jeden je místopředsedou představenstva",
+  "osoby": [
+    {
+      "role": "předseda",
+      "jmeno": "Raul Cruz",
+      "datum_narozeni": "1964-11-22",
+      "adresa": "Na Výšině 494, 403 31 Ústí nad Labem"
+    },
+    {
+      "role": "místopředseda",
+      "jmeno": "Ladislav Alinče",
+      "datum_narozeni": "1970-06-03",
+      "adresa": "Přemyslovců 622/20, 400 07 Ústí nad Labem"
+    },
+    {
+      "role": "místopředseda",
+      "jmeno": "Petr Kratochvíl",
+      "datum_narozeni": "1973-12-15",
+      "adresa": "Glennova 2704/3, 400 11 Ústí nad Labem"
+    }
+  ]
+}

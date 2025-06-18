@@ -1,0 +1,41 @@
+{
+  "nazev": "PRO",
+  "zkratka": "PRO",
+  "sidlo": "150 00 Praha, náměstí Kinských  741/6",
+  "den_registrace": "2012-07-16",
+  "cislo_registrace": "MV-78460-2/VS-2012",
+  "identifikacni_cislo": "71443398",
+  "statutarni_organ": "Předsednictvo. Za hnutí jedná předseda nebo 1. místopředseda samostatně.",
+  "osoby": [
+    {
+      "role": "předseda",
+      "jmeno": "Jaroslav Nedvěd",
+      "datum_narozeni": "1971-09-15",
+      "adresa": "Plzeňská 441/207, 150 00 Praha"
+    },
+    {
+      "role": "1. místopředseda",
+      "jmeno": "Jan Kuchař",
+      "datum_narozeni": "1974-05-18",
+      "adresa": "Polní 60/1, 351 01 Františkovy Lázně"
+    },
+    {
+      "role": "člen",
+      "jmeno": "Marek Kukrle",
+      "datum_narozeni": "1969-02-16",
+      "adresa": "Na bělidle 65/42, 150 00 Praha"
+    },
+    {
+      "role": "členka",
+      "jmeno": "Mgr. Diana Bubníková",
+      "datum_narozeni": "1969-02-10",
+      "adresa": "Pivcova 956/6, 152 00 Praha"
+    },
+    {
+      "role": "členka",
+      "jmeno": "Eva Pitrová",
+      "datum_narozeni": "1973-04-23",
+      "adresa": "Hoškova 1110/6, 158 00 Praha"
+    }
+  ]
+}

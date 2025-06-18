@@ -1,0 +1,17 @@
+{
+  "nazev": "Občané pro Budějovice",
+  "zkratka": "HOPB",
+  "sidlo": "370 01 České Budějovice, Riegrova 1804/11",
+  "den_registrace": "2010-07-22",
+  "cislo_registrace": "MV-69909-4/VS-2010",
+  "identifikacni_cislo": "71443185",
+  "statutarni_organ": "Předseda.",
+  "osoby": [
+    {
+      "role": "předseda",
+      "jmeno": "Juraj Thoma",
+      "datum_narozeni": "1969-02-19",
+      "adresa": "Česká 382/48, 370 01 České Budějovice"
+    }
+  ]
+}

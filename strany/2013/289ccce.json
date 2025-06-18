@@ -1,0 +1,17 @@
+{
+  "nazev": "Občanská sounáležitost",
+  "zkratka": "OS",
+  "sidlo": "301 00 Plzeň, Heyrovského 482/42",
+  "den_registrace": "2013-01-14",
+  "cislo_registrace": "MV-146804-4/VS-2012",
+  "identifikacni_cislo": "71443517",
+  "statutarni_organ": "Předseda.",
+  "osoby": [
+    {
+      "role": "předseda",
+      "jmeno": "Václav Vorel",
+      "datum_narozeni": "1959-04-30",
+      "adresa": "Heyrovského 482/42, 301 00 Plzeň"
+    }
+  ]
+}

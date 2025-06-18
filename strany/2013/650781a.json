@@ -1,0 +1,17 @@
+{
+  "nazev": "Romská demokratická strana",
+  "zkratka": "RDS",
+  "sidlo": "470 06 Česká Lípa, Zhořelecká 2504",
+  "den_registrace": "2013-08-14",
+  "cislo_registrace": "MV-75465-7/VS-2013",
+  "identifikacni_cislo": "71443592",
+  "statutarni_organ": "Předseda.",
+  "osoby": [
+    {
+      "role": "předseda",
+      "jmeno": "Miroslav Tancoš",
+      "datum_narozeni": "1959-10-01",
+      "adresa": "V Parku 832, 473 01 Nový Bor"
+    }
+  ]
+}

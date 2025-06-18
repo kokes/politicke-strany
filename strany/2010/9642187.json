@@ -1,0 +1,26 @@
+{
+  "nazev": "Konzervativní aliance 2014",
+  "zkratka": "KA14",
+  "sidlo": "150 00 Praha, Ostrovského 253/3",
+  "den_registrace": "2010-07-20",
+  "cislo_registrace": "MV-65866-6/VS-2010",
+  "identifikacni_cislo": "71443151",
+  "statutarni_organ": "Výbor, za který jedná předseda.",
+  "osoby": [
+    {
+      "role": "předseda",
+      "jmeno": "",
+      "adresa": ""
+    },
+    {
+      "role": "místopředseda",
+      "jmeno": "",
+      "adresa": ""
+    },
+    {
+      "role": "člen",
+      "jmeno": "",
+      "adresa": ""
+    }
+  ]
+}

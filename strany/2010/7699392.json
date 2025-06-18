@@ -1,0 +1,17 @@
+{
+  "nazev": "ZaRegion",
+  "zkratka": "ZaRegion",
+  "sidlo": "418 01 Bílina, Seifertova 4/7",
+  "den_registrace": "2010-07-16",
+  "cislo_registrace": "MV-67617-5/VS-2010",
+  "identifikacni_cislo": "71340084",
+  "statutarni_organ": "Předseda.",
+  "osoby": [
+    {
+      "role": "předsedkyně",
+      "jmeno": "Ing. Lucie Ječmenová",
+      "datum_narozeni": "1982-05-28",
+      "adresa": "Břežánská 49/2, 418 01 Bílina"
+    }
+  ]
+}

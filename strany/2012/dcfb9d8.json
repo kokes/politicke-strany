@@ -1,0 +1,26 @@
+{
+  "nazev": "Volba lidu 21.století",
+  "zkratka": "VL21",
+  "sidlo": "370 01 České Budějovice, Žižkova tř. 309/12",
+  "den_registrace": "2012-08-03",
+  "cislo_registrace": "MV-75093-4/VS-2012",
+  "identifikacni_cislo": "71443461",
+  "statutarni_organ": "Předsednictvo, za které jedná předseda a právní úkony a listiny s ním spolupodpisuje alespoň jeden člen předsednictva.",
+  "osoby": [
+    {
+      "role": "předseda",
+      "jmeno": "",
+      "adresa": ""
+    },
+    {
+      "role": "místopředseda",
+      "jmeno": "",
+      "adresa": ""
+    },
+    {
+      "role": "místopředseda",
+      "jmeno": "",
+      "adresa": ""
+    }
+  ]
+}

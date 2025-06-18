@@ -1,0 +1,41 @@
+{
+  "nazev": "Nový směr",
+  "zkratka": "NOS",
+  "sidlo": "466 01 Jablonec nad Nisou, Lípová 3525/8",
+  "den_registrace": "2013-06-26",
+  "cislo_registrace": "MV-82350-4/VS-2012",
+  "identifikacni_cislo": "71443584",
+  "statutarni_organ": "Výkonná rada, za kterou jedná předseda nebo výkonnou radou pověřený člen výkonné rady.",
+  "osoby": [
+    {
+      "role": "předseda",
+      "jmeno": "Zbyněk Hromek",
+      "datum_narozeni": "1966-10-18",
+      "adresa": "Dvorní 734/12, 696 18 Lužice"
+    },
+    {
+      "role": "1. místopředseda",
+      "jmeno": "Mgr. Štěpán Prokop",
+      "datum_narozeni": "1985-02-27",
+      "adresa": "Dvorní 510/42, 696 18 Lužice"
+    },
+    {
+      "role": "místopředsedkyně",
+      "jmeno": "Naděžda Holešová",
+      "datum_narozeni": "1973-12-03",
+      "adresa": "Zahrádkářská 903/17, 696 18 Lužice"
+    },
+    {
+      "role": "místopředsedkyně",
+      "jmeno": "Zuzana Kurimský",
+      "datum_narozeni": "1993-08-13",
+      "adresa": "471 51 Svor 231"
+    },
+    {
+      "role": "místopředseda",
+      "jmeno": "Lukáš Dora",
+      "datum_narozeni": "1980-08-12",
+      "adresa": "Komenského 41, 691 44 Lednice"
+    }
+  ]
+}

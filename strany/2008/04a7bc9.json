@@ -1,0 +1,17 @@
+{
+  "nazev": "Lidé a Politika",
+  "zkratka": "LAP",
+  "sidlo": "252 26 Třebotov, Kosoř 1",
+  "den_registrace": "2008-11-27",
+  "cislo_registrace": "MV-77334-9/VS-2008",
+  "identifikacni_cislo": "71339582",
+  "statutarni_organ": "Předseda.",
+  "osoby": [
+    {
+      "role": "předseda",
+      "jmeno": "Jiří  Michalička",
+      "datum_narozeni": "1969-06-21",
+      "adresa": "Goetheho 1077/23, 160 00 Praha"
+    }
+  ]
+}

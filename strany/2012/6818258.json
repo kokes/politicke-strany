@@ -1,0 +1,28 @@
+{
+  "nazev": "Zdraví Sport Vzdělání 2012",
+  "zkratka": "PRO Zdraví",
+  "sidlo": "110 00 Praha, Václavské náměstí  813/57",
+  "den_registrace": "2012-12-21",
+  "cislo_registrace": "MV-145991-2/VS-2012",
+  "identifikacni_cislo": "71443509",
+  "statutarni_organ": "Grémium, jehož jménem jedná předseda samostatně nebo předsedou písemně pověřený člen Grémia.",
+  "osoby": [
+    {
+      "role": "předseda",
+      "jmeno": "Ing. Van Sang  Tran",
+      "datum_narozeni": "1985-08-30",
+      "adresa": "Marš. Rybalka 1033, 434 01 Most"
+    },
+    {
+      "role": "první místopředseda",
+      "jmeno": "Mgr. Zdeněk  Kubec",
+      "datum_narozeni": "1954-03-23",
+      "adresa": "Na Vyhlídce 2340/11, 400 11 Ústí nad Labem"
+    },
+    {
+      "role": "místopředseda",
+      "jmeno": "",
+      "adresa": ""
+    }
+  ]
+}

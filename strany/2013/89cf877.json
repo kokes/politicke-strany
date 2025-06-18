@@ -1,0 +1,53 @@
+{
+  "nazev": "Republika",
+  "zkratka": "Republika",
+  "sidlo": "110 00 Praha, Senovážné náměstí  978/23",
+  "den_registrace": "2013-11-25",
+  "cislo_registrace": "MV-132677-4/VS-2013",
+  "identifikacni_cislo": "71443665",
+  "statutarni_organ": "Předsednictvo, za které jedná samostatně předseda nebo první místopředseda.",
+  "osoby": [
+    {
+      "role": "předseda",
+      "jmeno": "Michal Babák",
+      "datum_narozeni": "1975-06-27",
+      "adresa": "Češkovice 238, 678 01 Blansko"
+    },
+    {
+      "role": "1. místopředseda",
+      "jmeno": "Bohuslav Jedinák",
+      "datum_narozeni": "1971-03-05",
+      "adresa": "678 01 Blansko 37"
+    },
+    {
+      "role": "místopředsedkyně",
+      "jmeno": "Radka Sitarová",
+      "datum_narozeni": "1981-04-13",
+      "adresa": "Dvorská 1844/48, 678 01 Blansko"
+    },
+    {
+      "role": "místopředseda",
+      "jmeno": "Antonín Cekota",
+      "datum_narozeni": "1955-08-30",
+      "adresa": "Na Vrše 21, 760 01 Zlín"
+    },
+    {
+      "role": "místopředseda",
+      "jmeno": "Jan Blažek",
+      "datum_narozeni": "1970-02-15",
+      "adresa": "Barevná  378/5, 671 81 Oblekovice"
+    },
+    {
+      "role": "místopředseda",
+      "jmeno": "Otto Chaloupka",
+      "datum_narozeni": "1960-09-03",
+      "adresa": "Randova 3167/3, 150 00 Praha"
+    },
+    {
+      "role": "místopředseda",
+      "jmeno": "Zdeněk Renc",
+      "datum_narozeni": "1947-04-23",
+      "adresa": "Keramiků 2618, 269 01 Rakovník"
+    }
+  ]
+}

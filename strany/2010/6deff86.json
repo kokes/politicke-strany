@@ -1,0 +1,23 @@
+{
+  "nazev": "ČESKÁ NEZÁVISLÁ",
+  "zkratka": "„ČNEZ“",
+  "sidlo": "417 23 Košťany, Rakouské domy 526",
+  "den_registrace": "2010-06-25",
+  "cislo_registrace": "MV-58578-6/VS-2010",
+  "identifikacni_cislo": "71339931",
+  "statutarni_organ": "Republiková rada, za kterou jedná předseda, v případě jeho nepřítomnosti staturární místopředseda.",
+  "osoby": [
+    {
+      "role": "předseda",
+      "jmeno": "František Voháňka",
+      "datum_narozeni": "1955-05-22",
+      "adresa": "Rakouské domy 526, 417 23 Košťany"
+    },
+    {
+      "role": "člen RR",
+      "jmeno": "Pavel Papež",
+      "datum_narozeni": "1955-12-05",
+      "adresa": "Nemocniční 1156/16, 407 46 Krásná Lípa"
+    }
+  ]
+}

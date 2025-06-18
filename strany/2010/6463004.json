@@ -1,0 +1,41 @@
+{
+  "nazev": "Pražané za svá práva",
+  "zkratka": "PP",
+  "sidlo": "160 00 Praha, Rooseveltova 444/5",
+  "den_registrace": "2010-07-13",
+  "cislo_registrace": "MV-64742-6/VS-2010",
+  "identifikacni_cislo": "71340050",
+  "statutarni_organ": "Předsednictvo, za které jedná buď samostatně předseda nebo jde-li o právní úkony vyžadující písemnou formu předseda spolu s jedním z místopředsedů.",
+  "osoby": [
+    {
+      "role": "předseda",
+      "jmeno": "Ing. Karel  Berka",
+      "datum_narozeni": "1940-01-30",
+      "adresa": "Jílovská 1154/49, 142 00 Praha"
+    },
+    {
+      "role": "místopředseda",
+      "jmeno": "Věra Grandeová",
+      "datum_narozeni": "1946-02-22",
+      "adresa": "V jezírkách 1541/8, 149 00 Praha"
+    },
+    {
+      "role": "místopředseda",
+      "jmeno": "Ing. Aleš Moravec",
+      "datum_narozeni": "1939-09-22",
+      "adresa": "Rooseveltova 444/5, 160 00 Praha"
+    },
+    {
+      "role": "člen",
+      "jmeno": "Ing. Jiří  Válek",
+      "datum_narozeni": "1945-04-24",
+      "adresa": "Pod lipami 2663/3, 130 00 Praha"
+    },
+    {
+      "role": "člen",
+      "jmeno": "Bc. Dagmar Jungová",
+      "datum_narozeni": "1961-01-04",
+      "adresa": "Na střelnici 555/3, 186 00 Praha"
+    }
+  ]
+}

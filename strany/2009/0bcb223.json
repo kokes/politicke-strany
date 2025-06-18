@@ -1,0 +1,29 @@
+{
+  "nazev": "STOP",
+  "zkratka": "STOP",
+  "sidlo": "628 00 Brno, Podbělová 2716/4",
+  "den_registrace": "2009-08-05",
+  "cislo_registrace": "MV-52636-8/VS-2009",
+  "identifikacni_cislo": "71339744",
+  "statutarni_organ": "Předsednictvo, za které jedná předseda strany nebo první místopředseda, a to každý samostatně.",
+  "osoby": [
+    {
+      "role": "předseda",
+      "jmeno": "Miroslav Zajdák",
+      "datum_narozeni": "1959-04-01",
+      "adresa": "Vídeňská 275/66, 639 00 Brno"
+    },
+    {
+      "role": "1. místopředseda",
+      "jmeno": "Tomáš Havelka",
+      "datum_narozeni": "1973-12-30",
+      "adresa": "591 01 Škrdlovice 149"
+    },
+    {
+      "role": "místopředseda",
+      "jmeno": "Ing. Martin  Mach",
+      "datum_narozeni": "1975-07-04",
+      "adresa": "Zahradní 213, 691 85 Dolní Dunajovice"
+    }
+  ]
+}

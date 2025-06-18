@@ -1,0 +1,29 @@
+{
+  "nazev": "Svobodní",
+  "zkratka": "Svobodní",
+  "sidlo": "120 00 Praha, Perucká 2196/14",
+  "den_registrace": "2009-02-06",
+  "cislo_registrace": "MV-4812-4/VS-2009",
+  "identifikacni_cislo": "71339612",
+  "statutarni_organ": "Republikové předsednictvo, za které jedná předseda.",
+  "osoby": [
+    {
+      "role": "předseda",
+      "jmeno": "Mgr. Libor Vondráček",
+      "datum_narozeni": "1994-07-29",
+      "adresa": "Sládkův kopec 1089, 377 01 Jindřichův Hradec"
+    },
+    {
+      "role": "místopředseda",
+      "jmeno": "Mgr. Luboš Zálom",
+      "datum_narozeni": "1981-01-25",
+      "adresa": "Havlíčkova 9, 266 01 Beroun"
+    },
+    {
+      "role": "místopředseda",
+      "jmeno": "MUDr. Miroslav Havrda",
+      "datum_narozeni": "1963-10-23",
+      "adresa": "Turinského 1671/4, 500 02 Hradec Králové"
+    }
+  ]
+}

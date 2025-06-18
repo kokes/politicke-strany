@@ -1,0 +1,41 @@
+{
+  "nazev": "VÝCHODOČEŠI",
+  "zkratka": "VČ",
+  "sidlo": "508 01 Holovousy 37",
+  "den_registrace": "2012-05-31",
+  "cislo_registrace": "MV-29726-4/VS-2012",
+  "identifikacni_cislo": "71443355",
+  "statutarni_organ": "Řídící rada, za kterou jedná předseda.",
+  "osoby": [
+    {
+      "role": "předsedkyně",
+      "jmeno": "Mgr. Martina  Berdychová",
+      "datum_narozeni": "1971-04-29",
+      "adresa": "508 01 Holovousy 37"
+    },
+    {
+      "role": "místopředseda",
+      "jmeno": "Ing. Aleš Maloch",
+      "datum_narozeni": "1976-04-11",
+      "adresa": "543 72 Rudník 80"
+    },
+    {
+      "role": "místopředseda",
+      "jmeno": "Ing. Ondřej Hlaváč",
+      "datum_narozeni": "1975-07-23",
+      "adresa": "Dubinská 758, 530 12 Pardubice"
+    },
+    {
+      "role": "pokladník",
+      "jmeno": "Helena Rezková",
+      "datum_narozeni": "1965-04-26",
+      "adresa": "551 01 Vlkov 114"
+    },
+    {
+      "role": "členka",
+      "jmeno": "Martina Lacmanová",
+      "datum_narozeni": "1971-01-10",
+      "adresa": "V Lipkách 581, 538 51 Chrast"
+    }
+  ]
+}

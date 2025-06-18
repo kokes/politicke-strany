@@ -1,0 +1,29 @@
+{
+  "nazev": "VOLBA PRO KLADNO",
+  "zkratka": "VPK",
+  "sidlo": "272 01 Kladno , Na Stráni  613",
+  "den_registrace": "2010-04-20",
+  "cislo_registrace": "MV-29900-8/VS-2010",
+  "identifikacni_cislo": "71339817",
+  "statutarni_organ": "Výkonná rada, za kterou jedná předseda grémia nebo pověřený místopředseda grémia.",
+  "osoby": [
+    {
+      "role": "předseda grémia",
+      "jmeno": "Mgr. Milan  Volf",
+      "datum_narozeni": "1963-04-20",
+      "adresa": "Ve Strnadovně 969, 272 04 Kladno"
+    },
+    {
+      "role": "místopředseda grémia",
+      "jmeno": "Ing. Přemysl  Mužík",
+      "datum_narozeni": "1965-05-01",
+      "adresa": "Petrohradská 999, 272 04 Kladno"
+    },
+    {
+      "role": "místopředseda grémia",
+      "jmeno": "Ing. Věra Kučerová",
+      "datum_narozeni": "1961-01-27",
+      "adresa": "Wolkerova 1067, 272 01 Kladno"
+    }
+  ]
+}
