@@ -80,7 +80,6 @@ if __name__ == "__main__":
     for pid in list(ids):
         url = BASE_URL + str(pid)
         data = download_if_not_cached(url)
-        # TODO: yank out into a func
         ht = lxml.html.fromstring(data)
         tbl = ht.cssselect("table#vypisRejstrik")[0]
         dt = {
