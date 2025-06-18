@@ -22,12 +22,11 @@ def download_if_not_cached(url):
     )
 
     if os.path.exists(file_path):
-        logging.info("Using cached file: %s", file_path)
         with open(file_path, "rb") as f:
             return f.read()
     else:
         logging.info("Downloading: %s", url)
-        with urlopen(url) as response:
+        with urlopen(url, timeout=5) as response:
             content = response.read()
             with open(file_path, "wb") as f:
                 f.write(content)
@@ -66,17 +65,20 @@ if __name__ == "__main__":
         ids = [int(ln) for ln in open(IDS_FN)]
 
     mid = max(ids) if len(ids) > 0 else 0
-    rng = 5 if mid > 0 else 100
+    # inkrementalni zkouseni jen po kouskach, ale inicialni load
+    # udelame velkej
+    rng = 10 if mid > 0 else 200
     # zkusime par novych IDs
     for j in range(1, rng):
         ids.append(mid + j)
+
+    changed, added = [], []
 
     os.makedirs(DATA_DIR, exist_ok=True)
     # list, abychom to duplikovali (budem mazat)
     for pid in list(ids):
         url = BASE_URL + str(pid)
         data = download_if_not_cached(url)
-        # TODO: yank out into a func
         ht = lxml.html.fromstring(data)
         tbl = ht.cssselect("table#vypisRejstrik")[0]
         dt = {
@@ -121,9 +123,37 @@ if __name__ == "__main__":
                 # TODO: Plati od/plati do? v tom co zbylo
                 dt["osoby"].append(osoba)
 
-        tfn = os.path.join(DATA_DIR, dt["identifikacni_cislo"] + ".json")
-        with open(tfn, "wt") as fw:
-            json.dump(dt, fw, ensure_ascii=False, indent=2)
+        # puvodne jsem pro nazev souboru pouzival identifikacni cislo,
+        # ale zdaleka ne vsechny strany ho maj
+        fnid = hashlib.sha256(dt["cislo_registrace"].encode("utf-8")).hexdigest()[:7]
+        tdir = os.path.join(DATA_DIR, dt["den_registrace"][:4])
+        os.makedirs(tdir, exist_ok=True)
+        tfn = os.path.join(tdir, fnid + ".json")
+
+        serialised = json.dumps(dt, ensure_ascii=False, indent=2)
+        write = False
+        if not os.path.exists(tfn):
+            logging.info("Nova strana: %s", dt["nazev"])
+            added.append(dt["nazev"])
+            write = True
+        else:
+            existing = open(tfn, "rt").read()
+            if existing != serialised:
+                logging.info("Zmenena strana: %s", dt["nazev"])
+                changed.append(dt["nazev"])
+                write = True
+
+        if write:
+            with open(tfn, "wt") as fw:
+                fw.write(serialised)
+
+    if len(changed) + len(added) > 0:
+        print(f"Změněno: {len(changed)}, přidáno: {len(added)}")
+        print()
+        for el in sorted(changed):
+            print(f"Změna ve straně: {el}")
+        for el in sorted(added):
+            print(f"Nová strana: {el}")
 
     with open(IDS_FN, "wt") as fw:
         for pid in ids:
