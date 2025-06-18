@@ -1,6 +1,8 @@
 import hashlib
 import json
+import logging
 import os
+import re
 from urllib.request import urlopen
 
 import lxml.html
@@ -10,6 +12,8 @@ CACHE_DIR = "cache"
 DATA_DIR = "strany"
 IDS_FN = "ids.txt"
 
+DT_RE = re.compile(r"[0-9]{1,2}\.[0-9]{1,2}\.[0-9]{4}")
+
 
 def download_if_not_cached(url):
     """Download the URL content only if not cached locally."""
@@ -18,11 +22,11 @@ def download_if_not_cached(url):
     )
 
     if os.path.exists(file_path):
-        print(f"Using cached file: {file_path}")
+        logging.info("Using cached file: %s", file_path)
         with open(file_path, "rb") as f:
             return f.read()
     else:
-        print(f"Downloading: {url}")
+        logging.info("Downloading: %s", url)
         with urlopen(url) as response:
             content = response.read()
             with open(file_path, "wb") as f:
@@ -35,7 +39,7 @@ def tc(root, selector):
     if not els:
         return None
 
-    return els[0].text_content()
+    return els[0].text_content().strip()
 
 
 def iso_dt(s):
@@ -54,18 +58,22 @@ def first_typed_parent(el, tag):
 
 
 if __name__ == "__main__":
+    logging.getLogger().setLevel(logging.INFO)
     os.makedirs(CACHE_DIR, exist_ok=True)
 
     ids = []
     if os.path.exists(IDS_FN):
         ids = [int(ln) for ln in open(IDS_FN)]
 
-    ids = [225, 359]  # TODO: drop
-
-    # TODO: expand IDs if needed
+    mid = max(ids) if len(ids) > 0 else 0
+    rng = 5 if mid > 0 else 100
+    # zkusime par novych IDs
+    for j in range(1, rng):
+        ids.append(mid + j)
 
     os.makedirs(DATA_DIR, exist_ok=True)
-    for pid in ids:
+    # list, abychom to duplikovali (budem mazat)
+    for pid in list(ids):
         url = BASE_URL + str(pid)
         data = download_if_not_cached(url)
         # TODO: yank out into a func
@@ -81,27 +89,37 @@ if __name__ == "__main__":
             "statutarni_organ": tc(tbl, "span#ctl00_Application_lblStatutarOrgan"),
             "osoby": [],
         }
+        if dt["nazev"] == "":
+            logging.info("Preskakujem %d, nema nazev", pid)
+            ids.remove(pid)
+            continue
         dt["den_registrace"] = iso_dt(dt["den_registrace"])
 
         # osoby jsou trochu tricky
-        osoby = [j for j in tbl.findall(".//h3") if j.text_content() == "Osoby"][0]
-        tros = first_typed_parent(osoby, "tr")
-        for el in tros.itersiblings():
-            if el.tag != "tr":
-                break
-            tds = el.findall("td")
-            assert len(tds) == 2, tds
-            role = tds[0].text_content().strip()
-            detaily = [j.strip() for j in tds[1].itertext()]
-            osoba = {
-                "role": role,
-                "jmeno": detaily[0],
-                "datum_narozeni": iso_dt(detaily[1]),
-                "adresa": f"{detaily[2]}, {detaily[3]}",
-            }
-            assert detaily[4] == "", detaily
-            # TODO: Plati od/plati do? v detaily[5:]
-            dt["osoby"].append(osoba)
+        osoby = [j for j in tbl.findall(".//h3") if j.text_content() == "Osoby"]
+        if len(osoby) == 1:
+            tros = first_typed_parent(osoby[0], "tr")
+            for el in tros.itersiblings():
+                if el.tag != "tr":
+                    break
+                tds = el.findall("td")
+                assert len(tds) == 2, tds
+                role = tds[0].text_content().strip().rstrip(":")
+                detaily = [j.strip() for j in tds[1].itertext()]
+                osoba = {
+                    "role": role,
+                    "jmeno": detaily[0],
+                }
+                idx = 1
+                if DT_RE.match(detaily[1]) is not None:
+                    osoba["datum_narozeni"] = iso_dt(detaily[1])
+                    idx += 1
+
+                adresa = detaily[idx : idx + detaily[idx:].index("")]
+                osoba["adresa"] = ", ".join(adresa)
+
+                # TODO: Plati od/plati do? v tom co zbylo
+                dt["osoby"].append(osoba)
 
         tfn = os.path.join(DATA_DIR, dt["identifikacni_cislo"] + ".json")
         with open(tfn, "wt") as fw:
