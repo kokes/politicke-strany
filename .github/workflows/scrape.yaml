@@ -12,7 +12,9 @@ concurrency:
 
 jobs:
   scheduled:
-    runs-on: python:3.13
+    runs-on: ubuntu:24.04
+    container:
+      image: python:3.13
     timeout-minutes: 1 # TODO: extend
     steps:
     - name: Check out this repo
