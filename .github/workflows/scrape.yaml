@@ -2,6 +2,7 @@ name: Scrape latest data
 
 on:
   pull_request: # TODO: drop
+  push:
   workflow_dispatch:
   schedule:
     - cron:  '0 4 * * *'
@@ -9,7 +10,7 @@ on:
 jobs:
   scheduled:
     runs-on: python:3.13
-    timeout-minutes: 1 # TODO: extend
+    timeout-minutes: 2 # TODO: extend
     steps:
     - name: Check out this repo
       uses: actions/checkout@v4
