@@ -12,7 +12,7 @@ concurrency:
 
 jobs:
   scheduled:
-    runs-on: ubuntu-24.04
+    runs-on: ubuntu-latest
     container:
       image: python:3.13
     timeout-minutes: 1 # TODO: extend
