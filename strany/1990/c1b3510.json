@@ -1,0 +1,23 @@
+{
+  "nazev": "Republikánská strana zemědělského a malorolnického lidu",
+  "zkratka": "RSZML",
+  "sidlo": "619 00 Brno, Staré náměstí 279/28A",
+  "den_registrace": "1990-03-15",
+  "cislo_registrace": "AVS/1-739/90",
+  "identifikacni_cislo": "49280872",
+  "statutarni_organ": "Předseda a 1. místopředseda, a to každý samostatně.",
+  "osoby": [
+    {
+      "role": "předseda",
+      "jmeno": "Prof. Dr. Ing. Mgr. PhD. Josef Polách",
+      "datum_narozeni": "1929-09-10",
+      "adresa": "595 01 Březské 69"
+    },
+    {
+      "role": "1. místopředseda",
+      "jmeno": "Vojtěch  Fila",
+      "datum_narozeni": "1952-07-16",
+      "adresa": "Zámecká 691/63, 643 00 Brno"
+    }
+  ]
+}

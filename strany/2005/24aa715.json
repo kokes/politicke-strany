@@ -1,0 +1,17 @@
+{
+  "nazev": "Romská demokratická sociální strana",
+  "zkratka": "RDSS",
+  "sidlo": "100 40 Praha, U Stavoservisu 527/1",
+  "den_registrace": "2005-03-22",
+  "cislo_registrace": "VS-9626/SDR/1-2004",
+  "identifikacni_cislo": "26993741",
+  "statutarni_organ": "Předseda.",
+  "osoby": [
+    {
+      "role": "předseda",
+      "jmeno": "Miroslav Tancoš",
+      "datum_narozeni": "1959-10-01",
+      "adresa": "Nemocniční 524, 473 01 Nový Bor"
+    }
+  ]
+}

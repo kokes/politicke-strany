@@ -1,0 +1,35 @@
+{
+  "nazev": "Konzervativní a sociální hnutí",
+  "zkratka": "KSH",
+  "sidlo": "272 04 Kladno, Vašíčkova 505",
+  "den_registrace": "2002-04-12",
+  "cislo_registrace": "VS-1560/SDR/1-2002",
+  "identifikacni_cislo": "26590018",
+  "statutarni_organ": "Předsednictvo strany, za které jedná předseda nebo dva členové předsednictva.",
+  "osoby": [
+    {
+      "role": "předseda",
+      "jmeno": "Pavel Krešne",
+      "datum_narozeni": "1967-06-19",
+      "adresa": "Šachetní 2541, 272 01 Kladno"
+    },
+    {
+      "role": "místopředseda",
+      "jmeno": "Jiří Lebeda",
+      "datum_narozeni": "1977-09-01",
+      "adresa": "Lázeňská 89/15, 250 01 Brandýs nad Labem-Stará Boleslav"
+    },
+    {
+      "role": "člen",
+      "jmeno": "Jan  Kerula",
+      "datum_narozeni": "1973-09-19",
+      "adresa": "357 35 Nové Sedlo 98"
+    },
+    {
+      "role": "jednatel",
+      "jmeno": "Ivana  Červenková",
+      "datum_narozeni": "1980-03-04",
+      "adresa": "náměstí starosty Pavla 44, 272 01 Kladno"
+    }
+  ]
+}
