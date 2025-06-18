@@ -1,0 +1,29 @@
+{
+  "nazev": "Jasný Signál Nezávislých",
+  "zkratka": "JaSaN",
+  "sidlo": "120 00 Praha, Lublaňská 647/48",
+  "den_registrace": "2023-12-11",
+  "cislo_registrace": "MV-191280-4/OV-2023",
+  "identifikacni_cislo": "21005826",
+  "statutarni_organ": "Předsednictvo, samostatně ve všech záležitostech jedná předseda, nebo samostatně místopředsedové dle stanoveného pořadí.",
+  "osoby": [
+    {
+      "role": "předseda",
+      "jmeno": "Ing. Vladimír  Štěpán",
+      "datum_narozeni": "1950-11-06",
+      "adresa": "Na Vysoké 2336/41, 251 01 Říčany"
+    },
+    {
+      "role": "místopředseda",
+      "jmeno": "Ing. Bronislav  Sedláček",
+      "datum_narozeni": "1966-03-22",
+      "adresa": "Hurbanova 1305/11, 142 00 Praha"
+    },
+    {
+      "role": "výkonná místopředsedkyně",
+      "jmeno": "Zdeňka Niklová",
+      "datum_narozeni": "1969-12-16",
+      "adresa": "Na Václavce 179/38, 150 00 Praha"
+    }
+  ]
+}

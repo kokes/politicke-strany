@@ -1,0 +1,53 @@
+{
+  "nazev": "Chomutovská koalice",
+  "zkratka": "Koala",
+  "sidlo": "430 01 Chomutov, Hálkova 226/6",
+  "den_registrace": "2025-01-30",
+  "cislo_registrace": "MV-183853-6/OV-2024",
+  "identifikacni_cislo": "22534989",
+  "statutarni_organ": "Předsednictvo, za které jedná předseda; eventuálně 1. místopředseda v případě, že předseda nemůže jednat ze zdravotních či jiných závažných důvodů.",
+  "osoby": [
+    {
+      "role": "předseda",
+      "jmeno": "Mgr. Jiří Richter",
+      "datum_narozeni": "1997-01-04",
+      "adresa": "Žižkovo náměstí 5973, 430 01 Chomutov"
+    },
+    {
+      "role": "1.místopředsedkyně",
+      "jmeno": "Mgr. Darina Komínková MBA",
+      "datum_narozeni": "1986-05-20",
+      "adresa": "Hraničářská 5737, 430 03 Chomutov"
+    },
+    {
+      "role": "místopředseda",
+      "jmeno": "JUDr. PhDr. Josef Marcel",
+      "datum_narozeni": "1979-07-18",
+      "adresa": "Matěje Kopeckého 4826, 430 03 Chomutov"
+    },
+    {
+      "role": "místopředseda",
+      "jmeno": "MUDr. Jiří Binter",
+      "datum_narozeni": "1954-07-04",
+      "adresa": "Prokopova 1827/5, 430 01 Chomutov"
+    },
+    {
+      "role": "místopředseda",
+      "jmeno": "Jakub Klačko",
+      "datum_narozeni": "1992-01-16",
+      "adresa": "Zborovská 4602, 430 01 Chomutov"
+    },
+    {
+      "role": "místopředseda",
+      "jmeno": "Martin Boček",
+      "datum_narozeni": "1976-12-14",
+      "adresa": "431 57 Chbany 37"
+    },
+    {
+      "role": "hlavní manažerka",
+      "jmeno": "Hana Černá",
+      "datum_narozeni": "1979-01-10",
+      "adresa": "akademika Heyrovského 4117, 430 03 Chomutov"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "nazev": "Národně sociální strana",
+  "zkratka": "NSS",
+  "sidlo": "252 62 Horoměřice, K Roklím 431",
+  "den_registrace": "2024-08-20",
+  "cislo_registrace": "MV-102429-11/OV-2024",
+  "identifikacni_cislo": "21940177",
+  "statutarni_organ": "Předseda.",
+  "osoby": [
+    {
+      "role": "předseda",
+      "jmeno": "Vladislav Svoboda",
+      "datum_narozeni": "1950-01-07",
+      "adresa": "Biskupcova 1713/25, 130 00 Praha"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "nazev": "Vize pro Karlovarský kraj",
+  "zkratka": "Vize KVK",
+  "sidlo": "363 01 Hájek 9",
+  "den_registrace": "2024-01-03",
+  "cislo_registrace": "MV-195466-6/OV-2023",
+  "identifikacni_cislo": "21072116",
+  "statutarni_organ": "Předsednictvo, za které jedná samostatně předseda anebo dvěma místopředsedy.",
+  "osoby": [
+    {
+      "role": "předseda",
+      "jmeno": "Ing. Vít Hromádko",
+      "datum_narozeni": "1976-12-21",
+      "adresa": "363 01 Hájek 9"
+    },
+    {
+      "role": "místopředsedkyně",
+      "jmeno": "Michaela Holubcová",
+      "datum_narozeni": "1984-06-07",
+      "adresa": "364 53 Valeč 41"
+    },
+    {
+      "role": "místopředsedkyně",
+      "jmeno": "Ing. Markéta Sinkulová Moravcová",
+      "datum_narozeni": "1977-04-10",
+      "adresa": "363 01 Velichov 108"
+    }
+  ]
+}

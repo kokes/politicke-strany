@@ -1,0 +1,29 @@
+{
+  "nazev": "Česká zemědělská strana",
+  "zkratka": "ČZS",
+  "sidlo": "252 45 Ohrobec, Jarovská 96",
+  "den_registrace": "2024-08-07",
+  "cislo_registrace": "MV-102738-5/OV-2024",
+  "identifikacni_cislo": "21899011",
+  "statutarni_organ": "Předsednictvo, za které jedná předseda.",
+  "osoby": [
+    {
+      "role": "předseda",
+      "jmeno": "Ing. Tomáš Havlíček",
+      "datum_narozeni": "1958-05-22",
+      "adresa": "Sídliště 408, 262 03 Nový Knín"
+    },
+    {
+      "role": "člen předsednictva",
+      "jmeno": "Petr Chmela",
+      "datum_narozeni": "1988-05-02",
+      "adresa": "Hamsíkova 243/12, 150 00 Praha"
+    },
+    {
+      "role": "členka předsednictva",
+      "jmeno": "Lucie Chmelová",
+      "datum_narozeni": "1985-11-16",
+      "adresa": "Čs. armády 601/23, 160 00 Praha"
+    }
+  ]
+}

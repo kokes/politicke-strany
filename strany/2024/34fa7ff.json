@@ -1,0 +1,29 @@
+{
+  "nazev": "GEN",
+  "zkratka": "GEN",
+  "sidlo": "110 00 Praha, U obecního dvora 802/8",
+  "den_registrace": "2024-10-25",
+  "cislo_registrace": "MV-153832-5/OV-2024",
+  "identifikacni_cislo": "22200401",
+  "statutarni_organ": "Předsednictvo, za které jedná předseda.",
+  "osoby": [
+    {
+      "role": "předseda",
+      "jmeno": "Vojtěch Ryvola",
+      "datum_narozeni": "1964-12-15",
+      "adresa": "Pařížská 127/20, 110 00 Praha"
+    },
+    {
+      "role": "místopředseda",
+      "jmeno": "Ondřej Němeček",
+      "datum_narozeni": "1972-07-22",
+      "adresa": "Střelniční 1954/12, 702 00 Ostrava"
+    },
+    {
+      "role": "člen",
+      "jmeno": "Tibor Batthyány",
+      "datum_narozeni": "1978-01-07",
+      "adresa": "Felberova 123/3, 460 05 Liberec"
+    }
+  ]
+}

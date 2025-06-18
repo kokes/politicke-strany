@@ -1,0 +1,35 @@
+{
+  "nazev": "Hnutí Generace",
+  "zkratka": "Generace",
+  "sidlo": "106 00 Praha, Žirovnická 3124/1",
+  "den_registrace": "2024-04-12",
+  "cislo_registrace": "MV-51200-4/OV-2024",
+  "identifikacni_cislo": "21464961",
+  "statutarni_organ": "Předsednictvo, za které jednají a podepisují vždy minimálně dva členové, z nichž jeden musí být předseda nebo 1. místopředseda hnutí.",
+  "osoby": [
+    {
+      "role": "předseda",
+      "jmeno": "Daniel Krutý",
+      "datum_narozeni": "2006-03-25",
+      "adresa": "Chmelová 2893/4, 106 00 Praha"
+    },
+    {
+      "role": "1. místopředseda",
+      "jmeno": "Petr Jindřichovský",
+      "datum_narozeni": "1969-12-02",
+      "adresa": "Letohradská 369/3, 170 00 Praha"
+    },
+    {
+      "role": "2. místopředseda",
+      "jmeno": "Jiří Pop",
+      "datum_narozeni": "1996-08-23",
+      "adresa": "Andělská 5146/4, 466 05 Jablonec nad Nisou"
+    },
+    {
+      "role": "člen předsednictva",
+      "jmeno": "Jonáš Továrek",
+      "datum_narozeni": "2003-11-11",
+      "adresa": "258 01 Tehov 41"
+    }
+  ]
+}

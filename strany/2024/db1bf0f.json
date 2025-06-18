@@ -1,0 +1,29 @@
+{
+  "nazev": "HLAS SAMOSPRÁV",
+  "zkratka": "HS",
+  "sidlo": "413 01 Roudnice nad Labem, třída T. G. Masaryka 942",
+  "den_registrace": "2024-07-03",
+  "cislo_registrace": "MV-97271-4/OV-2024",
+  "identifikacni_cislo": "21785295",
+  "statutarni_organ": "Předsednictvo, a to vždy společně dvěma členy, z nichž alespoň jeden je předsedou a druhý členem předsednictva anebo společně dvěma místopředsedy hnutí.",
+  "osoby": [
+    {
+      "role": "předseda",
+      "jmeno": "Jan Novák",
+      "datum_narozeni": "1975-04-29",
+      "adresa": "Pod novým lesem 137/50, 162 00 Praha"
+    },
+    {
+      "role": "místopředseda",
+      "jmeno": "Mgr. Robert Válek",
+      "datum_narozeni": "1977-12-18",
+      "adresa": "Na Neklance 3233/40, 150 00 Praha"
+    },
+    {
+      "role": "místopředseda",
+      "jmeno": "JUDr. Vladimír Kremlík",
+      "datum_narozeni": "1972-12-09",
+      "adresa": "Běžecká 2407/2, 169 00 Praha"
+    }
+  ]
+}

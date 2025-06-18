@@ -1,0 +1,23 @@
+{
+  "nazev": "REFERENDUM - Hlas Lidu",
+  "zkratka": "REFERENDUM",
+  "sidlo": "790 84 Mikulovice, Kolnovice 25",
+  "den_registrace": "2023-11-01",
+  "cislo_registrace": "MV-169694-6/OV-2023",
+  "identifikacni_cislo": "19882653",
+  "statutarni_organ": "Předsednictvo tvořené předsedou a 1. místopředsedou, za které jedná předseda.",
+  "osoby": [
+    {
+      "role": "předseda",
+      "jmeno": "Václav Sogel",
+      "datum_narozeni": "1987-08-20",
+      "adresa": "17. listopadu 1231/6, 742 21 Kopřivnice"
+    },
+    {
+      "role": "1. místopředseda",
+      "jmeno": "Julius Gergö",
+      "datum_narozeni": "1975-02-18",
+      "adresa": "Sídlištní 124, 564 01 Dlouhoňovice"
+    }
+  ]
+}

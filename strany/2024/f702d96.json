@@ -1,0 +1,23 @@
+{
+  "nazev": "„Tomáš Magnusek do Senátu“",
+  "zkratka": "TMS",
+  "sidlo": "547 01 Náchod, Kladská 445",
+  "den_registrace": "2024-05-28",
+  "cislo_registrace": "MV-44421-8/OV-2024",
+  "identifikacni_cislo": "21657408",
+  "statutarni_organ": "Předsednictvo, za které jedná předseda nebo jím pověřený člen předsednictva.",
+  "osoby": [
+    {
+      "role": "předseda",
+      "jmeno": "Tomáš Magnusek",
+      "datum_narozeni": "1984-07-07",
+      "adresa": "Kladská 79, 547 01 Náchod"
+    },
+    {
+      "role": "místopředsedkyně",
+      "jmeno": "Helena Filipská",
+      "datum_narozeni": "1971-05-08",
+      "adresa": "552 03 Česká Skalice 49"
+    }
+  ]
+}

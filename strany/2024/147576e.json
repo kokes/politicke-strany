@@ -1,0 +1,65 @@
+{
+  "nazev": "Osobnosti pro kraj",
+  "zkratka": "OK",
+  "sidlo": "709 00 Ostrava, Výstavní 2224/8",
+  "den_registrace": "2024-02-29",
+  "cislo_registrace": "MV-24128-4/OV-2024",
+  "identifikacni_cislo": "21311188",
+  "statutarni_organ": "Krajská výkonná rada, za kterou jedná samostatně předseda. Dále může jednat místopředseda hnutí, avšak pouze v rozsahu a na základě písemného pověření uděleného předsedou nebo krajskou výkonnou radou.",
+  "osoby": [
+    {
+      "role": "předseda",
+      "jmeno": "Prof. Ing. Ivo Vondrák, CSc.",
+      "datum_narozeni": "1959-04-15",
+      "adresa": "Na Havírně 475, 747 64 Velká Polom"
+    },
+    {
+      "role": "místopředseda",
+      "jmeno": "Mgr. Zdeněk Karásek",
+      "datum_narozeni": "1955-03-30",
+      "adresa": "Nádražní 2680/54, 702 00 Ostrava"
+    },
+    {
+      "role": "člen",
+      "jmeno": "Ing. Libor Witassek",
+      "datum_narozeni": "1969-05-15",
+      "adresa": "Sluneční 1348/3, 746 01 Opava"
+    },
+    {
+      "role": "člen",
+      "jmeno": "Mgr. Jan Tabášek",
+      "datum_narozeni": "1994-02-14",
+      "adresa": "Mariánskohorská 2746/19, 702 00 Ostrava"
+    },
+    {
+      "role": "člen",
+      "jmeno": "Ing. Daniel Kończyna",
+      "datum_narozeni": "1981-01-31",
+      "adresa": "Partyzánské náměstí 1735/5, 702 00 Ostrava"
+    },
+    {
+      "role": "člen",
+      "jmeno": "Mgr. Petr Hošek",
+      "datum_narozeni": "1993-02-18",
+      "adresa": "R. Tomáška 924, 742 13 Studénka"
+    },
+    {
+      "role": "člen",
+      "jmeno": "Mgr. Dalibor Halátek",
+      "datum_narozeni": "1980-07-23",
+      "adresa": "Hobzíkova 100/3, 746 01 Opava"
+    },
+    {
+      "role": "člen",
+      "jmeno": "Jaroslav Svoboda",
+      "datum_narozeni": "1979-03-13",
+      "adresa": "K Výšině 16, 735 53 Dolní Lutyně"
+    },
+    {
+      "role": "členka",
+      "jmeno": "Mgr. Eva Pyrtová",
+      "datum_narozeni": "1987-04-02",
+      "adresa": "Šalamounská 3015/4, 702 00 Ostrava"
+    }
+  ]
+}

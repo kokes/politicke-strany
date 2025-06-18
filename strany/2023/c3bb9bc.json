@@ -1,0 +1,23 @@
+{
+  "nazev": "Hnutí občanů a podnikatelů",
+  "zkratka": "HOP Hydra",
+  "sidlo": "512 63 Troskovice 72",
+  "den_registrace": "2023-11-22",
+  "cislo_registrace": "MV-184593-4/OV-2023",
+  "identifikacni_cislo": "19946368",
+  "statutarni_organ": "Předsednictvo, za které jedná předseda.",
+  "osoby": [
+    {
+      "role": "předseda",
+      "jmeno": "Libor Maleček",
+      "datum_narozeni": "1960-06-26",
+      "adresa": "Janského 2372/87, 155 00 Praha"
+    },
+    {
+      "role": "místopředseda",
+      "jmeno": "Jaroslav Linek",
+      "datum_narozeni": "1975-01-01",
+      "adresa": "506 01 Tuř 1"
+    }
+  ]
+}

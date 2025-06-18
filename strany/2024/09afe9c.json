@@ -1,0 +1,35 @@
+{
+  "nazev": "MÁ VLAST ČECHY MORAVA SLEZSKO",
+  "zkratka": "MÁ VLAST ČMS",
+  "sidlo": "586 01 Jihlava, Matky Boží 1182/9",
+  "den_registrace": "2024-06-17",
+  "cislo_registrace": "MV- 84132-4/OV-2024",
+  "identifikacni_cislo": "21722803",
+  "statutarni_organ": "Předsednictvo hnutí, jehož jménem jedná předseda hnutí.",
+  "osoby": [
+    {
+      "role": "předseda",
+      "jmeno": "Mgr. Luděk Růžička",
+      "datum_narozeni": "1971-11-21",
+      "adresa": "Čelakovského 611, 675 51 Jaroměřice nad Rokytnou"
+    },
+    {
+      "role": "statutární místopředseda",
+      "jmeno": "Marek Mečíř",
+      "datum_narozeni": "1975-08-20",
+      "adresa": "nám. Přemysla Otakara II. 2/2, 370 01 České Budějovice"
+    },
+    {
+      "role": "místopředsedkyně",
+      "jmeno": "Iveta Dolejší",
+      "datum_narozeni": "1969-05-09",
+      "adresa": "267 23 Libomyšl 109"
+    },
+    {
+      "role": "místopředseda",
+      "jmeno": "Vítězslav Hrubec",
+      "datum_narozeni": "1968-05-18",
+      "adresa": "267 23 Libomyšl 109"
+    }
+  ]
+}
