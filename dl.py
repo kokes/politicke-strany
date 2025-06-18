@@ -26,7 +26,7 @@ def download_if_not_cached(url):
             return f.read()
     else:
         logging.info("Downloading: %s", url)
-        with urlopen(url) as response:
+        with urlopen(url, timeout=5) as response:
             content = response.read()
             with open(file_path, "wb") as f:
                 f.write(content)
