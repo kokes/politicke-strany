@@ -8,19 +8,19 @@
   "statutarni_organ": "Předsednictvo, za které jednají oba spolupředsedové strany společně, případně jiný jimi pověřený člen předsednictva.",
   "osoby": [
     {
-      "role": "předseda",
+      "role": "Spolupředseda",
       "jmeno": "Adam Hanka",
       "datum_narozeni": "1989-02-27",
       "adresa": "Na dlouhém lánu 343/34, 160 00 Praha"
     },
     {
-      "role": "místopředsedkyně",
+      "role": "Spolupředsedkyně",
       "jmeno": "Daniela Dolejší",
       "datum_narozeni": "1998-04-05",
       "adresa": "Plzeňská 638, 339 01 Klatovy"
     },
     {
-      "role": "místopředseda",
+      "role": "Místopředseda",
       "jmeno": "Adam Hruška",
       "datum_narozeni": "1996-11-13",
       "adresa": "289 07 Opolany 80"
