@@ -15,12 +15,6 @@
     },
     {
       "role": "místopředseda",
-      "jmeno": "MUDr. Miroslav Beňo",
-      "datum_narozeni": "1951-07-30",
-      "adresa": "Staroosadní 21, 615 00 Brno"
-    },
-    {
-      "role": "místopředseda",
       "jmeno": "RNDr. Čestmír Hofhanzl",
       "adresa": "Bratří Čapků 264, 586 01 Telč"
     },
@@ -29,6 +23,12 @@
       "jmeno": "Mgr. Jan Kubalčík",
       "datum_narozeni": "1972-08-26",
       "adresa": "798 53 Jesenec 62"
+    },
+    {
+      "role": "místopředseda",
+      "jmeno": "MUDr. Miroslav Beňo",
+      "datum_narozeni": "1951-07-30",
+      "adresa": "Staroosadní 21, 615 00 Brno"
     },
     {
       "role": "kancléř",

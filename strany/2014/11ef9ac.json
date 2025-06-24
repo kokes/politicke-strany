@@ -21,12 +21,6 @@
     },
     {
       "role": "člen",
-      "jmeno": "Jan Šlehofer",
-      "datum_narozeni": "1980-01-18",
-      "adresa": "Pod Dubovkou 637/79, 301 00 Plzeň"
-    },
-    {
-      "role": "člen",
       "jmeno": "Jiří Uhlík, MBA",
       "datum_narozeni": "1970-01-07",
       "adresa": "Komenského 721/7, 323 00 Plzeň"
@@ -48,6 +42,12 @@
       "jmeno": "Ing. Tomáš  Kotora",
       "datum_narozeni": "1966-03-04",
       "adresa": "Kleisslova 225/1, 301 00 Plzeň"
+    },
+    {
+      "role": "člen",
+      "jmeno": "Jan Šlehofer",
+      "datum_narozeni": "1980-01-18",
+      "adresa": "Pod Dubovkou 637/79, 301 00 Plzeň"
     },
     {
       "role": "členka",

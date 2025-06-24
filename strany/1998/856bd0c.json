@@ -21,15 +21,15 @@
     },
     {
       "role": "člen RPV",
-      "jmeno": "Radek Haltuf",
-      "datum_narozeni": "1971-05-18",
-      "adresa": "468 71 Lučany nad Nisou 735"
-    },
-    {
-      "role": "člen RPV",
       "jmeno": "Jaroslav Pavlas",
       "datum_narozeni": "1957-01-09",
       "adresa": "Okálová 1040, 463 11 Liberec"
+    },
+    {
+      "role": "člen RPV",
+      "jmeno": "Radek Haltuf",
+      "datum_narozeni": "1971-05-18",
+      "adresa": "468 71 Lučany nad Nisou 735"
     }
   ]
 }

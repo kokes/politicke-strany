@@ -21,24 +21,6 @@
     },
     {
       "role": "člen předsednictva ÚV",
-      "jmeno": "Zbyšek Kupský",
-      "datum_narozeni": "1972-07-21",
-      "adresa": "U školky 74, 250 67 Klecany"
-    },
-    {
-      "role": "člen předsednictva ÚV",
-      "jmeno": "Vladimír Sedláček",
-      "datum_narozeni": "1954-05-29",
-      "adresa": "Loudů 1022, 334 41 Dobřany"
-    },
-    {
-      "role": "člen předsednictva ÚV",
-      "jmeno": "Jozef Servista",
-      "datum_narozeni": "1942-01-10",
-      "adresa": "Stránského 1763/35, 412 01 Litoměřice"
-    },
-    {
-      "role": "člen předsednictva ÚV",
       "jmeno": "Václav Novák",
       "datum_narozeni": "1954-03-07",
       "adresa": "K Oboře 389, 293 06 Bradlec"
@@ -66,6 +48,24 @@
       "jmeno": "Ján Herák",
       "datum_narozeni": "1954-11-06",
       "adresa": "Skupova 2523, 440 01 Louny"
+    },
+    {
+      "role": "člen předsednictva ÚV",
+      "jmeno": "Zbyšek Kupský",
+      "datum_narozeni": "1972-07-21",
+      "adresa": "U školky 74, 250 67 Klecany"
+    },
+    {
+      "role": "člen předsednictva ÚV",
+      "jmeno": "Vladimír Sedláček",
+      "datum_narozeni": "1954-05-29",
+      "adresa": "Loudů 1022, 334 41 Dobřany"
+    },
+    {
+      "role": "člen předsednictva ÚV",
+      "jmeno": "Jozef Servista",
+      "datum_narozeni": "1942-01-10",
+      "adresa": "Stránského 1763/35, 412 01 Litoměřice"
     },
     {
       "role": "tajemník předsednictva ÚV",

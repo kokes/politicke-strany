@@ -21,15 +21,15 @@
     },
     {
       "role": "místopředseda",
-      "jmeno": "Ing. Libor Halman",
-      "datum_narozeni": "1955-11-25",
-      "adresa": "Nitranská 918/14, 130 00 Praha"
-    },
-    {
-      "role": "místopředseda",
       "jmeno": "Ivan Pilný",
       "datum_narozeni": "1944-07-06",
       "adresa": "Za Pohořelcem 696/6, 169 00 Praha"
+    },
+    {
+      "role": "místopředseda",
+      "jmeno": "Ing. Libor Halman",
+      "datum_narozeni": "1955-11-25",
+      "adresa": "Nitranská 918/14, 130 00 Praha"
     }
   ]
 }

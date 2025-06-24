@@ -27,27 +27,27 @@
     },
     {
       "role": "člen představenstva",
-      "jmeno": "Lenka Havelková",
-      "datum_narozeni": "1945-01-19",
-      "adresa": "Mladoboleslavská 2309/13, 276 01 Mělník"
-    },
-    {
-      "role": "člen představenstva",
       "jmeno": "Vladimír Slezák",
       "datum_narozeni": "1937-11-12",
       "adresa": "Na Chmelnici 1596, 583 01 Chotěboř"
     },
     {
       "role": "člen představenstva",
-      "jmeno": "Stanislav Stadník",
-      "datum_narozeni": "1961-02-10",
-      "adresa": "třída Edvarda Beneše 1747/1, 500 12 Hradec Králové"
-    },
-    {
-      "role": "člen představenstva",
       "jmeno": "Eva Zwyrteková",
       "datum_narozeni": "1965-05-23",
       "adresa": "Dolní 706, 735 41 Petřvald"
+    },
+    {
+      "role": "člen představenstva",
+      "jmeno": "Lenka Havelková",
+      "datum_narozeni": "1945-01-19",
+      "adresa": "Mladoboleslavská 2309/13, 276 01 Mělník"
+    },
+    {
+      "role": "člen představenstva",
+      "jmeno": "Stanislav Stadník",
+      "datum_narozeni": "1961-02-10",
+      "adresa": "třída Edvarda Beneše 1747/1, 500 12 Hradec Králové"
     }
   ]
 }

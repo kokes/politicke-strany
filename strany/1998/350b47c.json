@@ -27,18 +27,6 @@
     },
     {
       "role": "člen ŘR",
-      "jmeno": "Jakub Altšmíd",
-      "datum_narozeni": "1986-12-04",
-      "adresa": "Baarova 950, 464 01 Frýdlant"
-    },
-    {
-      "role": "člen ŘR",
-      "jmeno": "Miloš Volek",
-      "datum_narozeni": "1961-06-02",
-      "adresa": "Dukelských hrdinů 837, 357 35 Chodov"
-    },
-    {
-      "role": "člen ŘR",
       "jmeno": "Ilona Smítková",
       "datum_narozeni": "1948-11-18",
       "adresa": "Dlouhá 196/36, 417 02 Dubí"
@@ -48,6 +36,18 @@
       "jmeno": "Martin  Zvěřina",
       "datum_narozeni": "1962-01-15",
       "adresa": "Svobodova 206/18, 362 25 Nová Role"
+    },
+    {
+      "role": "člen ŘR",
+      "jmeno": "Jakub Altšmíd",
+      "datum_narozeni": "1986-12-04",
+      "adresa": "Baarova 950, 464 01 Frýdlant"
+    },
+    {
+      "role": "člen ŘR",
+      "jmeno": "Miloš Volek",
+      "datum_narozeni": "1961-06-02",
+      "adresa": "Dukelských hrdinů 837, 357 35 Chodov"
     }
   ]
 }

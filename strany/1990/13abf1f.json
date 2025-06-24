@@ -39,15 +39,15 @@
     },
     {
       "role": "členka předsednictva",
-      "jmeno": "Gabriela Sedláčková",
-      "datum_narozeni": "1985-01-30",
-      "adresa": "Chelčického 1129/10, 130 00 Praha"
-    },
-    {
-      "role": "členka předsednictva",
       "jmeno": "Ing. Kristina Štefanová Holíková",
       "datum_narozeni": "1978-09-12",
       "adresa": "Lužná 291/19, 617 00 Brno"
+    },
+    {
+      "role": "členka předsednictva",
+      "jmeno": "Gabriela Sedláčková",
+      "datum_narozeni": "1985-01-30",
+      "adresa": "Chelčického 1129/10, 130 00 Praha"
     }
   ]
 }

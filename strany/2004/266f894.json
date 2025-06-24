@@ -27,6 +27,12 @@
     },
     {
       "role": "místopředseda",
+      "jmeno": "Jan  Farský",
+      "datum_narozeni": "1979-07-11",
+      "adresa": "Mikoláše Alše 617, 513 01 Semily"
+    },
+    {
+      "role": "místopředseda",
       "jmeno": "Pavel Čížek",
       "datum_narozeni": "1964-04-20",
       "adresa": "335 61 Spálené Poříčí 6"
@@ -36,12 +42,6 @@
       "jmeno": "Karel Dvořák",
       "datum_narozeni": "1986-07-01",
       "adresa": "Bartoškova 1411/20, 140 00 Praha"
-    },
-    {
-      "role": "místopředseda",
-      "jmeno": "Jan  Farský",
-      "datum_narozeni": "1979-07-11",
-      "adresa": "Mikoláše Alše 617, 513 01 Semily"
     },
     {
       "role": "člen předsednictva",
@@ -81,18 +81,6 @@
     },
     {
       "role": "členka předsednictva",
-      "jmeno": "Kateřina Arnotová",
-      "datum_narozeni": "1973-12-19",
-      "adresa": "Úslavská 589/4, 196 00 Praha"
-    },
-    {
-      "role": "členka předsednictva",
-      "jmeno": "Hana Naiclerová",
-      "datum_narozeni": "1972-06-19",
-      "adresa": "Borová 362/10, 796 01 Prostějov"
-    },
-    {
-      "role": "členka předsednictva",
       "jmeno": "Petra Pecková",
       "datum_narozeni": "1975-10-12",
       "adresa": "Zámecká 21, 251 64 Mnichovice"
@@ -102,6 +90,18 @@
       "jmeno": "Petra Korlaar",
       "datum_narozeni": "1982-07-09",
       "adresa": "Zámecká 1808/4, 692 01 Mikulov"
+    },
+    {
+      "role": "členka předsednictva",
+      "jmeno": "Hana Naiclerová",
+      "datum_narozeni": "1972-06-19",
+      "adresa": "Borová 362/10, 796 01 Prostějov"
+    },
+    {
+      "role": "členka předsednictva",
+      "jmeno": "Kateřina Arnotová",
+      "datum_narozeni": "1973-12-19",
+      "adresa": "Úslavská 589/4, 196 00 Praha"
     }
   ]
 }

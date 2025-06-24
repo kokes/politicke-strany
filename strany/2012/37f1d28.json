@@ -45,18 +45,6 @@
     },
     {
       "role": "člen předsednictva",
-      "jmeno": "Ing. Josef Bělica, MBA",
-      "datum_narozeni": "1978-07-16",
-      "adresa": "Výletní 1236/6A, 736 01 Havířov"
-    },
-    {
-      "role": "člen předsednictva",
-      "jmeno": "Mgr. Roman Zarzycký",
-      "datum_narozeni": "1977-09-07",
-      "adresa": "Bzenecká 1051/13, 323 00 Plzeň"
-    },
-    {
-      "role": "člen předsednictva",
       "jmeno": "Ing. Roman Kubíček, Ph.D., MBA",
       "datum_narozeni": "1963-05-06",
       "adresa": "Spojovací 1592/1, 370 05 České Budějovice"
@@ -84,6 +72,18 @@
       "jmeno": "MUDr. David Kasal, MHA",
       "datum_narozeni": "1969-01-01",
       "adresa": "Svěchyňova 607, 537 01 Chrudim"
+    },
+    {
+      "role": "člen předsednictva",
+      "jmeno": "Ing. Josef Bělica, MBA",
+      "datum_narozeni": "1978-07-16",
+      "adresa": "Výletní 1236/6A, 736 01 Havířov"
+    },
+    {
+      "role": "člen předsednictva",
+      "jmeno": "Mgr. Roman Zarzycký",
+      "datum_narozeni": "1977-09-07",
+      "adresa": "Bzenecká 1051/13, 323 00 Plzeň"
     },
     {
       "role": "členka předsednictva",

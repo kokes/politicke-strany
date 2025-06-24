@@ -45,12 +45,6 @@
     },
     {
       "role": "místopředseda",
-      "jmeno": "RNDr. Alexandr  Vondra",
-      "datum_narozeni": "1961-08-17",
-      "adresa": "Máchova 169/8, 412 01 Litoměřice"
-    },
-    {
-      "role": "místopředseda",
       "jmeno": "Mgr. Martin Kupka",
       "datum_narozeni": "1975-10-28",
       "adresa": "Jana Pavelky 660, 250 65 Líbeznice"
@@ -60,6 +54,12 @@
       "jmeno": "Mgr. Martin  Baxa",
       "datum_narozeni": "1975-09-16",
       "adresa": "Višňová 121/5, 301 00 Plzeň"
+    },
+    {
+      "role": "místopředseda",
+      "jmeno": "RNDr. Alexandr  Vondra",
+      "datum_narozeni": "1961-08-17",
+      "adresa": "Máchova 169/8, 412 01 Litoměřice"
     }
   ]
 }

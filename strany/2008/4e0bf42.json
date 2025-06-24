@@ -27,15 +27,15 @@
     },
     {
       "role": "místopředseda",
-      "jmeno": "Ing. Michael  Canov",
-      "datum_narozeni": "1960-12-10",
-      "adresa": "Střelecký vrch 666, 463 31 Chrastava"
+      "jmeno": "Mgr. Daniel David",
+      "datum_narozeni": "1971-09-15",
+      "adresa": "468 11 Janov nad Nisou 461"
     },
     {
       "role": "místopředseda",
-      "jmeno": "Ing. Tomáš Hocke",
-      "datum_narozeni": "1975-07-23",
-      "adresa": "Josefa Štrégla 2164, 511 01 Turnov"
+      "jmeno": "Ing. Radek Lípa",
+      "datum_narozeni": "1979-12-08",
+      "adresa": "470 02 Zákupy 44"
     },
     {
       "role": "místopředseda",
@@ -51,15 +51,15 @@
     },
     {
       "role": "místopředseda",
-      "jmeno": "Mgr. Daniel David",
-      "datum_narozeni": "1971-09-15",
-      "adresa": "468 11 Janov nad Nisou 461"
+      "jmeno": "Ing. Michael  Canov",
+      "datum_narozeni": "1960-12-10",
+      "adresa": "Střelecký vrch 666, 463 31 Chrastava"
     },
     {
       "role": "místopředseda",
-      "jmeno": "Ing. Radek Lípa",
-      "datum_narozeni": "1979-12-08",
-      "adresa": "470 02 Zákupy 44"
+      "jmeno": "Ing. Tomáš Hocke",
+      "datum_narozeni": "1975-07-23",
+      "adresa": "Josefa Štrégla 2164, 511 01 Turnov"
     }
   ]
 }

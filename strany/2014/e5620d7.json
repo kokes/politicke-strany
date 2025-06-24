@@ -20,14 +20,14 @@
     },
     {
       "role": "členka",
-      "jmeno": "Marta Frýbertová",
-      "adresa": ""
-    },
-    {
-      "role": "členka",
       "jmeno": "MUDr. Alice Čečilová",
       "datum_narozeni": "1958-06-25",
       "adresa": "Pod Hradištěm 121, 257 41 Týnec nad Sázavou"
+    },
+    {
+      "role": "členka",
+      "jmeno": "Marta Frýbertová",
+      "adresa": ""
     }
   ]
 }

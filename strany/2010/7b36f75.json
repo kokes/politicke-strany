@@ -27,18 +27,6 @@
     },
     {
       "role": "člen",
-      "jmeno": "Jaroslav Jirák",
-      "datum_narozeni": "1954-12-17",
-      "adresa": "Na sídlišti 183, 356 01 Královské Poříčí"
-    },
-    {
-      "role": "člen",
-      "jmeno": "Pavel Cipov",
-      "datum_narozeni": "1963-05-13",
-      "adresa": "Šindelová 126, 358 01 Kraslice"
-    },
-    {
-      "role": "člen",
       "jmeno": "Antonín Prachar",
       "datum_narozeni": "1973-06-13",
       "adresa": "Šemnice Pulovice 67, 362 72 Kyselka"
@@ -62,16 +50,16 @@
       "adresa": "Východní 561/14, 360 01 Karlovy Vary"
     },
     {
-      "role": "členka",
-      "jmeno": "Ivana  Sytařová",
-      "datum_narozeni": "1955-03-05",
-      "adresa": "Moskevská 1575/43, 360 01 Karlovy Vary"
+      "role": "člen",
+      "jmeno": "Jaroslav Jirák",
+      "datum_narozeni": "1954-12-17",
+      "adresa": "Na sídlišti 183, 356 01 Královské Poříčí"
     },
     {
-      "role": "členka",
-      "jmeno": "Kristina Schneiderová",
-      "datum_narozeni": "1957-01-30",
-      "adresa": "Na sídlišti 188/3, 356 01 Královské Poříčí"
+      "role": "člen",
+      "jmeno": "Pavel Cipov",
+      "datum_narozeni": "1963-05-13",
+      "adresa": "Šindelová 126, 358 01 Kraslice"
     },
     {
       "role": "členka",
@@ -96,6 +84,18 @@
       "jmeno": "Marie Jandová",
       "datum_narozeni": "1966-10-20",
       "adresa": "Celní 328/7, 360 05 Karlovy Vary"
+    },
+    {
+      "role": "členka",
+      "jmeno": "Ivana  Sytařová",
+      "datum_narozeni": "1955-03-05",
+      "adresa": "Moskevská 1575/43, 360 01 Karlovy Vary"
+    },
+    {
+      "role": "členka",
+      "jmeno": "Kristina Schneiderová",
+      "datum_narozeni": "1957-01-30",
+      "adresa": "Na sídlišti 188/3, 356 01 Královské Poříčí"
     }
   ]
 }

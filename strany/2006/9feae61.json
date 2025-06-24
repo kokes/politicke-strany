@@ -15,15 +15,15 @@
     },
     {
       "role": "místopředseda",
-      "jmeno": "Tomáš Tožička",
-      "datum_narozeni": "1966-12-20",
-      "adresa": "U Města Chersonu 1675/8, 434 01 Most"
-    },
-    {
-      "role": "místopředseda",
       "jmeno": "doc. PhDr. Olga Lomová",
       "datum_narozeni": "1957-05-31",
       "adresa": "Klánova 383/14, 147 00 Praha"
+    },
+    {
+      "role": "místopředseda",
+      "jmeno": "Tomáš Tožička",
+      "datum_narozeni": "1966-12-20",
+      "adresa": "U Města Chersonu 1675/8, 434 01 Most"
     },
     {
       "role": "člen",

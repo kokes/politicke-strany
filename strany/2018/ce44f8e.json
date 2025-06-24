@@ -14,16 +14,16 @@
       "adresa": "Chotěbuzská 250, 735 61 Chotěbuz"
     },
     {
-      "role": "místopředseda",
-      "jmeno": "Pavel Weisgarber",
-      "datum_narozeni": "1977-05-06",
-      "adresa": ""
-    },
-    {
       "role": "výkonný místopředseda",
       "jmeno": "Pavel Matějný",
       "datum_narozeni": "1968-04-17",
       "adresa": "Chotěbuzská 250, 735 61 Chotěbuz"
+    },
+    {
+      "role": "místopředseda",
+      "jmeno": "Pavel Weisgarber",
+      "datum_narozeni": "1977-05-06",
+      "adresa": ""
     }
   ]
 }

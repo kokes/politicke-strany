@@ -21,6 +21,12 @@
     },
     {
       "role": "člen",
+      "jmeno": "Petr Řezníček",
+      "datum_narozeni": "1951-02-23",
+      "adresa": "Jungmannovo nábřeží 399, 537 01 Chrudim"
+    },
+    {
+      "role": "člen",
       "jmeno": "Stanislav Boloňský",
       "datum_narozeni": "1948-08-10",
       "adresa": "Školní nám. 492, 252 63 Roztoky"
@@ -30,12 +36,6 @@
       "jmeno": "Zdeněk Jirsa",
       "datum_narozeni": "1953-08-08",
       "adresa": "588 45 Dolní Cerekev 201"
-    },
-    {
-      "role": "člen",
-      "jmeno": "Petr Řezníček",
-      "datum_narozeni": "1951-02-23",
-      "adresa": "Jungmannovo nábřeží 399, 537 01 Chrudim"
     }
   ]
 }

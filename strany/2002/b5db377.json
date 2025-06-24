@@ -33,12 +33,6 @@
     },
     {
       "role": "místopředseda",
-      "jmeno": "Jan Ježovica",
-      "datum_narozeni": "1971-07-22",
-      "adresa": "17. listopadu 1167, 293 01 Mladá Boleslav"
-    },
-    {
-      "role": "místopředseda",
       "jmeno": "David Kádner",
       "datum_narozeni": "1976-10-12",
       "adresa": "435 45 Nová Ves v Horách 225"
@@ -48,6 +42,12 @@
       "jmeno": "MUDr. Miroslav Malchar",
       "datum_narozeni": "1957-01-10",
       "adresa": "Lesní 2330, 756 61 Rožnov pod Radhoštěm"
+    },
+    {
+      "role": "místopředseda",
+      "jmeno": "Jan Ježovica",
+      "datum_narozeni": "1971-07-22",
+      "adresa": "17. listopadu 1167, 293 01 Mladá Boleslav"
     }
   ]
 }
