@@ -21,12 +21,6 @@
     },
     {
       "role": "člen",
-      "jmeno": "Jaromír Šebík",
-      "datum_narozeni": "1952-01-23",
-      "adresa": "Jílová 4571, 760 05 Zlín"
-    },
-    {
-      "role": "člen",
       "jmeno": "Mgr. Kateřina  Francová",
       "datum_narozeni": "1977-11-21",
       "adresa": "Novosady 1328, 769 01 Holešov"
@@ -36,6 +30,12 @@
       "jmeno": "Karel Markytán",
       "datum_narozeni": "1954-08-17",
       "adresa": "Za Školou 170, 760 01 Zlín"
+    },
+    {
+      "role": "člen",
+      "jmeno": "Jaromír Šebík",
+      "datum_narozeni": "1952-01-23",
+      "adresa": "Jílová 4571, 760 05 Zlín"
     }
   ]
 }

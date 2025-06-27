@@ -21,12 +21,6 @@
     },
     {
       "role": "člen",
-      "jmeno": "Jan Jarka",
-      "datum_narozeni": "1984-03-14",
-      "adresa": "Slunečná 74, 464 01 Raspenava"
-    },
-    {
-      "role": "člen",
       "jmeno": "Jan Červeňák",
       "datum_narozeni": "1973-09-06",
       "adresa": "Dolní 355, 284 01 Kutná Hora"
@@ -36,6 +30,12 @@
       "jmeno": "Ivan Oračko",
       "datum_narozeni": "1986-01-18",
       "adresa": "Mladoboleslavská 3284, 276 01 Mělník"
+    },
+    {
+      "role": "člen",
+      "jmeno": "Jan Jarka",
+      "datum_narozeni": "1984-03-14",
+      "adresa": "Slunečná 74, 464 01 Raspenava"
     }
   ]
 }

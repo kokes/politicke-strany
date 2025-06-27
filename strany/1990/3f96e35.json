@@ -39,42 +39,6 @@
     },
     {
       "role": "člen VV ÚV KSČM",
-      "jmeno": "Filip Zachariaš",
-      "datum_narozeni": "1993-04-28",
-      "adresa": "Sokolovská 701, 685 01 Bučovice"
-    },
-    {
-      "role": "člen VV ÚV KSČM",
-      "jmeno": "Miroslav Kavij",
-      "datum_narozeni": "1963-12-15",
-      "adresa": "Za Beránkem 762, 339 01 Klatovy"
-    },
-    {
-      "role": "člen VV ÚV KSČM",
-      "jmeno": "Václav Sloup",
-      "datum_narozeni": "1949-10-06",
-      "adresa": "350 02 Tuřany 5"
-    },
-    {
-      "role": "člen VV ÚV KSČM",
-      "jmeno": "Petr Havránek",
-      "datum_narozeni": "1977-10-06",
-      "adresa": "Poštovní 481, 742 13 Studénka"
-    },
-    {
-      "role": "člen VV ÚV KSČM",
-      "jmeno": "Pavel Kroča",
-      "datum_narozeni": "1958-12-24",
-      "adresa": "1. máje 63, 686 05 Uherské Hradiště"
-    },
-    {
-      "role": "člen VV ÚV KSČM",
-      "jmeno": "Ivan Hrůza",
-      "datum_narozeni": "1954-08-03",
-      "adresa": "Mládeže 1640/20, 169 00 Praha"
-    },
-    {
-      "role": "člen VV ÚV KSČM",
       "jmeno": "Zdeněk Štefek",
       "datum_narozeni": "1974-12-30",
       "adresa": "Pražská 636/31, 273 43 Buštěhrad"
@@ -102,6 +66,42 @@
       "jmeno": "Václav Větrovec",
       "datum_narozeni": "1957-11-18",
       "adresa": "470 02 Kravaře 20"
+    },
+    {
+      "role": "člen VV ÚV KSČM",
+      "jmeno": "Ivan Hrůza",
+      "datum_narozeni": "1954-08-03",
+      "adresa": "Mládeže 1640/20, 169 00 Praha"
+    },
+    {
+      "role": "člen VV ÚV KSČM",
+      "jmeno": "Petr Havránek",
+      "datum_narozeni": "1977-10-06",
+      "adresa": "Poštovní 481, 742 13 Studénka"
+    },
+    {
+      "role": "člen VV ÚV KSČM",
+      "jmeno": "Pavel Kroča",
+      "datum_narozeni": "1958-12-24",
+      "adresa": "1. máje 63, 686 05 Uherské Hradiště"
+    },
+    {
+      "role": "člen VV ÚV KSČM",
+      "jmeno": "Filip Zachariaš",
+      "datum_narozeni": "1993-04-28",
+      "adresa": "Sokolovská 701, 685 01 Bučovice"
+    },
+    {
+      "role": "člen VV ÚV KSČM",
+      "jmeno": "Miroslav Kavij",
+      "datum_narozeni": "1963-12-15",
+      "adresa": "Za Beránkem 762, 339 01 Klatovy"
+    },
+    {
+      "role": "člen VV ÚV KSČM",
+      "jmeno": "Václav Sloup",
+      "datum_narozeni": "1949-10-06",
+      "adresa": "350 02 Tuřany 5"
     },
     {
       "role": "členka VV ÚV KSČM",

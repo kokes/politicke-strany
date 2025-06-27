@@ -27,15 +27,15 @@
     },
     {
       "role": "místopředseda",
-      "jmeno": "Pavel Hakr",
-      "datum_narozeni": "1954-02-22",
-      "adresa": "386 01 Osek 109"
-    },
-    {
-      "role": "místopředseda",
       "jmeno": "Miroslav Zeťák",
       "datum_narozeni": "1977-09-10",
       "adresa": "Sušilova 1330, 755 01 Vsetín"
+    },
+    {
+      "role": "místopředseda",
+      "jmeno": "Pavel Hakr",
+      "datum_narozeni": "1954-02-22",
+      "adresa": "386 01 Osek 109"
     }
   ]
 }

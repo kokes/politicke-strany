@@ -21,15 +21,15 @@
     },
     {
       "role": "členka předsednictva",
-      "jmeno": "Dana Tichá",
-      "datum_narozeni": "1960-12-24",
-      "adresa": "Růžová 85/3, 390 01 Tábor"
-    },
-    {
-      "role": "členka předsednictva",
       "jmeno": "Zuzana Jiříková",
       "datum_narozeni": "1962-05-07",
       "adresa": "Sklářská 210, 417 23 Košťany"
+    },
+    {
+      "role": "členka předsednictva",
+      "jmeno": "Dana Tichá",
+      "datum_narozeni": "1960-12-24",
+      "adresa": "Růžová 85/3, 390 01 Tábor"
     }
   ]
 }

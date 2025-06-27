@@ -20,6 +20,12 @@
     },
     {
       "role": "člen",
+      "jmeno": "Mgr. Michal Rádl",
+      "datum_narozeni": "1980-12-08",
+      "adresa": "Slovenská 2409, 470 01 Česká Lípa"
+    },
+    {
+      "role": "člen",
       "jmeno": "JUDr. Stanislav Cenek",
       "datum_narozeni": "1962-12-15",
       "adresa": "471 12 Volfartice 85"
@@ -29,12 +35,6 @@
       "jmeno": "Jiří Šubrt",
       "datum_narozeni": "1969-07-30",
       "adresa": "Březová 3023, 470 01 Česká Lípa"
-    },
-    {
-      "role": "člen",
-      "jmeno": "Mgr. Michal Rádl",
-      "datum_narozeni": "1980-12-08",
-      "adresa": "Slovenská 2409, 470 01 Česká Lípa"
     },
     {
       "role": "členka",

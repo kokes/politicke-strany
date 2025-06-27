@@ -21,6 +21,18 @@
     },
     {
       "role": "člen",
+      "jmeno": "Mgr. Zbyněk Šostý",
+      "datum_narozeni": "1962-11-24",
+      "adresa": "El. Krásnohorské 248, 738 01 Frýdek-Místek"
+    },
+    {
+      "role": "člen",
+      "jmeno": "Ing. Miroslav Bártek",
+      "datum_narozeni": "1961-05-28",
+      "adresa": "Josefa Václava Sládka 2191, 738 01 Frýdek-Místek"
+    },
+    {
+      "role": "člen",
       "jmeno": "Tomáš  Chlebek",
       "datum_narozeni": "1966-10-12",
       "adresa": "Josefa Myslivečka 1882, 738 01 Frýdek-Místek"
@@ -36,18 +48,6 @@
       "jmeno": "Mgr. Tomáš Pyško",
       "datum_narozeni": "1967-10-03",
       "adresa": "Nad Lipinou 2512, 738 01 Frýdek-Místek"
-    },
-    {
-      "role": "člen",
-      "jmeno": "Mgr. Zbyněk Šostý",
-      "datum_narozeni": "1962-11-24",
-      "adresa": "El. Krásnohorské 248, 738 01 Frýdek-Místek"
-    },
-    {
-      "role": "člen",
-      "jmeno": "Ing. Miroslav Bártek",
-      "datum_narozeni": "1961-05-28",
-      "adresa": "Josefa Václava Sládka 2191, 738 01 Frýdek-Místek"
     },
     {
       "role": "členka",

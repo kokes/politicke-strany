@@ -21,12 +21,6 @@
     },
     {
       "role": "člen",
-      "jmeno": "Milan Matoušek",
-      "datum_narozeni": "1960-04-14",
-      "adresa": "K Borovíčku 71/12, 148 00 Praha"
-    },
-    {
-      "role": "člen",
       "jmeno": "Ondřej Nováček",
       "datum_narozeni": "1991-01-29",
       "adresa": "K Zeleným domkům 632/34, 148 00 Praha"
@@ -38,16 +32,22 @@
       "adresa": "Kostelní náměstí 17, 148 00 Praha"
     },
     {
-      "role": "členka",
-      "jmeno": "Petra Hilmarová",
-      "datum_narozeni": "1973-07-22",
-      "adresa": "Herrova 1553/14, 148 00 Praha"
+      "role": "člen",
+      "jmeno": "Milan Matoušek",
+      "datum_narozeni": "1960-04-14",
+      "adresa": "K Borovíčku 71/12, 148 00 Praha"
     },
     {
       "role": "členka",
       "jmeno": "Kateřina Talichová",
       "datum_narozeni": "1979-03-06",
       "adresa": "Dunajevského 515/2, 148 00 Praha"
+    },
+    {
+      "role": "členka",
+      "jmeno": "Petra Hilmarová",
+      "datum_narozeni": "1973-07-22",
+      "adresa": "Herrova 1553/14, 148 00 Praha"
     }
   ]
 }

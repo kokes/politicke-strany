@@ -27,15 +27,15 @@
     },
     {
       "role": "členka",
-      "jmeno": "Eva Pitrová",
-      "datum_narozeni": "1973-04-23",
-      "adresa": "Hoškova 1110/6, 158 00 Praha"
-    },
-    {
-      "role": "členka",
       "jmeno": "Mgr. Diana Bubníková",
       "datum_narozeni": "1969-02-10",
       "adresa": "Pivcova 956/6, 152 00 Praha"
+    },
+    {
+      "role": "členka",
+      "jmeno": "Eva Pitrová",
+      "datum_narozeni": "1973-04-23",
+      "adresa": "Hoškova 1110/6, 158 00 Praha"
     }
   ]
 }

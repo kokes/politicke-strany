@@ -63,12 +63,6 @@
     },
     {
       "role": "člen předsednictva",
-      "jmeno": "Radovan Auer",
-      "datum_narozeni": "1975-01-21",
-      "adresa": "Zborovská 1519/24, 787 01 Šumperk"
-    },
-    {
-      "role": "člen předsednictva",
       "jmeno": "Jakub Lepš",
       "datum_narozeni": "1974-06-04",
       "adresa": "Jurkovičova 970/8, 149 00 Praha"
@@ -81,15 +75,21 @@
     },
     {
       "role": "člen předsednictva",
-      "jmeno": "Pavel Kounovský",
-      "datum_narozeni": "1967-09-28",
-      "adresa": "Sokolská 177, 471 24 Mimoň"
+      "jmeno": "Radovan Auer",
+      "datum_narozeni": "1975-01-21",
+      "adresa": "Zborovská 1519/24, 787 01 Šumperk"
     },
     {
       "role": "člen předsednictva",
       "jmeno": "Pavel Klíma",
       "datum_narozeni": "1971-05-26",
       "adresa": "Obora 22, 391 75 Malšice"
+    },
+    {
+      "role": "člen předsednictva",
+      "jmeno": "Pavel Kounovský",
+      "datum_narozeni": "1967-09-28",
+      "adresa": "Sokolská 177, 471 24 Mimoň"
     },
     {
       "role": "člen předsednictva",

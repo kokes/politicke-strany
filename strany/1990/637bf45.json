@@ -15,15 +15,15 @@
     },
     {
       "role": "místopředseda",
-      "jmeno": "Mário Jaromír Císař",
-      "datum_narozeni": "1953-02-02",
-      "adresa": "Táboritská 461/2, 130 00 Praha"
-    },
-    {
-      "role": "místopředseda",
       "jmeno": "Ing. Petr Bašík",
       "datum_narozeni": "1957-06-10",
       "adresa": "B. Němcové 867, 399 01 Milevsko"
+    },
+    {
+      "role": "místopředseda",
+      "jmeno": "Mário Jaromír Císař",
+      "datum_narozeni": "1953-02-02",
+      "adresa": "Táboritská 461/2, 130 00 Praha"
     },
     {
       "role": "člen",

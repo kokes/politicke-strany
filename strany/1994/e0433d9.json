@@ -26,12 +26,6 @@
     },
     {
       "role": "člen RR",
-      "jmeno": "Ing. Karel Poukar",
-      "datum_narozeni": "1950-01-02",
-      "adresa": "Tupolevova 464, 199 00 Praha"
-    },
-    {
-      "role": "člen RR",
       "jmeno": "Mgr. Miroslav Chlubna",
       "datum_narozeni": "1974-02-28",
       "adresa": "Zátiší 178, 735 14 Orlová"
@@ -47,6 +41,12 @@
       "jmeno": "Jiří Lizák",
       "datum_narozeni": "1968-08-16",
       "adresa": "Dostálova 994/20, 713 00 Heřmanice"
+    },
+    {
+      "role": "člen RR",
+      "jmeno": "Ing. Karel Poukar",
+      "datum_narozeni": "1950-01-02",
+      "adresa": "Tupolevova 464, 199 00 Praha"
     }
   ]
 }

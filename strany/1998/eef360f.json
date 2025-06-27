@@ -57,12 +57,6 @@
     },
     {
       "role": "člen VR",
-      "jmeno": "Mgr. Tomáš  Jančařík",
-      "datum_narozeni": "1950-03-02",
-      "adresa": "Pod křížkem 1757/2A, 147 00 Praha"
-    },
-    {
-      "role": "člen VR",
       "jmeno": "Iva Mazíková",
       "datum_narozeni": "1939-09-12",
       "adresa": "Fibichova 1593/19, 735 06 Karviná"
@@ -80,6 +74,12 @@
       "adresa": "Ženíškova 2172/3, 400 11 Ústí nad Labem"
     },
     {
+      "role": "člen VR",
+      "jmeno": "Mgr. Tomáš  Jančařík",
+      "datum_narozeni": "1950-03-02",
+      "adresa": "Pod křížkem 1757/2A, 147 00 Praha"
+    },
+    {
       "role": "člen RV",
       "jmeno": "Michael  Jankovič",
       "datum_narozeni": "1949-02-12",
@@ -87,21 +87,15 @@
     },
     {
       "role": "člen RV",
-      "jmeno": "Jiří  Tomek",
-      "datum_narozeni": "1948-04-17",
-      "adresa": "691 24 Přibice  7"
+      "jmeno": "Mgr. Tomáš Kopecký",
+      "datum_narozeni": "1965-02-18",
+      "adresa": "Na Větrníku 1295, 537 05 Chrudim"
     },
     {
       "role": "člen RV",
-      "jmeno": "Václav  Šíma",
-      "datum_narozeni": "1955-05-31",
-      "adresa": "F. X. Šaldy 96/19, 360 04 Karlovy Vary"
-    },
-    {
-      "role": "člen RV",
-      "jmeno": "Ing. Libor Picka",
-      "datum_narozeni": "1964-04-18",
-      "adresa": "345 25 Bělá nad Radbuzou 30"
+      "jmeno": "Ing. Vladimír Koutský",
+      "datum_narozeni": "1942-12-02",
+      "adresa": "Erbenovo nábřeží 3929/2, 767 01 Kroměříž"
     },
     {
       "role": "člen RV",
@@ -117,33 +111,15 @@
     },
     {
       "role": "člen RV",
-      "jmeno": "Mgr. Tomáš Kopecký",
-      "datum_narozeni": "1965-02-18",
-      "adresa": "Na Větrníku 1295, 537 05 Chrudim"
+      "jmeno": "Ing. Libor Picka",
+      "datum_narozeni": "1964-04-18",
+      "adresa": "345 25 Bělá nad Radbuzou 30"
     },
     {
       "role": "člen RV",
-      "jmeno": "Oldřich Ballák",
-      "datum_narozeni": "1938-06-19",
-      "adresa": "Marie Majerové 40/33, 783 36 Křelov-Břuchotín"
-    },
-    {
-      "role": "člen RV",
-      "jmeno": "PharmDr. Radovan Haluza",
-      "datum_narozeni": "1961-06-15",
-      "adresa": "Durychova 1390/8, 500 12 Hradec Králové"
-    },
-    {
-      "role": "člen RV",
-      "jmeno": "Ing. Jaromír Barák",
-      "datum_narozeni": "1957-12-09",
-      "adresa": "Na Kopcích 383, 674 01 Třebíč"
-    },
-    {
-      "role": "člen RV",
-      "jmeno": "Ing. Vladimír Koutský",
-      "datum_narozeni": "1942-12-02",
-      "adresa": "Erbenovo nábřeží 3929/2, 767 01 Kroměříž"
+      "jmeno": "Václav  Šíma",
+      "datum_narozeni": "1955-05-31",
+      "adresa": "F. X. Šaldy 96/19, 360 04 Karlovy Vary"
     },
     {
       "role": "člen RV",
@@ -159,6 +135,42 @@
     },
     {
       "role": "člen RV",
+      "jmeno": "Jiří  Tomek",
+      "datum_narozeni": "1948-04-17",
+      "adresa": "691 24 Přibice  7"
+    },
+    {
+      "role": "člen RV",
+      "jmeno": "Oldřich Ballák",
+      "datum_narozeni": "1938-06-19",
+      "adresa": "Marie Majerové 40/33, 783 36 Křelov-Břuchotín"
+    },
+    {
+      "role": "člen RV",
+      "jmeno": "Ing. Jaromír Barák",
+      "datum_narozeni": "1957-12-09",
+      "adresa": "Na Kopcích 383, 674 01 Třebíč"
+    },
+    {
+      "role": "člen RV",
+      "jmeno": "PharmDr. Radovan Haluza",
+      "datum_narozeni": "1961-06-15",
+      "adresa": "Durychova 1390/8, 500 12 Hradec Králové"
+    },
+    {
+      "role": "člen RV",
+      "jmeno": "Ing. Luboš Matek",
+      "datum_narozeni": "1965-12-10",
+      "adresa": "Jiráskova 1480, 413 01 Roudnice nad Labem"
+    },
+    {
+      "role": "člen RV",
+      "jmeno": "Bc. Martin  Vysoudil",
+      "datum_narozeni": "1982-01-27",
+      "adresa": "Husova 887/9, 779 00 Olomouc"
+    },
+    {
+      "role": "člen RV",
       "jmeno": "Ing. Tomáš Trnobranský",
       "datum_narozeni": "1954-12-02",
       "adresa": "257 91 Sedlec-Prčice 32"
@@ -171,21 +183,9 @@
     },
     {
       "role": "člen RV",
-      "jmeno": "Bc. Martin  Vysoudil",
-      "datum_narozeni": "1982-01-27",
-      "adresa": "Husova 887/9, 779 00 Olomouc"
-    },
-    {
-      "role": "člen RV",
       "jmeno": "Mgr. Zuzana Peterová",
       "datum_narozeni": "1970-11-22",
       "adresa": "Štefánikova 5, 150 00 Praha 5 - Smíchov"
-    },
-    {
-      "role": "člen RV",
-      "jmeno": "Ing. Luboš Matek",
-      "datum_narozeni": "1965-12-10",
-      "adresa": "Jiráskova 1480, 413 01 Roudnice nad Labem"
     }
   ]
 }

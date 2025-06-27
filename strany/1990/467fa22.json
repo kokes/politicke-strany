@@ -33,6 +33,12 @@
     },
     {
       "role": "člen",
+      "jmeno": "Pavel Marek",
+      "datum_narozeni": "1948-12-23",
+      "adresa": "Hlavní 2463, 352 01 Aš"
+    },
+    {
+      "role": "člen",
       "jmeno": "Mgr. Ivan  Laube",
       "datum_narozeni": "1948-01-04",
       "adresa": "Verdunská 487/26, 160 00 Praha"
@@ -48,12 +54,6 @@
       "jmeno": "Václav Filip",
       "datum_narozeni": "1972-11-25",
       "adresa": "Brigádníků 2554, 390 02 Tábor"
-    },
-    {
-      "role": "člen",
-      "jmeno": "Pavel Marek",
-      "datum_narozeni": "1948-12-23",
-      "adresa": "Hlavní 2463, 352 01 Aš"
     },
     {
       "role": "členka",

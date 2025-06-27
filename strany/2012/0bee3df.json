@@ -15,15 +15,15 @@
     },
     {
       "role": "místopředseda",
-      "jmeno": "Ing. Ondřej Hlaváč",
-      "datum_narozeni": "1975-07-23",
-      "adresa": "Dubinská 758, 530 12 Pardubice"
-    },
-    {
-      "role": "místopředseda",
       "jmeno": "Ing. Aleš Maloch",
       "datum_narozeni": "1976-04-11",
       "adresa": "543 72 Rudník 80"
+    },
+    {
+      "role": "místopředseda",
+      "jmeno": "Ing. Ondřej Hlaváč",
+      "datum_narozeni": "1975-07-23",
+      "adresa": "Dubinská 758, 530 12 Pardubice"
     },
     {
       "role": "pokladník",

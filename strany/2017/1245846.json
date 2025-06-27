@@ -21,6 +21,12 @@
     },
     {
       "role": "člen",
+      "jmeno": "Ondřej Svoboda",
+      "datum_narozeni": "1994-06-07",
+      "adresa": "Křejpského 1531/6, 149 00 Praha"
+    },
+    {
+      "role": "člen",
       "jmeno": "David Bouz",
       "datum_narozeni": "1997-09-06",
       "adresa": "K louži 1257/8, 101 00 Praha"
@@ -39,12 +45,6 @@
     },
     {
       "role": "člen",
-      "jmeno": "Ondřej Svoboda",
-      "datum_narozeni": "1994-06-07",
-      "adresa": "Křejpského 1531/6, 149 00 Praha"
-    },
-    {
-      "role": "člen",
       "jmeno": "Petr Zeman",
       "datum_narozeni": "1968-08-16",
       "adresa": "Vybíralova 964/8, 198 00 Praha"
@@ -57,15 +57,15 @@
     },
     {
       "role": "členka",
-      "jmeno": "Kristýna Drápalová",
-      "datum_narozeni": "1991-03-28",
-      "adresa": "Čimická 253/21, 182 00 Praha"
-    },
-    {
-      "role": "členka",
       "jmeno": "Hana Třeštíková",
       "datum_narozeni": "1982-03-21",
       "adresa": "Kostelní 1103/14, 170 00 Praha"
+    },
+    {
+      "role": "členka",
+      "jmeno": "Kristýna Drápalová",
+      "datum_narozeni": "1991-03-28",
+      "adresa": "Čimická 253/21, 182 00 Praha"
     },
     {
       "role": "členka",

@@ -21,6 +21,12 @@
     },
     {
       "role": "člen",
+      "jmeno": "Mgr. Jiří Bílek",
+      "datum_narozeni": "1973-07-09",
+      "adresa": "Akátova 348, 251 01 Čestlice"
+    },
+    {
+      "role": "člen",
       "jmeno": "Ing. Petr Kachlík",
       "datum_narozeni": "1954-06-01",
       "adresa": "Za zahradami 398/6, 109 00 Praha"
@@ -36,12 +42,6 @@
       "jmeno": "Jiří Kudláček",
       "datum_narozeni": "1958-10-14",
       "adresa": "Pod Bílým kamenem 1807, 753 01 Hranice"
-    },
-    {
-      "role": "člen",
-      "jmeno": "Mgr. Jiří Bílek",
-      "datum_narozeni": "1973-07-09",
-      "adresa": "Akátova 348, 251 01 Čestlice"
     }
   ]
 }

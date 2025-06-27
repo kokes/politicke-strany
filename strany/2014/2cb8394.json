@@ -27,12 +27,6 @@
     },
     {
       "role": "člen",
-      "jmeno": "Ing. Michal Žižák",
-      "datum_narozeni": "1967-08-21",
-      "adresa": "Opočenská 1678, 250 01 Brandýs nad Labem-Stará Boleslav"
-    },
-    {
-      "role": "člen",
       "jmeno": "Tomáš Rejzl",
       "datum_narozeni": "1972-03-24",
       "adresa": "Antonína Bečváře 1969, 250 01 Brandýs nad Labem-Stará Boleslav"
@@ -48,6 +42,12 @@
       "jmeno": "Tomáš Picek",
       "datum_narozeni": "1980-01-28",
       "adresa": "Generála Sedláčka 1851, 250 01 Brandýs nad Labem-Stará Boleslav"
+    },
+    {
+      "role": "člen",
+      "jmeno": "Ing. Michal Žižák",
+      "datum_narozeni": "1967-08-21",
+      "adresa": "Opočenská 1678, 250 01 Brandýs nad Labem-Stará Boleslav"
     }
   ]
 }
