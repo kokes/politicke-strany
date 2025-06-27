@@ -8,10 +8,10 @@
   "statutarni_organ": "Výkonná rada, za kterou jedná předseda nebo dva členové výkonné rady.",
   "osoby": [
     {
-      "role": "předseda",
-      "jmeno": "Petr  Kindermann",
-      "datum_narozeni": "1971-07-30",
-      "adresa": "Prokopova 1950/7, 430 01 Chomutov"
+      "role": "člen",
+      "jmeno": "Anna Häcklová",
+      "datum_narozeni": "1947-07-17",
+      "adresa": "Fibichova 3414/1, 430 03 Chomutov"
     },
     {
       "role": "místopředseda",
@@ -20,10 +20,10 @@
       "adresa": "430 01 Všehrdy 48"
     },
     {
-      "role": "člen",
-      "jmeno": "Anna Häcklová",
-      "datum_narozeni": "1947-07-17",
-      "adresa": "Fibichova 3414/1, 430 03 Chomutov"
+      "role": "předseda",
+      "jmeno": "Petr  Kindermann",
+      "datum_narozeni": "1971-07-30",
+      "adresa": "Prokopova 1950/7, 430 01 Chomutov"
     }
   ]
 }

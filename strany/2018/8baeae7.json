@@ -8,18 +8,6 @@
   "statutarni_organ": "Rada, za kterou jedná předseda, v době jeho nepřítomnosti místopředseda, popřípadě další, předsedou nebo v době jeho nepřítomnosti místopředsedou pověřený člen rady hnutí.",
   "osoby": [
     {
-      "role": "předseda",
-      "jmeno": "Mgr. Pavel Trčala, MA",
-      "datum_narozeni": "1978-03-31",
-      "adresa": "Veveří 464/17, 602 00 Brno"
-    },
-    {
-      "role": "místopředseda",
-      "jmeno": "Ing. Vladan  Ševčík",
-      "datum_narozeni": "1974-10-01",
-      "adresa": "683 01 Olšany 256"
-    },
-    {
       "role": "člen",
       "jmeno": "Mgr. Ing. Jiří Kolářský",
       "datum_narozeni": "1958-04-13",
@@ -36,6 +24,18 @@
       "jmeno": "Vladimíra Melounová",
       "datum_narozeni": "1952-10-04",
       "adresa": "Klímova 2053/14, 616 00 Brno"
+    },
+    {
+      "role": "místopředseda",
+      "jmeno": "Ing. Vladan  Ševčík",
+      "datum_narozeni": "1974-10-01",
+      "adresa": "683 01 Olšany 256"
+    },
+    {
+      "role": "předseda",
+      "jmeno": "Mgr. Pavel Trčala, MA",
+      "datum_narozeni": "1978-03-31",
+      "adresa": "Veveří 464/17, 602 00 Brno"
     }
   ]
 }

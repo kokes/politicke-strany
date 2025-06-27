@@ -8,16 +8,16 @@
   "statutarni_organ": "Ústřední rada za kterou jedná předseda a místopředsedové, přičemž se vyžaduje vždy podpis předsedy s jedním místopředsedou.",
   "osoby": [
     {
-      "role": "předseda",
-      "jmeno": "Petr Vlasák",
-      "datum_narozeni": "1962-01-16",
-      "adresa": "Hradební 761/3, 110 00 Praha"
-    },
-    {
       "role": "místopředseda",
       "jmeno": "Vladimír Velíšek",
       "datum_narozeni": "1947-04-11",
       "adresa": "Šumberova 332/6, 162 00 Praha"
+    },
+    {
+      "role": "předseda",
+      "jmeno": "Petr Vlasák",
+      "datum_narozeni": "1962-01-16",
+      "adresa": "Hradební 761/3, 110 00 Praha"
     }
   ]
 }

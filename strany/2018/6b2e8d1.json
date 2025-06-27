@@ -8,12 +8,6 @@
   "statutarni_organ": "Předsednictvo, jménem hnutí jedná jeho předseda.",
   "osoby": [
     {
-      "role": "předseda",
-      "jmeno": "Jiří Tlamka",
-      "datum_narozeni": "1985-11-01",
-      "adresa": "Prušánecká 4173/14, 628 00 Brno"
-    },
-    {
       "role": "místopředseda",
       "jmeno": "MUDr. Pavel Horský",
       "datum_narozeni": "1956-06-13",
@@ -23,6 +17,12 @@
       "role": "místopředseda",
       "jmeno": "Miloslav Klaus",
       "datum_narozeni": "1963-04-29",
+      "adresa": "Prušánecká 4173/14, 628 00 Brno"
+    },
+    {
+      "role": "předseda",
+      "jmeno": "Jiří Tlamka",
+      "datum_narozeni": "1985-11-01",
       "adresa": "Prušánecká 4173/14, 628 00 Brno"
     }
   ]

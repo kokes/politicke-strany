@@ -8,16 +8,10 @@
   "statutarni_organ": "Představenstvo, jehož jménem jedná předseda samostatně nebo dva místopředsedové společně.",
   "osoby": [
     {
-      "role": "předseda",
-      "jmeno": "Mgr. Radek Mráz, MBA",
-      "datum_narozeni": "1983-03-02",
-      "adresa": "Slupská 1296/6, 323 00 Plzeň"
-    },
-    {
-      "role": "místopředseda",
-      "jmeno": "Ing. Tomáš Morávek",
-      "datum_narozeni": "1991-02-13",
-      "adresa": "Brněnská 988/33, 323 00 Plzeň"
+      "role": "člen",
+      "jmeno": "Ing. Tomáš  Kotora",
+      "datum_narozeni": "1966-03-04",
+      "adresa": "Kleisslova 225/1, 301 00 Plzeň"
     },
     {
       "role": "člen",
@@ -33,21 +27,21 @@
     },
     {
       "role": "člen",
-      "jmeno": "Roman Andrlík",
-      "datum_narozeni": "1967-09-17",
-      "adresa": "Sladovnická 501/33, 326 00 Plzeň"
-    },
-    {
-      "role": "člen",
       "jmeno": "Michael Sinkule",
       "datum_narozeni": "1984-12-15",
       "adresa": "Pecháčkova 964/27, 318 00 Plzeň"
     },
     {
       "role": "člen",
-      "jmeno": "Ing. Tomáš  Kotora",
-      "datum_narozeni": "1966-03-04",
-      "adresa": "Kleisslova 225/1, 301 00 Plzeň"
+      "jmeno": "Roman Andrlík",
+      "datum_narozeni": "1967-09-17",
+      "adresa": "Sladovnická 501/33, 326 00 Plzeň"
+    },
+    {
+      "role": "členka",
+      "jmeno": "Ing. Lucie Peroutková",
+      "datum_narozeni": "1989-10-09",
+      "adresa": "Bezinková 434/20, 312 00 Plzeň"
     },
     {
       "role": "členka",
@@ -56,10 +50,16 @@
       "adresa": "Na Úhoru 450/14, 318 00 Plzeň"
     },
     {
-      "role": "členka",
-      "jmeno": "Ing. Lucie Peroutková",
-      "datum_narozeni": "1989-10-09",
-      "adresa": "Bezinková 434/20, 312 00 Plzeň"
+      "role": "místopředseda",
+      "jmeno": "Ing. Tomáš Morávek",
+      "datum_narozeni": "1991-02-13",
+      "adresa": "Brněnská 988/33, 323 00 Plzeň"
+    },
+    {
+      "role": "předseda",
+      "jmeno": "Mgr. Radek Mráz, MBA",
+      "datum_narozeni": "1983-03-02",
+      "adresa": "Slupská 1296/6, 323 00 Plzeň"
     }
   ]
 }

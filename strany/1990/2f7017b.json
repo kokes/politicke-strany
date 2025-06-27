@@ -8,16 +8,16 @@
   "statutarni_organ": "Předsednictvo, za které jedná předseda a tajemník.",
   "osoby": [
     {
-      "role": "předseda",
-      "jmeno": "David  Kocour",
-      "datum_narozeni": "1974-04-06",
-      "adresa": "539 42 Svratouch 97"
-    },
-    {
       "role": "místopředseda",
       "jmeno": "Alena Mucková",
       "datum_narozeni": "1956-03-17",
       "adresa": "M. Chlajna 1279/3, 370 05 České Budějovice"
+    },
+    {
+      "role": "předseda",
+      "jmeno": "David  Kocour",
+      "datum_narozeni": "1974-04-06",
+      "adresa": "539 42 Svratouch 97"
     },
     {
       "role": "tajemník",

@@ -8,6 +8,12 @@
   "statutarni_organ": "Předsednictvo, za které jedná předseda.",
   "osoby": [
     {
+      "role": "místopředseda",
+      "jmeno": "Ota Dračka",
+      "datum_narozeni": "1955-01-23",
+      "adresa": "Pod vyhlídkou 447, 407 22 Benešov nad Ploučnicí"
+    },
+    {
       "role": "předseda",
       "jmeno": "Mgr. David Tygr Ploc MBA",
       "datum_narozeni": "1973-07-21",
@@ -18,12 +24,6 @@
       "jmeno": "Michaela Teyrovská",
       "datum_narozeni": "1968-07-02",
       "adresa": "Sarajevská 1051/10, 120 00 Praha"
-    },
-    {
-      "role": "místopředseda",
-      "jmeno": "Ota Dračka",
-      "datum_narozeni": "1955-01-23",
-      "adresa": "Pod vyhlídkou 447, 407 22 Benešov nad Ploučnicí"
     }
   ]
 }

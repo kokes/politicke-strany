@@ -8,10 +8,10 @@
   "statutarni_organ": "Výbor, za který jedná samostatně předseda nebo místopředseda, písemné úkony činí vždy společně předseda a 1 člen výboru.",
   "osoby": [
     {
-      "role": "předseda",
-      "jmeno": "Bc. Naděžda Kubalová",
-      "datum_narozeni": "1958-02-10",
-      "adresa": "Doubravská 505, 735 14 Orlová"
+      "role": "člen",
+      "jmeno": "Ing. Miroslava Šromková",
+      "datum_narozeni": "1957-10-31",
+      "adresa": "Ke Studánce 354, 735 14 Orlová"
     },
     {
       "role": "místopředsedkyně",
@@ -20,10 +20,10 @@
       "adresa": "U Kapličky 967, 735 14 Orlová"
     },
     {
-      "role": "člen",
-      "jmeno": "Ing. Miroslava Šromková",
-      "datum_narozeni": "1957-10-31",
-      "adresa": "Ke Studánce 354, 735 14 Orlová"
+      "role": "předseda",
+      "jmeno": "Bc. Naděžda Kubalová",
+      "datum_narozeni": "1958-02-10",
+      "adresa": "Doubravská 505, 735 14 Orlová"
     }
   ]
 }

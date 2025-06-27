@@ -8,16 +8,16 @@
   "statutarni_organ": "Předsednictvo republikové rady, za které vždy jednají společně dva jeho členové, z nichž alespoň jeden je předseda nebo místopředseda strany a druhý je členem předsednictva republikové rady.",
   "osoby": [
     {
-      "role": "předseda",
-      "jmeno": "Jiří Heller",
-      "datum_narozeni": "1977-11-07",
-      "adresa": "Ve Smečkách 2091/24, 110 00 Praha"
-    },
-    {
       "role": "místopředsedkyně",
       "jmeno": "Barbora Beníšková",
       "datum_narozeni": "1985-12-09",
       "adresa": "Mládeže 1375/7, 169 00 Praha"
+    },
+    {
+      "role": "předseda",
+      "jmeno": "Jiří Heller",
+      "datum_narozeni": "1977-11-07",
+      "adresa": "Ve Smečkách 2091/24, 110 00 Praha"
     }
   ]
 }

@@ -8,12 +8,6 @@
   "statutarni_organ": "Předsednictvo, za které jedná samostatně předseda či kterýkoli z místopředsedů nebo předsednictvo společně.",
   "osoby": [
     {
-      "role": "předseda",
-      "jmeno": "Petr Hrdý",
-      "datum_narozeni": "1973-08-07",
-      "adresa": "Jana Přibíka 950/9, 190 00 Praha"
-    },
-    {
       "role": "1. místopředseda",
       "jmeno": "Daniel Chlad",
       "datum_narozeni": "1972-06-28",
@@ -24,6 +18,12 @@
       "jmeno": "Mgr. Michal Truhlář",
       "datum_narozeni": "1984-09-18",
       "adresa": "Květinová 1685, 691 23 Pohořelice"
+    },
+    {
+      "role": "předseda",
+      "jmeno": "Petr Hrdý",
+      "datum_narozeni": "1973-08-07",
+      "adresa": "Jana Přibíka 950/9, 190 00 Praha"
     }
   ]
 }

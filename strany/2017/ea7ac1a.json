@@ -8,16 +8,16 @@
   "statutarni_organ": "Předseda a místopředseda, každý jedná za hnutí samostatně.",
   "osoby": [
     {
-      "role": "předseda",
-      "jmeno": "Ing. Zdeněk Michl",
-      "datum_narozeni": "1979-09-08",
-      "adresa": "Dittrichova 328/19, 120 00 Praha"
-    },
-    {
       "role": "místopředseda",
       "jmeno": "Ing. Martin Jírovec",
       "datum_narozeni": "1968-12-17",
       "adresa": "Na Libušince 128/1, 128 00 Praha"
+    },
+    {
+      "role": "předseda",
+      "jmeno": "Ing. Zdeněk Michl",
+      "datum_narozeni": "1979-09-08",
+      "adresa": "Dittrichova 328/19, 120 00 Praha"
     }
   ]
 }

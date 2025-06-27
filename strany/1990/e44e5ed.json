@@ -8,12 +8,6 @@
   "statutarni_organ": "Tříčlenný ústřední výbor, za který jedná předseda.",
   "osoby": [
     {
-      "role": "předseda",
-      "jmeno": "Josef Žrout",
-      "datum_narozeni": "1932-01-12",
-      "adresa": "Drnovská 62, 160 00 Praha"
-    },
-    {
       "role": "člen",
       "jmeno": "Alena  Kabeláková",
       "datum_narozeni": "1962-03-19",
@@ -24,6 +18,12 @@
       "jmeno": "Petra Kneditová",
       "datum_narozeni": "1981-09-23",
       "adresa": "Drnovská 62, 160 00 Praha 6"
+    },
+    {
+      "role": "předseda",
+      "jmeno": "Josef Žrout",
+      "datum_narozeni": "1932-01-12",
+      "adresa": "Drnovská 62, 160 00 Praha"
     }
   ]
 }

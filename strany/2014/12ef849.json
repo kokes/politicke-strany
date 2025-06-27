@@ -8,10 +8,10 @@
   "statutarni_organ": "Republiková rada, za kterou jedná předseda společně s místopředsedou nebo předseda společně s jiným členem republikové rady.",
   "osoby": [
     {
-      "role": "předseda",
-      "jmeno": "Jiří Krupa",
-      "datum_narozeni": "1975-12-20",
-      "adresa": "Horní 1562/9, 792 01 Bruntál"
+      "role": "členka",
+      "jmeno": "Ludmila Hajná",
+      "datum_narozeni": "1976-03-27",
+      "adresa": "Wolkerova 574/17, 792 01 Bruntál"
     },
     {
       "role": "místopředsedkyně",
@@ -20,10 +20,10 @@
       "adresa": "Horní 1562/9, 792 01 Bruntál"
     },
     {
-      "role": "členka",
-      "jmeno": "Ludmila Hajná",
-      "datum_narozeni": "1976-03-27",
-      "adresa": "Wolkerova 574/17, 792 01 Bruntál"
+      "role": "předseda",
+      "jmeno": "Jiří Krupa",
+      "datum_narozeni": "1975-12-20",
+      "adresa": "Horní 1562/9, 792 01 Bruntál"
     }
   ]
 }

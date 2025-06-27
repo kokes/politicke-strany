@@ -8,16 +8,16 @@
   "statutarni_organ": "Republiková rada, za kterou jedná předseda.",
   "osoby": [
     {
-      "role": "předseda",
-      "jmeno": "Petr  Czasch",
-      "datum_narozeni": "1960-08-09",
-      "adresa": "793 26 Karlovice 19"
-    },
-    {
       "role": "místopředseda",
       "jmeno": "Ph.D. Jiří Polák",
       "datum_narozeni": "1933-05-23",
       "adresa": "Assarhusavägen 64, S-247 36, S. Sandby, Sweden"
+    },
+    {
+      "role": "předseda",
+      "jmeno": "Petr  Czasch",
+      "datum_narozeni": "1960-08-09",
+      "adresa": "793 26 Karlovice 19"
     }
   ]
 }

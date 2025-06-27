@@ -8,16 +8,16 @@
   "statutarni_organ": "Předseda strany a místopředseda pro řízení, kteří jednají samostatně.",
   "osoby": [
     {
-      "role": "předseda",
-      "jmeno": "Ing. Jiří Rudolf",
-      "datum_narozeni": "1972-03-04",
-      "adresa": "Husitská 372/20, 779 00 Olomouc"
-    },
-    {
       "role": "místopředseda pro řízení",
       "jmeno": "Dita Palaščáková",
       "datum_narozeni": "1980-04-24",
       "adresa": "Rokycanova 781/13, 772 00 Olomouc"
+    },
+    {
+      "role": "předseda",
+      "jmeno": "Ing. Jiří Rudolf",
+      "datum_narozeni": "1972-03-04",
+      "adresa": "Husitská 372/20, 779 00 Olomouc"
     }
   ]
 }

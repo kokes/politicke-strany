@@ -8,10 +8,10 @@
   "statutarni_organ": "Republikový výbor, za který vždy dva členové republikového výboru společně, z nichž jeden je předseda nebo místopředseda.",
   "osoby": [
     {
-      "role": "předseda NH",
-      "jmeno": "Stanislav Brázda",
-      "datum_narozeni": "1948-05-30",
-      "adresa": "Běhounkova 2344/27, 158 00 Praha"
+      "role": "člen RVNH",
+      "jmeno": "Kateřina Kocevová",
+      "datum_narozeni": "1974-09-22",
+      "adresa": "Emilie Hyblerové 528/4, 149 00 Praha"
     },
     {
       "role": "místopředseda NH",
@@ -20,10 +20,10 @@
       "adresa": "Gorkého 658/15, 460 01 Liberec"
     },
     {
-      "role": "člen RVNH",
-      "jmeno": "Kateřina Kocevová",
-      "datum_narozeni": "1974-09-22",
-      "adresa": "Emilie Hyblerové 528/4, 149 00 Praha"
+      "role": "předseda NH",
+      "jmeno": "Stanislav Brázda",
+      "datum_narozeni": "1948-05-30",
+      "adresa": "Běhounkova 2344/27, 158 00 Praha"
     }
   ]
 }

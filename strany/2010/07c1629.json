@@ -8,12 +8,6 @@
   "statutarni_organ": "Předseda a místopředsedové, kteří jednají samostatně.",
   "osoby": [
     {
-      "role": "předseda",
-      "jmeno": "Ing. Pavel Mužný",
-      "datum_narozeni": "1952-04-26",
-      "adresa": "Balbínova 364/17, 779 00 Olomouc"
-    },
-    {
       "role": "1. místopředseda",
       "jmeno": "",
       "adresa": ""
@@ -22,6 +16,12 @@
       "role": "2. místopředseda",
       "jmeno": "",
       "adresa": ""
+    },
+    {
+      "role": "předseda",
+      "jmeno": "Ing. Pavel Mužný",
+      "datum_narozeni": "1952-04-26",
+      "adresa": "Balbínova 364/17, 779 00 Olomouc"
     }
   ]
 }

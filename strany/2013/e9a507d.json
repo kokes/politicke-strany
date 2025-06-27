@@ -8,10 +8,10 @@
   "statutarni_organ": "představenstvo, za které jednají samostatně předseda a místopředseda",
   "osoby": [
     {
-      "role": "předseda",
-      "jmeno": "Ing. Čestmír Vančura",
-      "datum_narozeni": "1953-12-23",
-      "adresa": "Obeciny VIII 3609, 760 01 Zlín"
+      "role": "člen",
+      "jmeno": "Ing. Tomáš Dudák",
+      "datum_narozeni": "1976-07-05",
+      "adresa": "třída Tomáše Bati 3119, 760 01 Zlín"
     },
     {
       "role": "místopředseda",
@@ -20,10 +20,10 @@
       "adresa": "Zborovská 4140, 760 01 Zlín"
     },
     {
-      "role": "člen",
-      "jmeno": "Ing. Tomáš Dudák",
-      "datum_narozeni": "1976-07-05",
-      "adresa": "třída Tomáše Bati 3119, 760 01 Zlín"
+      "role": "předseda",
+      "jmeno": "Ing. Čestmír Vančura",
+      "datum_narozeni": "1953-12-23",
+      "adresa": "Obeciny VIII 3609, 760 01 Zlín"
     }
   ]
 }

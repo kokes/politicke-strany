@@ -8,11 +8,6 @@
   "statutarni_organ": "Celostátní rada, za kterou jedná předseda.",
   "osoby": [
     {
-      "role": "předseda",
-      "jmeno": "",
-      "adresa": ""
-    },
-    {
       "role": "člen",
       "jmeno": "Ing. Libor  Witassek",
       "datum_narozeni": "1969-05-15",
@@ -23,6 +18,11 @@
       "jmeno": "Ing. achr. Jan Horký",
       "datum_narozeni": "1983-11-17",
       "adresa": "Boženy Němcové 1541/5, 750 02 Přerov"
+    },
+    {
+      "role": "předseda",
+      "jmeno": "",
+      "adresa": ""
     }
   ]
 }

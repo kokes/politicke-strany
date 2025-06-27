@@ -8,17 +8,17 @@
   "statutarni_organ": "Předsednictvo, za které jedná předseda a právní úkony a listiny s ním spolupodpisuje alespoň jeden člen předsednictva.",
   "osoby": [
     {
+      "role": "místopředseda",
+      "jmeno": "",
+      "adresa": ""
+    },
+    {
+      "role": "místopředseda",
+      "jmeno": "",
+      "adresa": ""
+    },
+    {
       "role": "předseda",
-      "jmeno": "",
-      "adresa": ""
-    },
-    {
-      "role": "místopředseda",
-      "jmeno": "",
-      "adresa": ""
-    },
-    {
-      "role": "místopředseda",
       "jmeno": "",
       "adresa": ""
     }

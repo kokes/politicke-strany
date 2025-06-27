@@ -8,16 +8,16 @@
   "statutarni_organ": "Předseda a místopředseda, kteří jednají každý samostatně.",
   "osoby": [
     {
-      "role": "předsedkyně",
-      "jmeno": "JUDr. Lenka Vančatová",
-      "datum_narozeni": "1959-08-03",
-      "adresa": "Lohniského 853/8, 152 00 Praha"
-    },
-    {
       "role": "místopředseda",
       "jmeno": "Karel Vítek",
       "datum_narozeni": "1961-10-12",
       "adresa": "Borovanského 2377/14, 155 00 Praha"
+    },
+    {
+      "role": "předsedkyně",
+      "jmeno": "JUDr. Lenka Vančatová",
+      "datum_narozeni": "1959-08-03",
+      "adresa": "Lohniského 853/8, 152 00 Praha"
     }
   ]
 }

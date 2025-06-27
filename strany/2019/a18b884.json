@@ -8,10 +8,10 @@
   "statutarni_organ": "Předsednictvo, jehož jménem jedná předseda nebo dva místopředsedové společně.",
   "osoby": [
     {
-      "role": "předseda",
-      "jmeno": "Petr Kováč",
-      "datum_narozeni": "1973-03-23",
-      "adresa": "Husova 165/5, 602 00 Brno"
+      "role": "místopředseda",
+      "jmeno": "Lukáš Dvořák",
+      "datum_narozeni": "1995-03-13",
+      "adresa": "Havlíčkovo náměstí 663, 679 06 Jedovnice"
     },
     {
       "role": "místopředsedkyně",
@@ -19,10 +19,10 @@
       "adresa": ""
     },
     {
-      "role": "místopředseda",
-      "jmeno": "Lukáš Dvořák",
-      "datum_narozeni": "1995-03-13",
-      "adresa": "Havlíčkovo náměstí 663, 679 06 Jedovnice"
+      "role": "předseda",
+      "jmeno": "Petr Kováč",
+      "datum_narozeni": "1973-03-23",
+      "adresa": "Husova 165/5, 602 00 Brno"
     }
   ]
 }

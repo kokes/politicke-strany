@@ -8,10 +8,25 @@
   "statutarni_organ": "Republiková rada, za kterou jedná vždy společně dvě členky/členové, z nichž alespoň jedna/jeden je předsedkyní/předsedou nebo místopředsedkyní/místopředsedou strany a druhá/druhý je členkou/členem republikové rady.",
   "osoby": [
     {
-      "role": "předseda",
-      "jmeno": "Zdenka Ulmannová",
-      "datum_narozeni": "1954-10-30",
-      "adresa": "Dolákova 528/34, 181 00 Praha"
+      "role": "členka",
+      "jmeno": "Darina Neméthová",
+      "datum_narozeni": "1954-06-12",
+      "adresa": "Truhlářská 1489/29, 110 00 Praha"
+    },
+    {
+      "role": "členka",
+      "jmeno": "Iveta Burgetová",
+      "adresa": "/, /"
+    },
+    {
+      "role": "členka",
+      "jmeno": "Lada Sitová",
+      "adresa": "/, /"
+    },
+    {
+      "role": "členka",
+      "jmeno": "Marika Kňavová",
+      "adresa": "/, /"
     },
     {
       "role": "místopředsedkyně",
@@ -26,25 +41,10 @@
       "adresa": "Novodvorská 415/139, 142 00 Praha"
     },
     {
-      "role": "členka",
-      "jmeno": "Iveta Burgetová",
-      "adresa": "/, /"
-    },
-    {
-      "role": "členka",
-      "jmeno": "Marika Kňavová",
-      "adresa": "/, /"
-    },
-    {
-      "role": "členka",
-      "jmeno": "Darina Neméthová",
-      "datum_narozeni": "1954-06-12",
-      "adresa": "Truhlářská 1489/29, 110 00 Praha"
-    },
-    {
-      "role": "členka",
-      "jmeno": "Lada Sitová",
-      "adresa": "/, /"
+      "role": "předseda",
+      "jmeno": "Zdenka Ulmannová",
+      "datum_narozeni": "1954-10-30",
+      "adresa": "Dolákova 528/34, 181 00 Praha"
     }
   ]
 }

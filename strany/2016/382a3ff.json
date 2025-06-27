@@ -8,6 +8,12 @@
   "statutarni_organ": "Předsednictvo Ústředního výboru, za které jedná generální tajemník.",
   "osoby": [
     {
+      "role": "člen",
+      "jmeno": "David Berger",
+      "datum_narozeni": "1977-08-23",
+      "adresa": "Františka Lýska 1608/9, 700 30 Ostrava"
+    },
+    {
       "role": "generální tajemník",
       "jmeno": "Ing. Iva Kalinová",
       "datum_narozeni": "1946-03-14",
@@ -18,12 +24,6 @@
       "jmeno": "Zdeněk Jakš",
       "datum_narozeni": "1948-11-25",
       "adresa": "Ratibořská 1438/49, 747 05 Opava"
-    },
-    {
-      "role": "člen",
-      "jmeno": "David Berger",
-      "datum_narozeni": "1977-08-23",
-      "adresa": "Františka Lýska 1608/9, 700 30 Ostrava"
     }
   ]
 }

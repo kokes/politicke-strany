@@ -8,46 +8,16 @@
   "statutarni_organ": "Předsednictvo, za které jedná předseda, v době jeho nepřítomnosti první místopředseda strany, popř. další předsedou nebo v době jeho nepřítomnosti prvním místopředsedou pověřený člen předsednictva.",
   "osoby": [
     {
-      "role": "předseda",
-      "jmeno": "prof. PhDr. Petr Fiala, Ph.D., LL.M.",
-      "datum_narozeni": "1964-09-01",
-      "adresa": "Jugoslávská 684/130, 613 00 Brno"
-    },
-    {
       "role": "1. místopředseda",
       "jmeno": "Ing. Zbyněk  Stanjura",
       "datum_narozeni": "1964-02-15",
       "adresa": "Horní 421/3A, 747 05 Opava"
     },
     {
-      "role": "předseda senátorského klubu",
-      "jmeno": "Ing. Zdeněk Nytra",
-      "datum_narozeni": "1961-10-06",
-      "adresa": "Na Prádle 3347/2, 702 00 Ostrava"
-    },
-    {
-      "role": "předseda poslaneckého klubu",
-      "jmeno": "Marek Benda",
-      "datum_narozeni": "1968-11-10",
-      "adresa": "Vlastislavova 605/20, 140 00 Praha"
-    },
-    {
-      "role": "předsedkyně klubu poslanců EP",
-      "jmeno": "Veronika Vrecionová",
-      "datum_narozeni": "1965-09-08",
-      "adresa": "Dolní náves 21, 250 73 Přezletice"
-    },
-    {
-      "role": "místopředsedkyně",
-      "jmeno": "Eva Decroix",
-      "datum_narozeni": "1982-05-26",
-      "adresa": "Jiráskova 2159/25, 586 01 Jihlava"
-    },
-    {
       "role": "místopředseda",
-      "jmeno": "RNDr. Alexandr  Vondra",
-      "datum_narozeni": "1961-08-17",
-      "adresa": "Máchova 169/8, 412 01 Litoměřice"
+      "jmeno": "Mgr. Martin  Baxa",
+      "datum_narozeni": "1975-09-16",
+      "adresa": "Višňová 121/5, 301 00 Plzeň"
     },
     {
       "role": "místopředseda",
@@ -57,9 +27,39 @@
     },
     {
       "role": "místopředseda",
-      "jmeno": "Mgr. Martin  Baxa",
-      "datum_narozeni": "1975-09-16",
-      "adresa": "Višňová 121/5, 301 00 Plzeň"
+      "jmeno": "RNDr. Alexandr  Vondra",
+      "datum_narozeni": "1961-08-17",
+      "adresa": "Máchova 169/8, 412 01 Litoměřice"
+    },
+    {
+      "role": "místopředsedkyně",
+      "jmeno": "Eva Decroix",
+      "datum_narozeni": "1982-05-26",
+      "adresa": "Jiráskova 2159/25, 586 01 Jihlava"
+    },
+    {
+      "role": "předseda poslaneckého klubu",
+      "jmeno": "Marek Benda",
+      "datum_narozeni": "1968-11-10",
+      "adresa": "Vlastislavova 605/20, 140 00 Praha"
+    },
+    {
+      "role": "předseda senátorského klubu",
+      "jmeno": "Ing. Zdeněk Nytra",
+      "datum_narozeni": "1961-10-06",
+      "adresa": "Na Prádle 3347/2, 702 00 Ostrava"
+    },
+    {
+      "role": "předseda",
+      "jmeno": "prof. PhDr. Petr Fiala, Ph.D., LL.M.",
+      "datum_narozeni": "1964-09-01",
+      "adresa": "Jugoslávská 684/130, 613 00 Brno"
+    },
+    {
+      "role": "předsedkyně klubu poslanců EP",
+      "jmeno": "Veronika Vrecionová",
+      "datum_narozeni": "1965-09-08",
+      "adresa": "Dolní náves 21, 250 73 Přezletice"
     }
   ]
 }

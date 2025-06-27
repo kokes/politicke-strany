@@ -8,12 +8,6 @@
   "statutarni_organ": "Předsednictvo, za které jedná předseda.",
   "osoby": [
     {
-      "role": "předseda",
-      "jmeno": "Ing. Tomáš  Raždík",
-      "datum_narozeni": "1982-01-26",
-      "adresa": "Lumírova 489/11, 700 30 Ostrava"
-    },
-    {
       "role": "1.místopředsedkyně",
       "jmeno": "Ing. Mgr. Pynelopi  Cimprichová",
       "datum_narozeni": "1958-09-27",
@@ -24,6 +18,12 @@
       "jmeno": "Jiří Fojtík",
       "datum_narozeni": "1985-03-19",
       "adresa": "742 74 Tichá 48"
+    },
+    {
+      "role": "předseda",
+      "jmeno": "Ing. Tomáš  Raždík",
+      "datum_narozeni": "1982-01-26",
+      "adresa": "Lumírova 489/11, 700 30 Ostrava"
     }
   ]
 }

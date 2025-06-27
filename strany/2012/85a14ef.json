@@ -8,12 +8,6 @@
   "statutarni_organ": "Předsednictvo. Za hnutí jedná předseda nebo 1. místopředseda samostatně.",
   "osoby": [
     {
-      "role": "předseda",
-      "jmeno": "Jaroslav Nedvěd",
-      "datum_narozeni": "1971-09-15",
-      "adresa": "Plzeňská 441/207, 150 00 Praha"
-    },
-    {
       "role": "1. místopředseda",
       "jmeno": "Jan Kuchař",
       "datum_narozeni": "1974-05-18",
@@ -27,15 +21,21 @@
     },
     {
       "role": "členka",
+      "jmeno": "Eva Pitrová",
+      "datum_narozeni": "1973-04-23",
+      "adresa": "Hoškova 1110/6, 158 00 Praha"
+    },
+    {
+      "role": "členka",
       "jmeno": "Mgr. Diana Bubníková",
       "datum_narozeni": "1969-02-10",
       "adresa": "Pivcova 956/6, 152 00 Praha"
     },
     {
-      "role": "členka",
-      "jmeno": "Eva Pitrová",
-      "datum_narozeni": "1973-04-23",
-      "adresa": "Hoškova 1110/6, 158 00 Praha"
+      "role": "předseda",
+      "jmeno": "Jaroslav Nedvěd",
+      "datum_narozeni": "1971-09-15",
+      "adresa": "Plzeňská 441/207, 150 00 Praha"
     }
   ]
 }

@@ -8,22 +8,10 @@
   "statutarni_organ": "Předsednictvo, za které jedná samostatně předseda nebo první místopředseda.",
   "osoby": [
     {
-      "role": "předseda",
-      "jmeno": "Michal Babák",
-      "datum_narozeni": "1975-06-27",
-      "adresa": "Češkovice 238, 678 01 Blansko"
-    },
-    {
       "role": "1. místopředseda",
       "jmeno": "Bohuslav Jedinák",
       "datum_narozeni": "1971-03-05",
       "adresa": "678 01 Blansko 37"
-    },
-    {
-      "role": "místopředsedkyně",
-      "jmeno": "Radka Sitarová",
-      "datum_narozeni": "1981-04-13",
-      "adresa": "Dvorská 1844/48, 678 01 Blansko"
     },
     {
       "role": "místopředseda",
@@ -48,6 +36,18 @@
       "jmeno": "Zdeněk Renc",
       "datum_narozeni": "1947-04-23",
       "adresa": "Keramiků 2618, 269 01 Rakovník"
+    },
+    {
+      "role": "místopředsedkyně",
+      "jmeno": "Radka Sitarová",
+      "datum_narozeni": "1981-04-13",
+      "adresa": "Dvorská 1844/48, 678 01 Blansko"
+    },
+    {
+      "role": "předseda",
+      "jmeno": "Michal Babák",
+      "datum_narozeni": "1975-06-27",
+      "adresa": "Češkovice 238, 678 01 Blansko"
     }
   ]
 }

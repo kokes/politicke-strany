@@ -8,16 +8,16 @@
   "statutarni_organ": "Republiková rada, za kterou jedná předseda, v případě jeho nepřítomnosti staturární místopředseda.",
   "osoby": [
     {
-      "role": "předseda",
-      "jmeno": "František Voháňka",
-      "datum_narozeni": "1955-05-22",
-      "adresa": "Rakouské domy 526, 417 23 Košťany"
-    },
-    {
       "role": "člen RR",
       "jmeno": "Pavel Papež",
       "datum_narozeni": "1955-12-05",
       "adresa": "Nemocniční 1156/16, 407 46 Krásná Lípa"
+    },
+    {
+      "role": "předseda",
+      "jmeno": "František Voháňka",
+      "datum_narozeni": "1955-05-22",
+      "adresa": "Rakouské domy 526, 417 23 Košťany"
     }
   ]
 }

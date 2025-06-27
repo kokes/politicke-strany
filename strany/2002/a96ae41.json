@@ -8,18 +8,6 @@
   "statutarni_organ": "Předsednictvo strany, za které jedná předseda nebo dva členové předsednictva.",
   "osoby": [
     {
-      "role": "předseda",
-      "jmeno": "Pavel Krešne",
-      "datum_narozeni": "1967-06-19",
-      "adresa": "Šachetní 2541, 272 01 Kladno"
-    },
-    {
-      "role": "místopředseda",
-      "jmeno": "Jiří Lebeda",
-      "datum_narozeni": "1977-09-01",
-      "adresa": "Lázeňská 89/15, 250 01 Brandýs nad Labem-Stará Boleslav"
-    },
-    {
       "role": "člen",
       "jmeno": "Jan  Kerula",
       "datum_narozeni": "1973-09-19",
@@ -30,6 +18,18 @@
       "jmeno": "Ivana  Červenková",
       "datum_narozeni": "1980-03-04",
       "adresa": "náměstí starosty Pavla 44, 272 01 Kladno"
+    },
+    {
+      "role": "místopředseda",
+      "jmeno": "Jiří Lebeda",
+      "datum_narozeni": "1977-09-01",
+      "adresa": "Lázeňská 89/15, 250 01 Brandýs nad Labem-Stará Boleslav"
+    },
+    {
+      "role": "předseda",
+      "jmeno": "Pavel Krešne",
+      "datum_narozeni": "1967-06-19",
+      "adresa": "Šachetní 2541, 272 01 Kladno"
     }
   ]
 }

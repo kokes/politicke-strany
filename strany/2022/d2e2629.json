@@ -8,16 +8,16 @@
   "statutarni_organ": "Předseda.",
   "osoby": [
     {
-      "role": "předseda",
-      "jmeno": "Jakub Andrys",
-      "datum_narozeni": "1987-08-06",
-      "adresa": "Jaroměřská 75/12, 500 03 Hradec Králové"
-    },
-    {
       "role": "místopředseda",
       "jmeno": "Jiří Tuček",
       "datum_narozeni": "1985-05-19",
       "adresa": "Na Valince 24/2, 500 03 Hradec Králové"
+    },
+    {
+      "role": "předseda",
+      "jmeno": "Jakub Andrys",
+      "datum_narozeni": "1987-08-06",
+      "adresa": "Jaroměřská 75/12, 500 03 Hradec Králové"
     },
     {
       "role": "tajemník",

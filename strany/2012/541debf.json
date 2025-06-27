@@ -8,12 +8,6 @@
   "statutarni_organ": "Řídící rada, za kterou jedná předseda.",
   "osoby": [
     {
-      "role": "předsedkyně",
-      "jmeno": "Mgr. Eva Štauderová",
-      "datum_narozeni": "1972-03-08",
-      "adresa": "Přílucká 4121, 760 01 Zlín"
-    },
-    {
       "role": "1.místopředsedkyně",
       "jmeno": "Bc. Jiřina  Gajdošíková",
       "datum_narozeni": "1972-04-20",
@@ -24,6 +18,12 @@
       "jmeno": "Miroslav Rafaja",
       "datum_narozeni": "1970-08-30",
       "adresa": "763 11 Zlín 57"
+    },
+    {
+      "role": "předsedkyně",
+      "jmeno": "Mgr. Eva Štauderová",
+      "datum_narozeni": "1972-03-08",
+      "adresa": "Přílucká 4121, 760 01 Zlín"
     }
   ]
 }

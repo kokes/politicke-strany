@@ -8,16 +8,16 @@
   "statutarni_organ": "Předsednictvo, za které jedná samostatně předseda nebo dva místopředsedové společně.",
   "osoby": [
     {
-      "role": "předseda",
-      "jmeno": "Boleslav Buzek",
-      "datum_narozeni": "1970-05-01",
-      "adresa": "739 11 Frýdlant nad Ostravicí 466"
-    },
-    {
       "role": "místopředseda",
       "jmeno": "Martin Baroch",
       "datum_narozeni": "1972-02-02",
       "adresa": "Vašíčkova 645, 272 04 Kladno"
+    },
+    {
+      "role": "předseda",
+      "jmeno": "Boleslav Buzek",
+      "datum_narozeni": "1970-05-01",
+      "adresa": "739 11 Frýdlant nad Ostravicí 466"
     }
   ]
 }

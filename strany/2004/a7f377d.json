@@ -8,16 +8,16 @@
   "statutarni_organ": "Republikové předsednictvo, za které jedná předseda strany.",
   "osoby": [
     {
-      "role": "předseda",
-      "jmeno": "Jan Dorant",
-      "datum_narozeni": "1947-12-03",
-      "adresa": "Na Stráni 614/3, 400 01 Ústí nad Labem"
-    },
-    {
       "role": "místopředseda",
       "jmeno": "MUDr. Petr Látal",
       "datum_narozeni": "1949-07-04",
       "adresa": "Gen. Svobody 661/7, 674 01 Třebíč"
+    },
+    {
+      "role": "předseda",
+      "jmeno": "Jan Dorant",
+      "datum_narozeni": "1947-12-03",
+      "adresa": "Na Stráni 614/3, 400 01 Ústí nad Labem"
     }
   ]
 }

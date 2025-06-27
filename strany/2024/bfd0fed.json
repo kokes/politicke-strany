@@ -8,12 +8,6 @@
   "statutarni_organ": "Předsednictvo, za které jedná předseda.",
   "osoby": [
     {
-      "role": "předseda",
-      "jmeno": "Ing. Tomáš Havlíček",
-      "datum_narozeni": "1958-05-22",
-      "adresa": "Sídliště 408, 262 03 Nový Knín"
-    },
-    {
       "role": "člen předsednictva",
       "jmeno": "Petr Chmela",
       "datum_narozeni": "1988-05-02",
@@ -24,6 +18,12 @@
       "jmeno": "Lucie Chmelová",
       "datum_narozeni": "1985-11-16",
       "adresa": "Čs. armády 601/23, 160 00 Praha"
+    },
+    {
+      "role": "předseda",
+      "jmeno": "Ing. Tomáš Havlíček",
+      "datum_narozeni": "1958-05-22",
+      "adresa": "Sídliště 408, 262 03 Nový Knín"
     }
   ]
 }

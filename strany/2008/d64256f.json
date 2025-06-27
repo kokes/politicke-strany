@@ -8,16 +8,10 @@
   "statutarni_organ": "Rada hnutí, za kterou jednají dva její členové, z nichž alespoň jeden musí být předsedou či místopředsedou rady hnutí.",
   "osoby": [
     {
-      "role": "předseda",
-      "jmeno": "Dalibor Stach",
-      "datum_narozeni": "1971-12-02",
-      "adresa": "Brigádnická 1035, 363 01 Ostrov"
-    },
-    {
-      "role": "místopředseda",
-      "jmeno": "MUDr. Pavel Škapík",
-      "datum_narozeni": "1961-08-10",
-      "adresa": "Vítězná 548/77, 360 01 Karlovy Vary"
+      "role": "člen",
+      "jmeno": "MUDr. Jaroslav Žák",
+      "datum_narozeni": "1963-06-01",
+      "adresa": "Zámecký vrch 390/1, 360 01 Karlovy Vary"
     },
     {
       "role": "místopředseda",
@@ -26,10 +20,16 @@
       "adresa": "Tisová 158, 362 21 Nejdek"
     },
     {
-      "role": "člen",
-      "jmeno": "MUDr. Jaroslav Žák",
-      "datum_narozeni": "1963-06-01",
-      "adresa": "Zámecký vrch 390/1, 360 01 Karlovy Vary"
+      "role": "místopředseda",
+      "jmeno": "MUDr. Pavel Škapík",
+      "datum_narozeni": "1961-08-10",
+      "adresa": "Vítězná 548/77, 360 01 Karlovy Vary"
+    },
+    {
+      "role": "předseda",
+      "jmeno": "Dalibor Stach",
+      "datum_narozeni": "1971-12-02",
+      "adresa": "Brigádnická 1035, 363 01 Ostrov"
     }
   ]
 }

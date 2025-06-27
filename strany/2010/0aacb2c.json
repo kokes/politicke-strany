@@ -8,9 +8,9 @@
   "statutarni_organ": "Představenstvo, za které jednají dva mluvčí, a to každý samostatně.",
   "osoby": [
     {
-      "role": "mluvčí",
-      "jmeno": "Mgr. Pavel  Pacal",
-      "datum_narozeni": "1974-03-02",
+      "role": "člen",
+      "jmeno": "Ing. Jitka  Bínová",
+      "datum_narozeni": "1973-11-01",
       "adresa": "Obránců míru 489/20, 674 01 Třebíč"
     },
     {
@@ -20,9 +20,9 @@
       "adresa": "382 82 Benešov nad Černou 215"
     },
     {
-      "role": "člen",
-      "jmeno": "Ing. Jitka  Bínová",
-      "datum_narozeni": "1973-11-01",
+      "role": "mluvčí",
+      "jmeno": "Mgr. Pavel  Pacal",
+      "datum_narozeni": "1974-03-02",
       "adresa": "Obránců míru 489/20, 674 01 Třebíč"
     }
   ]

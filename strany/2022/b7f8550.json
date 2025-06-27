@@ -8,12 +8,6 @@
   "statutarni_organ": "Předsednictvo, za které jedná předseda.",
   "osoby": [
     {
-      "role": "předsedkyně",
-      "jmeno": "Marcela Nováčková",
-      "datum_narozeni": "1965-08-27",
-      "adresa": "Erno Košťála 958, 530 12 Pardubice"
-    },
-    {
       "role": "člen",
       "jmeno": "Otakar Janecký",
       "datum_narozeni": "1960-12-26",
@@ -24,6 +18,12 @@
       "jmeno": "Markéta Hujerová",
       "datum_narozeni": "1972-02-28",
       "adresa": "V Zátiší 1074, 530 12 Pardubice"
+    },
+    {
+      "role": "předsedkyně",
+      "jmeno": "Marcela Nováčková",
+      "datum_narozeni": "1965-08-27",
+      "adresa": "Erno Košťála 958, 530 12 Pardubice"
     }
   ]
 }

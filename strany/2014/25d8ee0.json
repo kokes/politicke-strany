@@ -8,16 +8,10 @@
   "statutarni_organ": "Předsednictvo, za které jedná předseda; v době nepřítomnosti předsedy zastupuje politické hnutí společně místopředseda a člen předsednictva, ve stanoveném rozsahu písemně pověřený předsedou.",
   "osoby": [
     {
-      "role": "předseda",
-      "jmeno": "Ing. Petr Kajnar",
-      "datum_narozeni": "1956-01-28",
-      "adresa": "Ivana Sekaniny 1803/13, 708 00 Ostrava"
-    },
-    {
       "role": "člen",
-      "jmeno": "Mgr. Michal Bayer",
-      "datum_narozeni": "1977-11-24",
-      "adresa": "Slavíčkova 2493/10, 702 00 Ostrava"
+      "jmeno": "Daniel Kaminský",
+      "datum_narozeni": "1965-10-26",
+      "adresa": "Alžírská 1515/5, 708 00 Ostrava"
     },
     {
       "role": "člen",
@@ -27,9 +21,9 @@
     },
     {
       "role": "člen",
-      "jmeno": "Daniel Kaminský",
-      "datum_narozeni": "1965-10-26",
-      "adresa": "Alžírská 1515/5, 708 00 Ostrava"
+      "jmeno": "Marek Pabjan",
+      "datum_narozeni": "1976-10-26",
+      "adresa": "Chalupníkova 1137/54, 700 30 Ostrava"
     },
     {
       "role": "člen",
@@ -39,15 +33,21 @@
     },
     {
       "role": "člen",
-      "jmeno": "Marek Pabjan",
-      "datum_narozeni": "1976-10-26",
-      "adresa": "Chalupníkova 1137/54, 700 30 Ostrava"
+      "jmeno": "Mgr. Michal Bayer",
+      "datum_narozeni": "1977-11-24",
+      "adresa": "Slavíčkova 2493/10, 702 00 Ostrava"
     },
     {
       "role": "členka",
       "jmeno": "Bc. Věra  Racková",
       "datum_narozeni": "1952-05-30",
       "adresa": "Vítkovická 3079/12, 702 00 Ostrava"
+    },
+    {
+      "role": "předseda",
+      "jmeno": "Ing. Petr Kajnar",
+      "datum_narozeni": "1956-01-28",
+      "adresa": "Ivana Sekaniny 1803/13, 708 00 Ostrava"
     }
   ]
 }

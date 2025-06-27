@@ -9,9 +9,9 @@
   "osoby": [
     {
       "role": "člen",
-      "jmeno": "Jana Vaňková",
-      "datum_narozeni": "1951-09-17",
-      "adresa": "Doubravická 1303/6, 149 00 Praha"
+      "jmeno": "Bohumil Veselý",
+      "datum_narozeni": "1950-11-27",
+      "adresa": "286 01 Čejkovice 35"
     },
     {
       "role": "člen",
@@ -21,9 +21,9 @@
     },
     {
       "role": "člen",
-      "jmeno": "Bohumil Veselý",
-      "datum_narozeni": "1950-11-27",
-      "adresa": "286 01 Čejkovice 35"
+      "jmeno": "Jana Vaňková",
+      "datum_narozeni": "1951-09-17",
+      "adresa": "Doubravická 1303/6, 149 00 Praha"
     }
   ]
 }

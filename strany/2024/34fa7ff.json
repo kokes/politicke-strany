@@ -8,10 +8,10 @@
   "statutarni_organ": "Předsednictvo, za které jedná předseda.",
   "osoby": [
     {
-      "role": "předseda",
-      "jmeno": "Vojtěch Ryvola",
-      "datum_narozeni": "1964-12-15",
-      "adresa": "Pařížská 127/20, 110 00 Praha"
+      "role": "člen",
+      "jmeno": "Tibor Batthyány",
+      "datum_narozeni": "1978-01-07",
+      "adresa": "Felberova 123/3, 460 05 Liberec"
     },
     {
       "role": "místopředseda",
@@ -20,10 +20,10 @@
       "adresa": "Střelniční 1954/12, 702 00 Ostrava"
     },
     {
-      "role": "člen",
-      "jmeno": "Tibor Batthyány",
-      "datum_narozeni": "1978-01-07",
-      "adresa": "Felberova 123/3, 460 05 Liberec"
+      "role": "předseda",
+      "jmeno": "Vojtěch Ryvola",
+      "datum_narozeni": "1964-12-15",
+      "adresa": "Pařížská 127/20, 110 00 Praha"
     }
   ]
 }

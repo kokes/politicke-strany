@@ -8,16 +8,16 @@
   "statutarni_organ": "Předseda a místopředseda, kteří jednají společně.",
   "osoby": [
     {
-      "role": "předseda",
-      "jmeno": "Jan Fuka",
-      "datum_narozeni": "1953-03-28",
-      "adresa": "431 91 Loučná pod Klínovcem 100E"
-    },
-    {
       "role": "místopředseda",
       "jmeno": "Jaroslava Fuková",
       "datum_narozeni": "1958-01-11",
       "adresa": "Krokova 4553, 430 01 Chomutov"
+    },
+    {
+      "role": "předseda",
+      "jmeno": "Jan Fuka",
+      "datum_narozeni": "1953-03-28",
+      "adresa": "431 91 Loučná pod Klínovcem 100E"
     }
   ]
 }

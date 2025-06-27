@@ -8,10 +8,10 @@
   "statutarni_organ": "Republikový výbor, za který jedná předseda s jedním členem výboru.",
   "osoby": [
     {
-      "role": "předseda",
-      "jmeno": "Mgr. Michal Vostřez",
-      "datum_narozeni": "1952-05-17",
-      "adresa": "Provaznická 400/9, 110 00 Praha"
+      "role": "člen RV",
+      "jmeno": "MVDr. Alexander Bulský",
+      "datum_narozeni": "1936-07-07",
+      "adresa": "Ovčí hájek 2163/24, 158 00 Praha"
     },
     {
       "role": "místopředseda",
@@ -26,10 +26,10 @@
       "adresa": "Štěpánská 629/59, 110 00 Praha"
     },
     {
-      "role": "člen RV",
-      "jmeno": "MVDr. Alexander Bulský",
-      "datum_narozeni": "1936-07-07",
-      "adresa": "Ovčí hájek 2163/24, 158 00 Praha"
+      "role": "předseda",
+      "jmeno": "Mgr. Michal Vostřez",
+      "datum_narozeni": "1952-05-17",
+      "adresa": "Provaznická 400/9, 110 00 Praha"
     }
   ]
 }

@@ -8,16 +8,16 @@
   "statutarni_organ": "Předsednictvo, jehož jménem jedná a podepisuje předseda nebo první místopředseda nebo jiný pověřený člen Předsednictva hnutí.",
   "osoby": [
     {
-      "role": "předseda",
-      "jmeno": "Ing. Bronislav Schwarz",
-      "datum_narozeni": "1966-10-07",
-      "adresa": "Spojeneckých letců 916, 435 11 Lom"
+      "role": "člen",
+      "jmeno": "Jaroslav Doubrava",
+      "datum_narozeni": "1948-04-04",
+      "adresa": "403 38 Telnice 178"
     },
     {
-      "role": "první místopředseda",
-      "jmeno": "Ing. Luboš Pitín",
-      "datum_narozeni": "1964-07-23",
-      "adresa": "Jana Kříže 910/8, 434 01 Most"
+      "role": "člen",
+      "jmeno": "Radek Slavík",
+      "datum_narozeni": "1972-08-03",
+      "adresa": "Na výsluní 438/23, 408 01 Rumburk"
     },
     {
       "role": "místopředseda",
@@ -32,16 +32,16 @@
       "adresa": "Kaštanová 587, 412 01 Litoměřice"
     },
     {
-      "role": "člen",
-      "jmeno": "Jaroslav Doubrava",
-      "datum_narozeni": "1948-04-04",
-      "adresa": "403 38 Telnice 178"
+      "role": "předseda",
+      "jmeno": "Ing. Bronislav Schwarz",
+      "datum_narozeni": "1966-10-07",
+      "adresa": "Spojeneckých letců 916, 435 11 Lom"
     },
     {
-      "role": "člen",
-      "jmeno": "Radek Slavík",
-      "datum_narozeni": "1972-08-03",
-      "adresa": "Na výsluní 438/23, 408 01 Rumburk"
+      "role": "první místopředseda",
+      "jmeno": "Ing. Luboš Pitín",
+      "datum_narozeni": "1964-07-23",
+      "adresa": "Jana Kříže 910/8, 434 01 Most"
     }
   ]
 }

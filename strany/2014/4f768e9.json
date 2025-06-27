@@ -8,15 +8,15 @@
   "statutarni_organ": "Předseda a místopředseda, kteří jednají společně.",
   "osoby": [
     {
-      "role": "předseda",
-      "jmeno": "",
-      "adresa": ""
-    },
-    {
       "role": "místopředseda",
       "jmeno": "Alois Ullmann",
       "datum_narozeni": "1984-08-12",
       "adresa": "Šimáčkova 1371/10, 170 00 Praha"
+    },
+    {
+      "role": "předseda",
+      "jmeno": "",
+      "adresa": ""
     }
   ]
 }

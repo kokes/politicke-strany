@@ -8,21 +8,6 @@
   "statutarni_organ": "Výkonná rada, za kterou jedná předseda.",
   "osoby": [
     {
-      "role": "předseda",
-      "jmeno": "Miroslav Kulhavý",
-      "adresa": "Plickova 553/21, 149 00 Praha"
-    },
-    {
-      "role": "místopředseda",
-      "jmeno": "Mgr. Mário  Faturík",
-      "adresa": "Pirinská 3247/7, 143 00 Praha"
-    },
-    {
-      "role": "člen VR",
-      "jmeno": "Zuzana  Semelová",
-      "adresa": "/, /"
-    },
-    {
       "role": "člen VR",
       "jmeno": "Ing. Miloš Jiřík",
       "adresa": "/, /"
@@ -31,6 +16,21 @@
       "role": "člen VR",
       "jmeno": "Václav  Zapp",
       "adresa": "/, /"
+    },
+    {
+      "role": "člen VR",
+      "jmeno": "Zuzana  Semelová",
+      "adresa": "/, /"
+    },
+    {
+      "role": "místopředseda",
+      "jmeno": "Mgr. Mário  Faturík",
+      "adresa": "Pirinská 3247/7, 143 00 Praha"
+    },
+    {
+      "role": "předseda",
+      "jmeno": "Miroslav Kulhavý",
+      "adresa": "Plickova 553/21, 149 00 Praha"
     }
   ]
 }

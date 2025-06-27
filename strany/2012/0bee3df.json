@@ -8,10 +8,10 @@
   "statutarni_organ": "Řídící rada, za kterou jedná předseda.",
   "osoby": [
     {
-      "role": "předsedkyně",
-      "jmeno": "Mgr. Martina  Berdychová",
-      "datum_narozeni": "1971-04-29",
-      "adresa": "508 01 Holovousy 37"
+      "role": "členka",
+      "jmeno": "Martina Lacmanová",
+      "datum_narozeni": "1971-01-10",
+      "adresa": "V Lipkách 581, 538 51 Chrast"
     },
     {
       "role": "místopředseda",
@@ -26,16 +26,16 @@
       "adresa": "Dubinská 758, 530 12 Pardubice"
     },
     {
+      "role": "předsedkyně",
+      "jmeno": "Mgr. Martina  Berdychová",
+      "datum_narozeni": "1971-04-29",
+      "adresa": "508 01 Holovousy 37"
+    },
+    {
       "role": "pokladník",
       "jmeno": "Helena Rezková",
       "datum_narozeni": "1965-04-26",
       "adresa": "551 01 Vlkov 114"
-    },
-    {
-      "role": "členka",
-      "jmeno": "Martina Lacmanová",
-      "datum_narozeni": "1971-01-10",
-      "adresa": "V Lipkách 581, 538 51 Chrast"
     }
   ]
 }

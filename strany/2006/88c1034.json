@@ -8,16 +8,16 @@
   "statutarni_organ": "Předseda a místopředseda, kteří jednají samostatně.",
   "osoby": [
     {
-      "role": "předsedkyně",
-      "jmeno": "Jana  Pauerová",
-      "datum_narozeni": "1964-07-20",
-      "adresa": "U Fary 208, 403 31 Ústí nad Labem"
-    },
-    {
       "role": "místopředseda",
       "jmeno": "Jiří  Moravec",
       "datum_narozeni": "1973-02-14",
       "adresa": "nám. J. Koziny 13, 417 61 Bystřany"
+    },
+    {
+      "role": "předsedkyně",
+      "jmeno": "Jana  Pauerová",
+      "datum_narozeni": "1964-07-20",
+      "adresa": "U Fary 208, 403 31 Ústí nad Labem"
     }
   ]
 }

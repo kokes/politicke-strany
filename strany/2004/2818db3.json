@@ -8,6 +8,12 @@
   "statutarni_organ": "Předsednictvo, za které jedná předseda nebo dva místopředsedové společně.",
   "osoby": [
     {
+      "role": "místopředseda",
+      "jmeno": "MUDr. Ladislav Šamlot",
+      "datum_narozeni": "1958-05-03",
+      "adresa": "Vaculíkova 534/11, 638 00 Brno"
+    },
+    {
       "role": "předseda",
       "jmeno": "JUDr. Jan Kryčer",
       "datum_narozeni": "1955-11-16",
@@ -17,12 +23,6 @@
       "role": "první místopředsedkyně",
       "jmeno": "",
       "adresa": ""
-    },
-    {
-      "role": "místopředseda",
-      "jmeno": "MUDr. Ladislav Šamlot",
-      "datum_narozeni": "1958-05-03",
-      "adresa": "Vaculíkova 534/11, 638 00 Brno"
     }
   ]
 }

@@ -8,16 +8,10 @@
   "statutarni_organ": "Předseda a dva místopředsedové, kteří jednají samostatně.",
   "osoby": [
     {
-      "role": "předseda",
-      "jmeno": "Karel Leškovský",
-      "datum_narozeni": "1968-11-06",
-      "adresa": "náměstí Míru 600/20, 120 00 Praha"
-    },
-    {
-      "role": "místopředsedkyně",
-      "jmeno": "Radka Kučerová",
-      "datum_narozeni": "1979-07-13",
-      "adresa": "Na Stádlech 101, 251 70 Popovičky"
+      "role": "místopředseda",
+      "jmeno": "Leoš Kučera",
+      "datum_narozeni": "1973-12-23",
+      "adresa": "533 52 Němčice 110"
     },
     {
       "role": "místopředsedkyně",
@@ -26,10 +20,16 @@
       "adresa": "Perucká 2481/5, 120 00 Praha"
     },
     {
-      "role": "místopředseda",
-      "jmeno": "Leoš Kučera",
-      "datum_narozeni": "1973-12-23",
-      "adresa": "533 52 Němčice 110"
+      "role": "místopředsedkyně",
+      "jmeno": "Radka Kučerová",
+      "datum_narozeni": "1979-07-13",
+      "adresa": "Na Stádlech 101, 251 70 Popovičky"
+    },
+    {
+      "role": "předseda",
+      "jmeno": "Karel Leškovský",
+      "datum_narozeni": "1968-11-06",
+      "adresa": "náměstí Míru 600/20, 120 00 Praha"
     }
   ]
 }

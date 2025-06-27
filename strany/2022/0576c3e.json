@@ -8,6 +8,24 @@
   "statutarni_organ": "Představenstvo, za které jednají dva mluvčí, a to každý samostatně.",
   "osoby": [
     {
+      "role": "člen",
+      "jmeno": "Ing. Robert Patzelt",
+      "datum_narozeni": "1981-02-05",
+      "adresa": "Bartoňova  2159, 547 01 Náchod"
+    },
+    {
+      "role": "člen",
+      "jmeno": "MUDr. Tomáš Žďárský",
+      "datum_narozeni": "1979-06-27",
+      "adresa": "Nový Svět 251, 547 01 Náchod"
+    },
+    {
+      "role": "členka",
+      "jmeno": "Ing. Iva Cvetanova",
+      "datum_narozeni": "1960-07-08",
+      "adresa": "Dolní úvoz 2048, 547 01 Náchod"
+    },
+    {
       "role": "mluvčí",
       "jmeno": "Ing. Milan Vik",
       "datum_narozeni": "1968-12-05",
@@ -18,24 +36,6 @@
       "jmeno": "Martin Malý",
       "datum_narozeni": "1990-04-26",
       "adresa": "Nemastova 1918, 547 01 Náchod"
-    },
-    {
-      "role": "člen",
-      "jmeno": "MUDr. Tomáš Žďárský",
-      "datum_narozeni": "1979-06-27",
-      "adresa": "Nový Svět 251, 547 01 Náchod"
-    },
-    {
-      "role": "člen",
-      "jmeno": "Ing. Robert Patzelt",
-      "datum_narozeni": "1981-02-05",
-      "adresa": "Bartoňova  2159, 547 01 Náchod"
-    },
-    {
-      "role": "členka",
-      "jmeno": "Ing. Iva Cvetanova",
-      "datum_narozeni": "1960-07-08",
-      "adresa": "Dolní úvoz 2048, 547 01 Náchod"
     }
   ]
 }

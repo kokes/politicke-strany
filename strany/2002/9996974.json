@@ -8,10 +8,10 @@
   "statutarni_organ": "Výbor, za který jedná předseda.",
   "osoby": [
     {
-      "role": "předseda",
-      "jmeno": "JUDr. Vladimír Hruška",
-      "datum_narozeni": "1953-10-20",
-      "adresa": "Skořepka 423/9, 110 00 Praha"
+      "role": "člen výboru",
+      "jmeno": "Alena  Šimková",
+      "datum_narozeni": "1955-10-15",
+      "adresa": "381 01 Bohdalovice 35"
     },
     {
       "role": "člen výboru",
@@ -20,10 +20,10 @@
       "adresa": "Biskupský dvůr 1147/6, 110 00 Praha"
     },
     {
-      "role": "člen výboru",
-      "jmeno": "Alena  Šimková",
-      "datum_narozeni": "1955-10-15",
-      "adresa": "381 01 Bohdalovice 35"
+      "role": "předseda",
+      "jmeno": "JUDr. Vladimír Hruška",
+      "datum_narozeni": "1953-10-20",
+      "adresa": "Skořepka 423/9, 110 00 Praha"
     }
   ]
 }

@@ -8,12 +8,6 @@
   "statutarni_organ": "Výkonný výbor, za který jedná předseda nebo první místopředseda.",
   "osoby": [
     {
-      "role": "předsedkyně",
-      "jmeno": "Mgr. Hana Svobodová, Ph.D.",
-      "datum_narozeni": "1968-01-02",
-      "adresa": "Moskevská 1463/37, 434 01 Most"
-    },
-    {
       "role": "1. místopředseda",
       "jmeno": "PhDr. Mgr. Marian Dancso",
       "datum_narozeni": "1981-09-30",
@@ -29,6 +23,12 @@
       "role": "jednatel",
       "jmeno": "RSDr. Vlastimil  Balín",
       "datum_narozeni": "1950-10-23",
+      "adresa": "Moskevská 1463/37, 434 01 Most"
+    },
+    {
+      "role": "předsedkyně",
+      "jmeno": "Mgr. Hana Svobodová, Ph.D.",
+      "datum_narozeni": "1968-01-02",
       "adresa": "Moskevská 1463/37, 434 01 Most"
     }
   ]

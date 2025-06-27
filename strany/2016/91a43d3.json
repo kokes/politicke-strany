@@ -8,22 +8,10 @@
   "statutarni_organ": "Předsednictvo, za které jedná samostatně předseda nebo společně místopředseda a jeden další člen předsednictva.",
   "osoby": [
     {
-      "role": "předseda",
-      "jmeno": "Ing. Pavel Sehnal",
-      "datum_narozeni": "1964-07-01",
-      "adresa": "Velešínská 334, 199 00 Praha"
-    },
-    {
-      "role": "místopředseda",
-      "jmeno": "RNDr. Zdeněk  Somr",
-      "datum_narozeni": "1959-11-14",
-      "adresa": "Palackého třída 116/25, 288 02 Nymburk"
-    },
-    {
       "role": "člen",
-      "jmeno": "Mgr. Jiří Bílek",
-      "datum_narozeni": "1973-07-09",
-      "adresa": "Akátova 348, 251 01 Čestlice"
+      "jmeno": "Ing. Jiří Staněk",
+      "datum_narozeni": "1957-07-10",
+      "adresa": "U Albrechtova vrchu 1150/26, 155 00 Praha"
     },
     {
       "role": "člen",
@@ -33,15 +21,27 @@
     },
     {
       "role": "člen",
-      "jmeno": "Ing. Jiří Staněk",
-      "datum_narozeni": "1957-07-10",
-      "adresa": "U Albrechtova vrchu 1150/26, 155 00 Praha"
-    },
-    {
-      "role": "člen",
       "jmeno": "Jiří Kudláček",
       "datum_narozeni": "1958-10-14",
       "adresa": "Pod Bílým kamenem 1807, 753 01 Hranice"
+    },
+    {
+      "role": "člen",
+      "jmeno": "Mgr. Jiří Bílek",
+      "datum_narozeni": "1973-07-09",
+      "adresa": "Akátova 348, 251 01 Čestlice"
+    },
+    {
+      "role": "místopředseda",
+      "jmeno": "RNDr. Zdeněk  Somr",
+      "datum_narozeni": "1959-11-14",
+      "adresa": "Palackého třída 116/25, 288 02 Nymburk"
+    },
+    {
+      "role": "předseda",
+      "jmeno": "Ing. Pavel Sehnal",
+      "datum_narozeni": "1964-07-01",
+      "adresa": "Velešínská 334, 199 00 Praha"
     }
   ]
 }

@@ -8,12 +8,6 @@
   "statutarni_organ": "Předsednictvo, za které jedná předseda.",
   "osoby": [
     {
-      "role": "předseda",
-      "jmeno": "JUDr. Jaroslav Pollák",
-      "datum_narozeni": "1951-03-25",
-      "adresa": "Náměstí 70, 382 41 Kaplice"
-    },
-    {
       "role": "1. místopředseda",
       "jmeno": "JUDr. Miroslav Kabát",
       "datum_narozeni": "1949-11-13",
@@ -24,6 +18,12 @@
       "jmeno": "Ing. Pavel Trávníček",
       "datum_narozeni": "1950-05-03",
       "adresa": "Chlebovická 729/2, 199 00 Praha"
+    },
+    {
+      "role": "předseda",
+      "jmeno": "JUDr. Jaroslav Pollák",
+      "datum_narozeni": "1951-03-25",
+      "adresa": "Náměstí 70, 382 41 Kaplice"
     }
   ]
 }

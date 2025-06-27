@@ -8,12 +8,6 @@
   "statutarni_organ": "Představenstvo, za které jedná předseda nebo dva místopředsedové společně.",
   "osoby": [
     {
-      "role": "předseda",
-      "jmeno": "Tomáš Šnorek",
-      "datum_narozeni": "1986-10-05",
-      "adresa": "Nová 356, 373 12 Borovany"
-    },
-    {
       "role": "1. místopředseda",
       "jmeno": "Erik Horáček",
       "datum_narozeni": "1977-05-09",
@@ -24,6 +18,12 @@
       "jmeno": "Tomáš Jindra",
       "datum_narozeni": "1986-11-09",
       "adresa": "Vodárenská 509, 373 12 Borovany"
+    },
+    {
+      "role": "předseda",
+      "jmeno": "Tomáš Šnorek",
+      "datum_narozeni": "1986-10-05",
+      "adresa": "Nová 356, 373 12 Borovany"
     }
   ]
 }

@@ -8,16 +8,16 @@
   "statutarni_organ": "Předsednictvo, za které jedná a podepisuje předseda společně s tajemníkem.",
   "osoby": [
     {
-      "role": "předseda",
-      "jmeno": "Roman Bakala",
-      "datum_narozeni": "1974-04-04",
-      "adresa": "Nádražní 657, 330 03 Chrást"
-    },
-    {
       "role": "člen",
       "jmeno": "Hynek Brych",
       "datum_narozeni": "1981-10-14",
       "adresa": "Šeříková 331/26, 326 00 Plzeň"
+    },
+    {
+      "role": "člen",
+      "jmeno": "Ing. Jan Sazama",
+      "datum_narozeni": "1950-06-29",
+      "adresa": "Koterovská 1172/83, 326 00 Plzeň"
     },
     {
       "role": "člen",
@@ -26,10 +26,10 @@
       "adresa": "Společná 164/24, 326 00 Plzeň"
     },
     {
-      "role": "člen",
-      "jmeno": "Ing. Jan Sazama",
-      "datum_narozeni": "1950-06-29",
-      "adresa": "Koterovská 1172/83, 326 00 Plzeň"
+      "role": "předseda",
+      "jmeno": "Roman Bakala",
+      "datum_narozeni": "1974-04-04",
+      "adresa": "Nádražní 657, 330 03 Chrást"
     }
   ]
 }

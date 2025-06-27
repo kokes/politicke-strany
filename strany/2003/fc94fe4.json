@@ -8,22 +8,10 @@
   "statutarni_organ": "Představenstvo strany, za které jedná předseda a místopředsedové strany a to každý samostatně.",
   "osoby": [
     {
-      "role": "předseda",
-      "jmeno": "Ing. Vladislav Novara",
-      "datum_narozeni": "1939-06-23",
-      "adresa": "Padlých hrdinů 149/51, 736 01 Havířov"
-    },
-    {
-      "role": "místopředsedkyně",
-      "jmeno": "Pavlína Vojtěchová",
-      "datum_narozeni": "1948-08-24",
-      "adresa": "Lípová 568, 431 51 Klášterec nad Ohří"
-    },
-    {
-      "role": "místopředseda",
-      "jmeno": "Petr Drozdík",
-      "datum_narozeni": "1983-05-12",
-      "adresa": "Haškova 664/11, 734 01 Karviná"
+      "role": "člen představenstva",
+      "jmeno": "Eva Zwyrteková",
+      "datum_narozeni": "1965-05-23",
+      "adresa": "Dolní 706, 735 41 Petřvald"
     },
     {
       "role": "člen představenstva",
@@ -33,21 +21,33 @@
     },
     {
       "role": "člen představenstva",
-      "jmeno": "Vladimír Slezák",
-      "datum_narozeni": "1937-11-12",
-      "adresa": "Na Chmelnici 1596, 583 01 Chotěboř"
-    },
-    {
-      "role": "člen představenstva",
       "jmeno": "Stanislav Stadník",
       "datum_narozeni": "1961-02-10",
       "adresa": "třída Edvarda Beneše 1747/1, 500 12 Hradec Králové"
     },
     {
       "role": "člen představenstva",
-      "jmeno": "Eva Zwyrteková",
-      "datum_narozeni": "1965-05-23",
-      "adresa": "Dolní 706, 735 41 Petřvald"
+      "jmeno": "Vladimír Slezák",
+      "datum_narozeni": "1937-11-12",
+      "adresa": "Na Chmelnici 1596, 583 01 Chotěboř"
+    },
+    {
+      "role": "místopředseda",
+      "jmeno": "Petr Drozdík",
+      "datum_narozeni": "1983-05-12",
+      "adresa": "Haškova 664/11, 734 01 Karviná"
+    },
+    {
+      "role": "místopředsedkyně",
+      "jmeno": "Pavlína Vojtěchová",
+      "datum_narozeni": "1948-08-24",
+      "adresa": "Lípová 568, 431 51 Klášterec nad Ohří"
+    },
+    {
+      "role": "předseda",
+      "jmeno": "Ing. Vladislav Novara",
+      "datum_narozeni": "1939-06-23",
+      "adresa": "Padlých hrdinů 149/51, 736 01 Havířov"
     }
   ]
 }

@@ -8,12 +8,6 @@
   "statutarni_organ": "Předsednictvo Ústřední rady hnutí, za které jedná společně předseda s dalším místopředsedou nebo první místopředseda společně s dalším místopředsedou",
   "osoby": [
     {
-      "role": "předseda",
-      "jmeno": "Jaroslav Bašta",
-      "datum_narozeni": "1948-05-15",
-      "adresa": "Junácká 1469/11, 169 00 Praha"
-    },
-    {
       "role": "1. místopředseda",
       "jmeno": "JUDr. Josef Kvasnička",
       "datum_narozeni": "1950-08-20",
@@ -30,6 +24,12 @@
       "jmeno": "Jiří Osadník",
       "datum_narozeni": "1953-11-28",
       "adresa": "Palackého 1986/74, 741 01 Nový Jičín"
+    },
+    {
+      "role": "předseda",
+      "jmeno": "Jaroslav Bašta",
+      "datum_narozeni": "1948-05-15",
+      "adresa": "Junácká 1469/11, 169 00 Praha"
     }
   ]
 }

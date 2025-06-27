@@ -8,82 +8,10 @@
   "statutarni_organ": "Výkonný výbor ÚV KSČM, za který jedná předseda nebo 1. místopředseda ÚV KSČM.",
   "osoby": [
     {
-      "role": "předsedkyně ÚV KSČM",
-      "jmeno": "Kateřina Konečná",
-      "datum_narozeni": "1981-01-20",
-      "adresa": "Na Stráni 1848/11, 741 01 Nový Jičín"
-    },
-    {
       "role": "1. místopředseda ÚV KSČM",
       "jmeno": "Petr Šimůnek",
       "datum_narozeni": "1965-02-17",
       "adresa": "Zelenohorská 483/14, 181 00 Praha"
-    },
-    {
-      "role": "místopředseda ÚV KSČM",
-      "jmeno": "Milan Krajča",
-      "datum_narozeni": "1983-09-12",
-      "adresa": "Josefa Houdka 123, 155 31 Praha"
-    },
-    {
-      "role": "místopředseda ÚV KSČM",
-      "jmeno": "Ludvík Šulda",
-      "datum_narozeni": "1979-09-13",
-      "adresa": "798 04 Seloutky 84"
-    },
-    {
-      "role": "místopředsedkyně ÚV KSČM",
-      "jmeno": "Marie Pěnčíková",
-      "datum_narozeni": "1979-12-31",
-      "adresa": "768 33 Morkovice-Slížany 76"
-    },
-    {
-      "role": "člen VV ÚV KSČM",
-      "jmeno": "Zdeněk Štefek",
-      "datum_narozeni": "1974-12-30",
-      "adresa": "Pražská 636/31, 273 43 Buštěhrad"
-    },
-    {
-      "role": "člen VV ÚV KSČM",
-      "jmeno": "Václav Snopek",
-      "datum_narozeni": "1951-08-20",
-      "adresa": "17. listopadu 400, 530 02 Pardubice"
-    },
-    {
-      "role": "člen VV ÚV KSČM",
-      "jmeno": "Tomeš Vytiska",
-      "datum_narozeni": "1954-11-22",
-      "adresa": "Růžová 27, 377 01 Jindřichův Hradec"
-    },
-    {
-      "role": "člen VV ÚV KSČM",
-      "jmeno": "Marek Nevoral",
-      "datum_narozeni": "1976-03-08",
-      "adresa": "675 01 Vladislav 286"
-    },
-    {
-      "role": "člen VV ÚV KSČM",
-      "jmeno": "Václav Větrovec",
-      "datum_narozeni": "1957-11-18",
-      "adresa": "470 02 Kravaře 20"
-    },
-    {
-      "role": "člen VV ÚV KSČM",
-      "jmeno": "Ivan Hrůza",
-      "datum_narozeni": "1954-08-03",
-      "adresa": "Mládeže 1640/20, 169 00 Praha"
-    },
-    {
-      "role": "člen VV ÚV KSČM",
-      "jmeno": "Petr Havránek",
-      "datum_narozeni": "1977-10-06",
-      "adresa": "Poštovní 481, 742 13 Studénka"
-    },
-    {
-      "role": "člen VV ÚV KSČM",
-      "jmeno": "Pavel Kroča",
-      "datum_narozeni": "1958-12-24",
-      "adresa": "1. máje 63, 686 05 Uherské Hradiště"
     },
     {
       "role": "člen VV ÚV KSČM",
@@ -93,15 +21,63 @@
     },
     {
       "role": "člen VV ÚV KSČM",
+      "jmeno": "Ivan Hrůza",
+      "datum_narozeni": "1954-08-03",
+      "adresa": "Mládeže 1640/20, 169 00 Praha"
+    },
+    {
+      "role": "člen VV ÚV KSČM",
+      "jmeno": "Marek Nevoral",
+      "datum_narozeni": "1976-03-08",
+      "adresa": "675 01 Vladislav 286"
+    },
+    {
+      "role": "člen VV ÚV KSČM",
       "jmeno": "Miroslav Kavij",
       "datum_narozeni": "1963-12-15",
       "adresa": "Za Beránkem 762, 339 01 Klatovy"
     },
     {
       "role": "člen VV ÚV KSČM",
+      "jmeno": "Pavel Kroča",
+      "datum_narozeni": "1958-12-24",
+      "adresa": "1. máje 63, 686 05 Uherské Hradiště"
+    },
+    {
+      "role": "člen VV ÚV KSČM",
+      "jmeno": "Petr Havránek",
+      "datum_narozeni": "1977-10-06",
+      "adresa": "Poštovní 481, 742 13 Studénka"
+    },
+    {
+      "role": "člen VV ÚV KSČM",
+      "jmeno": "Tomeš Vytiska",
+      "datum_narozeni": "1954-11-22",
+      "adresa": "Růžová 27, 377 01 Jindřichův Hradec"
+    },
+    {
+      "role": "člen VV ÚV KSČM",
       "jmeno": "Václav Sloup",
       "datum_narozeni": "1949-10-06",
       "adresa": "350 02 Tuřany 5"
+    },
+    {
+      "role": "člen VV ÚV KSČM",
+      "jmeno": "Václav Snopek",
+      "datum_narozeni": "1951-08-20",
+      "adresa": "17. listopadu 400, 530 02 Pardubice"
+    },
+    {
+      "role": "člen VV ÚV KSČM",
+      "jmeno": "Václav Větrovec",
+      "datum_narozeni": "1957-11-18",
+      "adresa": "470 02 Kravaře 20"
+    },
+    {
+      "role": "člen VV ÚV KSČM",
+      "jmeno": "Zdeněk Štefek",
+      "datum_narozeni": "1974-12-30",
+      "adresa": "Pražská 636/31, 273 43 Buštěhrad"
     },
     {
       "role": "členka VV ÚV KSČM",
@@ -111,15 +87,39 @@
     },
     {
       "role": "členka VV ÚV KSČM",
+      "jmeno": "Věra Vránová",
+      "datum_narozeni": "1953-12-10",
+      "adresa": "Jateční 189/1, 750 02 Přerov"
+    },
+    {
+      "role": "členka VV ÚV KSČM",
       "jmeno": "Věra Žižková",
       "datum_narozeni": "1952-11-15",
       "adresa": "Rybářská 104, 517 41 Kostelec nad Orlicí"
     },
     {
-      "role": "členka VV ÚV KSČM",
-      "jmeno": "Věra Vránová",
-      "datum_narozeni": "1953-12-10",
-      "adresa": "Jateční 189/1, 750 02 Přerov"
+      "role": "místopředseda ÚV KSČM",
+      "jmeno": "Ludvík Šulda",
+      "datum_narozeni": "1979-09-13",
+      "adresa": "798 04 Seloutky 84"
+    },
+    {
+      "role": "místopředseda ÚV KSČM",
+      "jmeno": "Milan Krajča",
+      "datum_narozeni": "1983-09-12",
+      "adresa": "Josefa Houdka 123, 155 31 Praha"
+    },
+    {
+      "role": "místopředsedkyně ÚV KSČM",
+      "jmeno": "Marie Pěnčíková",
+      "datum_narozeni": "1979-12-31",
+      "adresa": "768 33 Morkovice-Slížany 76"
+    },
+    {
+      "role": "předsedkyně ÚV KSČM",
+      "jmeno": "Kateřina Konečná",
+      "datum_narozeni": "1981-01-20",
+      "adresa": "Na Stráni 1848/11, 741 01 Nový Jičín"
     }
   ]
 }

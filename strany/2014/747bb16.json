@@ -8,16 +8,16 @@
   "statutarni_organ": "Předseda a místopředseda, kteří jednají samostatně.",
   "osoby": [
     {
-      "role": "předseda",
-      "jmeno": "MUDr. Jiří Madar",
-      "datum_narozeni": "1958-12-26",
-      "adresa": "Hynaisova 752/26, 400 01 Ústí nad Labem"
-    },
-    {
       "role": "místopředseda",
       "jmeno": "Bc. Martin Prachař",
       "datum_narozeni": "1974-10-25",
       "adresa": "Březová 1625/41, 400 03 Ústí nad Labem"
+    },
+    {
+      "role": "předseda",
+      "jmeno": "MUDr. Jiří Madar",
+      "datum_narozeni": "1958-12-26",
+      "adresa": "Hynaisova 752/26, 400 01 Ústí nad Labem"
     }
   ]
 }

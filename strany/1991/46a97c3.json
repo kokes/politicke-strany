@@ -8,15 +8,15 @@
   "statutarni_organ": "Předseda a 1. místopředseda.",
   "osoby": [
     {
-      "role": "předseda",
-      "jmeno": "Ing. Pavel  Poláček, CSc.",
-      "adresa": "/, /"
-    },
-    {
       "role": "1. místopředseda",
       "jmeno": "MUDr. Zdeněk  Pinta",
       "datum_narozeni": "1931-04-23",
       "adresa": "Na hroudě 1864/69, 100 00 Praha"
+    },
+    {
+      "role": "předseda",
+      "jmeno": "Ing. Pavel  Poláček, CSc.",
+      "adresa": "/, /"
     }
   ]
 }

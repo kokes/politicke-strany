@@ -14,22 +14,22 @@
       "adresa": "742 35 Luboměř 93"
     },
     {
-      "role": "zástupce generálního tajemníka",
-      "jmeno": "Jiří Grünbauer",
-      "datum_narozeni": "1955-10-05",
-      "adresa": "Čechovská 123, 261 01 Příbram"
+      "role": "člen předsednictva ÚV",
+      "jmeno": "Antonín Mastík",
+      "datum_narozeni": "1947-01-04",
+      "adresa": "Švabinského 1265/24, 400 03 Ústí nad Labem"
     },
     {
       "role": "člen předsednictva ÚV",
-      "jmeno": "Zbyšek Kupský",
-      "datum_narozeni": "1972-07-21",
-      "adresa": "U školky 74, 250 67 Klecany"
+      "jmeno": "Ján Herák",
+      "datum_narozeni": "1954-11-06",
+      "adresa": "Skupova 2523, 440 01 Louny"
     },
     {
       "role": "člen předsednictva ÚV",
-      "jmeno": "Vladimír Sedláček",
-      "datum_narozeni": "1954-05-29",
-      "adresa": "Loudů 1022, 334 41 Dobřany"
+      "jmeno": "Jindřich Skařupa",
+      "datum_narozeni": "1955-06-07",
+      "adresa": "Pod Kalvárií 289, 747 41 Hradec nad Moravicí"
     },
     {
       "role": "člen předsednictva ÚV",
@@ -51,27 +51,27 @@
     },
     {
       "role": "člen předsednictva ÚV",
-      "jmeno": "Jindřich Skařupa",
-      "datum_narozeni": "1955-06-07",
-      "adresa": "Pod Kalvárií 289, 747 41 Hradec nad Moravicí"
+      "jmeno": "Vladimír Sedláček",
+      "datum_narozeni": "1954-05-29",
+      "adresa": "Loudů 1022, 334 41 Dobřany"
     },
     {
       "role": "člen předsednictva ÚV",
-      "jmeno": "Antonín Mastík",
-      "datum_narozeni": "1947-01-04",
-      "adresa": "Švabinského 1265/24, 400 03 Ústí nad Labem"
-    },
-    {
-      "role": "člen předsednictva ÚV",
-      "jmeno": "Ján Herák",
-      "datum_narozeni": "1954-11-06",
-      "adresa": "Skupova 2523, 440 01 Louny"
+      "jmeno": "Zbyšek Kupský",
+      "datum_narozeni": "1972-07-21",
+      "adresa": "U školky 74, 250 67 Klecany"
     },
     {
       "role": "tajemník předsednictva ÚV",
       "jmeno": "Robert Mašek",
       "datum_narozeni": "1955-12-17",
       "adresa": "Jírovcova 2118/87, 370 04 České Budějovice"
+    },
+    {
+      "role": "zástupce generálního tajemníka",
+      "jmeno": "Jiří Grünbauer",
+      "datum_narozeni": "1955-10-05",
+      "adresa": "Čechovská 123, 261 01 Příbram"
     }
   ]
 }

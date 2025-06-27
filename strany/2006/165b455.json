@@ -8,16 +8,16 @@
   "statutarni_organ": "Rada, za kterou jedná předseda nebo místopředseda.",
   "osoby": [
     {
-      "role": "předseda",
-      "jmeno": "RNDr. Adam  Klsák, Ph.D.",
-      "datum_narozeni": "1991-06-25",
-      "adresa": "Pod Jelením skokem 393/30, 360 01 Karlovy Vary"
-    },
-    {
       "role": "místopředseda",
       "jmeno": "Ing. Petr Kulhánek",
       "datum_narozeni": "1971-04-14",
       "adresa": "Terezínská 228/10, 360 07 Karlovy Vary"
+    },
+    {
+      "role": "předseda",
+      "jmeno": "RNDr. Adam  Klsák, Ph.D.",
+      "datum_narozeni": "1991-06-25",
+      "adresa": "Pod Jelením skokem 393/30, 360 01 Karlovy Vary"
     },
     {
       "role": "pokladník",

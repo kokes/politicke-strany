@@ -8,10 +8,10 @@
   "statutarni_organ": "Předsednictvo, za které jednají navenek společně předseda a jeden z místopředsedů hnutí, případě jimi pověřený člen hnutí.",
   "osoby": [
     {
-      "role": "předseda",
-      "jmeno": "Marek Nosek",
-      "datum_narozeni": "1966-04-15",
-      "adresa": "Sedláčkova 2902/28, 628 00 Brno"
+      "role": "místopředseda",
+      "jmeno": "Ladislav Valášek",
+      "datum_narozeni": "1973-03-08",
+      "adresa": "Sedláčkova 2902/18, 628 00 Brno"
     },
     {
       "role": "místopředseda",
@@ -20,10 +20,10 @@
       "adresa": "Tišnovská 1489/117, 613 00 Brno"
     },
     {
-      "role": "místopředseda",
-      "jmeno": "Ladislav Valášek",
-      "datum_narozeni": "1973-03-08",
-      "adresa": "Sedláčkova 2902/18, 628 00 Brno"
+      "role": "předseda",
+      "jmeno": "Marek Nosek",
+      "datum_narozeni": "1966-04-15",
+      "adresa": "Sedláčkova 2902/28, 628 00 Brno"
     }
   ]
 }

@@ -8,16 +8,16 @@
   "statutarni_organ": "Předsednictvo, za které jedná předseda nebo místopředseda předsednictva. Jde-li o uzavření smlouvy, vyžaduje se společné jednání dvou statutárních zástupců.",
   "osoby": [
     {
-      "role": "předseda",
-      "jmeno": "Jiří Šoltys",
-      "datum_narozeni": "1969-07-29",
-      "adresa": "Zahumení 307/2, 664 31 Lelekovice"
-    },
-    {
       "role": "místopředseda",
       "jmeno": "Jiří Jurnečka",
       "datum_narozeni": "1959-08-13",
       "adresa": "nám. Osvobození 151, 679 71 Lysice"
+    },
+    {
+      "role": "předseda",
+      "jmeno": "Jiří Šoltys",
+      "datum_narozeni": "1969-07-29",
+      "adresa": "Zahumení 307/2, 664 31 Lelekovice"
     }
   ]
 }

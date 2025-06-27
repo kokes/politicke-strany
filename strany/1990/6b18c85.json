@@ -8,16 +8,16 @@
   "statutarni_organ": "Předsednictvo, za které jedná předseda.",
   "osoby": [
     {
-      "role": "předseda",
-      "jmeno": "Dan Vegenknecht",
-      "datum_narozeni": "1976-07-02",
-      "adresa": "Poznaňská 428/47, 181 00 Praha"
-    },
-    {
       "role": "člen předsednictva a předseda GR",
       "jmeno": "Jan Machálek",
       "datum_narozeni": "1958-05-18",
       "adresa": "Budečská 1005/12, 120 00 Praha"
+    },
+    {
+      "role": "předseda",
+      "jmeno": "Dan Vegenknecht",
+      "datum_narozeni": "1976-07-02",
+      "adresa": "Poznaňská 428/47, 181 00 Praha"
     }
   ]
 }

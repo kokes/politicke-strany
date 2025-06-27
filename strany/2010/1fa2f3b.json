@@ -8,12 +8,6 @@
   "statutarni_organ": "Rada, za kterou jedná předseda nebo místopředseda, a to každý samostatně.",
   "osoby": [
     {
-      "role": "předseda",
-      "jmeno": "Marek Astaloš",
-      "datum_narozeni": "1973-05-25",
-      "adresa": "Okrouhlická 95, 471 24 Mimoň"
-    },
-    {
       "role": "místopředseda",
       "jmeno": "Jana Pešková",
       "datum_narozeni": "1972-11-15",
@@ -24,6 +18,12 @@
       "jmeno": "Nina  Smolíková",
       "datum_narozeni": "1978-02-28",
       "adresa": "Sídliště pod Ralskem 583, 474 21 Mimoň"
+    },
+    {
+      "role": "předseda",
+      "jmeno": "Marek Astaloš",
+      "datum_narozeni": "1973-05-25",
+      "adresa": "Okrouhlická 95, 471 24 Mimoň"
     }
   ]
 }

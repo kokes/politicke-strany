@@ -8,10 +8,10 @@
   "statutarni_organ": "Výkonný výbor, za který jedná předseda.",
   "osoby": [
     {
-      "role": "předseda",
-      "jmeno": "Ing. Václav Klajsner",
-      "datum_narozeni": "1962-04-25",
-      "adresa": "Křehlíkova 1100/56, 627 00 Brno"
+      "role": "místopředseda",
+      "jmeno": "Ing. Zdeněk Vilím",
+      "datum_narozeni": "1969-04-10",
+      "adresa": "Tuřanka 223/24, 627 00 Brno"
     },
     {
       "role": "místopředseda",
@@ -20,10 +20,10 @@
       "adresa": "Langrova 820/5, 627 00 Brno"
     },
     {
-      "role": "místopředseda",
-      "jmeno": "Ing. Zdeněk Vilím",
-      "datum_narozeni": "1969-04-10",
-      "adresa": "Tuřanka 223/24, 627 00 Brno"
+      "role": "předseda",
+      "jmeno": "Ing. Václav Klajsner",
+      "datum_narozeni": "1962-04-25",
+      "adresa": "Křehlíkova 1100/56, 627 00 Brno"
     }
   ]
 }

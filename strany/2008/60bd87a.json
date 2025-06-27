@@ -8,18 +8,6 @@
   "statutarni_organ": "Předsednictvo, za které jednají předseda nebo místopředsedové.",
   "osoby": [
     {
-      "role": "předseda",
-      "jmeno": "Taťana Fischerová",
-      "datum_narozeni": "1947-06-06",
-      "adresa": "Ječná 529/29, 120 00 Praha"
-    },
-    {
-      "role": "místopředseda",
-      "jmeno": "Barbora Seifertová",
-      "datum_narozeni": "1962-11-25",
-      "adresa": "Šternova 144/17, 158 00 Praha"
-    },
-    {
       "role": "člen",
       "jmeno": "Ondřej  Louka",
       "datum_narozeni": "1982-08-24",
@@ -30,6 +18,18 @@
       "jmeno": "Monika Šatavová",
       "datum_narozeni": "1964-09-19",
       "adresa": "U Malvazinky 2255/15, 150 00 Praha"
+    },
+    {
+      "role": "místopředseda",
+      "jmeno": "Barbora Seifertová",
+      "datum_narozeni": "1962-11-25",
+      "adresa": "Šternova 144/17, 158 00 Praha"
+    },
+    {
+      "role": "předseda",
+      "jmeno": "Taťana Fischerová",
+      "datum_narozeni": "1947-06-06",
+      "adresa": "Ječná 529/29, 120 00 Praha"
     }
   ]
 }

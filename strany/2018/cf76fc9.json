@@ -8,12 +8,6 @@
   "statutarni_organ": "Republikové předsednictvo, za které jedná předseda nebo jiný člen předsednictva.",
   "osoby": [
     {
-      "role": "předseda",
-      "jmeno": "Mgr. et Bc. Karel Světnička",
-      "datum_narozeni": "1960-10-01",
-      "adresa": "Želivského 1338/3, 736 01 Havířov"
-    },
-    {
       "role": "1. místopředseda",
       "jmeno": "Michal Drabík",
       "datum_narozeni": "1954-09-15",
@@ -23,6 +17,12 @@
       "role": "místopředsedkyně",
       "jmeno": "Petra Dofková",
       "adresa": ""
+    },
+    {
+      "role": "předseda",
+      "jmeno": "Mgr. et Bc. Karel Světnička",
+      "datum_narozeni": "1960-10-01",
+      "adresa": "Želivského 1338/3, 736 01 Havířov"
     }
   ]
 }

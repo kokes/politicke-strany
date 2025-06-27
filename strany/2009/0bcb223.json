@@ -8,12 +8,6 @@
   "statutarni_organ": "Předsednictvo, za které jedná předseda strany nebo první místopředseda, a to každý samostatně.",
   "osoby": [
     {
-      "role": "předseda",
-      "jmeno": "Miroslav Zajdák",
-      "datum_narozeni": "1959-04-01",
-      "adresa": "Vídeňská 275/66, 639 00 Brno"
-    },
-    {
       "role": "1. místopředseda",
       "jmeno": "Tomáš Havelka",
       "datum_narozeni": "1973-12-30",
@@ -24,6 +18,12 @@
       "jmeno": "Ing. Martin  Mach",
       "datum_narozeni": "1975-07-04",
       "adresa": "Zahradní 213, 691 85 Dolní Dunajovice"
+    },
+    {
+      "role": "předseda",
+      "jmeno": "Miroslav Zajdák",
+      "datum_narozeni": "1959-04-01",
+      "adresa": "Vídeňská 275/66, 639 00 Brno"
     }
   ]
 }

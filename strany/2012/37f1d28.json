@@ -8,40 +8,10 @@
   "statutarni_organ": "Předsednictvo, za které jedná samostatně předseda, a to ve všech záležitostech, nebo samostatně první místopředseda nebo místopředseda na základě písemného pověření uděleného předsednictvem pro jednání ve vymezených záležitostech.",
   "osoby": [
     {
-      "role": "předseda",
-      "jmeno": "Ing. Andrej Babiš",
-      "datum_narozeni": "1954-09-02",
-      "adresa": "Františka Zemana 876, 252 43 Průhonice"
-    },
-    {
       "role": "1. místopředseda",
       "jmeno": "doc. Ing. Karel Havlíček, Ph.D., MBA",
       "datum_narozeni": "1969-08-16",
       "adresa": "Sluneční 1165, 252 10 Mníšek pod Brdy"
-    },
-    {
-      "role": "místopředsedkyně",
-      "jmeno": "JUDr. Alena Schillerová, Ph.D.",
-      "datum_narozeni": "1964-03-18",
-      "adresa": "Houškova 1211/2, 624 00 Brno"
-    },
-    {
-      "role": "místopředseda",
-      "jmeno": "Mgr. Richard Brabec",
-      "datum_narozeni": "1966-07-05",
-      "adresa": "412 01 Malíč 13"
-    },
-    {
-      "role": "místopředseda",
-      "jmeno": "Mgr. Radek Vondráček",
-      "datum_narozeni": "1973-12-30",
-      "adresa": "Vrchlického 791/22, 767 01 Kroměříž"
-    },
-    {
-      "role": "místopředseda",
-      "jmeno": "Robert Králíček",
-      "datum_narozeni": "1977-02-11",
-      "adresa": "Bělehradská 238/9, 140 00 Praha"
     },
     {
       "role": "člen předsednictva",
@@ -51,9 +21,9 @@
     },
     {
       "role": "člen předsednictva",
-      "jmeno": "Mgr. Roman Zarzycký",
-      "datum_narozeni": "1977-09-07",
-      "adresa": "Bzenecká 1051/13, 323 00 Plzeň"
+      "jmeno": "Ing. Radim Holiš",
+      "datum_narozeni": "1975-08-12",
+      "adresa": "Na Drahách 1132, 756 61 Rožnov pod Radhoštěm"
     },
     {
       "role": "člen předsednictva",
@@ -69,27 +39,57 @@
     },
     {
       "role": "člen předsednictva",
+      "jmeno": "MUDr. David Kasal, MHA",
+      "datum_narozeni": "1969-01-01",
+      "adresa": "Svěchyňova 607, 537 01 Chrudim"
+    },
+    {
+      "role": "člen předsednictva",
       "jmeno": "Mgr. Jaroslav Bžoch",
       "datum_narozeni": "1983-11-30",
       "adresa": "Jungmannova 917/5, 415 01 Teplice"
     },
     {
       "role": "člen předsednictva",
-      "jmeno": "Ing. Radim Holiš",
-      "datum_narozeni": "1975-08-12",
-      "adresa": "Na Drahách 1132, 756 61 Rožnov pod Radhoštěm"
-    },
-    {
-      "role": "člen předsednictva",
-      "jmeno": "MUDr. David Kasal, MHA",
-      "datum_narozeni": "1969-01-01",
-      "adresa": "Svěchyňova 607, 537 01 Chrudim"
+      "jmeno": "Mgr. Roman Zarzycký",
+      "datum_narozeni": "1977-09-07",
+      "adresa": "Bzenecká 1051/13, 323 00 Plzeň"
     },
     {
       "role": "členka předsednictva",
       "jmeno": "Mgr. Jana Pastuchová",
       "datum_narozeni": "1965-07-21",
       "adresa": "Boženy Němcové 3656/4, 466 04 Jablonec nad Nisou"
+    },
+    {
+      "role": "místopředseda",
+      "jmeno": "Mgr. Radek Vondráček",
+      "datum_narozeni": "1973-12-30",
+      "adresa": "Vrchlického 791/22, 767 01 Kroměříž"
+    },
+    {
+      "role": "místopředseda",
+      "jmeno": "Mgr. Richard Brabec",
+      "datum_narozeni": "1966-07-05",
+      "adresa": "412 01 Malíč 13"
+    },
+    {
+      "role": "místopředseda",
+      "jmeno": "Robert Králíček",
+      "datum_narozeni": "1977-02-11",
+      "adresa": "Bělehradská 238/9, 140 00 Praha"
+    },
+    {
+      "role": "místopředsedkyně",
+      "jmeno": "JUDr. Alena Schillerová, Ph.D.",
+      "datum_narozeni": "1964-03-18",
+      "adresa": "Houškova 1211/2, 624 00 Brno"
+    },
+    {
+      "role": "předseda",
+      "jmeno": "Ing. Andrej Babiš",
+      "datum_narozeni": "1954-09-02",
+      "adresa": "Františka Zemana 876, 252 43 Průhonice"
     }
   ]
 }

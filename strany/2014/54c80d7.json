@@ -8,16 +8,16 @@
   "statutarni_organ": "Předsednictvo, za které jedná společně předseda a místopředseda.",
   "osoby": [
     {
-      "role": "předseda",
-      "jmeno": "Jiří Vítek",
-      "datum_narozeni": "1973-06-03",
-      "adresa": "Řešovská 519/1, 181 00 Praha"
-    },
-    {
       "role": "1. místopředseda",
       "jmeno": "Michal Švarc",
       "datum_narozeni": "1965-02-16",
       "adresa": "Nad Kotlaskou I 395, 180 00 Praha"
+    },
+    {
+      "role": "předseda",
+      "jmeno": "Jiří Vítek",
+      "datum_narozeni": "1973-06-03",
+      "adresa": "Řešovská 519/1, 181 00 Praha"
     }
   ]
 }

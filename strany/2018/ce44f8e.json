@@ -8,16 +8,16 @@
   "statutarni_organ": "Výkonný výbor Republikového výboru, za který jedná předseda nebo pověřený místopředseda RV hnutí.",
   "osoby": [
     {
-      "role": "předsedkyně",
-      "jmeno": "Jana Matějná",
-      "datum_narozeni": "1986-08-16",
-      "adresa": "Chotěbuzská 250, 735 61 Chotěbuz"
-    },
-    {
       "role": "místopředseda",
       "jmeno": "Pavel Weisgarber",
       "datum_narozeni": "1977-05-06",
       "adresa": ""
+    },
+    {
+      "role": "předsedkyně",
+      "jmeno": "Jana Matějná",
+      "datum_narozeni": "1986-08-16",
+      "adresa": "Chotěbuzská 250, 735 61 Chotěbuz"
     },
     {
       "role": "výkonný místopředseda",

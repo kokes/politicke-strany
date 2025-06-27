@@ -8,16 +8,16 @@
   "statutarni_organ": "Předseda strany a 1. místopředseda strany, jež jednají každý samostatně.",
   "osoby": [
     {
-      "role": "předseda",
-      "jmeno": "Mgr. Jiří Štěpánek",
-      "datum_narozeni": "1972-03-05",
-      "adresa": "Na Celchu 395/29, 326 00 Plzeň"
-    },
-    {
       "role": "1.místopředsedkyně",
       "jmeno": "Hana Pavlíčková",
       "datum_narozeni": "1947-07-24",
       "adresa": "Rumburská 261/17, 190 00 Praha"
+    },
+    {
+      "role": "předseda",
+      "jmeno": "Mgr. Jiří Štěpánek",
+      "datum_narozeni": "1972-03-05",
+      "adresa": "Na Celchu 395/29, 326 00 Plzeň"
     }
   ]
 }

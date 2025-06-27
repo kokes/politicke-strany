@@ -8,6 +8,18 @@
   "statutarni_organ": "Předsednictvo, za které jedná předseda nebo první místopředseda společně s jedním dalším místopředsedou.",
   "osoby": [
     {
+      "role": "místopředseda",
+      "jmeno": "Ing. Miroslav Jungwirth",
+      "datum_narozeni": "1985-01-03",
+      "adresa": "Bojčenkova 1098/10, 198 00 Praha"
+    },
+    {
+      "role": "místopředseda",
+      "jmeno": "Vladimír Diviš",
+      "datum_narozeni": "1976-06-27",
+      "adresa": "Vašátkova 1008/26, 198 00 Praha"
+    },
+    {
       "role": "předsedkyně",
       "jmeno": "Soňa Tománková",
       "datum_narozeni": "1978-09-18",
@@ -18,18 +30,6 @@
       "jmeno": "Ing. Miroslav Froněk",
       "datum_narozeni": "1960-05-04",
       "adresa": "Na obrátce 636/4, 198 00 Praha"
-    },
-    {
-      "role": "místopředseda",
-      "jmeno": "Vladimír Diviš",
-      "datum_narozeni": "1976-06-27",
-      "adresa": "Vašátkova 1008/26, 198 00 Praha"
-    },
-    {
-      "role": "místopředseda",
-      "jmeno": "Ing. Miroslav Jungwirth",
-      "datum_narozeni": "1985-01-03",
-      "adresa": "Bojčenkova 1098/10, 198 00 Praha"
     }
   ]
 }

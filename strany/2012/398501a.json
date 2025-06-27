@@ -8,13 +8,13 @@
   "statutarni_organ": "Předseda a první místopředseda, každý samostatně.",
   "osoby": [
     {
-      "role": "předseda",
-      "jmeno": "MVDr. Milan Dvořák, PhD.",
+      "role": "1.místopředsedkyně",
+      "jmeno": "Kateřina Poludová, Dis.",
       "adresa": ""
     },
     {
-      "role": "1.místopředsedkyně",
-      "jmeno": "Kateřina Poludová, Dis.",
+      "role": "předseda",
+      "jmeno": "MVDr. Milan Dvořák, PhD.",
       "adresa": ""
     }
   ]

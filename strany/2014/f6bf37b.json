@@ -8,16 +8,10 @@
   "statutarni_organ": "Představenstvo, za které mohou činit jednání zavazující hnutí společně dva členové, z nichž jeden musí být předsedou nebo místopředsedou hnutí.",
   "osoby": [
     {
-      "role": "předseda",
-      "jmeno": "Bc. Filip  Šubr",
-      "datum_narozeni": "1983-09-06",
-      "adresa": "třída T. G. Masaryka 1070, 293 01 Mladá Boleslav"
-    },
-    {
-      "role": "místopředseda",
-      "jmeno": "Mgr. Přemysl Siřínek",
-      "datum_narozeni": "1961-11-18",
-      "adresa": "Erbenova 874, 293 01 Mladá Boleslav"
+      "role": "člen",
+      "jmeno": "Josef Hladík",
+      "datum_narozeni": "1971-11-25",
+      "adresa": "Štechova 164/9, 293 01 Mladá Boleslav"
     },
     {
       "role": "člen",
@@ -26,16 +20,22 @@
       "adresa": "Janáčkova 732/23, 293 01 Mladá Boleslav"
     },
     {
-      "role": "člen",
-      "jmeno": "Josef Hladík",
-      "datum_narozeni": "1971-11-25",
-      "adresa": "Štechova 164/9, 293 01 Mladá Boleslav"
-    },
-    {
       "role": "členka",
       "jmeno": "Olga Kočová",
       "datum_narozeni": "1987-05-05",
       "adresa": "U stadionu 969, 293 01 Mladá Boleslav"
+    },
+    {
+      "role": "místopředseda",
+      "jmeno": "Mgr. Přemysl Siřínek",
+      "datum_narozeni": "1961-11-18",
+      "adresa": "Erbenova 874, 293 01 Mladá Boleslav"
+    },
+    {
+      "role": "předseda",
+      "jmeno": "Bc. Filip  Šubr",
+      "datum_narozeni": "1983-09-06",
+      "adresa": "třída T. G. Masaryka 1070, 293 01 Mladá Boleslav"
     }
   ]
 }

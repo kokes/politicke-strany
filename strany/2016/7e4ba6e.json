@@ -8,12 +8,6 @@
   "statutarni_organ": "Předseda a místopředsedové; předseda jedná samostatně nebo dva místopředsedové společně. V neběžných záležitostech je vždy potřeba podpisu minimálně dvou statutárních zástupců. Neběžnou záležitostí je zejména uzavírání politických dohod a zavazování se nad částku vyšší než 50.000 Kč.",
   "osoby": [
     {
-      "role": "předseda",
-      "jmeno": "Ing. Peter Harvánek",
-      "datum_narozeni": "1974-05-30",
-      "adresa": "Vítkovická 3079/12, 702 00 Ostrava"
-    },
-    {
       "role": "místopředseda",
       "jmeno": "MUDr. Jan Síla",
       "datum_narozeni": "1950-03-01",
@@ -24,6 +18,12 @@
       "jmeno": "Petr Stuchlík",
       "datum_narozeni": "1968-03-30",
       "adresa": "K Holotovci 763, 735 11 Orlová"
+    },
+    {
+      "role": "předseda",
+      "jmeno": "Ing. Peter Harvánek",
+      "datum_narozeni": "1974-05-30",
+      "adresa": "Vítkovická 3079/12, 702 00 Ostrava"
     }
   ]
 }

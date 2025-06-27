@@ -8,22 +8,10 @@
   "statutarni_organ": "Rada, a to společně dvěma jeho členy, z nichž alespoň jeden je předsedou a druhý členem rady anebo společně třemi členy rady, z nichž jeden je místopředsedou hnutí.",
   "osoby": [
     {
-      "role": "předseda",
-      "jmeno": "Milan Matějka",
-      "datum_narozeni": "1963-02-25",
-      "adresa": "Sokolovská 2294/108, 586 01 Jihlava"
-    },
-    {
-      "role": "místopředseda",
-      "jmeno": "Bc. Libor Novák, DBA, MBA",
-      "datum_narozeni": "1955-06-09",
-      "adresa": "Stamicova 3856/11, 586 01 Jihlava"
-    },
-    {
       "role": "člen",
-      "jmeno": "MUDr. Vít Pávek",
-      "datum_narozeni": "1976-11-10",
-      "adresa": "Sokolovská 3013/49, 586 01 Jihlava"
+      "jmeno": "Aleš Beďač",
+      "datum_narozeni": "1978-01-15",
+      "adresa": "Sokolovská 3048/119, 586 01 Jihlava"
     },
     {
       "role": "člen",
@@ -33,9 +21,9 @@
     },
     {
       "role": "člen",
-      "jmeno": "Aleš Beďač",
-      "datum_narozeni": "1978-01-15",
-      "adresa": "Sokolovská 3048/119, 586 01 Jihlava"
+      "jmeno": "MUDr. Vít Pávek",
+      "datum_narozeni": "1976-11-10",
+      "adresa": "Sokolovská 3013/49, 586 01 Jihlava"
     },
     {
       "role": "členka",
@@ -48,6 +36,18 @@
       "jmeno": "Olga Poukarová",
       "datum_narozeni": "1946-06-30",
       "adresa": "Stamicova 3857/13, 586 01 Jihlava"
+    },
+    {
+      "role": "místopředseda",
+      "jmeno": "Bc. Libor Novák, DBA, MBA",
+      "datum_narozeni": "1955-06-09",
+      "adresa": "Stamicova 3856/11, 586 01 Jihlava"
+    },
+    {
+      "role": "předseda",
+      "jmeno": "Milan Matějka",
+      "datum_narozeni": "1963-02-25",
+      "adresa": "Sokolovská 2294/108, 586 01 Jihlava"
     }
   ]
 }

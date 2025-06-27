@@ -8,18 +8,6 @@
   "statutarni_organ": "Předsednictvo, za které jedná předseda nebo místopředseda.",
   "osoby": [
     {
-      "role": "předseda",
-      "jmeno": "JUDr. Robert Runták",
-      "datum_narozeni": "1976-09-14",
-      "adresa": "Hrnčířská 1184/28, 779 00 Olomouc"
-    },
-    {
-      "role": "místopředseda",
-      "jmeno": "Mgr. Pavel Fryšák",
-      "datum_narozeni": "1977-06-18",
-      "adresa": "Tomkova 57/27, 779 00 Olomouc"
-    },
-    {
       "role": "člen",
       "jmeno": "Ing. Stanislav Flek",
       "datum_narozeni": "1969-09-09",
@@ -36,6 +24,18 @@
       "jmeno": "Jolana Látalová",
       "datum_narozeni": "1970-12-03",
       "adresa": "Družstevní 732/32, 779 00 Olomouc"
+    },
+    {
+      "role": "místopředseda",
+      "jmeno": "Mgr. Pavel Fryšák",
+      "datum_narozeni": "1977-06-18",
+      "adresa": "Tomkova 57/27, 779 00 Olomouc"
+    },
+    {
+      "role": "předseda",
+      "jmeno": "JUDr. Robert Runták",
+      "datum_narozeni": "1976-09-14",
+      "adresa": "Hrnčířská 1184/28, 779 00 Olomouc"
     }
   ]
 }

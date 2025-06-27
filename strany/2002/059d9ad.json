@@ -8,16 +8,16 @@
   "statutarni_organ": "Předsednictvo, za které jednají předseda nebo společně místopředsedové, v hospodářských a administrativních otázkách tajemník.",
   "osoby": [
     {
-      "role": "předseda",
-      "jmeno": "Pavel  Weiss",
-      "datum_narozeni": "1980-05-13",
-      "adresa": "Mírové náměstí 1, 432 01 Kadaň"
-    },
-    {
       "role": "místopředseda",
       "jmeno": "Derek Pilous",
       "datum_narozeni": "1972-02-19",
       "adresa": "Novoměstská 15, 251 01 Říčany u Prahy"
+    },
+    {
+      "role": "předseda",
+      "jmeno": "Pavel  Weiss",
+      "datum_narozeni": "1980-05-13",
+      "adresa": "Mírové náměstí 1, 432 01 Kadaň"
     }
   ]
 }

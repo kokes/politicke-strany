@@ -8,15 +8,15 @@
   "statutarni_organ": "Předseda a místopředseda, kteří jednají samostatně.",
   "osoby": [
     {
+      "role": "místopředseda",
+      "jmeno": "Ing. Zdeněk  Havlůj",
+      "adresa": "/, /"
+    },
+    {
       "role": "předseda",
       "jmeno": "Mgr. Tibor Stano",
       "datum_narozeni": "1971-11-12",
       "adresa": "Brigádníků 2553, 390 02 Tábor"
-    },
-    {
-      "role": "místopředseda",
-      "jmeno": "Ing. Zdeněk  Havlůj",
-      "adresa": "/, /"
     }
   ]
 }

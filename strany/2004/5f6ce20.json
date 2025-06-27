@@ -8,16 +8,10 @@
   "statutarni_organ": "Ústřední představenstvo, za které jedná předseda hnutí.",
   "osoby": [
     {
-      "role": "předseda",
-      "jmeno": "Mgr. Jan  Szotkowski",
-      "datum_narozeni": "1952-10-11",
-      "adresa": "Hornická 487/21, 737 01 Český Těšín"
-    },
-    {
-      "role": "místopředseda",
-      "jmeno": "Václav Říha",
-      "datum_narozeni": "1952-08-17",
-      "adresa": "Senecká 172, 330 08 Zruč-Senec"
+      "role": "člen",
+      "jmeno": "Antonín Tomica",
+      "datum_narozeni": "1953-03-26",
+      "adresa": "Lipová 580, 739 91 Jablunkov"
     },
     {
       "role": "člen",
@@ -27,15 +21,21 @@
     },
     {
       "role": "člen",
-      "jmeno": "Antonín Tomica",
-      "datum_narozeni": "1953-03-26",
-      "adresa": "Lipová 580, 739 91 Jablunkov"
-    },
-    {
-      "role": "člen",
       "jmeno": "Martin Tomica",
       "datum_narozeni": "1979-02-17",
       "adresa": "Lipová 580, 739 91 Jablunkov"
+    },
+    {
+      "role": "místopředseda",
+      "jmeno": "Václav Říha",
+      "datum_narozeni": "1952-08-17",
+      "adresa": "Senecká 172, 330 08 Zruč-Senec"
+    },
+    {
+      "role": "předseda",
+      "jmeno": "Mgr. Jan  Szotkowski",
+      "datum_narozeni": "1952-10-11",
+      "adresa": "Hornická 487/21, 737 01 Český Těšín"
     }
   ]
 }

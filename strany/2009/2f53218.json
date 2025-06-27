@@ -8,11 +8,6 @@
   "statutarni_organ": "Předseda a místopředsedové. Za stranu jednají navenek samostatně předseda nebo společně dva místopředsedové strany.",
   "osoby": [
     {
-      "role": "předseda",
-      "jmeno": "",
-      "adresa": ""
-    },
-    {
       "role": "1. místopředseda",
       "jmeno": "Mgr. Marian Keremidský",
       "datum_narozeni": "1968-09-08",
@@ -23,6 +18,11 @@
       "jmeno": "Ing. Miloslav Soušek",
       "datum_narozeni": "1961-06-21",
       "adresa": "Střibříkova 73, 566 01 Vysoké Mýto"
+    },
+    {
+      "role": "předseda",
+      "jmeno": "",
+      "adresa": ""
     }
   ]
 }

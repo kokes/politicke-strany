@@ -8,18 +8,6 @@
   "statutarni_organ": "Předsednictvo, za které jedná předseda nebo jím pověřený místopředseda.",
   "osoby": [
     {
-      "role": "předseda",
-      "jmeno": "Petr  Havlík",
-      "datum_narozeni": "1959-04-21",
-      "adresa": "Na hřebenech II 1163/3c, 147 00 Praha"
-    },
-    {
-      "role": "místopředsedkyně",
-      "jmeno": "Marcela Roche",
-      "datum_narozeni": "1973-04-17",
-      "adresa": "388 01 Uzeničky 5"
-    },
-    {
       "role": "místopředseda",
       "jmeno": "Ing. Libor Halman",
       "datum_narozeni": "1955-11-25",
@@ -30,6 +18,18 @@
       "jmeno": "Ivan Pilný",
       "datum_narozeni": "1944-07-06",
       "adresa": "Za Pohořelcem 696/6, 169 00 Praha"
+    },
+    {
+      "role": "místopředsedkyně",
+      "jmeno": "Marcela Roche",
+      "datum_narozeni": "1973-04-17",
+      "adresa": "388 01 Uzeničky 5"
+    },
+    {
+      "role": "předseda",
+      "jmeno": "Petr  Havlík",
+      "datum_narozeni": "1959-04-21",
+      "adresa": "Na hřebenech II 1163/3c, 147 00 Praha"
     }
   ]
 }

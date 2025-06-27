@@ -8,16 +8,16 @@
   "statutarni_organ": "Zemská rada, za kterou jedná a podepisuje předseda nebo pověřený člen zemské rady.",
   "osoby": [
     {
-      "role": "předseda",
-      "jmeno": "Ing. Robert Erlebach",
-      "datum_narozeni": "1952-05-16",
-      "adresa": "Holubova 646, 463 12 Liberec"
-    },
-    {
       "role": "místopředsedkyně",
       "jmeno": "Vladimíra Pachlová",
       "datum_narozeni": "1962-05-29",
       "adresa": "Na Okruhu  1143/29, 460 01 Liberec"
+    },
+    {
+      "role": "předseda",
+      "jmeno": "Ing. Robert Erlebach",
+      "datum_narozeni": "1952-05-16",
+      "adresa": "Holubova 646, 463 12 Liberec"
     }
   ]
 }

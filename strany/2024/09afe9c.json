@@ -8,6 +8,18 @@
   "statutarni_organ": "Předsednictvo hnutí, jehož jménem jedná předseda hnutí.",
   "osoby": [
     {
+      "role": "místopředseda",
+      "jmeno": "Vítězslav Hrubec",
+      "datum_narozeni": "1968-05-18",
+      "adresa": "267 23 Libomyšl 109"
+    },
+    {
+      "role": "místopředsedkyně",
+      "jmeno": "Iveta Dolejší",
+      "datum_narozeni": "1969-05-09",
+      "adresa": "267 23 Libomyšl 109"
+    },
+    {
       "role": "předseda",
       "jmeno": "Mgr. Luděk Růžička",
       "datum_narozeni": "1971-11-21",
@@ -18,18 +30,6 @@
       "jmeno": "Marek Mečíř",
       "datum_narozeni": "1975-08-20",
       "adresa": "nám. Přemysla Otakara II. 2/2, 370 01 České Budějovice"
-    },
-    {
-      "role": "místopředsedkyně",
-      "jmeno": "Iveta Dolejší",
-      "datum_narozeni": "1969-05-09",
-      "adresa": "267 23 Libomyšl 109"
-    },
-    {
-      "role": "místopředseda",
-      "jmeno": "Vítězslav Hrubec",
-      "datum_narozeni": "1968-05-18",
-      "adresa": "267 23 Libomyšl 109"
     }
   ]
 }

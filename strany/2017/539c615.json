@@ -8,12 +8,6 @@
   "statutarni_organ": "Předsednictvo, za které jedná samostatně předseda ve všech záležitostech nebo předsedou písemně pověřený člen předsednictva.",
   "osoby": [
     {
-      "role": "předseda",
-      "jmeno": "Mgr. Petr Macinka",
-      "datum_narozeni": "1978-08-18",
-      "adresa": "Plzeňská 381/64, 150 00 Praha"
-    },
-    {
       "role": "člen",
       "jmeno": "Mgr. Jiří Barták",
       "datum_narozeni": "1967-10-14",
@@ -24,6 +18,12 @@
       "jmeno": "Bc. Renata Maršíková",
       "datum_narozeni": "1983-04-25",
       "adresa": "Na domovině 1081/2, 142 00 Praha"
+    },
+    {
+      "role": "předseda",
+      "jmeno": "Mgr. Petr Macinka",
+      "datum_narozeni": "1978-08-18",
+      "adresa": "Plzeňská 381/64, 150 00 Praha"
     }
   ]
 }

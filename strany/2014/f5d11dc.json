@@ -8,16 +8,16 @@
   "statutarni_organ": "Předsednictvo, za které jednají a podepisují předseda a tajemník společně nebo předseda strany spolu                                                          s místopředsedou strany nebo minimálně dva místopředsedové strany společně.",
   "osoby": [
     {
-      "role": "předseda",
-      "jmeno": "PhDr. Mgr. Václav Kott, DiS.",
-      "datum_narozeni": "1960-03-12",
-      "adresa": "Na Bělidlech 176, 251 65 Ondřejov"
-    },
-    {
       "role": "místopředseda",
       "jmeno": "Michal Hájek",
       "datum_narozeni": "1987-02-25",
       "adresa": "257 41 Krhanice 30"
+    },
+    {
+      "role": "předseda",
+      "jmeno": "PhDr. Mgr. Václav Kott, DiS.",
+      "datum_narozeni": "1960-03-12",
+      "adresa": "Na Bělidlech 176, 251 65 Ondřejov"
     },
     {
       "role": "tajemník",

@@ -8,23 +8,6 @@
   "statutarni_organ": "Předsednictvo, za které jedná samostatně předseda nebo výkonný místopředseda.",
   "osoby": [
     {
-      "role": "předseda",
-      "jmeno": "Jaroslav Turnhöfer",
-      "datum_narozeni": "1963-03-14",
-      "adresa": "Bratří Čapků 2870, 470 01 Česká Lípa"
-    },
-    {
-      "role": "výkonný místopředseda",
-      "jmeno": "",
-      "adresa": ""
-    },
-    {
-      "role": "člen",
-      "jmeno": "Mgr. Michal Rádl",
-      "datum_narozeni": "1980-12-08",
-      "adresa": "Slovenská 2409, 470 01 Česká Lípa"
-    },
-    {
       "role": "člen",
       "jmeno": "JUDr. Stanislav Cenek",
       "datum_narozeni": "1962-12-15",
@@ -37,10 +20,27 @@
       "adresa": "Březová 3023, 470 01 Česká Lípa"
     },
     {
+      "role": "člen",
+      "jmeno": "Mgr. Michal Rádl",
+      "datum_narozeni": "1980-12-08",
+      "adresa": "Slovenská 2409, 470 01 Česká Lípa"
+    },
+    {
       "role": "členka",
       "jmeno": "Jiřina Mudrová",
       "datum_narozeni": "1954-09-04",
       "adresa": "Jiráskova 615/13, 470 01 Česká Lípa"
+    },
+    {
+      "role": "předseda",
+      "jmeno": "Jaroslav Turnhöfer",
+      "datum_narozeni": "1963-03-14",
+      "adresa": "Bratří Čapků 2870, 470 01 Česká Lípa"
+    },
+    {
+      "role": "výkonný místopředseda",
+      "jmeno": "",
+      "adresa": ""
     }
   ]
 }

@@ -9,9 +9,9 @@
   "osoby": [
     {
       "role": "člen",
-      "jmeno": "Vladimír Farana",
-      "datum_narozeni": "1953-05-26",
-      "adresa": "Na Nábřeží 715/103, 736 01 Havířov"
+      "jmeno": "František Otta",
+      "datum_narozeni": "1999-04-19",
+      "adresa": "Pionýrů 682, 783 91 Uničov"
     },
     {
       "role": "člen",
@@ -21,21 +21,21 @@
     },
     {
       "role": "člen",
-      "jmeno": "František Otta",
-      "datum_narozeni": "1999-04-19",
-      "adresa": "Pionýrů 682, 783 91 Uničov"
-    },
-    {
-      "role": "členka",
-      "jmeno": "Romana Howe",
-      "datum_narozeni": "1970-01-12",
-      "adresa": "Dr. E. Beneše 557, 278 01 Kralupy nad Vltavou"
+      "jmeno": "Vladimír Farana",
+      "datum_narozeni": "1953-05-26",
+      "adresa": "Na Nábřeží 715/103, 736 01 Havířov"
     },
     {
       "role": "členka",
       "jmeno": "Markéta Juřicová",
       "datum_narozeni": "2000-09-10",
       "adresa": "V domově 1675/20, 130 00 Praha"
+    },
+    {
+      "role": "členka",
+      "jmeno": "Romana Howe",
+      "datum_narozeni": "1970-01-12",
+      "adresa": "Dr. E. Beneše 557, 278 01 Kralupy nad Vltavou"
     }
   ]
 }

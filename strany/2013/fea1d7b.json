@@ -8,16 +8,16 @@
   "statutarni_organ": "Předsednictvo, za které jednají samostatně předseda nebo místopředsedové.",
   "osoby": [
     {
-      "role": "předseda",
-      "jmeno": "JUDr. Ing. Petr Kučera",
-      "datum_narozeni": "1963-05-23",
-      "adresa": "Ke dvoru 774/3, 160 00 Praha"
-    },
-    {
       "role": "místopředseda",
       "jmeno": "Ing. Jan  Majer",
       "datum_narozeni": "1950-06-08",
       "adresa": "Bellušova 1815/29, 155 00 Praha"
+    },
+    {
+      "role": "předseda",
+      "jmeno": "JUDr. Ing. Petr Kučera",
+      "datum_narozeni": "1963-05-23",
+      "adresa": "Ke dvoru 774/3, 160 00 Praha"
     }
   ]
 }

@@ -8,11 +8,6 @@
   "statutarni_organ": "Předsednictvo, za které jedná předseda a místopředsedové.",
   "osoby": [
     {
-      "role": "předseda",
-      "jmeno": "Ilona Tůmová",
-      "adresa": "Jindřišská 1759/8, 110 00 Praha"
-    },
-    {
       "role": "místopředseda",
       "jmeno": "Hana  Brožovská",
       "adresa": "Útulná 498/22, 108 00 Praha"
@@ -21,6 +16,11 @@
       "role": "místopředseda",
       "jmeno": "Miroslav Frayer",
       "adresa": "Šimonova 1105/2, 163 00 Praha"
+    },
+    {
+      "role": "předseda",
+      "jmeno": "Ilona Tůmová",
+      "adresa": "Jindřišská 1759/8, 110 00 Praha"
     }
   ]
 }

@@ -8,10 +8,10 @@
   "statutarni_organ": "Předsednictvo ústředního výboru, za které jedná generální tajemník.",
   "osoby": [
     {
-      "role": "generální tajemník",
-      "jmeno": "Zdeněk Klímek",
-      "datum_narozeni": "1954-08-16",
-      "adresa": "Přichystalova 1077/70, 779 00 Olomouc"
+      "role": "člen",
+      "jmeno": "Alois Křepský",
+      "datum_narozeni": "1944-06-05",
+      "adresa": "Handkeho 731/5, 779 00 Olomouc"
     },
     {
       "role": "člen",
@@ -20,10 +20,10 @@
       "adresa": "Švabinského 403/3, 779 00 Olomouc"
     },
     {
-      "role": "člen",
-      "jmeno": "Alois Křepský",
-      "datum_narozeni": "1944-06-05",
-      "adresa": "Handkeho 731/5, 779 00 Olomouc"
+      "role": "generální tajemník",
+      "jmeno": "Zdeněk Klímek",
+      "datum_narozeni": "1954-08-16",
+      "adresa": "Přichystalova 1077/70, 779 00 Olomouc"
     }
   ]
 }

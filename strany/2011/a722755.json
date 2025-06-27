@@ -8,16 +8,10 @@
   "statutarni_organ": "Předsednictvo Republikové rady, jehož jménem jedná předseda.",
   "osoby": [
     {
-      "role": "předseda",
-      "jmeno": "Ing. Jiří Paroubek",
-      "datum_narozeni": "1952-08-21",
-      "adresa": "Mrkosova 542/4, 159 00 Praha"
-    },
-    {
-      "role": "statutární místopředsedkyně",
-      "jmeno": "Mgr. Jana Volfová",
-      "datum_narozeni": "1957-11-02",
-      "adresa": "U průhonu 1201/23, 170 00 Praha"
+      "role": "místopředseda",
+      "jmeno": "Bc. Pavel Havránek",
+      "datum_narozeni": "1975-08-16",
+      "adresa": "Hlavní 113, 252 18 Ptice"
     },
     {
       "role": "místopředseda",
@@ -32,10 +26,16 @@
       "adresa": "Bezručova 817, 739 91 Jablunkov"
     },
     {
-      "role": "místopředseda",
-      "jmeno": "Bc. Pavel Havránek",
-      "datum_narozeni": "1975-08-16",
-      "adresa": "Hlavní 113, 252 18 Ptice"
+      "role": "předseda",
+      "jmeno": "Ing. Jiří Paroubek",
+      "datum_narozeni": "1952-08-21",
+      "adresa": "Mrkosova 542/4, 159 00 Praha"
+    },
+    {
+      "role": "statutární místopředsedkyně",
+      "jmeno": "Mgr. Jana Volfová",
+      "datum_narozeni": "1957-11-02",
+      "adresa": "U průhonu 1201/23, 170 00 Praha"
     }
   ]
 }

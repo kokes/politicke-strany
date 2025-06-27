@@ -8,18 +8,6 @@
   "statutarni_organ": "Předsednictvo strany, za které jednají vždy dva členové společně.",
   "osoby": [
     {
-      "role": "geniální guvernér",
-      "jmeno": "Jiří Hrdina",
-      "datum_narozeni": "1952-09-16",
-      "adresa": "Bělehradská 573/61, 120 00 Praha"
-    },
-    {
-      "role": "člen předsednictva",
-      "jmeno": "Petr Borka",
-      "datum_narozeni": "1960-11-12",
-      "adresa": "Balbínova 224/3, 120 00 Praha"
-    },
-    {
       "role": "člen předsednictva",
       "jmeno": "Mgr. Ivan Fried",
       "datum_narozeni": "1952-12-13",
@@ -36,6 +24,18 @@
       "jmeno": "Pavel Marek",
       "datum_narozeni": "1954-05-18",
       "adresa": "411 72 Hoštka 9"
+    },
+    {
+      "role": "člen předsednictva",
+      "jmeno": "Petr Borka",
+      "datum_narozeni": "1960-11-12",
+      "adresa": "Balbínova 224/3, 120 00 Praha"
+    },
+    {
+      "role": "geniální guvernér",
+      "jmeno": "Jiří Hrdina",
+      "datum_narozeni": "1952-09-16",
+      "adresa": "Bělehradská 573/61, 120 00 Praha"
     }
   ]
 }

@@ -8,16 +8,16 @@
   "statutarni_organ": "Rada, za kterou jedná předseda a místopředseda, a to každý samostatně.",
   "osoby": [
     {
-      "role": "předsedkyně",
-      "jmeno": "PhDr. Ivana  Štrossová",
-      "datum_narozeni": "1956-10-04",
-      "adresa": "Prokopa Holého 787, 580 01 Havlíčkův Brod"
-    },
-    {
       "role": "místopředsedkyně",
       "jmeno": "Eva  Vyoralová",
       "datum_narozeni": "1942-07-24",
       "adresa": "U Šlapanky 1086, 580 01 Havlíčkův Brod"
+    },
+    {
+      "role": "předsedkyně",
+      "jmeno": "PhDr. Ivana  Štrossová",
+      "datum_narozeni": "1956-10-04",
+      "adresa": "Prokopa Holého 787, 580 01 Havlíčkův Brod"
     },
     {
       "role": "pokladník",

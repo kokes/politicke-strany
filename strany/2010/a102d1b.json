@@ -8,12 +8,6 @@
   "statutarni_organ": "Výkonná rada, za kterou jedná předseda grémia nebo pověřený místopředseda grémia.",
   "osoby": [
     {
-      "role": "předseda grémia",
-      "jmeno": "Mgr. Milan  Volf",
-      "datum_narozeni": "1963-04-20",
-      "adresa": "Ve Strnadovně 969, 272 04 Kladno"
-    },
-    {
       "role": "místopředseda grémia",
       "jmeno": "Ing. Přemysl  Mužík",
       "datum_narozeni": "1965-05-01",
@@ -24,6 +18,12 @@
       "jmeno": "Ing. Věra Kučerová",
       "datum_narozeni": "1961-01-27",
       "adresa": "Wolkerova 1067, 272 01 Kladno"
+    },
+    {
+      "role": "předseda grémia",
+      "jmeno": "Mgr. Milan  Volf",
+      "datum_narozeni": "1963-04-20",
+      "adresa": "Ve Strnadovně 969, 272 04 Kladno"
     }
   ]
 }

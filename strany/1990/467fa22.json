@@ -8,34 +8,10 @@
   "statutarni_organ": "Předseda, první místopředseda a dva (2) místopředsedové Výkonné rady NE!, který každý může jednat samostatně. K právním úkonům, pro které je předepsána písemná forma, a ke všem dalším písemným dokumentům je potřeba buď dvou (2) podpisů, a to předsedy a jednoho místopředsedy, nebo tří (3) podpisů místopředsedů.",
   "osoby": [
     {
-      "role": "předseda",
-      "jmeno": "PhDr. Richard Knot",
-      "datum_narozeni": "1952-09-01",
-      "adresa": "542 21 Pec pod Sněžkou 203"
-    },
-    {
-      "role": "první místopředseda",
-      "jmeno": "Jiří Skála",
-      "datum_narozeni": "1959-03-05",
-      "adresa": "Mírová 1475/39, 274 01 Slaný"
-    },
-    {
-      "role": "místopředseda",
-      "jmeno": "Mgr. Jaroslav Pech",
-      "datum_narozeni": "1949-02-01",
-      "adresa": "Bořivojova 875/12, 130 00 Praha"
-    },
-    {
-      "role": "místopředseda",
-      "jmeno": "Karel Neumann",
-      "datum_narozeni": "1948-03-14",
-      "adresa": "285 06 Ledečko 106"
-    },
-    {
       "role": "člen",
-      "jmeno": "Pavel Marek",
-      "datum_narozeni": "1948-12-23",
-      "adresa": "Hlavní 2463, 352 01 Aš"
+      "jmeno": "Jiří Pop",
+      "datum_narozeni": "1951-07-02",
+      "adresa": "431 14 Strupčice 145"
     },
     {
       "role": "člen",
@@ -45,9 +21,9 @@
     },
     {
       "role": "člen",
-      "jmeno": "Jiří Pop",
-      "datum_narozeni": "1951-07-02",
-      "adresa": "431 14 Strupčice 145"
+      "jmeno": "Pavel Marek",
+      "datum_narozeni": "1948-12-23",
+      "adresa": "Hlavní 2463, 352 01 Aš"
     },
     {
       "role": "člen",
@@ -59,6 +35,30 @@
       "role": "členka",
       "jmeno": "Jitka Krňanská",
       "datum_narozeni": "1968-03-06",
+      "adresa": "Mírová 1475/39, 274 01 Slaný"
+    },
+    {
+      "role": "místopředseda",
+      "jmeno": "Karel Neumann",
+      "datum_narozeni": "1948-03-14",
+      "adresa": "285 06 Ledečko 106"
+    },
+    {
+      "role": "místopředseda",
+      "jmeno": "Mgr. Jaroslav Pech",
+      "datum_narozeni": "1949-02-01",
+      "adresa": "Bořivojova 875/12, 130 00 Praha"
+    },
+    {
+      "role": "předseda",
+      "jmeno": "PhDr. Richard Knot",
+      "datum_narozeni": "1952-09-01",
+      "adresa": "542 21 Pec pod Sněžkou 203"
+    },
+    {
+      "role": "první místopředseda",
+      "jmeno": "Jiří Skála",
+      "datum_narozeni": "1959-03-05",
       "adresa": "Mírová 1475/39, 274 01 Slaný"
     }
   ]

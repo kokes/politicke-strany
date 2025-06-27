@@ -8,12 +8,6 @@
   "statutarni_organ": "Předseda a místopředsedové.",
   "osoby": [
     {
-      "role": "předseda",
-      "jmeno": "PhDr. Monika  Pajerová",
-      "datum_narozeni": "1966-01-08",
-      "adresa": "Hradešínská 2389/49, 101 00 Praha"
-    },
-    {
       "role": "místopředseda",
       "jmeno": "Ing., MUDr. Petr Fiala",
       "datum_narozeni": "1953-01-04",
@@ -24,6 +18,12 @@
       "jmeno": "PhDr. Slavomil Hubálek",
       "datum_narozeni": "1947-06-16",
       "adresa": "Štěpánská 653/17, 110 00 Praha"
+    },
+    {
+      "role": "předseda",
+      "jmeno": "PhDr. Monika  Pajerová",
+      "datum_narozeni": "1966-01-08",
+      "adresa": "Hradešínská 2389/49, 101 00 Praha"
     }
   ]
 }

@@ -8,16 +8,10 @@
   "statutarni_organ": "Předsednictvo, za které jedná předseda.",
   "osoby": [
     {
-      "role": "předsedkyně",
-      "jmeno": "Nela Lisková",
-      "datum_narozeni": "1975-08-09",
-      "adresa": "Proskovická 144, 739 24 Krmelín"
-    },
-    {
-      "role": "místopředseda",
-      "jmeno": "Pavel Šrytr",
-      "datum_narozeni": "1964-06-27",
-      "adresa": "468 22 Železný Brod 14"
+      "role": "člen",
+      "jmeno": "Jan Hrabčák",
+      "datum_narozeni": "1966-01-19",
+      "adresa": "739 37 Horní Bludovice 458"
     },
     {
       "role": "člen",
@@ -26,16 +20,22 @@
       "adresa": "739 01 Baška 137"
     },
     {
-      "role": "člen",
-      "jmeno": "Jan Hrabčák",
-      "datum_narozeni": "1966-01-19",
-      "adresa": "739 37 Horní Bludovice 458"
-    },
-    {
       "role": "členka",
       "jmeno": "Michaela Havelková",
       "datum_narozeni": "1980-04-21",
       "adresa": "Družstevní 988, 258 01 Vlašim"
+    },
+    {
+      "role": "místopředseda",
+      "jmeno": "Pavel Šrytr",
+      "datum_narozeni": "1964-06-27",
+      "adresa": "468 22 Železný Brod 14"
+    },
+    {
+      "role": "předsedkyně",
+      "jmeno": "Nela Lisková",
+      "datum_narozeni": "1975-08-09",
+      "adresa": "Proskovická 144, 739 24 Krmelín"
     }
   ]
 }

@@ -8,16 +8,16 @@
   "statutarni_organ": "Předseda a 1. místopředseda, a to každý samostatně.",
   "osoby": [
     {
-      "role": "předseda",
-      "jmeno": "Prof. Dr. Ing. Mgr. PhD. Josef Polách",
-      "datum_narozeni": "1929-09-10",
-      "adresa": "595 01 Březské 69"
-    },
-    {
       "role": "1. místopředseda",
       "jmeno": "Vojtěch  Fila",
       "datum_narozeni": "1952-07-16",
       "adresa": "Zámecká 691/63, 643 00 Brno"
+    },
+    {
+      "role": "předseda",
+      "jmeno": "Prof. Dr. Ing. Mgr. PhD. Josef Polách",
+      "datum_narozeni": "1929-09-10",
+      "adresa": "595 01 Březské 69"
     }
   ]
 }

@@ -8,12 +8,6 @@
   "statutarni_organ": "Představenstvo, za které jedná samostatně předseda nebo dva místopředsedové společně.",
   "osoby": [
     {
-      "role": "předseda",
-      "jmeno": "Ing. Jan Michálek",
-      "datum_narozeni": "1969-05-28",
-      "adresa": "Barrandova 366/26, 326 00 Plzeň"
-    },
-    {
       "role": "místopředseda",
       "jmeno": "Ing. Pavel Rödl",
       "datum_narozeni": "1953-11-29",
@@ -24,6 +18,12 @@
       "jmeno": "Mgr. Václav Chaloupek",
       "datum_narozeni": "1949-05-21",
       "adresa": "332 04 Milínov 64"
+    },
+    {
+      "role": "předseda",
+      "jmeno": "Ing. Jan Michálek",
+      "datum_narozeni": "1969-05-28",
+      "adresa": "Barrandova 366/26, 326 00 Plzeň"
     }
   ]
 }

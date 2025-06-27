@@ -8,12 +8,6 @@
   "statutarni_organ": "Výkonná rada, za kterou jedná a podepisuje předseda nebo výkonnou radou pověřený člen.",
   "osoby": [
     {
-      "role": "předseda",
-      "jmeno": "Bc. Adam Kuršel",
-      "datum_narozeni": "1997-11-28",
-      "adresa": "Josefa Hory 21, 513 01 Semily"
-    },
-    {
       "role": "člen",
       "jmeno": "Ing. Sebastian Kuršel",
       "datum_narozeni": "1994-02-25",
@@ -24,6 +18,12 @@
       "jmeno": "MDDr. Anežka Buriánková",
       "datum_narozeni": "1994-12-30",
       "adresa": "Ivana Olbrachta 668, 513 01 Semily"
+    },
+    {
+      "role": "předseda",
+      "jmeno": "Bc. Adam Kuršel",
+      "datum_narozeni": "1997-11-28",
+      "adresa": "Josefa Hory 21, 513 01 Semily"
     }
   ]
 }

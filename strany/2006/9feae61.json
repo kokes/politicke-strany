@@ -8,10 +8,16 @@
   "statutarni_organ": "Předsednictvo, za které jednají předseda nebo společně oba místopředsedové.",
   "osoby": [
     {
-      "role": "předseda",
-      "jmeno": "Marek Elexa",
-      "datum_narozeni": "1972-11-27",
-      "adresa": "Pod Přivaděčem 1307, 431 11 Jirkov"
+      "role": "člen",
+      "jmeno": "Milan  Smrž",
+      "datum_narozeni": "1948-04-19",
+      "adresa": "Truhlářská 1105/11, 110 00 Praha"
+    },
+    {
+      "role": "člen",
+      "jmeno": "Mojmír  Koščo",
+      "datum_narozeni": "1972-06-06",
+      "adresa": "Úžická 393, 250 70 Odolena Voda"
     },
     {
       "role": "místopředseda",
@@ -26,16 +32,10 @@
       "adresa": "Klánova 383/14, 147 00 Praha"
     },
     {
-      "role": "člen",
-      "jmeno": "Mojmír  Koščo",
-      "datum_narozeni": "1972-06-06",
-      "adresa": "Úžická 393, 250 70 Odolena Voda"
-    },
-    {
-      "role": "člen",
-      "jmeno": "Milan  Smrž",
-      "datum_narozeni": "1948-04-19",
-      "adresa": "Truhlářská 1105/11, 110 00 Praha"
+      "role": "předseda",
+      "jmeno": "Marek Elexa",
+      "datum_narozeni": "1972-11-27",
+      "adresa": "Pod Přivaděčem 1307, 431 11 Jirkov"
     }
   ]
 }

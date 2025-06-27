@@ -8,16 +8,16 @@
   "statutarni_organ": "Předseda a místopředseda, kteří jednají samostatněně.",
   "osoby": [
     {
-      "role": "předseda",
-      "jmeno": "MgA. Jiří  Vrba",
-      "datum_narozeni": "1971-12-06",
-      "adresa": "K louži 784/3, 101 00 Praha"
-    },
-    {
       "role": "místopředseda",
       "jmeno": "Martin Kurka",
       "datum_narozeni": "1974-08-05",
       "adresa": "Učňovská 378/4, 190 00 Praha"
+    },
+    {
+      "role": "předseda",
+      "jmeno": "MgA. Jiří  Vrba",
+      "datum_narozeni": "1971-12-06",
+      "adresa": "K louži 784/3, 101 00 Praha"
     }
   ]
 }

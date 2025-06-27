@@ -8,10 +8,10 @@
   "statutarni_organ": "Předsednictvo, za které jedná předseda.",
   "osoby": [
     {
-      "role": "předseda",
-      "jmeno": "JUDr. Jan Holásek. LL.M.",
-      "datum_narozeni": "1972-11-16",
-      "adresa": "Zámeček 638/21, 500 08 Hradec Králové"
+      "role": "člen",
+      "jmeno": "In. Michal Skaunic",
+      "datum_narozeni": "1966-08-19",
+      "adresa": "Cihlářská 745/2C, 503 11 Hradec Králové"
     },
     {
       "role": "místopředseda",
@@ -20,10 +20,10 @@
       "adresa": "Denisovo náměstí 56/6, 500 04 Hradec Králové"
     },
     {
-      "role": "člen",
-      "jmeno": "In. Michal Skaunic",
-      "datum_narozeni": "1966-08-19",
-      "adresa": "Cihlářská 745/2C, 503 11 Hradec Králové"
+      "role": "předseda",
+      "jmeno": "JUDr. Jan Holásek. LL.M.",
+      "datum_narozeni": "1972-11-16",
+      "adresa": "Zámeček 638/21, 500 08 Hradec Králové"
     }
   ]
 }

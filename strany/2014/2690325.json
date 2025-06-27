@@ -8,10 +8,16 @@
   "statutarni_organ": "Předsednictvo, za které jedná předseda.",
   "osoby": [
     {
-      "role": "předseda",
-      "jmeno": "Mgr. Martin  Maleček",
-      "datum_narozeni": "1968-11-29",
-      "adresa": "Ježkova 242/8, 638 00 Brno"
+      "role": "členka",
+      "jmeno": "Mgr. Elena Peňázová",
+      "datum_narozeni": "1965-01-17",
+      "adresa": "Ibsenova 116/3, 638 00 Brno"
+    },
+    {
+      "role": "členka",
+      "jmeno": "PhDr. Karla Hofmannová",
+      "datum_narozeni": "1949-10-19",
+      "adresa": "Dusíkova 910/25, 638 00 Brno"
     },
     {
       "role": "místopředseda",
@@ -26,16 +32,10 @@
       "adresa": "Brožíkova 49/11, 638 00 Brno"
     },
     {
-      "role": "členka",
-      "jmeno": "PhDr. Karla Hofmannová",
-      "datum_narozeni": "1949-10-19",
-      "adresa": "Dusíkova 910/25, 638 00 Brno"
-    },
-    {
-      "role": "členka",
-      "jmeno": "Mgr. Elena Peňázová",
-      "datum_narozeni": "1965-01-17",
-      "adresa": "Ibsenova 116/3, 638 00 Brno"
+      "role": "předseda",
+      "jmeno": "Mgr. Martin  Maleček",
+      "datum_narozeni": "1968-11-29",
+      "adresa": "Ježkova 242/8, 638 00 Brno"
     }
   ]
 }

@@ -8,10 +8,10 @@
   "statutarni_organ": "Předsednictvo, za které jedná předseda.",
   "osoby": [
     {
-      "role": "předseda",
-      "jmeno": "doc. MUDr. Peter Koliba, CSc.",
-      "datum_narozeni": "1953-07-05",
-      "adresa": "Na Horečkách 204, 747 64 Budišovice"
+      "role": "členka",
+      "jmeno": "Kateřina Pochybová",
+      "datum_narozeni": "1993-07-30",
+      "adresa": "Podroužkova 1681/7, 708 00 Ostrava"
     },
     {
       "role": "místopředsedkyně",
@@ -20,10 +20,10 @@
       "adresa": "Na Horečkách 167, 747 64 Budišovice"
     },
     {
-      "role": "členka",
-      "jmeno": "Kateřina Pochybová",
-      "datum_narozeni": "1993-07-30",
-      "adresa": "Podroužkova 1681/7, 708 00 Ostrava"
+      "role": "předseda",
+      "jmeno": "doc. MUDr. Peter Koliba, CSc.",
+      "datum_narozeni": "1953-07-05",
+      "adresa": "Na Horečkách 204, 747 64 Budišovice"
     }
   ]
 }

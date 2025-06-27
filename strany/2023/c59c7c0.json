@@ -8,16 +8,16 @@
   "statutarni_organ": "Předsednictvo, samostatně ve všech záležitostech jedná předseda, nebo samostatně místopředsedové dle stanoveného pořadí.",
   "osoby": [
     {
-      "role": "předseda",
-      "jmeno": "Ing. Vladimír  Štěpán",
-      "datum_narozeni": "1950-11-06",
-      "adresa": "Na Vysoké 2336/41, 251 01 Říčany"
-    },
-    {
       "role": "místopředseda",
       "jmeno": "Ing. Bronislav  Sedláček",
       "datum_narozeni": "1966-03-22",
       "adresa": "Hurbanova 1305/11, 142 00 Praha"
+    },
+    {
+      "role": "předseda",
+      "jmeno": "Ing. Vladimír  Štěpán",
+      "datum_narozeni": "1950-11-06",
+      "adresa": "Na Vysoké 2336/41, 251 01 Říčany"
     },
     {
       "role": "výkonná místopředsedkyně",

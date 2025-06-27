@@ -8,6 +8,12 @@
   "statutarni_organ": "Předsednictvo, za které jednají společně předseda a první místopředseda.",
   "osoby": [
     {
+      "role": "místopředseda",
+      "jmeno": "Kamil Wicherek",
+      "datum_narozeni": "1973-01-10",
+      "adresa": "735 72 Petrovice u Karviné 94"
+    },
+    {
       "role": "předseda",
       "jmeno": "Martin Mazur",
       "datum_narozeni": "1980-05-03",
@@ -18,12 +24,6 @@
       "jmeno": "Tomáš Kuča",
       "datum_narozeni": "1970-07-11",
       "adresa": "Březová 1044, 735 14 Orlová"
-    },
-    {
-      "role": "místopředseda",
-      "jmeno": "Kamil Wicherek",
-      "datum_narozeni": "1973-01-10",
-      "adresa": "735 72 Petrovice u Karviné 94"
     }
   ]
 }

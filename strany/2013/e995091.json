@@ -8,6 +8,30 @@
   "statutarni_organ": "Předsednictvo, za které jedná samostatně předseda nebo výkonný místopředseda.",
   "osoby": [
     {
+      "role": "člen",
+      "jmeno": "Jiří Koutský",
+      "datum_narozeni": "1965-06-25",
+      "adresa": "U smaltovny 1335/20H, 170 00 Praha"
+    },
+    {
+      "role": "člen",
+      "jmeno": "Martin  Píša",
+      "datum_narozeni": "1971-04-24",
+      "adresa": "Na dolinách 599/14, 147 00 Praha"
+    },
+    {
+      "role": "člen",
+      "jmeno": "Michal Fischer",
+      "datum_narozeni": "1965-09-25",
+      "adresa": "Zápasnická 882/6, 102 00 Praha"
+    },
+    {
+      "role": "člen",
+      "jmeno": "Michal Popek",
+      "datum_narozeni": "1963-06-11",
+      "adresa": "Oddechová 765, 155 31 Praha"
+    },
+    {
       "role": "předseda",
       "jmeno": "Mgr. Karel Fischer",
       "datum_narozeni": "1967-11-01",
@@ -18,30 +42,6 @@
       "jmeno": "Václav Drahorád",
       "datum_narozeni": "1971-05-22",
       "adresa": "Formanská 36, 149 00 Praha"
-    },
-    {
-      "role": "člen",
-      "jmeno": "Martin  Píša",
-      "datum_narozeni": "1971-04-24",
-      "adresa": "Na dolinách 599/14, 147 00 Praha"
-    },
-    {
-      "role": "člen",
-      "jmeno": "Michal Popek",
-      "datum_narozeni": "1963-06-11",
-      "adresa": "Oddechová 765, 155 31 Praha"
-    },
-    {
-      "role": "člen",
-      "jmeno": "Michal Fischer",
-      "datum_narozeni": "1965-09-25",
-      "adresa": "Zápasnická 882/6, 102 00 Praha"
-    },
-    {
-      "role": "člen",
-      "jmeno": "Jiří Koutský",
-      "datum_narozeni": "1965-06-25",
-      "adresa": "U smaltovny 1335/20H, 170 00 Praha"
     }
   ]
 }

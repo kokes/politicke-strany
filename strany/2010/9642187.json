@@ -8,7 +8,7 @@
   "statutarni_organ": "Výbor, za který jedná předseda.",
   "osoby": [
     {
-      "role": "předseda",
+      "role": "člen",
       "jmeno": "",
       "adresa": ""
     },
@@ -18,7 +18,7 @@
       "adresa": ""
     },
     {
-      "role": "člen",
+      "role": "předseda",
       "jmeno": "",
       "adresa": ""
     }

@@ -8,18 +8,6 @@
   "statutarni_organ": "Předsednictvo, za které jedná předseda.",
   "osoby": [
     {
-      "role": "předseda",
-      "jmeno": "Petr Fiala",
-      "datum_narozeni": "1968-11-24",
-      "adresa": "Hausenská 864, 561 51 Letohrad"
-    },
-    {
-      "role": "člen",
-      "jmeno": "Václav Kubín",
-      "datum_narozeni": "1961-11-12",
-      "adresa": "Orlická 749, 561 69 Králíky"
-    },
-    {
       "role": "člen",
       "jmeno": "Jan Stránský",
       "datum_narozeni": "1977-12-09",
@@ -36,6 +24,18 @@
       "jmeno": "Miroslav Krčil",
       "datum_narozeni": "1975-02-05",
       "adresa": "Družstevní 1409, 539 01 Hlinsko"
+    },
+    {
+      "role": "člen",
+      "jmeno": "Václav Kubín",
+      "datum_narozeni": "1961-11-12",
+      "adresa": "Orlická 749, 561 69 Králíky"
+    },
+    {
+      "role": "předseda",
+      "jmeno": "Petr Fiala",
+      "datum_narozeni": "1968-11-24",
+      "adresa": "Hausenská 864, 561 51 Letohrad"
     }
   ]
 }

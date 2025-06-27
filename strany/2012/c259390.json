@@ -8,12 +8,6 @@
   "statutarni_organ": "Předsednictvo, za které jedná samostatně předseda a v jeho nepřítomnosti první místopředseda, případně druhý místopředseda.",
   "osoby": [
     {
-      "role": "předseda",
-      "jmeno": "Jiří Kašík",
-      "datum_narozeni": "1964-07-02",
-      "adresa": "767 01 Kroměříž 245"
-    },
-    {
       "role": "1. místopředseda",
       "jmeno": "Martin Hassa",
       "datum_narozeni": "1968-01-17",
@@ -36,6 +30,12 @@
       "jmeno": "Stanislava Pulkrábková",
       "datum_narozeni": "1978-11-10",
       "adresa": "Kostnická 3223/2, 767 01 Kroměříž"
+    },
+    {
+      "role": "předseda",
+      "jmeno": "Jiří Kašík",
+      "datum_narozeni": "1964-07-02",
+      "adresa": "767 01 Kroměříž 245"
     }
   ]
 }

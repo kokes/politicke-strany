@@ -8,20 +8,8 @@
   "statutarni_organ": "Předsednictvo, a to společně třemi jeho členy, z nichž alespoň jeden je předsedou nebo místopředsedou a další dva, jsou členy předsednictva.",
   "osoby": [
     {
-      "role": "předseda",
-      "jmeno": "Karel Lipmann",
-      "datum_narozeni": "1963-03-08",
-      "adresa": "Palachova 2651/30, 430 03 Chomutov"
-    },
-    {
-      "role": "místopředseda",
-      "jmeno": "Mgr. Milan Štefanov",
-      "datum_narozeni": "1967-07-27",
-      "adresa": "Revoluční 49/15, 430 01 Chomutov"
-    },
-    {
-      "role": "místopředseda",
-      "jmeno": "Mgr. Milan Märc",
+      "role": "člen",
+      "jmeno": "David Dinda",
       "adresa": ""
     },
     {
@@ -30,9 +18,21 @@
       "adresa": ""
     },
     {
-      "role": "člen",
-      "jmeno": "David Dinda",
+      "role": "místopředseda",
+      "jmeno": "Mgr. Milan Märc",
       "adresa": ""
+    },
+    {
+      "role": "místopředseda",
+      "jmeno": "Mgr. Milan Štefanov",
+      "datum_narozeni": "1967-07-27",
+      "adresa": "Revoluční 49/15, 430 01 Chomutov"
+    },
+    {
+      "role": "předseda",
+      "jmeno": "Karel Lipmann",
+      "datum_narozeni": "1963-03-08",
+      "adresa": "Palachova 2651/30, 430 03 Chomutov"
     }
   ]
 }

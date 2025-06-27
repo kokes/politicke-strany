@@ -8,16 +8,16 @@
   "statutarni_organ": "Předseda, v jeho nepřítomnosti jedná jménem strany místopředseda.",
   "osoby": [
     {
-      "role": "předseda",
-      "jmeno": "MUDr. Ctirad Musil",
-      "datum_narozeni": "1978-05-12",
-      "adresa": "753 54 Dolní Nětčice 31"
-    },
-    {
       "role": "místopředseda",
       "jmeno": "Michal Hozák",
       "datum_narozeni": "1989-06-28",
       "adresa": "Horní náměstí 204/13, 779 00 Olomouc"
+    },
+    {
+      "role": "předseda",
+      "jmeno": "MUDr. Ctirad Musil",
+      "datum_narozeni": "1978-05-12",
+      "adresa": "753 54 Dolní Nětčice 31"
     }
   ]
 }

@@ -8,10 +8,10 @@
   "statutarni_organ": "Předsednictvo, za které jedná předseda.",
   "osoby": [
     {
-      "role": "předsedkyně",
-      "jmeno": "Ing. Zuzana Matulová",
-      "datum_narozeni": "1989-02-24",
-      "adresa": "Cihlářská 776, 763 21 Slavičín"
+      "role": "místopředseda",
+      "jmeno": "Jaroslav Mana",
+      "datum_narozeni": "1987-08-17",
+      "adresa": "762 32 Slavičín 142"
     },
     {
       "role": "místopředsedkyně",
@@ -20,10 +20,10 @@
       "adresa": "Žižkovská 90, 763 21 Slavičín"
     },
     {
-      "role": "místopředseda",
-      "jmeno": "Jaroslav Mana",
-      "datum_narozeni": "1987-08-17",
-      "adresa": "762 32 Slavičín 142"
+      "role": "předsedkyně",
+      "jmeno": "Ing. Zuzana Matulová",
+      "datum_narozeni": "1989-02-24",
+      "adresa": "Cihlářská 776, 763 21 Slavičín"
     }
   ]
 }

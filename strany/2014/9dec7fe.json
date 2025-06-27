@@ -8,22 +8,10 @@
   "statutarni_organ": "Předsednictvo, za které jedná každý člen samostatně. Při nakládání s majetkem, jehož hodnota je vyšší než 100 000 Kč, jednají společně dva členové předsednictva.",
   "osoby": [
     {
-      "role": "předseda",
-      "jmeno": "Mgr. et Mgr. Pavlína Springerová, Ph.D.",
-      "datum_narozeni": "1977-03-19",
-      "adresa": "Velké náměstí 153/9, 500 03 Hradec Králové"
-    },
-    {
       "role": "1. místopředseda",
       "jmeno": "JUDr. Arnošt Urban",
       "datum_narozeni": "1955-09-13",
       "adresa": "Za Lípou 548/15, 500 09 Hradec Králové"
-    },
-    {
-      "role": "místopředsedkyně",
-      "jmeno": "Ing. Romana Dürrerová",
-      "datum_narozeni": "1967-11-07",
-      "adresa": "Gruzínská 427, 503 41 Hradec Králové"
     },
     {
       "role": "místopředseda",
@@ -36,6 +24,18 @@
       "jmeno": "JUDr. Kamil Podroužek",
       "datum_narozeni": "1973-03-23",
       "adresa": "Růžová 789/28, 500 04 Hradec Králové"
+    },
+    {
+      "role": "místopředsedkyně",
+      "jmeno": "Ing. Romana Dürrerová",
+      "datum_narozeni": "1967-11-07",
+      "adresa": "Gruzínská 427, 503 41 Hradec Králové"
+    },
+    {
+      "role": "předseda",
+      "jmeno": "Mgr. et Mgr. Pavlína Springerová, Ph.D.",
+      "datum_narozeni": "1977-03-19",
+      "adresa": "Velké náměstí 153/9, 500 03 Hradec Králové"
     }
   ]
 }

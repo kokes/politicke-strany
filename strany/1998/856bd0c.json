@@ -8,16 +8,10 @@
   "statutarni_organ": "Regionální politické vedení, za které jedná předseda nebo dva jeho členové společně.",
   "osoby": [
     {
-      "role": "předseda",
-      "jmeno": "Otto Gudas",
-      "datum_narozeni": "1962-10-04",
-      "adresa": "Maškova 90, 463 12 Liberec"
-    },
-    {
-      "role": "místopředseda",
-      "jmeno": "Alena Kovačičová",
-      "datum_narozeni": "1954-07-27",
-      "adresa": "Hrdinů 121/7, 460 01 Liberec"
+      "role": "člen RPV",
+      "jmeno": "Jaroslav Pavlas",
+      "datum_narozeni": "1957-01-09",
+      "adresa": "Okálová 1040, 463 11 Liberec"
     },
     {
       "role": "člen RPV",
@@ -26,10 +20,16 @@
       "adresa": "468 71 Lučany nad Nisou 735"
     },
     {
-      "role": "člen RPV",
-      "jmeno": "Jaroslav Pavlas",
-      "datum_narozeni": "1957-01-09",
-      "adresa": "Okálová 1040, 463 11 Liberec"
+      "role": "místopředseda",
+      "jmeno": "Alena Kovačičová",
+      "datum_narozeni": "1954-07-27",
+      "adresa": "Hrdinů 121/7, 460 01 Liberec"
+    },
+    {
+      "role": "předseda",
+      "jmeno": "Otto Gudas",
+      "datum_narozeni": "1962-10-04",
+      "adresa": "Maškova 90, 463 12 Liberec"
     }
   ]
 }

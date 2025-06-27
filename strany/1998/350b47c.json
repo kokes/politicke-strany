@@ -8,22 +8,10 @@
   "statutarni_organ": "Řídící rada, za kterou jedná předseda nebo místopředseda.",
   "osoby": [
     {
-      "role": "předseda",
-      "jmeno": "Patrik Pizinger",
-      "datum_narozeni": "1975-03-24",
-      "adresa": "Staroměstská 1105, 357 35 Chodov"
-    },
-    {
-      "role": "místopředseda",
-      "jmeno": "Pavel Kundrát",
-      "datum_narozeni": "1959-05-09",
-      "adresa": "Rybniční 221, 411 45 Úštěk"
-    },
-    {
-      "role": "hlavní pokladník",
-      "jmeno": "Miroslav Egert",
-      "datum_narozeni": "1968-10-25",
-      "adresa": "Obuvnická 391, 364 71 Bochov"
+      "role": "člen ŘR",
+      "jmeno": "Ilona Smítková",
+      "datum_narozeni": "1948-11-18",
+      "adresa": "Dlouhá 196/36, 417 02 Dubí"
     },
     {
       "role": "člen ŘR",
@@ -33,21 +21,33 @@
     },
     {
       "role": "člen ŘR",
+      "jmeno": "Martin  Zvěřina",
+      "datum_narozeni": "1962-01-15",
+      "adresa": "Svobodova 206/18, 362 25 Nová Role"
+    },
+    {
+      "role": "člen ŘR",
       "jmeno": "Miloš Volek",
       "datum_narozeni": "1961-06-02",
       "adresa": "Dukelských hrdinů 837, 357 35 Chodov"
     },
     {
-      "role": "člen ŘR",
-      "jmeno": "Ilona Smítková",
-      "datum_narozeni": "1948-11-18",
-      "adresa": "Dlouhá 196/36, 417 02 Dubí"
+      "role": "hlavní pokladník",
+      "jmeno": "Miroslav Egert",
+      "datum_narozeni": "1968-10-25",
+      "adresa": "Obuvnická 391, 364 71 Bochov"
     },
     {
-      "role": "člen ŘR",
-      "jmeno": "Martin  Zvěřina",
-      "datum_narozeni": "1962-01-15",
-      "adresa": "Svobodova 206/18, 362 25 Nová Role"
+      "role": "místopředseda",
+      "jmeno": "Pavel Kundrát",
+      "datum_narozeni": "1959-05-09",
+      "adresa": "Rybniční 221, 411 45 Úštěk"
+    },
+    {
+      "role": "předseda",
+      "jmeno": "Patrik Pizinger",
+      "datum_narozeni": "1975-03-24",
+      "adresa": "Staroměstská 1105, 357 35 Chodov"
     }
   ]
 }

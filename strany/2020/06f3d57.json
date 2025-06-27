@@ -8,10 +8,10 @@
   "statutarni_organ": "Rada, za kterou jedná předseda.",
   "osoby": [
     {
-      "role": "předseda",
-      "jmeno": "Jan Schneider",
-      "datum_narozeni": "1978-11-20",
-      "adresa": "Brněnská 198, 666 01 Tišnov"
+      "role": "člen",
+      "jmeno": "Lukáš Karnet",
+      "datum_narozeni": "1977-04-07",
+      "adresa": "Bořetická 4098/11, 628 00 Brno"
     },
     {
       "role": "místopředsedkyně",
@@ -20,10 +20,10 @@
       "adresa": "Hapalova 969/8A, 621 00 Brno"
     },
     {
-      "role": "člen",
-      "jmeno": "Lukáš Karnet",
-      "datum_narozeni": "1977-04-07",
-      "adresa": "Bořetická 4098/11, 628 00 Brno"
+      "role": "předseda",
+      "jmeno": "Jan Schneider",
+      "datum_narozeni": "1978-11-20",
+      "adresa": "Brněnská 198, 666 01 Tišnov"
     }
   ]
 }

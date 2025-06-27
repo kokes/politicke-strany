@@ -8,12 +8,6 @@
   "statutarni_organ": "Předsednictvo, za které jedná a podepisuje vždy předseda společně s alespoň jedním z místopředsedů.",
   "osoby": [
     {
-      "role": "předsedkyně",
-      "jmeno": "Věra  Uhlířová",
-      "datum_narozeni": "1959-12-10",
-      "adresa": "K. H. Borovského 672, 565 01 Choceň"
-    },
-    {
       "role": "místopředseda",
       "jmeno": "David Šimek",
       "datum_narozeni": "1977-03-21",
@@ -24,6 +18,12 @@
       "jmeno": "Petr Hájek",
       "datum_narozeni": "1967-03-07",
       "adresa": "Hradební 37, 562 01 Ústí nad Orlicí"
+    },
+    {
+      "role": "předsedkyně",
+      "jmeno": "Věra  Uhlířová",
+      "datum_narozeni": "1959-12-10",
+      "adresa": "K. H. Borovského 672, 565 01 Choceň"
     }
   ]
 }

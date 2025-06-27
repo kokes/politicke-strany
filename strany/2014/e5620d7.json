@@ -8,19 +8,8 @@
   "statutarni_organ": "Výbor, za který jedná předseda.",
   "osoby": [
     {
-      "role": "předseda",
-      "jmeno": "František Oščádal",
-      "datum_narozeni": "1969-11-04",
-      "adresa": "Na vyhaslém 3175, 272 01 Kladno"
-    },
-    {
       "role": "člen",
       "jmeno": "Filip Kahoun",
-      "adresa": ""
-    },
-    {
-      "role": "členka",
-      "jmeno": "Marta Frýbertová",
       "adresa": ""
     },
     {
@@ -28,6 +17,17 @@
       "jmeno": "MUDr. Alice Čečilová",
       "datum_narozeni": "1958-06-25",
       "adresa": "Pod Hradištěm 121, 257 41 Týnec nad Sázavou"
+    },
+    {
+      "role": "členka",
+      "jmeno": "Marta Frýbertová",
+      "adresa": ""
+    },
+    {
+      "role": "předseda",
+      "jmeno": "František Oščádal",
+      "datum_narozeni": "1969-11-04",
+      "adresa": "Na vyhaslém 3175, 272 01 Kladno"
     }
   ]
 }

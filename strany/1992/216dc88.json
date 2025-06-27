@@ -8,15 +8,15 @@
   "statutarni_organ": "Předseda, první místopředseda, výkonný místopředseda a generální sekretář.",
   "osoby": [
     {
+      "role": "předseda strany",
+      "jmeno": "Jiří  Novák",
+      "adresa": "U páté baterie 779/4, 162 00 Praha"
+    },
+    {
       "role": "předseda",
       "jmeno": "Rudolf Baránek",
       "datum_narozeni": "1950-10-08",
       "adresa": "Osvobození 343/24, 691 41 Břeclav"
-    },
-    {
-      "role": "předseda strany",
-      "jmeno": "Jiří  Novák",
-      "adresa": "U páté baterie 779/4, 162 00 Praha"
     },
     {
       "role": "první místopředseda",

@@ -8,15 +8,15 @@
   "statutarni_organ": "Předseda a mídtopředseda, kteří jednají společně.",
   "osoby": [
     {
+      "role": "místopředseda",
+      "jmeno": "Ing. Ladislav Volf",
+      "adresa": "Na Kovárně 1142/32, 312 00 Plzeň"
+    },
+    {
       "role": "předseda",
       "jmeno": "Ing. Lotar Indruch",
       "datum_narozeni": "1940-07-10",
       "adresa": "Bohuslava Martinů 853/77, 602 00 Brno"
-    },
-    {
-      "role": "místopředseda",
-      "jmeno": "Ing. Ladislav Volf",
-      "adresa": "Na Kovárně 1142/32, 312 00 Plzeň"
     }
   ]
 }

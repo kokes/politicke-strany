@@ -8,16 +8,16 @@
   "statutarni_organ": "Rada, jménem které jedná a podepisuje předseda.",
   "osoby": [
     {
-      "role": "předseda",
-      "jmeno": "JUDr. Anna Haisová",
-      "datum_narozeni": "1955-04-10",
-      "adresa": "Joštova 598/3, 602 00 Brno"
-    },
-    {
       "role": "člen",
       "jmeno": "Anděla  Plevová",
       "datum_narozeni": "1949-03-13",
       "adresa": "V Aleji 105, 620 00 Brno"
+    },
+    {
+      "role": "člen",
+      "jmeno": "Emil Šibor",
+      "datum_narozeni": "1964-07-30",
+      "adresa": "ppor. Rozprýmova  967, 664 53 Újezd u Brna"
     },
     {
       "role": "člen",
@@ -26,10 +26,10 @@
       "adresa": "Kohoutovická 432/89, 641 00 Brno"
     },
     {
-      "role": "člen",
-      "jmeno": "Emil Šibor",
-      "datum_narozeni": "1964-07-30",
-      "adresa": "ppor. Rozprýmova  967, 664 53 Újezd u Brna"
+      "role": "předseda",
+      "jmeno": "JUDr. Anna Haisová",
+      "datum_narozeni": "1955-04-10",
+      "adresa": "Joštova 598/3, 602 00 Brno"
     }
   ]
 }

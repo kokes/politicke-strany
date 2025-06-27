@@ -8,12 +8,6 @@
   "statutarni_organ": "Výkonný výbor, za který jedná předseda a dva místopředsedové, a to každý samostatně.",
   "osoby": [
     {
-      "role": "předseda",
-      "jmeno": "Bohumil  Rosenkranz",
-      "datum_narozeni": "1957-01-15",
-      "adresa": "U cukrovaru 21, 293 01 Mladá Boleslav"
-    },
-    {
       "role": "místopředseda",
       "jmeno": "Aleš Juranka",
       "datum_narozeni": "1965-11-28",
@@ -24,6 +18,12 @@
       "jmeno": "Ing. Ondřej Rameš",
       "datum_narozeni": "1978-05-23",
       "adresa": "Michalovice 48, 293 01 Mladá Boleslav"
+    },
+    {
+      "role": "předseda",
+      "jmeno": "Bohumil  Rosenkranz",
+      "datum_narozeni": "1957-01-15",
+      "adresa": "U cukrovaru 21, 293 01 Mladá Boleslav"
     }
   ]
 }

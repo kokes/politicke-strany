@@ -8,12 +8,6 @@
   "statutarni_organ": "Předsednictvo, za které jedná samostatně předseda nebo místopředsedové společně.",
   "osoby": [
     {
-      "role": "předseda",
-      "jmeno": "Pavol Lukša",
-      "datum_narozeni": "1962-08-15",
-      "adresa": "739 12 Čeladná 592"
-    },
-    {
       "role": "1. místopředseda",
       "jmeno": "Roman Pastor",
       "datum_narozeni": "1975-03-12",
@@ -24,6 +18,12 @@
       "jmeno": "Ing. Tomáš Fodor",
       "datum_narozeni": "1962-06-17",
       "adresa": "Na Koutě 398, 735 81 Bohumín"
+    },
+    {
+      "role": "předseda",
+      "jmeno": "Pavol Lukša",
+      "datum_narozeni": "1962-08-15",
+      "adresa": "739 12 Čeladná 592"
     }
   ]
 }

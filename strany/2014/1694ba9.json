@@ -8,15 +8,15 @@
   "statutarni_organ": "Předsednictvo, za které jedná samostatně předseda.",
   "osoby": [
     {
-      "role": "předseda",
-      "jmeno": "Jan  Ullmann",
-      "datum_narozeni": "1993-11-16",
-      "adresa": "Pražského povstání 3686/19, 466 04 Jablonec nad Nisou"
-    },
-    {
       "role": "místopředseda",
       "jmeno": "Ing. Jan Ullmann",
       "datum_narozeni": "1965-02-18",
+      "adresa": "Pražského povstání 3686/19, 466 04 Jablonec nad Nisou"
+    },
+    {
+      "role": "předseda",
+      "jmeno": "Jan  Ullmann",
+      "datum_narozeni": "1993-11-16",
       "adresa": "Pražského povstání 3686/19, 466 04 Jablonec nad Nisou"
     }
   ]

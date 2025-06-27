@@ -8,16 +8,16 @@
   "statutarni_organ": "Předseda a místopředseda, každý zastupuje samostaně.",
   "osoby": [
     {
-      "role": "předseda",
-      "jmeno": "Mgr. Jiří Železný",
-      "datum_narozeni": "1973-10-29",
-      "adresa": "Purkyňova 214/39, 400 03 Ústí nad Labem"
-    },
-    {
       "role": "místopředseda",
       "jmeno": "Petr Vinš",
       "datum_narozeni": "1973-10-07",
       "adresa": "Rubensova 275/12, 400 03 Ústí nad Labem"
+    },
+    {
+      "role": "předseda",
+      "jmeno": "Mgr. Jiří Železný",
+      "datum_narozeni": "1973-10-29",
+      "adresa": "Purkyňova 214/39, 400 03 Ústí nad Labem"
     }
   ]
 }

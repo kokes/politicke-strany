@@ -8,12 +8,6 @@
   "statutarni_organ": "Předsednictvo, za které jedná předseda.",
   "osoby": [
     {
-      "role": "předseda",
-      "jmeno": "Ing. Martin  Svoboda",
-      "datum_narozeni": "1970-05-05",
-      "adresa": "Modřínová 302/8, 674 01 Třebíč"
-    },
-    {
       "role": "1. místopředseda",
       "jmeno": "Bc. Pavel Krčál",
       "datum_narozeni": "1975-06-20",
@@ -24,6 +18,12 @@
       "jmeno": "Zdeněk Sedláček",
       "datum_narozeni": "1977-05-12",
       "adresa": "675 22 Stařeč  23"
+    },
+    {
+      "role": "předseda",
+      "jmeno": "Ing. Martin  Svoboda",
+      "datum_narozeni": "1970-05-05",
+      "adresa": "Modřínová 302/8, 674 01 Třebíč"
     }
   ]
 }

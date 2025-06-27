@@ -8,10 +8,10 @@
   "statutarni_organ": "Rada, za kterou samostatně jedná Předseda a Výkonný tajemník.",
   "osoby": [
     {
-      "role": "předsedkyně",
-      "jmeno": "Alena Poláčková",
-      "datum_narozeni": "1961-03-06",
-      "adresa": "257 41 Bukovany 142"
+      "role": "člen",
+      "jmeno": "Jindřich Novák",
+      "datum_narozeni": "1976-04-24",
+      "adresa": "Jizerská 2939/53, 400 11 Ústí nad Labem"
     },
     {
       "role": "místopředseda",
@@ -19,16 +19,16 @@
       "adresa": ""
     },
     {
+      "role": "předsedkyně",
+      "jmeno": "Alena Poláčková",
+      "datum_narozeni": "1961-03-06",
+      "adresa": "257 41 Bukovany 142"
+    },
+    {
       "role": "výkonný tajemník",
       "jmeno": "Martin Vrtiška",
       "datum_narozeni": "1970-08-12",
       "adresa": "Na Kohoutě 332/3, 400 10 Ústí nad Labem"
-    },
-    {
-      "role": "člen",
-      "jmeno": "Jindřich Novák",
-      "datum_narozeni": "1976-04-24",
-      "adresa": "Jizerská 2939/53, 400 11 Ústí nad Labem"
     }
   ]
 }

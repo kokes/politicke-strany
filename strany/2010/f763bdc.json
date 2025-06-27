@@ -8,16 +8,16 @@
   "statutarni_organ": "Rada, za kterou jedná  a podepisuje předseda nebo jím pověřený místopředseda.",
   "osoby": [
     {
-      "role": "předseda a pokladník",
-      "jmeno": "Mgr. Petra  Bostlová",
-      "datum_narozeni": "1970-04-04",
-      "adresa": "Stoliční 1205/6, 405 02 Děčín"
-    },
-    {
       "role": "místopředseda",
       "jmeno": "Eduard  Lažanský",
       "datum_narozeni": "1972-11-11",
       "adresa": "Na Podlesí 1440, 432 01 Kadaň"
+    },
+    {
+      "role": "předseda a pokladník",
+      "jmeno": "Mgr. Petra  Bostlová",
+      "datum_narozeni": "1970-04-04",
+      "adresa": "Stoliční 1205/6, 405 02 Děčín"
     }
   ]
 }

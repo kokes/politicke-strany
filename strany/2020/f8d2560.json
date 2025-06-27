@@ -8,12 +8,6 @@
   "statutarni_organ": "Předsednictvo, za které jedná předseda.",
   "osoby": [
     {
-      "role": "předseda",
-      "jmeno": "Ing. Jakub Šťastný",
-      "datum_narozeni": "1984-01-07",
-      "adresa": "Chválkovická 109/14, 779 00 Olomouc"
-    },
-    {
       "role": "místopředseda",
       "jmeno": "MUDr. Ladislav Jabůrek PhD.",
       "datum_narozeni": "1952-09-07",
@@ -24,6 +18,12 @@
       "jmeno": "Prof. Jiří Fiala",
       "datum_narozeni": "1944-04-03",
       "adresa": "I. P. Pavlova 1001/38, 779 00 Olomouc"
+    },
+    {
+      "role": "předseda",
+      "jmeno": "Ing. Jakub Šťastný",
+      "datum_narozeni": "1984-01-07",
+      "adresa": "Chválkovická 109/14, 779 00 Olomouc"
     }
   ]
 }

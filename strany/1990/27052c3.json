@@ -8,22 +8,10 @@
   "statutarni_organ": "Statutární orgán strany; předseda a místopředsedové. V neběžných záležitostech (politické dohody, půjčky apod.) je potřeba podpisu tří statutárních zástžupců, jeden z nich vždy předseda.",
   "osoby": [
     {
-      "role": "předseda",
-      "jmeno": "Mgr. Marcela Kozerová",
-      "datum_narozeni": "1945-01-29",
-      "adresa": "Družby 340, 530 09 Pardubice"
-    },
-    {
       "role": "1. místopředseda",
       "jmeno": "Miroslav Neubert",
       "datum_narozeni": "1938-06-12",
       "adresa": "Osiková 3219, 415 01 Teplice"
-    },
-    {
-      "role": "místopředseda",
-      "jmeno": "Ing. Zdeněk Mašek, CSc.",
-      "datum_narozeni": "1934-07-07",
-      "adresa": "Zeyerova 923/12, 779 00 Olomouc"
     },
     {
       "role": "místopředseda",
@@ -33,9 +21,21 @@
     },
     {
       "role": "místopředseda",
+      "jmeno": "Ing. Zdeněk Mašek, CSc.",
+      "datum_narozeni": "1934-07-07",
+      "adresa": "Zeyerova 923/12, 779 00 Olomouc"
+    },
+    {
+      "role": "místopředseda",
       "jmeno": "Mgr. Miroslava Zatloukalová",
       "datum_narozeni": "1933-01-09",
       "adresa": "Staňkova 232/16, 700 30 Ostrava"
+    },
+    {
+      "role": "předseda",
+      "jmeno": "Mgr. Marcela Kozerová",
+      "datum_narozeni": "1945-01-29",
+      "adresa": "Družby 340, 530 09 Pardubice"
     }
   ]
 }

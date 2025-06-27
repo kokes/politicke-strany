@@ -8,12 +8,6 @@
   "statutarni_organ": "Představenstvo, jehož jménem jedná předseda nebo společně dva členové představenstva.",
   "osoby": [
     {
-      "role": "předseda",
-      "jmeno": "Mgr. Rudolf Karel Mazáč",
-      "datum_narozeni": "1939-09-01",
-      "adresa": "Pod vilami 756/14, 140 00 Praha"
-    },
-    {
       "role": "člen",
       "jmeno": "Ladislav Kunert",
       "datum_narozeni": "1958-12-29",
@@ -23,6 +17,12 @@
       "role": "člen",
       "jmeno": "Václav Kraml",
       "datum_narozeni": "1966-07-28",
+      "adresa": "Pod vilami 756/14, 140 00 Praha"
+    },
+    {
+      "role": "předseda",
+      "jmeno": "Mgr. Rudolf Karel Mazáč",
+      "datum_narozeni": "1939-09-01",
       "adresa": "Pod vilami 756/14, 140 00 Praha"
     }
   ]

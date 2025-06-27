@@ -8,11 +8,6 @@
   "statutarni_organ": "Předsednictvo, za které jedná předseda, případně místopředseda nebo pověřený člen předsednictva.",
   "osoby": [
     {
-      "role": "předseda",
-      "jmeno": "",
-      "adresa": ""
-    },
-    {
       "role": "člen",
       "jmeno": "Roman Kolodziej",
       "datum_narozeni": "1971-08-31",
@@ -29,6 +24,11 @@
       "jmeno": "Jana Zamrazilová",
       "datum_narozeni": "1948-10-29",
       "adresa": "Mládí 1102/5, 736 01 Havířov"
+    },
+    {
+      "role": "předseda",
+      "jmeno": "",
+      "adresa": ""
     }
   ]
 }

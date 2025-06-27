@@ -8,12 +8,6 @@
   "statutarni_organ": "Politická rada, za kterou jedná předseda nebo dva její členové společně.",
   "osoby": [
     {
-      "role": "předseda",
-      "jmeno": "Ing. Vladimír Duchek, Ph.D.",
-      "datum_narozeni": "1965-07-01",
-      "adresa": "Na Mazinách 112/16, 322 00 Plzeň"
-    },
-    {
       "role": "člen",
       "jmeno": "Ing. Jan  Anderle",
       "datum_narozeni": "1956-03-15",
@@ -24,6 +18,12 @@
       "jmeno": "Mgr. Stanislav Frank",
       "datum_narozeni": "1955-06-23",
       "adresa": "Habrmannovo náměstí 682/7, 312 11 Plzeň"
+    },
+    {
+      "role": "předseda",
+      "jmeno": "Ing. Vladimír Duchek, Ph.D.",
+      "datum_narozeni": "1965-07-01",
+      "adresa": "Na Mazinách 112/16, 322 00 Plzeň"
     }
   ]
 }

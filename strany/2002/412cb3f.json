@@ -8,15 +8,15 @@
   "statutarni_organ": "Předseda a první místopředseda strany, kteří jednají každý samostatně.",
   "osoby": [
     {
-      "role": "předseda",
-      "jmeno": "Mgr. Petr Hannig",
-      "datum_narozeni": "1946-01-20",
-      "adresa": "Na lhotech 732/1, 148 00 Praha"
-    },
-    {
       "role": "1.místopředsedkyně",
       "jmeno": "Silvia Weiszová",
       "datum_narozeni": "1967-07-05",
+      "adresa": "Na lhotech 732/1, 148 00 Praha"
+    },
+    {
+      "role": "předseda",
+      "jmeno": "Mgr. Petr Hannig",
+      "datum_narozeni": "1946-01-20",
       "adresa": "Na lhotech 732/1, 148 00 Praha"
     }
   ]

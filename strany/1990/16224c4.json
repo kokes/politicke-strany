@@ -8,12 +8,6 @@
   "statutarni_organ": "Předsednictvo ústřední rady, jehož jménem jedná společně předseda a jeden z místopředsedů nebo společně dva místopředsedové.",
   "osoby": [
     {
-      "role": "předseda",
-      "jmeno": "Ing. Miroslav  Matějka",
-      "datum_narozeni": "1967-03-25",
-      "adresa": "Slovanská 1970/95, 326 00 Plzeň"
-    },
-    {
       "role": "1. místopředseda",
       "jmeno": "Ing. František Laudát",
       "datum_narozeni": "1960-03-13",
@@ -24,6 +18,12 @@
       "jmeno": "Martina Žornová",
       "datum_narozeni": "1967-10-27",
       "adresa": "Nad Hrázkou 726, 281 61 Kouřim"
+    },
+    {
+      "role": "předseda",
+      "jmeno": "Ing. Miroslav  Matějka",
+      "datum_narozeni": "1967-03-25",
+      "adresa": "Slovanská 1970/95, 326 00 Plzeň"
     }
   ]
 }

@@ -8,7 +8,7 @@
   "statutarni_organ": "Ceslostátní předsednictvo, za které jedná předseda, v jeho nepřítomnosti místopředseda nebo další pověřený člen předsednictva.",
   "osoby": [
     {
-      "role": "předseda",
+      "role": "člen",
       "jmeno": "",
       "adresa": ""
     },
@@ -18,7 +18,7 @@
       "adresa": ""
     },
     {
-      "role": "člen",
+      "role": "předseda",
       "jmeno": "",
       "adresa": ""
     }

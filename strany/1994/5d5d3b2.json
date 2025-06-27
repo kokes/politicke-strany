@@ -8,10 +8,10 @@
   "statutarni_organ": "Za SNK ČB jednají vždy 2 funkcionáři, a to buď předseda a místopředseda společně nebo jednatel a pokladník společně.",
   "osoby": [
     {
-      "role": "předseda",
-      "jmeno": "PhDr. Jaromír  Procházka",
-      "datum_narozeni": "1951-11-28",
-      "adresa": "nám. Přemysla Otakara II. 50/14, 370 01 České Budějovice"
+      "role": "jednatel",
+      "jmeno": "Jiří Milisdörfer",
+      "datum_narozeni": "1945-05-07",
+      "adresa": "Na Nábřeží 661/15, 370 01 České Budějovice"
     },
     {
       "role": "místopředseda",
@@ -19,15 +19,15 @@
       "adresa": "/, /"
     },
     {
+      "role": "předseda",
+      "jmeno": "PhDr. Jaromír  Procházka",
+      "datum_narozeni": "1951-11-28",
+      "adresa": "nám. Přemysla Otakara II. 50/14, 370 01 České Budějovice"
+    },
+    {
       "role": "pokladník",
       "jmeno": "Miroslav Pokorný",
       "adresa": "/, /"
-    },
-    {
-      "role": "jednatel",
-      "jmeno": "Jiří Milisdörfer",
-      "datum_narozeni": "1945-05-07",
-      "adresa": "Na Nábřeží 661/15, 370 01 České Budějovice"
     }
   ]
 }

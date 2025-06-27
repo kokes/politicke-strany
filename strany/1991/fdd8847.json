@@ -8,58 +8,16 @@
   "statutarni_organ": "Předsednictvo, za které jsou oprávněni jednat samostatně předseda nebo místopředseda spolu s alespoň jedním dalším členem předsednictva.",
   "osoby": [
     {
-      "role": "předseda",
-      "jmeno": "Vojtěch Círus",
-      "datum_narozeni": "1995-11-11",
-      "adresa": "266 01 Svatý Jan pod Skalou 17"
-    },
-    {
       "role": "Generální sekretář",
       "jmeno": "Martin Váňa",
       "datum_narozeni": "1988-05-30",
       "adresa": "Eliášova 300/6, 160 00 Praha"
     },
     {
-      "role": "místopředseda",
-      "jmeno": "Luboš Samuel  Erbandorf",
-      "datum_narozeni": "1984-06-03",
-      "adresa": "Poznaňská 439/25, 181 00 Praha"
-    },
-    {
       "role": "český zemský hejtman",
       "jmeno": "Luboš Samuel  Erbandorf",
       "datum_narozeni": "1984-06-03",
       "adresa": "Poznaňská 439/25, 181 00 Praha"
-    },
-    {
-      "role": "moravský zemský hejtman",
-      "jmeno": "Pavel Andrš",
-      "datum_narozeni": "1964-03-24",
-      "adresa": "V kotlině 352/4, 779 00 Olomouc"
-    },
-    {
-      "role": "slezský zemský hejtman",
-      "jmeno": "Romana Hegrová",
-      "datum_narozeni": "1974-02-07",
-      "adresa": "739 53 Horní Tošanovice 156"
-    },
-    {
-      "role": "člen předsednictva",
-      "jmeno": "Jindřich Holub",
-      "datum_narozeni": "1968-09-23",
-      "adresa": "Pohleď 3, 582 91 Světlá nad Sázavou"
-    },
-    {
-      "role": "člen předsednictva",
-      "jmeno": "Matěj Čadil",
-      "datum_narozeni": "1985-12-05",
-      "adresa": "Svatovítská 906/6, 160 00 Praha"
-    },
-    {
-      "role": "člen předsednictva",
-      "jmeno": "Miroslav Pošvář",
-      "datum_narozeni": "1965-12-13",
-      "adresa": "Reinitzova 325, 538 51 Chrast"
     },
     {
       "role": "člen předsednictva",
@@ -75,9 +33,51 @@
     },
     {
       "role": "člen předsednictva",
+      "jmeno": "Jindřich Holub",
+      "datum_narozeni": "1968-09-23",
+      "adresa": "Pohleď 3, 582 91 Světlá nad Sázavou"
+    },
+    {
+      "role": "člen předsednictva",
       "jmeno": "Josef Kudrna",
       "datum_narozeni": "1987-05-27",
       "adresa": "503 64 Měník 31"
+    },
+    {
+      "role": "člen předsednictva",
+      "jmeno": "Matěj Čadil",
+      "datum_narozeni": "1985-12-05",
+      "adresa": "Svatovítská 906/6, 160 00 Praha"
+    },
+    {
+      "role": "člen předsednictva",
+      "jmeno": "Miroslav Pošvář",
+      "datum_narozeni": "1965-12-13",
+      "adresa": "Reinitzova 325, 538 51 Chrast"
+    },
+    {
+      "role": "místopředseda",
+      "jmeno": "Luboš Samuel  Erbandorf",
+      "datum_narozeni": "1984-06-03",
+      "adresa": "Poznaňská 439/25, 181 00 Praha"
+    },
+    {
+      "role": "moravský zemský hejtman",
+      "jmeno": "Pavel Andrš",
+      "datum_narozeni": "1964-03-24",
+      "adresa": "V kotlině 352/4, 779 00 Olomouc"
+    },
+    {
+      "role": "předseda",
+      "jmeno": "Vojtěch Círus",
+      "datum_narozeni": "1995-11-11",
+      "adresa": "266 01 Svatý Jan pod Skalou 17"
+    },
+    {
+      "role": "slezský zemský hejtman",
+      "jmeno": "Romana Hegrová",
+      "datum_narozeni": "1974-02-07",
+      "adresa": "739 53 Horní Tošanovice 156"
     }
   ]
 }

@@ -8,12 +8,6 @@
   "statutarni_organ": "Předsednictvo, za které jednají členové samostatně..",
   "osoby": [
     {
-      "role": "předseda",
-      "jmeno": "Petr Kalousek",
-      "datum_narozeni": "1980-04-12",
-      "adresa": "Tučkova 981/20, 602 00 Brno"
-    },
-    {
       "role": "1. místopředseda",
       "jmeno": "Michal Sadílek",
       "datum_narozeni": "1981-08-27",
@@ -24,6 +18,12 @@
       "jmeno": "Radim Horák",
       "datum_narozeni": "1981-07-20",
       "adresa": "Kamenná čtvrť 570/6a, 639 00 Brno"
+    },
+    {
+      "role": "předseda",
+      "jmeno": "Petr Kalousek",
+      "datum_narozeni": "1980-04-12",
+      "adresa": "Tučkova 981/20, 602 00 Brno"
     }
   ]
 }

@@ -8,10 +8,10 @@
   "statutarni_organ": "Představenstvo, za které jedná navenek jménem hnutí samostatně předseda představenstva nebo společně dva členové představenstva, z nichž alespoň jeden je místopředsedou představenstva.",
   "osoby": [
     {
-      "role": "předseda",
-      "jmeno": "Ing. Jiří Švrček, MBA",
-      "datum_narozeni": "1969-04-22",
-      "adresa": "739 12 Čeladná 791"
+      "role": "člen",
+      "jmeno": "Oldřich Uher",
+      "datum_narozeni": "1960-10-22",
+      "adresa": "739 12 Čeladná 767"
     },
     {
       "role": "místopředseda",
@@ -19,10 +19,10 @@
       "adresa": ""
     },
     {
-      "role": "člen",
-      "jmeno": "Oldřich Uher",
-      "datum_narozeni": "1960-10-22",
-      "adresa": "739 12 Čeladná 767"
+      "role": "předseda",
+      "jmeno": "Ing. Jiří Švrček, MBA",
+      "datum_narozeni": "1969-04-22",
+      "adresa": "739 12 Čeladná 791"
     }
   ]
 }

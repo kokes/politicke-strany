@@ -8,11 +8,6 @@
   "statutarni_organ": "předseda a místopředsedové, kteří jednají samostatně",
   "osoby": [
     {
-      "role": "předseda",
-      "jmeno": "Marek  Tomčala",
-      "adresa": "Trávník 1315/28, 750 02 Přerov"
-    },
-    {
       "role": "1. místopředseda",
       "jmeno": "Jana  Šebestová",
       "adresa": "Trávník 628/9, 750 02 Přerov"
@@ -21,6 +16,11 @@
       "role": "2. místopředseda",
       "jmeno": "Robert Snášel",
       "adresa": "Dvořákova 1536/22, 750 02 Přerov"
+    },
+    {
+      "role": "předseda",
+      "jmeno": "Marek  Tomčala",
+      "adresa": "Trávník 1315/28, 750 02 Přerov"
     }
   ]
 }

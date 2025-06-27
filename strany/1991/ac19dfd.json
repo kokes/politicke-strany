@@ -8,16 +8,40 @@
   "statutarni_organ": "Předsednictvo, za které jedná předseda nebo 1. místopředseda.",
   "osoby": [
     {
-      "role": "předseda",
-      "jmeno": "Mgr. Marek Výborný",
-      "datum_narozeni": "1976-07-10",
-      "adresa": "Konopáčská 948, 538 03 Heřmanův Městec"
-    },
-    {
       "role": "1. místopředseda",
       "jmeno": "MVDr. Pavel Bělobrádek, Ph.D., MPA",
       "datum_narozeni": "1976-12-25",
       "adresa": "Vodárenská 1808, 547 01 Náchod"
+    },
+    {
+      "role": "generální sekretář",
+      "jmeno": "Mgr. Pavel Hořava",
+      "datum_narozeni": "1956-09-22",
+      "adresa": "Hermannova 71/16, 625 00 Brno"
+    },
+    {
+      "role": "místopředseda",
+      "jmeno": "Mgr. Eduard Hulicius, M.A.",
+      "datum_narozeni": "1980-10-28",
+      "adresa": "Nad Klikovkou 1402/15, 150 00 Praha"
+    },
+    {
+      "role": "místopředseda",
+      "jmeno": "PhDr. Jiří Horák, Ph.D.",
+      "datum_narozeni": "1984-07-24",
+      "adresa": "U Dráhy 637, 685 01 Bučovice"
+    },
+    {
+      "role": "místopředseda",
+      "jmeno": "Václav Pláteník, MA LLM",
+      "datum_narozeni": "1990-04-02",
+      "adresa": "Lhota 35, 756 42 Valašské Meziříčí"
+    },
+    {
+      "role": "místopředsedkyně",
+      "jmeno": "Mgr. Monika Brzesková",
+      "datum_narozeni": "1977-06-11",
+      "adresa": "Opavská 127/131, 747 21 Kravaře"
     },
     {
       "role": "předseda poslaneckého klubu",
@@ -32,34 +56,10 @@
       "adresa": "Barákova 28/5, 591 01 Žďár nad Sázavou"
     },
     {
-      "role": "místopředsedkyně",
-      "jmeno": "Mgr. Monika Brzesková",
-      "datum_narozeni": "1977-06-11",
-      "adresa": "Opavská 127/131, 747 21 Kravaře"
-    },
-    {
-      "role": "místopředseda",
-      "jmeno": "PhDr. Jiří Horák, Ph.D.",
-      "datum_narozeni": "1984-07-24",
-      "adresa": "U Dráhy 637, 685 01 Bučovice"
-    },
-    {
-      "role": "místopředseda",
-      "jmeno": "Mgr. Eduard Hulicius, M.A.",
-      "datum_narozeni": "1980-10-28",
-      "adresa": "Nad Klikovkou 1402/15, 150 00 Praha"
-    },
-    {
-      "role": "místopředseda",
-      "jmeno": "Václav Pláteník, MA LLM",
-      "datum_narozeni": "1990-04-02",
-      "adresa": "Lhota 35, 756 42 Valašské Meziříčí"
-    },
-    {
-      "role": "generální sekretář",
-      "jmeno": "Mgr. Pavel Hořava",
-      "datum_narozeni": "1956-09-22",
-      "adresa": "Hermannova 71/16, 625 00 Brno"
+      "role": "předseda",
+      "jmeno": "Mgr. Marek Výborný",
+      "datum_narozeni": "1976-07-10",
+      "adresa": "Konopáčská 948, 538 03 Heřmanův Městec"
     }
   ]
 }

@@ -8,7 +8,7 @@
   "statutarni_organ": "Představenstvo, za které jedná předseda samostatně nebo dva místopředsedové společně.",
   "osoby": [
     {
-      "role": "předseda",
+      "role": "člen předsednictva",
       "jmeno": "",
       "adresa": ""
     },
@@ -18,7 +18,7 @@
       "adresa": ""
     },
     {
-      "role": "člen předsednictva",
+      "role": "předseda",
       "jmeno": "",
       "adresa": ""
     }

@@ -8,10 +8,10 @@
   "statutarni_organ": "Předsednictvo, za které jedná samostatně předseda nebo společně místopředseda a další člen předsednictva.",
   "osoby": [
     {
-      "role": "předseda",
-      "jmeno": "Radek Kňava",
-      "datum_narozeni": "1981-01-21",
-      "adresa": "třída Míru 70, 530 02 Pardubice"
+      "role": "členka",
+      "jmeno": "Hana Filipová",
+      "datum_narozeni": "1970-02-16",
+      "adresa": "533 04 Sezemice 18"
     },
     {
       "role": "místopředseda",
@@ -20,10 +20,10 @@
       "adresa": "Baštecká 179, 281 23 Starý Kolín"
     },
     {
-      "role": "členka",
-      "jmeno": "Hana Filipová",
-      "datum_narozeni": "1970-02-16",
-      "adresa": "533 04 Sezemice 18"
+      "role": "předseda",
+      "jmeno": "Radek Kňava",
+      "datum_narozeni": "1981-01-21",
+      "adresa": "třída Míru 70, 530 02 Pardubice"
     }
   ]
 }

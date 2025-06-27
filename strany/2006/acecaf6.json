@@ -8,16 +8,16 @@
   "statutarni_organ": "Vedení strany, za které jedná předseda.",
   "osoby": [
     {
-      "role": "předseda",
-      "jmeno": "Ing. Bohumil  Vejtasa",
-      "datum_narozeni": "1950-02-26",
-      "adresa": "Loretánské náměstí 108/2, 118 00 Praha"
-    },
-    {
       "role": "místopředseda",
       "jmeno": "PaedDr. Lubomír Mácha",
       "datum_narozeni": "1956-06-02",
       "adresa": "Verdunská 910/28, 160 00 Praha"
+    },
+    {
+      "role": "předseda",
+      "jmeno": "Ing. Bohumil  Vejtasa",
+      "datum_narozeni": "1950-02-26",
+      "adresa": "Loretánské náměstí 108/2, 118 00 Praha"
     },
     {
       "role": "vedoucí regionu Praha",

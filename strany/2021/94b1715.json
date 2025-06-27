@@ -8,11 +8,6 @@
   "statutarni_organ": "Předsednictvo, za které jedná samostatně předseda a 1. místopředseda.",
   "osoby": [
     {
-      "role": "předseda",
-      "jmeno": "",
-      "adresa": ""
-    },
-    {
       "role": "1. místopředseda",
       "jmeno": "Jiří Janeček",
       "datum_narozeni": "1973-12-29",
@@ -35,6 +30,11 @@
       "jmeno": "Radek Žďárecký",
       "datum_narozeni": "1969-10-19",
       "adresa": "Střížovická 1036/32A, 400 01 Ústí nad Labem"
+    },
+    {
+      "role": "předseda",
+      "jmeno": "",
+      "adresa": ""
     }
   ]
 }

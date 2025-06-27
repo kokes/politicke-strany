@@ -8,16 +8,16 @@
   "statutarni_organ": "předseda, místopředseda, tajemník",
   "osoby": [
     {
-      "role": "předseda",
-      "jmeno": "Ing. Martin  Žežula",
-      "datum_narozeni": "1929-12-03",
-      "adresa": "Obránců míru  123, 160 00 Praha 6"
-    },
-    {
       "role": "místopředseda",
       "jmeno": "doc. dr. Ján Liguš",
       "datum_narozeni": "1941-07-02",
       "adresa": "Nechvílova 1838/15, 148 00 Praha"
+    },
+    {
+      "role": "předseda",
+      "jmeno": "Ing. Martin  Žežula",
+      "datum_narozeni": "1929-12-03",
+      "adresa": "Obránců míru  123, 160 00 Praha 6"
     },
     {
       "role": "tajemník",

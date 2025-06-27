@@ -8,16 +8,10 @@
   "statutarni_organ": "Výbor, za který jednají vždy společně alespoň dva členové výboru.",
   "osoby": [
     {
-      "role": "předseda",
-      "jmeno": "Bc. Adam Hanus",
-      "datum_narozeni": "1984-12-21",
-      "adresa": "742 21 Kopřivnice 633"
-    },
-    {
-      "role": "místopředseda",
-      "jmeno": "doc. Ing. arch. Kamil Mrva, Ph.D.",
-      "datum_narozeni": "1974-07-20",
-      "adresa": "Záhumenní 1358/30C, 742 21 Kopřivnice"
+      "role": "člen výboru",
+      "jmeno": "Bc. Jakub Kletenský",
+      "datum_narozeni": "1988-08-30",
+      "adresa": "Sokolovská 687/11, 742 21 Kopřivnice"
     },
     {
       "role": "člen výboru",
@@ -27,15 +21,21 @@
     },
     {
       "role": "člen výboru",
-      "jmeno": "Bc. Jakub Kletenský",
-      "datum_narozeni": "1988-08-30",
-      "adresa": "Sokolovská 687/11, 742 21 Kopřivnice"
-    },
-    {
-      "role": "člen výboru",
       "jmeno": "Mgr. Jiří Lípový",
       "datum_narozeni": "1986-04-28",
       "adresa": "Kpt. Nálepky 1071/6, 742 21 Kopřivnice"
+    },
+    {
+      "role": "místopředseda",
+      "jmeno": "doc. Ing. arch. Kamil Mrva, Ph.D.",
+      "datum_narozeni": "1974-07-20",
+      "adresa": "Záhumenní 1358/30C, 742 21 Kopřivnice"
+    },
+    {
+      "role": "předseda",
+      "jmeno": "Bc. Adam Hanus",
+      "datum_narozeni": "1984-12-21",
+      "adresa": "742 21 Kopřivnice 633"
     }
   ]
 }

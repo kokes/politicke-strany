@@ -8,16 +8,16 @@
   "statutarni_organ": "Předsednictvo, za které jedná předseda.",
   "osoby": [
     {
-      "role": "předseda",
-      "jmeno": "Bc. Petr Žampach",
-      "datum_narozeni": "1996-09-18",
-      "adresa": "538 36 Žumberk 132"
-    },
-    {
       "role": "1. místopředseda",
       "jmeno": "Josef Ročeň",
       "datum_narozeni": "1996-08-30",
       "adresa": "539 55 Miřetice 12"
+    },
+    {
+      "role": "místopředseda",
+      "jmeno": "Ing. Milan Sýs, Ph.D.",
+      "datum_narozeni": "1986-09-04",
+      "adresa": "Dukelská 155, 538 54 Luže"
     },
     {
       "role": "místopředsedkyně",
@@ -26,10 +26,10 @@
       "adresa": "565 53 Sloupnice 309"
     },
     {
-      "role": "místopředseda",
-      "jmeno": "Ing. Milan Sýs, Ph.D.",
-      "datum_narozeni": "1986-09-04",
-      "adresa": "Dukelská 155, 538 54 Luže"
+      "role": "předseda",
+      "jmeno": "Bc. Petr Žampach",
+      "datum_narozeni": "1996-09-18",
+      "adresa": "538 36 Žumberk 132"
     }
   ]
 }

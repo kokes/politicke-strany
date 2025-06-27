@@ -8,10 +8,10 @@
   "statutarni_organ": "Předseda a dva místopředsedové, a to vždy dva z jmenovaných společně.",
   "osoby": [
     {
-      "role": "předseda",
-      "jmeno": "Ing. Jan Tamáš",
-      "datum_narozeni": "1976-06-09",
-      "adresa": "Vačkářova 278, 251 01 Dobřejovice"
+      "role": "místopředseda",
+      "jmeno": "Hynek Opolecký",
+      "datum_narozeni": "1985-10-06",
+      "adresa": "Seifertova 455/17, 130 00 Praha"
     },
     {
       "role": "místopředseda",
@@ -20,10 +20,10 @@
       "adresa": "U Děkanky 1648/12, 140 00 Praha"
     },
     {
-      "role": "místopředseda",
-      "jmeno": "Hynek Opolecký",
-      "datum_narozeni": "1985-10-06",
-      "adresa": "Seifertova 455/17, 130 00 Praha"
+      "role": "předseda",
+      "jmeno": "Ing. Jan Tamáš",
+      "datum_narozeni": "1976-06-09",
+      "adresa": "Vačkářova 278, 251 01 Dobřejovice"
     }
   ]
 }

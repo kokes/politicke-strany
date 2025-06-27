@@ -8,10 +8,10 @@
   "statutarni_organ": "Představenstvo, za které jedná předseda.",
   "osoby": [
     {
-      "role": "předseda",
-      "jmeno": "JUDr. Jarmila Pokorná",
-      "datum_narozeni": "1951-03-16",
-      "adresa": "Sportovní 1460, 769 01 Holešov"
+      "role": "člen",
+      "jmeno": "Mgr. Jarmila Růžičková",
+      "datum_narozeni": "1959-05-26",
+      "adresa": "Novosady 1568, 769 01 Holešov"
     },
     {
       "role": "místopředseda",
@@ -20,10 +20,10 @@
       "adresa": "Jiráskova 893/4, 769 01 Holešov"
     },
     {
-      "role": "člen",
-      "jmeno": "Mgr. Jarmila Růžičková",
-      "datum_narozeni": "1959-05-26",
-      "adresa": "Novosady 1568, 769 01 Holešov"
+      "role": "předseda",
+      "jmeno": "JUDr. Jarmila Pokorná",
+      "datum_narozeni": "1951-03-16",
+      "adresa": "Sportovní 1460, 769 01 Holešov"
     }
   ]
 }

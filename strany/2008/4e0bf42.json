@@ -8,22 +8,10 @@
   "statutarni_organ": "Představenstvo hnutí, za které jednají  společně  dva  členové,  z nichž jeden je předsedou a druhý členem představenstva anebo společně tři členové představenstva, z nichž jeden je místopředsedou hnutí a další dva jsou členy představenstva hnutí.",
   "osoby": [
     {
-      "role": "předseda",
-      "jmeno": "Martin  Půta",
-      "datum_narozeni": "1971-09-13",
-      "adresa": "Turistická 197, 463 34 Hrádek nad Nisou"
-    },
-    {
       "role": "1. místopředseda",
       "jmeno": "Ing. Jan  Sviták",
       "datum_narozeni": "1974-08-20",
       "adresa": "471 15 Prysk 101"
-    },
-    {
-      "role": "místopředsedkyně",
-      "jmeno": "Ing. Květa Vinklátová",
-      "datum_narozeni": "1965-09-13",
-      "adresa": "Hrdinů 113/21, 460 01 Liberec"
     },
     {
       "role": "místopředseda",
@@ -33,15 +21,15 @@
     },
     {
       "role": "místopředseda",
-      "jmeno": "Ing. Tomáš Hocke",
-      "datum_narozeni": "1975-07-23",
-      "adresa": "Josefa Štrégla 2164, 511 01 Turnov"
+      "jmeno": "Ing. Radek Lípa",
+      "datum_narozeni": "1979-12-08",
+      "adresa": "470 02 Zákupy 44"
     },
     {
       "role": "místopředseda",
-      "jmeno": "Mgr. Jiří Ulvr",
-      "datum_narozeni": "1972-05-05",
-      "adresa": "512 33 Studenec 399"
+      "jmeno": "Ing. Tomáš Hocke",
+      "datum_narozeni": "1975-07-23",
+      "adresa": "Josefa Štrégla 2164, 511 01 Turnov"
     },
     {
       "role": "místopředseda",
@@ -57,9 +45,21 @@
     },
     {
       "role": "místopředseda",
-      "jmeno": "Ing. Radek Lípa",
-      "datum_narozeni": "1979-12-08",
-      "adresa": "470 02 Zákupy 44"
+      "jmeno": "Mgr. Jiří Ulvr",
+      "datum_narozeni": "1972-05-05",
+      "adresa": "512 33 Studenec 399"
+    },
+    {
+      "role": "místopředsedkyně",
+      "jmeno": "Ing. Květa Vinklátová",
+      "datum_narozeni": "1965-09-13",
+      "adresa": "Hrdinů 113/21, 460 01 Liberec"
+    },
+    {
+      "role": "předseda",
+      "jmeno": "Martin  Půta",
+      "datum_narozeni": "1971-09-13",
+      "adresa": "Turistická 197, 463 34 Hrádek nad Nisou"
     }
   ]
 }

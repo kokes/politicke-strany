@@ -8,17 +8,6 @@
   "statutarni_organ": "Předsednictvo, za které jedná předseda nebo místopředseda, a to každý samostatně.",
   "osoby": [
     {
-      "role": "předseda",
-      "jmeno": "Miroslav Vaněk",
-      "datum_narozeni": "1966-09-16",
-      "adresa": "Chebská 248/29, 360 06 Karlovy Vary"
-    },
-    {
-      "role": "místopředsedkyně",
-      "jmeno": "JUDr. Hana Zakreničná",
-      "adresa": "Kvapilova 344/30, 360 01 Karlovy Vary"
-    },
-    {
       "role": "člen",
       "jmeno": "Jakub Žikeš",
       "datum_narozeni": "1976-09-12",
@@ -29,6 +18,17 @@
       "jmeno": "Josef Kopfstein",
       "datum_narozeni": "1947-02-08",
       "adresa": "Jana Opletala 807/5, 360 10 Karlovy Vary"
+    },
+    {
+      "role": "místopředsedkyně",
+      "jmeno": "JUDr. Hana Zakreničná",
+      "adresa": "Kvapilova 344/30, 360 01 Karlovy Vary"
+    },
+    {
+      "role": "předseda",
+      "jmeno": "Miroslav Vaněk",
+      "datum_narozeni": "1966-09-16",
+      "adresa": "Chebská 248/29, 360 06 Karlovy Vary"
     }
   ]
 }

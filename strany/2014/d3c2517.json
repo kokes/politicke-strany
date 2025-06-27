@@ -8,16 +8,10 @@
   "statutarni_organ": "Předsednictvo, za které jedná předseda nebo výkonný místopředseda.",
   "osoby": [
     {
-      "role": "předsedkyně",
-      "jmeno": "Lenka Alinčová",
-      "datum_narozeni": "1958-10-27",
-      "adresa": "Vožická 982/25, 148 00 Praha"
-    },
-    {
-      "role": "výkonný místopředseda",
-      "jmeno": "Ivan Hýža",
-      "datum_narozeni": "1965-09-16",
-      "adresa": "Františka Šimáčka 387/5, 148 00 Praha"
+      "role": "člen",
+      "jmeno": "Milan Matoušek",
+      "datum_narozeni": "1960-04-14",
+      "adresa": "K Borovíčku 71/12, 148 00 Praha"
     },
     {
       "role": "člen",
@@ -32,12 +26,6 @@
       "adresa": "Kostelní náměstí 17, 148 00 Praha"
     },
     {
-      "role": "člen",
-      "jmeno": "Milan Matoušek",
-      "datum_narozeni": "1960-04-14",
-      "adresa": "K Borovíčku 71/12, 148 00 Praha"
-    },
-    {
       "role": "členka",
       "jmeno": "Kateřina Talichová",
       "datum_narozeni": "1979-03-06",
@@ -48,6 +36,18 @@
       "jmeno": "Petra Hilmarová",
       "datum_narozeni": "1973-07-22",
       "adresa": "Herrova 1553/14, 148 00 Praha"
+    },
+    {
+      "role": "předsedkyně",
+      "jmeno": "Lenka Alinčová",
+      "datum_narozeni": "1958-10-27",
+      "adresa": "Vožická 982/25, 148 00 Praha"
+    },
+    {
+      "role": "výkonný místopředseda",
+      "jmeno": "Ivan Hýža",
+      "datum_narozeni": "1965-09-16",
+      "adresa": "Františka Šimáčka 387/5, 148 00 Praha"
     }
   ]
 }

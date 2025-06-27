@@ -8,16 +8,10 @@
   "statutarni_organ": "Za představenstvo jednají vždy dva členové společně, z nichž jeden musí být předseda nebo místopředseda představenstva.",
   "osoby": [
     {
-      "role": "předseda",
-      "jmeno": "Ing. Dalibor  Stejskal",
-      "datum_narozeni": "1953-07-16",
-      "adresa": "Spořická 748/5A, 184 00 Praha"
-    },
-    {
-      "role": "místopředseda",
-      "jmeno": "Miroslav Vokurka",
-      "datum_narozeni": "1952-02-16",
-      "adresa": "Osecká 547/12, 184 00 Praha"
+      "role": "člen představenstva",
+      "jmeno": "Antonín  Matějka",
+      "datum_narozeni": "1948-12-21",
+      "adresa": "Prunéřovská 309/11, 184 00 Praha"
     },
     {
       "role": "člen představenstva",
@@ -27,15 +21,21 @@
     },
     {
       "role": "člen představenstva",
-      "jmeno": "Antonín  Matějka",
-      "datum_narozeni": "1948-12-21",
-      "adresa": "Prunéřovská 309/11, 184 00 Praha"
-    },
-    {
-      "role": "člen představenstva",
       "jmeno": "Jaroslava  Plevová",
       "datum_narozeni": "1950-05-27",
       "adresa": "Pod zámečkem 516/6, 184 00 Praha"
+    },
+    {
+      "role": "místopředseda",
+      "jmeno": "Miroslav Vokurka",
+      "datum_narozeni": "1952-02-16",
+      "adresa": "Osecká 547/12, 184 00 Praha"
+    },
+    {
+      "role": "předseda",
+      "jmeno": "Ing. Dalibor  Stejskal",
+      "datum_narozeni": "1953-07-16",
+      "adresa": "Spořická 748/5A, 184 00 Praha"
     }
   ]
 }

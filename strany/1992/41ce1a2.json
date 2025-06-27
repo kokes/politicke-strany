@@ -8,12 +8,6 @@
   "statutarni_organ": "Představenstvo, za které jedná předseda, místopředseda a hospodář spolu s jedním dalším členem představenstva.",
   "osoby": [
     {
-      "role": "předseda",
-      "jmeno": "Stanislav Musil",
-      "datum_narozeni": "1993-04-25",
-      "adresa": "Radnická 1004, 592 31 Nové Město na Moravě"
-    },
-    {
       "role": "člen představenstva",
       "jmeno": "Miroslav  Janatka",
       "datum_narozeni": "1998-02-07",
@@ -23,6 +17,12 @@
       "role": "člen představenstva",
       "jmeno": "RNDr. Mirko  Vaněček",
       "adresa": "Biskupova 68, 130 00 Praha 3"
+    },
+    {
+      "role": "předseda",
+      "jmeno": "Stanislav Musil",
+      "datum_narozeni": "1993-04-25",
+      "adresa": "Radnická 1004, 592 31 Nové Město na Moravě"
     }
   ]
 }

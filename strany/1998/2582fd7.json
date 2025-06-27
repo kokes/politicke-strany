@@ -8,12 +8,6 @@
   "statutarni_organ": "Sbor zástupců, za který jedná předseda.",
   "osoby": [
     {
-      "role": "předseda",
-      "jmeno": "Ing. Luděk Traxmandl",
-      "datum_narozeni": "1958-10-09",
-      "adresa": "Pod Resslem 1978/2, 434 01 Most"
-    },
-    {
       "role": "místopředseda",
       "jmeno": "Jaroslav Kozel",
       "datum_narozeni": "1950-05-02",
@@ -24,6 +18,12 @@
       "jmeno": "František Uhlíř",
       "datum_narozeni": "1939-01-05",
       "adresa": "Konstantina Biebla 2374/7, 434 01 Most"
+    },
+    {
+      "role": "předseda",
+      "jmeno": "Ing. Luděk Traxmandl",
+      "datum_narozeni": "1958-10-09",
+      "adresa": "Pod Resslem 1978/2, 434 01 Most"
     }
   ]
 }

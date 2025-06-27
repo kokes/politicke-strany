@@ -8,12 +8,6 @@
   "statutarni_organ": "Předsednictvo, za které jedná předseda.",
   "osoby": [
     {
-      "role": "předseda",
-      "jmeno": "David Tesař",
-      "datum_narozeni": "1975-12-16",
-      "adresa": "U staré cihelny 2879/5, 130 00 Praha"
-    },
-    {
       "role": "1. místopředseda",
       "jmeno": "Lukáš Neterda",
       "datum_narozeni": "1978-06-08",
@@ -24,6 +18,12 @@
       "jmeno": "Karen  Pumrová",
       "datum_narozeni": "1967-11-06",
       "adresa": "250 01 Dřevčice 144"
+    },
+    {
+      "role": "předseda",
+      "jmeno": "David Tesař",
+      "datum_narozeni": "1975-12-16",
+      "adresa": "U staré cihelny 2879/5, 130 00 Praha"
     }
   ]
 }

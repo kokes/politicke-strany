@@ -8,16 +8,16 @@
   "statutarni_organ": "Výbor, za který jedná předseda nebo místopředseda nebo jiný pověřený člen výboru.",
   "osoby": [
     {
-      "role": "předseda",
-      "jmeno": "František Brendl",
-      "datum_narozeni": "1976-05-20",
-      "adresa": "Spojilská 37, 530 03 Pardubice"
-    },
-    {
       "role": "místopředseda",
       "jmeno": "Libor Hlaváč",
       "datum_narozeni": "1977-03-31",
       "adresa": "Na Drážce 1539, 530 03 Pardubice"
+    },
+    {
+      "role": "předseda",
+      "jmeno": "František Brendl",
+      "datum_narozeni": "1976-05-20",
+      "adresa": "Spojilská 37, 530 03 Pardubice"
     },
     {
       "role": "pokladník",

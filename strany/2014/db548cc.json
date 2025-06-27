@@ -8,16 +8,10 @@
   "statutarni_organ": "Předsednictvo, za které jedná samostatně předseda nebo dva místopředsedové společně.",
   "osoby": [
     {
-      "role": "předseda",
-      "jmeno": "Mgr. Dalibor  Mlejnský",
-      "datum_narozeni": "1969-11-10",
-      "adresa": "Jarníkova 1875/14, 148 00 Praha"
-    },
-    {
-      "role": "místopředsedkyně",
-      "jmeno": "Hana Zimová",
-      "datum_narozeni": "1964-04-26",
-      "adresa": "Donovalská 1862/51, 149 00 Praha"
+      "role": "místopředseda",
+      "jmeno": "Petr Sýkora",
+      "datum_narozeni": "1965-02-23",
+      "adresa": "Brandlova 1383/14, 149 00 Praha"
     },
     {
       "role": "místopředseda",
@@ -26,10 +20,16 @@
       "adresa": "Platanová 964, 252 42 Jesenice"
     },
     {
-      "role": "místopředseda",
-      "jmeno": "Petr Sýkora",
-      "datum_narozeni": "1965-02-23",
-      "adresa": "Brandlova 1383/14, 149 00 Praha"
+      "role": "místopředsedkyně",
+      "jmeno": "Hana Zimová",
+      "datum_narozeni": "1964-04-26",
+      "adresa": "Donovalská 1862/51, 149 00 Praha"
+    },
+    {
+      "role": "předseda",
+      "jmeno": "Mgr. Dalibor  Mlejnský",
+      "datum_narozeni": "1969-11-10",
+      "adresa": "Jarníkova 1875/14, 148 00 Praha"
     }
   ]
 }

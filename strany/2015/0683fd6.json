@@ -8,12 +8,6 @@
   "statutarni_organ": "Výkonný výbor, za který jedná samostatně předseda nebo první místopředseda s dalším místopředsedou.",
   "osoby": [
     {
-      "role": "předseda",
-      "jmeno": "Václav Posířil",
-      "datum_narozeni": "1983-07-31",
-      "adresa": "289 32 Hrubý Jeseník 266"
-    },
-    {
       "role": "1.místopředsedkyně",
       "jmeno": "Martina Hrušková",
       "datum_narozeni": "1969-12-16",
@@ -30,6 +24,12 @@
       "jmeno": "Milan Skopový",
       "datum_narozeni": "1973-08-30",
       "adresa": "Zárubova 514/1, 142 00 Praha"
+    },
+    {
+      "role": "předseda",
+      "jmeno": "Václav Posířil",
+      "datum_narozeni": "1983-07-31",
+      "adresa": "289 32 Hrubý Jeseník 266"
     }
   ]
 }

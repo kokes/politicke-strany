@@ -8,16 +8,16 @@
   "statutarni_organ": "Výkonná rada, za kterou jedná předseda spolu s jedním z místopředsedů.",
   "osoby": [
     {
-      "role": "předseda",
-      "jmeno": "Jiří Lobkowicz",
-      "datum_narozeni": "1956-04-23",
-      "adresa": "Svatováclavská 19/16, 276 01 Mělník"
-    },
-    {
       "role": "1. místopředseda",
       "jmeno": "Helena  Frankenbergerová",
       "datum_narozeni": "1949-10-10",
       "adresa": "Mařákova 269/4, 160 00 Praha"
+    },
+    {
+      "role": "člen VR",
+      "jmeno": "Bořek Severa",
+      "datum_narozeni": "1950-07-26",
+      "adresa": "Na Šafránce 1812/43, 101 00 Praha"
     },
     {
       "role": "člen VR",
@@ -44,10 +44,10 @@
       "adresa": "Příčná 1892/4, 110 00 Praha"
     },
     {
-      "role": "člen VR",
-      "jmeno": "Bořek Severa",
-      "datum_narozeni": "1950-07-26",
-      "adresa": "Na Šafránce 1812/43, 101 00 Praha"
+      "role": "předseda",
+      "jmeno": "Jiří Lobkowicz",
+      "datum_narozeni": "1956-04-23",
+      "adresa": "Svatováclavská 19/16, 276 01 Mělník"
     }
   ]
 }

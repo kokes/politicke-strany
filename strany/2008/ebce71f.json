@@ -8,12 +8,6 @@
   "statutarni_organ": "Předsednictvo, které jedná vždy společně dvěma členy, z nichž alespoň jeden je předsedou, druhý členem předsednictva.",
   "osoby": [
     {
-      "role": "předseda",
-      "jmeno": "Jana  Hybášková",
-      "datum_narozeni": "1965-06-26",
-      "adresa": "Na baště sv. Jiří 259/9, 160 00 Praha"
-    },
-    {
       "role": "1. místopředseda",
       "jmeno": "RNDr. Václav Šrámek",
       "datum_narozeni": "1950-08-05",
@@ -23,6 +17,12 @@
       "role": "místopředseda",
       "jmeno": "Jaroslav Čapek",
       "adresa": ""
+    },
+    {
+      "role": "předseda",
+      "jmeno": "Jana  Hybášková",
+      "datum_narozeni": "1965-06-26",
+      "adresa": "Na baště sv. Jiří 259/9, 160 00 Praha"
     }
   ]
 }

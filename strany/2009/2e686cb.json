@@ -8,10 +8,10 @@
   "statutarni_organ": "Republikové předsednictvo, za které jedná předseda.",
   "osoby": [
     {
-      "role": "předseda",
-      "jmeno": "Mgr. Libor Vondráček",
-      "datum_narozeni": "1994-07-29",
-      "adresa": "Sládkův kopec 1089, 377 01 Jindřichův Hradec"
+      "role": "místopředseda",
+      "jmeno": "MUDr. Miroslav Havrda",
+      "datum_narozeni": "1963-10-23",
+      "adresa": "Turinského 1671/4, 500 02 Hradec Králové"
     },
     {
       "role": "místopředseda",
@@ -20,10 +20,10 @@
       "adresa": "Havlíčkova 9, 266 01 Beroun"
     },
     {
-      "role": "místopředseda",
-      "jmeno": "MUDr. Miroslav Havrda",
-      "datum_narozeni": "1963-10-23",
-      "adresa": "Turinského 1671/4, 500 02 Hradec Králové"
+      "role": "předseda",
+      "jmeno": "Mgr. Libor Vondráček",
+      "datum_narozeni": "1994-07-29",
+      "adresa": "Sládkův kopec 1089, 377 01 Jindřichův Hradec"
     }
   ]
 }

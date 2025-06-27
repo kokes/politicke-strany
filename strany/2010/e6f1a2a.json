@@ -8,9 +8,15 @@
   "statutarni_organ": "Rada, jejímž jménem jedná předseda nebo v jeho nepřítomnosti místopředseda, a to samostatně.",
   "osoby": [
     {
-      "role": "předseda",
-      "jmeno": "Mgr. Břetislav  Hrdlička",
-      "datum_narozeni": "1962-01-06",
+      "role": "člen",
+      "jmeno": "Pavel Zach, Dis.",
+      "datum_narozeni": "1973-04-30",
+      "adresa": "386 01 Strakonice 12"
+    },
+    {
+      "role": "archivář",
+      "jmeno": "Ivana Hrdličková",
+      "datum_narozeni": "1966-10-30",
       "adresa": "U Židovského hřbitova 54, 386 01 Strakonice"
     },
     {
@@ -20,16 +26,10 @@
       "adresa": "Bezděkovská 427, 386 01 Strakonice"
     },
     {
-      "role": "archivář",
-      "jmeno": "Ivana Hrdličková",
-      "datum_narozeni": "1966-10-30",
+      "role": "předseda",
+      "jmeno": "Mgr. Břetislav  Hrdlička",
+      "datum_narozeni": "1962-01-06",
       "adresa": "U Židovského hřbitova 54, 386 01 Strakonice"
-    },
-    {
-      "role": "člen",
-      "jmeno": "Pavel Zach, Dis.",
-      "datum_narozeni": "1973-04-30",
-      "adresa": "386 01 Strakonice 12"
     }
   ]
 }

@@ -8,10 +8,10 @@
   "statutarni_organ": "Představenstvo, za které jednají samostatně předseda a místopředseda.",
   "osoby": [
     {
-      "role": "předseda",
-      "jmeno": "PhDr. Jindřich  Kadlec",
-      "datum_narozeni": "1957-12-03",
-      "adresa": "Vondroušova 1161/2, 163 00 Praha"
+      "role": "členka",
+      "jmeno": "MUDr. Markéta Pekárková",
+      "datum_narozeni": "1963-01-24",
+      "adresa": "Socháňova 1134/5, 163 00 Praha"
     },
     {
       "role": "místopředseda",
@@ -20,10 +20,10 @@
       "adresa": "Vondroušova 1217/32, 163 00 Praha"
     },
     {
-      "role": "členka",
-      "jmeno": "MUDr. Markéta Pekárková",
-      "datum_narozeni": "1963-01-24",
-      "adresa": "Socháňova 1134/5, 163 00 Praha"
+      "role": "předseda",
+      "jmeno": "PhDr. Jindřich  Kadlec",
+      "datum_narozeni": "1957-12-03",
+      "adresa": "Vondroušova 1161/2, 163 00 Praha"
     }
   ]
 }

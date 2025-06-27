@@ -8,12 +8,6 @@
   "statutarni_organ": "Předseda a místopředsedové, kteří jednají samostatně. V něběžných záležitostech, kterými je uzavírání politických dohod a zavazování se nad částku vyšší než 50 000,- Kč, je třeba podpisu dvou statutárních zástupců.",
   "osoby": [
     {
-      "role": "předseda",
-      "jmeno": "Pavel Vondráček",
-      "datum_narozeni": "1971-05-14",
-      "adresa": "353 01 Tři Sekery 73"
-    },
-    {
       "role": "místopředseda",
       "jmeno": "Ivan Brezina",
       "datum_narozeni": "1967-09-21",
@@ -24,6 +18,12 @@
       "jmeno": "Petr  Bílek",
       "datum_narozeni": "1974-01-22",
       "adresa": "Nedvězská 3336/2, 100 00 Praha"
+    },
+    {
+      "role": "předseda",
+      "jmeno": "Pavel Vondráček",
+      "datum_narozeni": "1971-05-14",
+      "adresa": "353 01 Tři Sekery 73"
     }
   ]
 }

@@ -8,10 +8,10 @@
   "statutarni_organ": "Předsednictvo, za které jedná předseda.",
   "osoby": [
     {
-      "role": "předseda",
-      "jmeno": "Miroslav Bušovský",
-      "datum_narozeni": "1963-06-08",
-      "adresa": "Machnova 242/16, 196 00 Praha"
+      "role": "místopředseda",
+      "jmeno": "Jiří Miksa",
+      "datum_narozeni": "1964-04-09",
+      "adresa": "Karlovarská 345, 273 61 Velká Dobrá"
     },
     {
       "role": "místopředsedkyně",
@@ -20,10 +20,10 @@
       "adresa": "Machnova 242/16, 196 00 Praha"
     },
     {
-      "role": "místopředseda",
-      "jmeno": "Jiří Miksa",
-      "datum_narozeni": "1964-04-09",
-      "adresa": "Karlovarská 345, 273 61 Velká Dobrá"
+      "role": "předseda",
+      "jmeno": "Miroslav Bušovský",
+      "datum_narozeni": "1963-06-08",
+      "adresa": "Machnova 242/16, 196 00 Praha"
     }
   ]
 }

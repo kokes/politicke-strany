@@ -8,16 +8,16 @@
   "statutarni_organ": "Rada, za kterou jedná předseda nebo místopředseda, přičemž každý jedná samostatně.",
   "osoby": [
     {
-      "role": "předseda",
-      "jmeno": "Ing. Otmar Homolka",
-      "datum_narozeni": "1957-08-25",
-      "adresa": "Moskevská 1681/41, 360 01 Karlovy Vary"
-    },
-    {
       "role": "místopředseda",
       "jmeno": "Jaroslav Fujdiar",
       "datum_narozeni": "1974-02-15",
       "adresa": "Svatošská 302/23, 360 07 Karlovy Vary"
+    },
+    {
+      "role": "předseda",
+      "jmeno": "Ing. Otmar Homolka",
+      "datum_narozeni": "1957-08-25",
+      "adresa": "Moskevská 1681/41, 360 01 Karlovy Vary"
     },
     {
       "role": "pokladník",

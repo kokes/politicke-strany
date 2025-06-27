@@ -8,12 +8,6 @@
   "statutarni_organ": "představenstvo, za které jedná předseda spolu s členem představenstva nebo společně dva členové představenstva, z nichž alespoň jeden je místopředsedou představenstva",
   "osoby": [
     {
-      "role": "předseda",
-      "jmeno": "Raul Cruz",
-      "datum_narozeni": "1964-11-22",
-      "adresa": "Na Výšině 494, 403 31 Ústí nad Labem"
-    },
-    {
       "role": "místopředseda",
       "jmeno": "Ladislav Alinče",
       "datum_narozeni": "1970-06-03",
@@ -24,6 +18,12 @@
       "jmeno": "Petr Kratochvíl",
       "datum_narozeni": "1973-12-15",
       "adresa": "Glennova 2704/3, 400 11 Ústí nad Labem"
+    },
+    {
+      "role": "předseda",
+      "jmeno": "Raul Cruz",
+      "datum_narozeni": "1964-11-22",
+      "adresa": "Na Výšině 494, 403 31 Ústí nad Labem"
     }
   ]
 }

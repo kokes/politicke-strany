@@ -8,10 +8,10 @@
   "statutarni_organ": "Výbor, za který jedná předseda.",
   "osoby": [
     {
-      "role": "předsedkyně",
-      "jmeno": "RNDr. Gabriela Licková, Ph.D.",
-      "datum_narozeni": "1967-08-29",
-      "adresa": "Blanická 166/20, 350 02 Cheb"
+      "role": "člen",
+      "jmeno": "Lukáš Hofrajtr",
+      "datum_narozeni": "1983-11-24",
+      "adresa": "Židovská 399/22, 350 02 Cheb"
     },
     {
       "role": "člen",
@@ -20,10 +20,10 @@
       "adresa": "Mírová 2018/13, 350 02 Cheb"
     },
     {
-      "role": "člen",
-      "jmeno": "Lukáš Hofrajtr",
-      "datum_narozeni": "1983-11-24",
-      "adresa": "Židovská 399/22, 350 02 Cheb"
+      "role": "předsedkyně",
+      "jmeno": "RNDr. Gabriela Licková, Ph.D.",
+      "datum_narozeni": "1967-08-29",
+      "adresa": "Blanická 166/20, 350 02 Cheb"
     }
   ]
 }

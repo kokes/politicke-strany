@@ -8,12 +8,6 @@
   "statutarni_organ": "Předsednictvo, za které jedná předseda nebo každý  z místopředsedů samostatně.",
   "osoby": [
     {
-      "role": "předseda",
-      "jmeno": "Jiří  Křemen",
-      "datum_narozeni": "1966-09-27",
-      "adresa": "Na Skalkách 941, 277 11 Neratovice"
-    },
-    {
       "role": "1. místopředseda",
       "jmeno": "JUDr. Vladimír Musílek",
       "datum_narozeni": "1953-12-21",
@@ -42,6 +36,12 @@
       "jmeno": "Petr Pešek",
       "datum_narozeni": "1963-10-08",
       "adresa": "Luční 314, 435 42 Litvínov"
+    },
+    {
+      "role": "předseda",
+      "jmeno": "Jiří  Křemen",
+      "datum_narozeni": "1966-09-27",
+      "adresa": "Na Skalkách 941, 277 11 Neratovice"
     }
   ]
 }

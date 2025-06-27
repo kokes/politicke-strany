@@ -8,12 +8,6 @@
   "statutarni_organ": "Předsednictvo, za které jednají a podepisují vždy minimálně dva členové, z nichž jeden musí být předseda nebo 1. místopředseda hnutí.",
   "osoby": [
     {
-      "role": "předseda",
-      "jmeno": "Daniel Krutý",
-      "datum_narozeni": "2006-03-25",
-      "adresa": "Chmelová 2893/4, 106 00 Praha"
-    },
-    {
       "role": "1. místopředseda",
       "jmeno": "Petr Jindřichovský",
       "datum_narozeni": "1969-12-02",
@@ -30,6 +24,12 @@
       "jmeno": "Jonáš Továrek",
       "datum_narozeni": "2003-11-11",
       "adresa": "258 01 Tehov 41"
+    },
+    {
+      "role": "předseda",
+      "jmeno": "Daniel Krutý",
+      "datum_narozeni": "2006-03-25",
+      "adresa": "Chmelová 2893/4, 106 00 Praha"
     }
   ]
 }

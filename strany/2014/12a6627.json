@@ -8,16 +8,16 @@
   "statutarni_organ": "Představenstvo, za které jedná předseda nebo v jeho zastoupení 1. místopředseda.",
   "osoby": [
     {
-      "role": "předseda",
-      "jmeno": "František Zoubek",
-      "datum_narozeni": "1945-01-27",
-      "adresa": "Zámecká 1/1A, 664 64 Dolní Kounice"
-    },
-    {
       "role": "1.místopředsedkyně",
       "jmeno": "Dita Leitnerová",
       "datum_narozeni": "1975-09-22",
       "adresa": "Benátská 1004, 570 01 Litomyšl"
+    },
+    {
+      "role": "předseda",
+      "jmeno": "František Zoubek",
+      "datum_narozeni": "1945-01-27",
+      "adresa": "Zámecká 1/1A, 664 64 Dolní Kounice"
     }
   ]
 }

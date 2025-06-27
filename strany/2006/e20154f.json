@@ -8,16 +8,10 @@
   "statutarni_organ": "Výbor, za který jedná a podepisuje předseda nebo výborem hnutí pověřený člen tohoto výboru.",
   "osoby": [
     {
-      "role": "předseda",
-      "jmeno": "Ing. Josef Vejlupek",
-      "datum_narozeni": "1948-01-16",
-      "adresa": "Šeříková 386, 403 21 Ústí nad Labem"
-    },
-    {
-      "role": "místopředseda",
-      "jmeno": "Ing. Jiří Štesl",
-      "datum_narozeni": "1967-08-05",
-      "adresa": "Rubensova 1552/64, 400 03 Ústí nad Labem"
+      "role": "člen",
+      "jmeno": "Miroslav Salava",
+      "datum_narozeni": "1948-12-24",
+      "adresa": "Družstevní 409/25, 400 07 Ústí nad Labem"
     },
     {
       "role": "hospodář",
@@ -26,10 +20,16 @@
       "adresa": "Keplerova 706/18, 400 07 Ústí nad Labem"
     },
     {
-      "role": "člen",
-      "jmeno": "Miroslav Salava",
-      "datum_narozeni": "1948-12-24",
-      "adresa": "Družstevní 409/25, 400 07 Ústí nad Labem"
+      "role": "místopředseda",
+      "jmeno": "Ing. Jiří Štesl",
+      "datum_narozeni": "1967-08-05",
+      "adresa": "Rubensova 1552/64, 400 03 Ústí nad Labem"
+    },
+    {
+      "role": "předseda",
+      "jmeno": "Ing. Josef Vejlupek",
+      "datum_narozeni": "1948-01-16",
+      "adresa": "Šeříková 386, 403 21 Ústí nad Labem"
     }
   ]
 }

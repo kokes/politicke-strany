@@ -8,16 +8,16 @@
   "statutarni_organ": "Předsednictvo, za které jedná předseda samostatně nebo dva členové společně.",
   "osoby": [
     {
-      "role": "předseda",
-      "jmeno": "František  Řehounek",
-      "datum_narozeni": "1968-07-25",
-      "adresa": "Písečná 896/36, 500 09 Hradec Králové"
-    },
-    {
       "role": "místopředseda",
       "jmeno": "Jan Nymsa",
       "datum_narozeni": "1985-10-30",
       "adresa": "Kladská 117/32, 500 03 Hradec Králové"
+    },
+    {
+      "role": "předseda",
+      "jmeno": "František  Řehounek",
+      "datum_narozeni": "1968-07-25",
+      "adresa": "Písečná 896/36, 500 09 Hradec Králové"
     },
     {
       "role": "pokladník",

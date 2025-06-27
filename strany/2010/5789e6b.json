@@ -8,10 +8,16 @@
   "statutarni_organ": "Představenstvo jednající buď společně dvěma členy, z nichž jeden je předsedou a druhý členem představenstva anebo společně třemi členy představenstva, z nichž jeden je místopředsedou hnutí a další dva jsou členy představenstva hnutí.",
   "osoby": [
     {
-      "role": "předseda",
-      "jmeno": "Ing. Eduard Skaba",
-      "datum_narozeni": "1961-01-02",
-      "adresa": "Jaselská 740/8, 748 01 Hlučín"
+      "role": "člen představenstva",
+      "jmeno": "Mgr. Libuše Gelnarová",
+      "datum_narozeni": "1946-03-27",
+      "adresa": "Jaroslava Seiferta 1334/1, 748 01 Hlučín"
+    },
+    {
+      "role": "člen představenstva",
+      "jmeno": "Mgr. Pavel Lindovský",
+      "datum_narozeni": "1947-11-30",
+      "adresa": "Ostravská 108/46, 748 01 Hlučín"
     },
     {
       "role": "místopředseda",
@@ -26,16 +32,10 @@
       "adresa": "Dělnická 1576/38, 748 01 Hlučín"
     },
     {
-      "role": "člen představenstva",
-      "jmeno": "Mgr. Pavel Lindovský",
-      "datum_narozeni": "1947-11-30",
-      "adresa": "Ostravská 108/46, 748 01 Hlučín"
-    },
-    {
-      "role": "člen představenstva",
-      "jmeno": "Mgr. Libuše Gelnarová",
-      "datum_narozeni": "1946-03-27",
-      "adresa": "Jaroslava Seiferta 1334/1, 748 01 Hlučín"
+      "role": "předseda",
+      "jmeno": "Ing. Eduard Skaba",
+      "datum_narozeni": "1961-01-02",
+      "adresa": "Jaselská 740/8, 748 01 Hlučín"
     }
   ]
 }

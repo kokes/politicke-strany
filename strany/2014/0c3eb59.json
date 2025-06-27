@@ -8,24 +8,6 @@
   "statutarni_organ": "Předsednictvo, za které jednají dva členové společně.",
   "osoby": [
     {
-      "role": "místopředsedkyně",
-      "jmeno": "Mgr. Jana Křišťanová",
-      "datum_narozeni": "1987-07-13",
-      "adresa": "Hůlkova 466, 387 01 Volyně"
-    },
-    {
-      "role": "místopředseda",
-      "jmeno": "PhDr. Zdeněk Polanský",
-      "datum_narozeni": "1986-01-20",
-      "adresa": "Lipová 886, 341 01 Horažďovice"
-    },
-    {
-      "role": "místopředseda",
-      "jmeno": "MgA. Lukáš Černý",
-      "datum_narozeni": "1984-02-08",
-      "adresa": "Husova 320, 387 01 Volyně"
-    },
-    {
       "role": "člen",
       "jmeno": "MUDr. Jan Kovář",
       "datum_narozeni": "1982-01-17",
@@ -42,6 +24,24 @@
       "jmeno": "Mgr. Petra Mrkvičková",
       "datum_narozeni": "1987-04-25",
       "adresa": "náměstí Svobody 3, 387 01 Volyně"
+    },
+    {
+      "role": "místopředseda",
+      "jmeno": "MgA. Lukáš Černý",
+      "datum_narozeni": "1984-02-08",
+      "adresa": "Husova 320, 387 01 Volyně"
+    },
+    {
+      "role": "místopředseda",
+      "jmeno": "PhDr. Zdeněk Polanský",
+      "datum_narozeni": "1986-01-20",
+      "adresa": "Lipová 886, 341 01 Horažďovice"
+    },
+    {
+      "role": "místopředsedkyně",
+      "jmeno": "Mgr. Jana Křišťanová",
+      "datum_narozeni": "1987-07-13",
+      "adresa": "Hůlkova 466, 387 01 Volyně"
     }
   ]
 }

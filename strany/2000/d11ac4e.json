@@ -8,16 +8,10 @@
   "statutarni_organ": "Předsednictvo.Právní úkony ve všech věcech týk. se nákupu, prodeje nebo zatěžov.nemovit.,ve věc.směneč.,úvěrů a půjček a udělení plné moci v pís.formě činí vždy dva čl.předs.společ.; z nichž jeden je předseda či místopředseda strany ostatní práv.úk.činí kterýk.jeho člen samostatně.",
   "osoby": [
     {
-      "role": "předseda",
-      "jmeno": "René  Živný",
-      "datum_narozeni": "1974-03-10",
-      "adresa": "Karla IV. 2591, 530 02 Pardubice"
-    },
-    {
-      "role": "místopředsedkyně",
-      "jmeno": "Zdeňka Marková",
-      "datum_narozeni": "1956-06-22",
-      "adresa": "Karníkova 1148, 592 31 Nové Město na Moravě"
+      "role": "člen",
+      "jmeno": "Petr Řezníček",
+      "datum_narozeni": "1951-02-23",
+      "adresa": "Jungmannovo nábřeží 399, 537 01 Chrudim"
     },
     {
       "role": "člen",
@@ -32,10 +26,16 @@
       "adresa": "588 45 Dolní Cerekev 201"
     },
     {
-      "role": "člen",
-      "jmeno": "Petr Řezníček",
-      "datum_narozeni": "1951-02-23",
-      "adresa": "Jungmannovo nábřeží 399, 537 01 Chrudim"
+      "role": "místopředsedkyně",
+      "jmeno": "Zdeňka Marková",
+      "datum_narozeni": "1956-06-22",
+      "adresa": "Karníkova 1148, 592 31 Nové Město na Moravě"
+    },
+    {
+      "role": "předseda",
+      "jmeno": "René  Živný",
+      "datum_narozeni": "1974-03-10",
+      "adresa": "Karla IV. 2591, 530 02 Pardubice"
     }
   ]
 }

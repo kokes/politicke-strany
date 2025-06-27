@@ -8,22 +8,10 @@
   "statutarni_organ": "Předsednictvo, a to vždy společně dvěma členy, z nichž alespoň jeden je předsedou a druhý členem předsednictva anebo společně dvěma místopředsedy hnutí.",
   "osoby": [
     {
-      "role": "předseda",
-      "jmeno": "Daniel Sterzik",
-      "datum_narozeni": "1981-03-17",
-      "adresa": "Václavov 741/12, 671 72 Miroslav"
-    },
-    {
       "role": "1. místopředseda",
       "jmeno": "Ondřej Dostál",
       "datum_narozeni": "1979-01-25",
       "adresa": "Skořická 142, 338 43 Mirošov"
-    },
-    {
-      "role": "místopředsedkyně",
-      "jmeno": "Pavlína Procházková",
-      "datum_narozeni": "1976-09-16",
-      "adresa": "768 33 Počenice-Tetětice 55"
     },
     {
       "role": "člen",
@@ -33,15 +21,27 @@
     },
     {
       "role": "členka",
+      "jmeno": "Dagmar Koníčková",
+      "datum_narozeni": "1952-05-10",
+      "adresa": "Novomlýnská 1238/3, 110 00 Praha"
+    },
+    {
+      "role": "členka",
       "jmeno": "Dana Kulichová",
       "datum_narozeni": "1983-07-23",
       "adresa": "743 01 Bílovec 83"
     },
     {
-      "role": "členka",
-      "jmeno": "Dagmar Koníčková",
-      "datum_narozeni": "1952-05-10",
-      "adresa": "Novomlýnská 1238/3, 110 00 Praha"
+      "role": "místopředsedkyně",
+      "jmeno": "Pavlína Procházková",
+      "datum_narozeni": "1976-09-16",
+      "adresa": "768 33 Počenice-Tetětice 55"
+    },
+    {
+      "role": "předseda",
+      "jmeno": "Daniel Sterzik",
+      "datum_narozeni": "1981-03-17",
+      "adresa": "Václavov 741/12, 671 72 Miroslav"
     }
   ]
 }

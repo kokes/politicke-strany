@@ -8,12 +8,6 @@
   "statutarni_organ": "Republikové předsednictvo, za které jedná předseda nebo jiný pověřený člen předsednictva.",
   "osoby": [
     {
-      "role": "předseda",
-      "jmeno": "MUDr. Zdeněk Hřib",
-      "datum_narozeni": "1981-05-21",
-      "adresa": "náměstí Svatopluka Čecha 1356/8, 101 00 Praha"
-    },
-    {
       "role": "1. místopředseda",
       "jmeno": "Ing. et Ing. Martin Šmída",
       "datum_narozeni": "1985-06-11",
@@ -36,6 +30,12 @@
       "jmeno": "PhDr. Olga Richterová, Ph.D.",
       "datum_narozeni": "1985-01-21",
       "adresa": "Oblouková 491/14, 101 00 Praha"
+    },
+    {
+      "role": "předseda",
+      "jmeno": "MUDr. Zdeněk Hřib",
+      "datum_narozeni": "1981-05-21",
+      "adresa": "náměstí Svatopluka Čecha 1356/8, 101 00 Praha"
     }
   ]
 }

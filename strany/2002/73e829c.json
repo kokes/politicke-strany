@@ -8,16 +8,16 @@
   "statutarni_organ": "Předseda a 1. místopředseda kteří jednají samostatně.",
   "osoby": [
     {
-      "role": "předseda",
-      "jmeno": "Tomáš Vandas",
-      "datum_narozeni": "1969-03-03",
-      "adresa": "270 23 Velká Buková 64"
-    },
-    {
       "role": "1. místopředseda",
       "jmeno": "Jiří  Štěpánek",
       "datum_narozeni": "1972-03-05",
       "adresa": "Ciolkovského 853/1, 161 00 Praha"
+    },
+    {
+      "role": "předseda",
+      "jmeno": "Tomáš Vandas",
+      "datum_narozeni": "1969-03-03",
+      "adresa": "270 23 Velká Buková 64"
     }
   ]
 }

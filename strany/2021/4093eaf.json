@@ -8,16 +8,16 @@
   "statutarni_organ": "Předsednictvo výkonné rady, za kterou jedná předseda.",
   "osoby": [
     {
-      "role": "předseda",
-      "jmeno": "Mgr. Róbert Šlachta",
-      "datum_narozeni": "1971-07-22",
-      "adresa": "Šumická 688, 691 23 Pohořelice"
-    },
-    {
       "role": "1. Místopředseda",
       "jmeno": "Mgr. Jaroslav Pelc",
       "datum_narozeni": "1971-05-05",
       "adresa": "Bory Kříže 994, 272 04 Kladno"
+    },
+    {
+      "role": "místopředseda",
+      "jmeno": "Petr Vokřál",
+      "datum_narozeni": "1964-01-19",
+      "adresa": "Jana Uhra 178/24, 602 00 Brno"
     },
     {
       "role": "místopředsedkyně",
@@ -26,10 +26,10 @@
       "adresa": "Netolická 1146/6, 370 05 České Budějovice"
     },
     {
-      "role": "místopředseda",
-      "jmeno": "Petr Vokřál",
-      "datum_narozeni": "1964-01-19",
-      "adresa": "Jana Uhra 178/24, 602 00 Brno"
+      "role": "předseda",
+      "jmeno": "Mgr. Róbert Šlachta",
+      "datum_narozeni": "1971-07-22",
+      "adresa": "Šumická 688, 691 23 Pohořelice"
     }
   ]
 }

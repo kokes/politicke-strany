@@ -8,12 +8,6 @@
   "statutarni_organ": "Výkonná rada, za kterou jedná předseda nebo 2 členové výkonné rady.",
   "osoby": [
     {
-      "role": "předseda",
-      "jmeno": "Ing. Karol Schneider",
-      "datum_narozeni": "1936-01-20",
-      "adresa": "Nedbalova 482/21, 623 00 Brno"
-    },
-    {
       "role": "člen",
       "jmeno": "Ing. arch. Ludmila Kramolišová",
       "datum_narozeni": "1947-07-10",
@@ -24,6 +18,12 @@
       "jmeno": "Karel  Mauer",
       "datum_narozeni": "1936-12-13",
       "adresa": "Slámova 1095/37, 618 00 Brno"
+    },
+    {
+      "role": "předseda",
+      "jmeno": "Ing. Karol Schneider",
+      "datum_narozeni": "1936-01-20",
+      "adresa": "Nedbalova 482/21, 623 00 Brno"
     }
   ]
 }

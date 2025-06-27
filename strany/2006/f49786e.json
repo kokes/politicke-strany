@@ -8,10 +8,10 @@
   "statutarni_organ": "Předseda a místopředsedové s tím, že předseda jedná vždy společně s jedním z místopředsedů.",
   "osoby": [
     {
-      "role": "Předseda",
-      "jmeno": "Mgr. Jiří Rudolf",
-      "datum_narozeni": "1943-12-01",
-      "adresa": "Jarní 2970/14, 466 01 Jablonec nad Nisou"
+      "role": "Místopředseda",
+      "jmeno": "MUDr. Jan  Brandejský",
+      "datum_narozeni": "1939-08-18",
+      "adresa": "Karla Čapka 2059/6, 466 01 Jablonec nad Nisou"
     },
     {
       "role": "Místopředseda",
@@ -20,10 +20,10 @@
       "adresa": "Budovatelů 3398/14, 466 01 Jablonec nad Nisou"
     },
     {
-      "role": "Místopředseda",
-      "jmeno": "MUDr. Jan  Brandejský",
-      "datum_narozeni": "1939-08-18",
-      "adresa": "Karla Čapka 2059/6, 466 01 Jablonec nad Nisou"
+      "role": "Předseda",
+      "jmeno": "Mgr. Jiří Rudolf",
+      "datum_narozeni": "1943-12-01",
+      "adresa": "Jarní 2970/14, 466 01 Jablonec nad Nisou"
     }
   ]
 }

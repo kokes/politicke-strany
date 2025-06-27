@@ -8,27 +8,10 @@
   "statutarni_organ": "Republiková rada - Za hnutí a Republikovou radu jedná navenek předseda hnutí, pověřený místopředseda nebo pověřený člen Republikové rady. Předsedu hnutí zastupuje pověřený místopředseda hnutí.",
   "osoby": [
     {
-      "role": "předseda",
-      "jmeno": "Mgr. Patrik Hujdus",
-      "datum_narozeni": "1977-04-03",
-      "adresa": "Pražákova 1098/11, 709 00 Ostrava"
-    },
-    {
-      "role": "místopředsedkyně",
-      "jmeno": "",
-      "adresa": ""
-    },
-    {
-      "role": "místopředseda",
-      "jmeno": "Bc. Martin Polášek",
-      "datum_narozeni": "1971-09-10",
-      "adresa": "Slezská 82/5, 735 42 Těrlicko"
-    },
-    {
       "role": "člen RR",
-      "jmeno": "Mgr. Miroslav Chlubna",
-      "datum_narozeni": "1974-02-28",
-      "adresa": "Zátiší 178, 735 14 Orlová"
+      "jmeno": "Ing. Karel Poukar",
+      "datum_narozeni": "1950-01-02",
+      "adresa": "Tupolevova 464, 199 00 Praha"
     },
     {
       "role": "člen RR",
@@ -44,9 +27,26 @@
     },
     {
       "role": "člen RR",
-      "jmeno": "Ing. Karel Poukar",
-      "datum_narozeni": "1950-01-02",
-      "adresa": "Tupolevova 464, 199 00 Praha"
+      "jmeno": "Mgr. Miroslav Chlubna",
+      "datum_narozeni": "1974-02-28",
+      "adresa": "Zátiší 178, 735 14 Orlová"
+    },
+    {
+      "role": "místopředseda",
+      "jmeno": "Bc. Martin Polášek",
+      "datum_narozeni": "1971-09-10",
+      "adresa": "Slezská 82/5, 735 42 Těrlicko"
+    },
+    {
+      "role": "místopředsedkyně",
+      "jmeno": "",
+      "adresa": ""
+    },
+    {
+      "role": "předseda",
+      "jmeno": "Mgr. Patrik Hujdus",
+      "datum_narozeni": "1977-04-03",
+      "adresa": "Pražákova 1098/11, 709 00 Ostrava"
     }
   ]
 }

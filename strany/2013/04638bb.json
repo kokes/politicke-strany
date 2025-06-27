@@ -8,16 +8,16 @@
   "statutarni_organ": "Předseda a místopředseda.",
   "osoby": [
     {
-      "role": "předseda",
-      "jmeno": "František Burda",
-      "datum_narozeni": "1941-10-31",
-      "adresa": "Lipnická 1209, 396 01 Humpolec"
-    },
-    {
       "role": "místopředsedkyně",
       "jmeno": "Jana Procházková",
       "datum_narozeni": "1944-03-07",
       "adresa": "Smetanova 48, 396 01 Humpolec"
+    },
+    {
+      "role": "předseda",
+      "jmeno": "František Burda",
+      "datum_narozeni": "1941-10-31",
+      "adresa": "Lipnická 1209, 396 01 Humpolec"
     }
   ]
 }

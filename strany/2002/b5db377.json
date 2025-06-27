@@ -8,34 +8,10 @@
   "statutarni_organ": "Předsednictvo, za které jedná samostatně předseda nebo osoba určená předsednictvem.",
   "osoby": [
     {
-      "role": "předseda",
-      "jmeno": "Ing. Jiří Kohout",
-      "datum_narozeni": "1967-10-06",
-      "adresa": "Nová čtvrť 299/16C, 750 02 Přerov"
-    },
-    {
       "role": "1.místopředsedkyně",
       "jmeno": "Olga Havlová",
       "datum_narozeni": "1953-07-25",
       "adresa": "793 83 Jindřichov 22"
-    },
-    {
-      "role": "místopředsedkyně",
-      "jmeno": "Simona Chytrová",
-      "datum_narozeni": "1962-07-13",
-      "adresa": "Zborovská 889/46, 150 00 Praha"
-    },
-    {
-      "role": "místopředsedkyně",
-      "jmeno": "MUDr. Alice Čečilová",
-      "datum_narozeni": "1958-06-25",
-      "adresa": "Pod Hradištěm 121, 257 41 Týnec nad Sázavou"
-    },
-    {
-      "role": "místopředseda",
-      "jmeno": "Jan Ježovica",
-      "datum_narozeni": "1971-07-22",
-      "adresa": "17. listopadu 1167, 293 01 Mladá Boleslav"
     },
     {
       "role": "místopředseda",
@@ -45,9 +21,33 @@
     },
     {
       "role": "místopředseda",
+      "jmeno": "Jan Ježovica",
+      "datum_narozeni": "1971-07-22",
+      "adresa": "17. listopadu 1167, 293 01 Mladá Boleslav"
+    },
+    {
+      "role": "místopředseda",
       "jmeno": "MUDr. Miroslav Malchar",
       "datum_narozeni": "1957-01-10",
       "adresa": "Lesní 2330, 756 61 Rožnov pod Radhoštěm"
+    },
+    {
+      "role": "místopředsedkyně",
+      "jmeno": "MUDr. Alice Čečilová",
+      "datum_narozeni": "1958-06-25",
+      "adresa": "Pod Hradištěm 121, 257 41 Týnec nad Sázavou"
+    },
+    {
+      "role": "místopředsedkyně",
+      "jmeno": "Simona Chytrová",
+      "datum_narozeni": "1962-07-13",
+      "adresa": "Zborovská 889/46, 150 00 Praha"
+    },
+    {
+      "role": "předseda",
+      "jmeno": "Ing. Jiří Kohout",
+      "datum_narozeni": "1967-10-06",
+      "adresa": "Nová čtvrť 299/16C, 750 02 Přerov"
     }
   ]
 }

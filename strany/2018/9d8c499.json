@@ -8,16 +8,16 @@
   "statutarni_organ": "Předsednictvo, za které jedná samostatně předseda nebo společně dva členové předsednictva, z nichž alespoň jeden je místopředsedou předsednictva.",
   "osoby": [
     {
-      "role": "předseda",
-      "jmeno": "Mgr. Petr Káňa",
-      "datum_narozeni": "1993-03-08",
-      "adresa": "Jurečkova 1935/12, 702 00 Ostrava"
-    },
-    {
       "role": "místopředsedkyně",
       "jmeno": "Ing. Alena Javorská",
       "datum_narozeni": "1982-09-07",
       "adresa": "Slezská 3565, 738 01 Frýdek-Místek"
+    },
+    {
+      "role": "předseda",
+      "jmeno": "Mgr. Petr Káňa",
+      "datum_narozeni": "1993-03-08",
+      "adresa": "Jurečkova 1935/12, 702 00 Ostrava"
     }
   ]
 }

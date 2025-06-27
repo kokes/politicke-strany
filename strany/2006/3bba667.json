@@ -8,24 +8,6 @@
   "statutarni_organ": "Představenstvo, za které jednají společně vždy dva jeho členové, z nichž jeden je předsedou nebo místopředsedou.",
   "osoby": [
     {
-      "role": "předseda představenstva",
-      "jmeno": "Ing. Jozef  Troják",
-      "datum_narozeni": "1945-06-15",
-      "adresa": "Osvobození 824, 735 14 Orlová"
-    },
-    {
-      "role": "první místopředseda",
-      "jmeno": "Ing. Miroslav Gryc, CSc.",
-      "datum_narozeni": "1945-08-14",
-      "adresa": "Koperníkova 1583/7, 737 01 Český Těšín"
-    },
-    {
-      "role": "druhý místopředseda",
-      "jmeno": "Marie Greplová",
-      "datum_narozeni": "1958-05-08",
-      "adresa": "Francouzská 1190/36, 742 21 Kopřivnice"
-    },
-    {
       "role": "člen představenstva",
       "jmeno": "PhDr. Pavel Mrkvánek",
       "datum_narozeni": "1946-03-21",
@@ -36,6 +18,24 @@
       "jmeno": "Vratislav Němec",
       "datum_narozeni": "1959-01-27",
       "adresa": "Ostravská 883, 738 01 Frýdek-Místek"
+    },
+    {
+      "role": "druhý místopředseda",
+      "jmeno": "Marie Greplová",
+      "datum_narozeni": "1958-05-08",
+      "adresa": "Francouzská 1190/36, 742 21 Kopřivnice"
+    },
+    {
+      "role": "předseda představenstva",
+      "jmeno": "Ing. Jozef  Troják",
+      "datum_narozeni": "1945-06-15",
+      "adresa": "Osvobození 824, 735 14 Orlová"
+    },
+    {
+      "role": "první místopředseda",
+      "jmeno": "Ing. Miroslav Gryc, CSc.",
+      "datum_narozeni": "1945-08-14",
+      "adresa": "Koperníkova 1583/7, 737 01 Český Těšín"
     }
   ]
 }

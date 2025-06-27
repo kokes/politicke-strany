@@ -8,12 +8,6 @@
   "statutarni_organ": "Předsednictvo, předseda a dva místopředsedové jednají samostatně.",
   "osoby": [
     {
-      "role": "předsedkyně",
-      "jmeno": "Mgr.Terézia  Mlýnková Išková",
-      "datum_narozeni": "1990-05-30",
-      "adresa": "Dobrovolského 250/13, 695 01 Hodonín"
-    },
-    {
       "role": "místopředseda",
       "jmeno": "František Náhlík",
       "datum_narozeni": "1990-11-12",
@@ -24,6 +18,12 @@
       "jmeno": "Radek Mlček",
       "datum_narozeni": "1981-07-04",
       "adresa": "Brněnská 773/14, 695 01 Hodonín"
+    },
+    {
+      "role": "předsedkyně",
+      "jmeno": "Mgr.Terézia  Mlýnková Išková",
+      "datum_narozeni": "1990-05-30",
+      "adresa": "Dobrovolského 250/13, 695 01 Hodonín"
     }
   ]
 }

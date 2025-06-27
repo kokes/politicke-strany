@@ -8,12 +8,12 @@
   "statutarni_organ": "Rada, za kterou jedná předseda. Jde-li o záležitosti zavazující hnutí nad částku 100.000 Kč. jedná spolu s jedním z místopředsedů.",
   "osoby": [
     {
-      "role": "předseda",
+      "role": "1. místopředseda",
       "jmeno": "",
       "adresa": ""
     },
     {
-      "role": "1. místopředseda",
+      "role": "předseda",
       "jmeno": "",
       "adresa": ""
     }

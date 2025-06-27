@@ -8,22 +8,16 @@
   "statutarni_organ": "Předsednictvo, za které jedná předseda nebo 1. místopředseda samostatně nebo místopředseda spolu s alespoň 1 dalším členem předsednictva společně.",
   "osoby": [
     {
-      "role": "předseda",
-      "jmeno": "Ing. Marek Hrvol",
-      "datum_narozeni": "1988-06-07",
-      "adresa": "Slunečná 709, 434 01 Most"
-    },
-    {
       "role": "1. místopředseda",
       "jmeno": "Mgr. Jan Paparega",
       "datum_narozeni": "1981-09-13",
       "adresa": "S. K. Neumanna 1761/11, 434 01 Most"
     },
     {
-      "role": "místopředseda",
-      "jmeno": "Ing. Ondřej Málek",
-      "datum_narozeni": "1986-01-26",
-      "adresa": "Zahražanská 1505/4, 434 01 Most"
+      "role": "člen",
+      "jmeno": "Ing. Jiří Turis",
+      "datum_narozeni": "1962-06-08",
+      "adresa": "Jarmily Glazarové 901/7, 434 01 Most"
     },
     {
       "role": "člen",
@@ -32,10 +26,16 @@
       "adresa": "434 01 Most 1207"
     },
     {
-      "role": "člen",
-      "jmeno": "Ing. Jiří Turis",
-      "datum_narozeni": "1962-06-08",
-      "adresa": "Jarmily Glazarové 901/7, 434 01 Most"
+      "role": "místopředseda",
+      "jmeno": "Ing. Ondřej Málek",
+      "datum_narozeni": "1986-01-26",
+      "adresa": "Zahražanská 1505/4, 434 01 Most"
+    },
+    {
+      "role": "předseda",
+      "jmeno": "Ing. Marek Hrvol",
+      "datum_narozeni": "1988-06-07",
+      "adresa": "Slunečná 709, 434 01 Most"
     }
   ]
 }

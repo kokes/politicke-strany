@@ -8,15 +8,15 @@
   "statutarni_organ": "Předsednictvo, za které jedná předseda.",
   "osoby": [
     {
+      "role": "místopředseda",
+      "jmeno": "",
+      "adresa": ""
+    },
+    {
       "role": "předseda",
       "jmeno": "Pavel Krejčí",
       "datum_narozeni": "1980-07-02",
       "adresa": "Ocelíkova 672/1, 149 00 Praha"
-    },
-    {
-      "role": "místopředseda",
-      "jmeno": "",
-      "adresa": ""
     }
   ]
 }

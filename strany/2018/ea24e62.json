@@ -8,16 +8,16 @@
   "statutarni_organ": "Předseda a místopředseda, každý jedná samostatně.",
   "osoby": [
     {
-      "role": "předseda",
-      "jmeno": "Mgr. Lukáš Budín",
-      "datum_narozeni": "1979-01-20",
-      "adresa": "Vrchlického 886/76, 150 00 Praha"
-    },
-    {
       "role": "místopředsedkyně",
       "jmeno": "PhDr. Marie Sternová, Ph.D.",
       "datum_narozeni": "1980-10-04",
       "adresa": "Ostrovského 3167/36, 150 00 Praha"
+    },
+    {
+      "role": "předseda",
+      "jmeno": "Mgr. Lukáš Budín",
+      "datum_narozeni": "1979-01-20",
+      "adresa": "Vrchlického 886/76, 150 00 Praha"
     }
   ]
 }

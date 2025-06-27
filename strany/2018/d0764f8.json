@@ -8,12 +8,6 @@
   "statutarni_organ": "Předsednictvo, za které jedná předseda nebo první místopředseda.",
   "osoby": [
     {
-      "role": "předseda",
-      "jmeno": "Štefan Kandalec",
-      "datum_narozeni": "1953-08-25",
-      "adresa": "Kachlíkova 879/1, 635 00 Brno"
-    },
-    {
       "role": "1.místopředsedkyně",
       "jmeno": "Lucie Pokorná",
       "datum_narozeni": "1978-09-29",
@@ -24,6 +18,12 @@
       "jmeno": "Martin Kopuletý",
       "datum_narozeni": "1968-06-01",
       "adresa": "Tomáškova 653/2, 615 00 Brno"
+    },
+    {
+      "role": "předseda",
+      "jmeno": "Štefan Kandalec",
+      "datum_narozeni": "1953-08-25",
+      "adresa": "Kachlíkova 879/1, 635 00 Brno"
     }
   ]
 }
