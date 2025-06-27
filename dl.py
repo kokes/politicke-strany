@@ -123,6 +123,10 @@ if __name__ == "__main__":
                 # TODO: Plati od/plati do? v tom co zbylo
                 dt["osoby"].append(osoba)
 
+        # zda se, ze ten seznam osob neni uplne stabilni, tak je treba
+        # to napred seradit trochu, at nam to negeneruje diffy
+        dt["osoby"].sort(key=lambda x: json.dumps(x))
+
         # puvodne jsem pro nazev souboru pouzival identifikacni cislo,
         # ale zdaleka ne vsechny strany ho maj
         fnid = hashlib.sha256(dt["cislo_registrace"].encode("utf-8")).hexdigest()[:7]
