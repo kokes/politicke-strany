@@ -3,6 +3,8 @@ import json
 import logging
 import os
 import re
+import unicodedata
+from glob import iglob
 from urllib.request import urlopen
 
 import lxml.html
@@ -130,9 +132,18 @@ if __name__ == "__main__":
         # puvodne jsem pro nazev souboru pouzival identifikacni cislo,
         # ale zdaleka ne vsechny strany ho maj
         fnid = hashlib.sha256(dt["cislo_registrace"].encode("utf-8")).hexdigest()[:7]
+        szkr = (
+            unicodedata.normalize("NFKD", dt["zkratka"].lower())
+            .encode("ascii", "ignore")
+            .decode("ascii")
+        )
+        szkr = re.sub(r"[^a-zA-Z0-9]+", "-", szkr).strip("-")
         tdir = os.path.join(DATA_DIR, dt["den_registrace"][:4])
         os.makedirs(tdir, exist_ok=True)
-        tfn = os.path.join(tdir, fnid + ".json")
+        # pro pripad, ze se zmeni zkratka, tak preventivne smaz existujici soubory
+        for ex in iglob(os.path.join(tdir, fnid + "*")):
+            os.remove(ex)
+        tfn = os.path.join(tdir, f"{fnid}-{szkr}.json")
 
         serialised = json.dumps(dt, ensure_ascii=False, indent=2)
         write = False
