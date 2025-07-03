@@ -4,7 +4,7 @@ import logging
 import os
 import re
 import unicodedata
-from glob import iglob
+from glob import glob
 from urllib.request import urlopen
 
 import lxml.html
@@ -140,25 +140,30 @@ if __name__ == "__main__":
         szkr = re.sub(r"[^a-zA-Z0-9]+", "-", szkr).strip("-")
         tdir = os.path.join(DATA_DIR, dt["den_registrace"][:4])
         os.makedirs(tdir, exist_ok=True)
-        # pro pripad, ze se zmeni zkratka, tak preventivne smaz existujici soubory
-        for ex in iglob(os.path.join(tdir, fnid + "*")):
-            # ulozime si ale napred, kde to bylo, abychom zjistili pridany subjekty
-            have.add(ex)
-            os.remove(ex)
         tfn = os.path.join(tdir, f"{fnid}-{szkr}.json")
 
         serialised = json.dumps(dt, ensure_ascii=False, indent=2)
         write = False
-        if tfn not in have:
+
+        # je mozny, ze mame soubor jinde - pokud zkratka byla jina nez ted
+        fncand = glob(os.path.join(tdir, fnid + "*"))
+        assert len(fncand) in (0, 1), fncand
+
+        if len(fncand) == 0:
             logging.info("Nova strana: %s", dt["nazev"])
             added.append(dt["nazev"])
             write = True
         else:
-            existing = open(tfn, "rt").read()
+            existing = open(fncand[0], "rt").read()
             if existing != serialised:
                 logging.info("Zmenena strana: %s", dt["nazev"])
                 changed.append(dt["nazev"])
                 write = True
+
+        # promaz predchozi soubor, pokud se zmenila zkratka
+        for ex in fncand:
+            if ex != tfn:
+                os.remove(ex)
 
         if write:
             with open(tfn, "wt") as fw:
