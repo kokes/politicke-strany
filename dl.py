@@ -74,7 +74,7 @@ if __name__ == "__main__":
     for j in range(1, rng):
         ids.append(mid + j)
 
-    changed, added = [], []
+    changed, added, have = [], [], set()
 
     os.makedirs(DATA_DIR, exist_ok=True)
     # list, abychom to duplikovali (budem mazat)
@@ -142,12 +142,14 @@ if __name__ == "__main__":
         os.makedirs(tdir, exist_ok=True)
         # pro pripad, ze se zmeni zkratka, tak preventivne smaz existujici soubory
         for ex in iglob(os.path.join(tdir, fnid + "*")):
+            # ulozime si ale napred, kde to bylo, abychom zjistili pridany subjekty
+            have.add(ex)
             os.remove(ex)
         tfn = os.path.join(tdir, f"{fnid}-{szkr}.json")
 
         serialised = json.dumps(dt, ensure_ascii=False, indent=2)
         write = False
-        if not os.path.exists(tfn):
+        if tfn not in have:
             logging.info("Nova strana: %s", dt["nazev"])
             added.append(dt["nazev"])
             write = True
