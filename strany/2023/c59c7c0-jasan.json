@@ -8,10 +8,22 @@
   "statutarni_organ": "Předsednictvo, samostatně ve všech záležitostech jedná předseda, nebo samostatně místopředsedové dle stanoveného pořadí.",
   "osoby": [
     {
-      "role": "místopředseda",
-      "jmeno": "Ing. Bronislav  Sedláček",
-      "datum_narozeni": "1966-03-22",
-      "adresa": "Hurbanova 1305/11, 142 00 Praha"
+      "role": "člen předsednictva",
+      "jmeno": "Martin Havel",
+      "datum_narozeni": "1972-05-26",
+      "adresa": "294 77 Mečeříž 203"
+    },
+    {
+      "role": "člen předsednictva",
+      "jmeno": "Radomír Marszalek",
+      "datum_narozeni": "1961-12-22",
+      "adresa": "763 12 Lutonina 134"
+    },
+    {
+      "role": "člen předsednictva",
+      "jmeno": "Stanislav Kulhavý",
+      "datum_narozeni": "1962-06-07",
+      "adresa": "Čs. armády 212, 254 01 Jílové u Prahy"
     },
     {
       "role": "předseda",
@@ -23,7 +35,7 @@
       "role": "výkonná místopředsedkyně",
       "jmeno": "Zdeňka Niklová",
       "datum_narozeni": "1969-12-16",
-      "adresa": "Na Václavce 179/38, 150 00 Praha"
+      "adresa": "Lipinská 1133, 696 42 Vracov"
     }
   ]
 }
