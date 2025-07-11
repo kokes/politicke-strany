@@ -1,0 +1,17 @@
+{
+  "nazev": "Rebelové",
+  "zkratka": "Rebelové",
+  "sidlo": "141 00 Praha, Na líše 726/27",
+  "den_registrace": "2025-07-10",
+  "cislo_registrace": "MV-88654-4/OV-2025",
+  "identifikacni_cislo": "23483105",
+  "statutarni_organ": "Hlavní stratég.",
+  "osoby": [
+    {
+      "role": "Hlavní stratég",
+      "jmeno": "Miloslav Zientek",
+      "datum_narozeni": "1976-05-15",
+      "adresa": "Kurta Konráda 2517/1, 190 00 Praha"
+    }
+  ]
+}
