@@ -9,6 +9,12 @@
   "osoby": [
     {
       "role": "člen",
+      "jmeno": "František Kovář",
+      "datum_narozeni": "1987-01-21",
+      "adresa": "U Židovského hřbitova 54, 386 01 Strakonice"
+    },
+    {
+      "role": "člen",
       "jmeno": "Pavel Zach, Dis.",
       "datum_narozeni": "1973-04-30",
       "adresa": "386 01 Strakonice 12"
