@@ -6,5 +6,30 @@
   "cislo_registrace": "MV-113816-4/OV-2025",
   "identifikacni_cislo": "23528214",
   "statutarni_organ": "Předsednictvo, za které jednají vždy dva členové společně.",
-  "osoby": []
+  "osoby": [
+    {
+      "role": "členka",
+      "jmeno": "Klára Kadár",
+      "datum_narozeni": "1989-11-24",
+      "adresa": "338 08 Terešov 17"
+    },
+    {
+      "role": "členka",
+      "jmeno": "Marta Martinová",
+      "datum_narozeni": "1981-03-23",
+      "adresa": "Pod Sokolovnou 252, 289 21 Kostomlaty nad Labem"
+    },
+    {
+      "role": "členka",
+      "jmeno": "Michaela Nedory",
+      "datum_narozeni": "1996-05-31",
+      "adresa": "Kremličkova 976/5, 140 00 Praha"
+    },
+    {
+      "role": "členka",
+      "jmeno": "Pavla Krausová",
+      "datum_narozeni": "1998-06-18",
+      "adresa": "261 01 Narysov 4"
+    }
+  ]
 }
