@@ -6,5 +6,12 @@
   "cislo_registrace": "MV-160765-8/OV-2024",
   "identifikacni_cislo": "22478787",
   "statutarni_organ": "Předsednictvo výkonné rady, za které jedná předseda.",
-  "osoby": []
+  "osoby": [
+    {
+      "role": "předseda",
+      "jmeno": "Jaroslav Svoboda",
+      "datum_narozeni": "1954-05-16",
+      "adresa": "Bayerova 800/31, 602 00 Brno"
+    }
+  ]
 }
