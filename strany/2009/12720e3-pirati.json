@@ -20,16 +20,15 @@
       "adresa": "28. října 397, 588 56 Telč"
     },
     {
-      "role": "3. místopředseda",
-      "jmeno": "Michal Bláha",
-      "datum_narozeni": "1972-10-19",
-      "adresa": "Velenovského 648, 251 64 Mnichovice"
-    },
-    {
-      "role": "4. místopředsedkyně",
+      "role": "3. místopředsedkyně",
       "jmeno": "PhDr. Olga Richterová, Ph.D.",
       "datum_narozeni": "1985-01-21",
       "adresa": "Oblouková 491/14, 101 00 Praha"
+    },
+    {
+      "role": "4. místopředseda",
+      "jmeno": "",
+      "adresa": ""
     },
     {
       "role": "předseda",
