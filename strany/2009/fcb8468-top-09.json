@@ -9,9 +9,9 @@
   "osoby": [
     {
       "role": "1. místopředseda",
-      "jmeno": "Vlastimil Válek",
-      "datum_narozeni": "1960-05-17",
-      "adresa": "Belcrediho 637/6, 628 00 Brno"
+      "jmeno": "Jiří Pospíšil",
+      "datum_narozeni": "1975-11-24",
+      "adresa": "Na Kampě 512/11, 118 00 Praha"
     },
     {
       "role": "člen předsednictva",
@@ -27,57 +27,69 @@
     },
     {
       "role": "člen předsednictva",
-      "jmeno": "Michal Vozobule",
-      "datum_narozeni": "1980-12-08",
-      "adresa": "Manětínská 1543/69, 323 00 Plzeň"
+      "jmeno": "Jiří Slavík",
+      "datum_narozeni": "1968-09-13",
+      "adresa": "259 01 Votice 17"
     },
     {
       "role": "člen předsednictva",
-      "jmeno": "Pavel Klíma",
-      "datum_narozeni": "1971-05-26",
-      "adresa": "Obora 22, 391 75 Malšice"
+      "jmeno": "Marek Ženíšek",
+      "datum_narozeni": "1978-11-26",
+      "adresa": "17. listopadu 2560/6, 301 00 Plzeň"
     },
     {
       "role": "člen předsednictva",
-      "jmeno": "Pavel Kounovský",
-      "datum_narozeni": "1967-09-28",
-      "adresa": "Sokolská 177, 471 24 Mimoň"
+      "jmeno": "Martin Horák",
+      "datum_narozeni": "1994-08-30",
+      "adresa": "798 43 Ptení 104"
     },
     {
       "role": "člen předsednictva",
-      "jmeno": "Pavel Svoboda",
-      "datum_narozeni": "1987-10-26",
-      "adresa": "Sakařova 978, 530 03 Pardubice"
+      "jmeno": "Martin Leška",
+      "datum_narozeni": "1988-04-11",
+      "adresa": "Kaznějovská 1216/21, 323 00 Plzeň"
     },
     {
       "role": "člen předsednictva",
-      "jmeno": "Radovan Auer",
-      "datum_narozeni": "1975-01-21",
-      "adresa": "Zborovská 1519/24, 787 01 Šumperk"
+      "jmeno": "Martin Neřád",
+      "datum_narozeni": "1999-09-19",
+      "adresa": "Sadová 4154/20, 767 01 Kroměříž"
+    },
+    {
+      "role": "člen předsednictva",
+      "jmeno": "Tomáš Aberl",
+      "datum_narozeni": "1988-05-29",
+      "adresa": "Okrouhlá 344/12, 625 00 Brno"
+    },
+    {
+      "role": "člen předsednictva",
+      "jmeno": "Vlastimil Válek",
+      "datum_narozeni": "1960-05-17",
+      "adresa": "Belcrediho 637/6, 628 00 Brno"
+    },
+    {
+      "role": "členka předsednictva",
+      "jmeno": "Radka Vaňousová",
+      "datum_narozeni": "1978-04-15",
+      "adresa": "Husova 3143, 390 02 Tábor"
     },
     {
       "role": "místopředseda",
-      "jmeno": "Matěj Ondřej Havel",
-      "datum_narozeni": "1987-02-12",
-      "adresa": "Tichá 148/1, 500 03 Hradec Králové"
+      "jmeno": "Lukáš Otys",
+      "datum_narozeni": "1985-01-05",
+      "adresa": "Tržiště 28/7, 360 01 Karlovy Vary"
     },
     {
       "role": "místopředseda",
-      "jmeno": "Michal Kučera",
-      "datum_narozeni": "1968-10-04",
-      "adresa": "V Domcích 2722, 440 01 Louny"
-    },
-    {
-      "role": "místopředseda",
-      "jmeno": "Tomáš Czernin",
-      "datum_narozeni": "1962-03-04",
-      "adresa": "1. máje 1, 289 01 Dymokury"
+      "jmeno": "Ondřej Műller",
+      "datum_narozeni": "1988-03-03",
+      "adresa": "Kyjevská 438, 530 03 Pardubice"
     },
     {
       "role": "místopředsedkyně",
-      "jmeno": "Martina Ochodnická",
-      "datum_narozeni": "1983-12-19",
-      "adresa": "588 42 Větrný Jeníkov 137"
+      "jmeno": "Kateřina Pastorková",
+      "datum_narozeni": "1998-10-19",
+      "adresa": "Zborovská 412, 377 01 Jindřichův Hradec"
     },
     {
       "role": "předseda Klubu poslanců",
@@ -86,16 +98,10 @@
       "adresa": "Lidická 365, 252 63 Roztoky"
     },
     {
-      "role": "předseda Klubu starostů TOP 09, z.s.",
-      "jmeno": "Tomáš Třetina",
-      "datum_narozeni": "1972-03-31",
-      "adresa": "Opálkova  1551, 672 01 Moravský Krumlov"
-    },
-    {
-      "role": "předsedkyně",
-      "jmeno": "Markéta  Pekarová Adamová",
-      "datum_narozeni": "1984-10-02",
-      "adresa": "Drahobejlova 2433/12, 190 00 Praha"
+      "role": "předseda",
+      "jmeno": "Matěj Ondřej Havel",
+      "datum_narozeni": "1987-02-12",
+      "adresa": "Tichá 148/1, 500 03 Hradec Králové"
     },
     {
       "role": "vedoucí národní delegace v poslaneckém klubu Evropského parlamentu",
