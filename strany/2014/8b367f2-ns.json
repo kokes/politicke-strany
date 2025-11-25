@@ -9,30 +9,33 @@
   "osoby": [
     {
       "role": "člen",
-      "jmeno": "David Dinda",
-      "adresa": ""
+      "jmeno": "Bc. Jiří Kratochvíl",
+      "datum_narozeni": "1969-07-24",
+      "adresa": "Hutnická 5298, 430 04 Chomutov"
     },
     {
       "role": "člen",
-      "jmeno": "Ing. Miroslav Legner",
-      "adresa": ""
+      "jmeno": "PaedDr. Jan Micka",
+      "datum_narozeni": "1960-07-08",
+      "adresa": "Kamenný vrch 5273, 430 04 Chomutov"
     },
     {
       "role": "místopředseda",
-      "jmeno": "Mgr. Milan Märc",
-      "adresa": ""
-    },
-    {
-      "role": "místopředseda",
-      "jmeno": "Mgr. Milan Štefanov",
+      "jmeno": "Ing. Milan Štefanov",
       "datum_narozeni": "1967-07-27",
       "adresa": "Revoluční 49/15, 430 01 Chomutov"
     },
     {
+      "role": "místopředseda",
+      "jmeno": "Mgr. Milan Märc",
+      "datum_narozeni": "1966-06-12",
+      "adresa": "Kostnická 4099, 430 03 Chomutov"
+    },
+    {
       "role": "předseda",
-      "jmeno": "Karel Lipmann",
-      "datum_narozeni": "1963-03-08",
-      "adresa": "Palachova 2651/30, 430 03 Chomutov"
+      "jmeno": "Ing. Martin Bocian",
+      "datum_narozeni": "1986-07-22",
+      "adresa": "Václavská 4047, 430 03 Chomutov"
     }
   ]
 }

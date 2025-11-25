@@ -8,9 +8,40 @@
   "statutarni_organ": "předsednictvo strany, za které jedná samostatně předseda nebo první místopředseda anebo společně místopředseda strany a další člen předsednictva",
   "osoby": [
     {
+      "role": "1. místopředseda",
+      "jmeno": "Jan Balcar",
+      "datum_narozeni": "1974-11-20",
+      "adresa": "542 36 Libňatov 152"
+    },
+    {
+      "role": "členka",
+      "jmeno": "Natalie Hoffmann Kocábová",
+      "datum_narozeni": "1984-05-16",
+      "adresa": "Karlova 184/12, 110 00 Praha"
+    },
+    {
+      "role": "místopředseda",
+      "jmeno": "Adam Holub",
+      "datum_narozeni": "1993-07-28",
+      "adresa": "U nových domů III 534/3, 140 00 Praha"
+    },
+    {
+      "role": "místopředseda",
+      "jmeno": "Jiří Vyhnal",
+      "datum_narozeni": "1971-11-23",
+      "adresa": "696 31 Bukovany 273"
+    },
+    {
+      "role": "místopředseda",
+      "jmeno": "Roman Haken",
+      "datum_narozeni": "1962-08-03",
+      "adresa": "Kardašovská 755/21, 198 00 Praha"
+    },
+    {
       "role": "předseda",
-      "jmeno": "",
-      "adresa": ""
+      "jmeno": "Ladislav Miko",
+      "datum_narozeni": "1961-04-09",
+      "adresa": "251 68 Sulice 978"
     }
   ]
 }
