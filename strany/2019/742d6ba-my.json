@@ -1,12 +1,18 @@
 {
-  "nazev": "Společně pro kraj",
-  "zkratka": "SproK",
+  "nazev": "MY",
+  "zkratka": "MY",
   "sidlo": "561 51 Letohrad, Komenského 275",
   "den_registrace": "2019-08-19",
   "cislo_registrace": "MV-104993-4/VS-2019",
   "identifikacni_cislo": "08431345",
   "statutarni_organ": "Předsednictvo, za které jedná předseda.",
   "osoby": [
+    {
+      "role": "člen",
+      "jmeno": "JUDr. Martin Netolický, Ph.D.",
+      "datum_narozeni": "1982-09-22",
+      "adresa": "Trávník 1996, 560 02 Česká Třebová"
+    },
     {
       "role": "člen",
       "jmeno": "Jan Stránský",
@@ -18,6 +24,12 @@
       "jmeno": "Josef Kozel",
       "datum_narozeni": "1974-05-08",
       "adresa": "Jarkovského 57, 538 03 Heřmanův Městec"
+    },
+    {
+      "role": "člen",
+      "jmeno": "Mgr. Dominik Barták",
+      "datum_narozeni": "1991-09-06",
+      "adresa": "Jilemnického 2219, 530 02 Pardubice"
     },
     {
       "role": "člen",
