@@ -8,16 +8,16 @@
   "statutarni_organ": "Předsednictvo, za které jedná samostatně předseda ve všech záležitostech nebo předsedou písemně pověřený člen předsednictva.",
   "osoby": [
     {
-      "role": "člen",
-      "jmeno": "Mgr. Jiří Barták",
+      "role": "místopředseda",
+      "jmeno": "Mgr. Jiří  Barták",
       "datum_narozeni": "1967-10-14",
       "adresa": "Zálesí 1073/7, 142 00 Praha"
     },
     {
-      "role": "členka",
-      "jmeno": "Bc. Renata Maršíková",
+      "role": "místopředsedkyně",
+      "jmeno": "Bc. Renata  Maršíková",
       "datum_narozeni": "1983-04-25",
-      "adresa": "Na domovině 1081/2, 142 00 Praha"
+      "adresa": "Na domovině  1081/2, 142 00 Praha"
     },
     {
       "role": "předseda",
