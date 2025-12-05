@@ -8,12 +8,6 @@
   "statutarni_organ": "Předsednictvo, za které jednají dva členové společně.",
   "osoby": [
     {
-      "role": "člen",
-      "jmeno": "MUDr. Jan Kovář",
-      "datum_narozeni": "1982-01-17",
-      "adresa": "387 01 Volyně 52"
-    },
-    {
       "role": "členka",
       "jmeno": "Mgr. Petra Mrkvičková",
       "datum_narozeni": "1987-04-25",
