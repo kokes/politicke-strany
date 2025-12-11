@@ -1,7 +1,7 @@
 {
   "nazev": "SMS – Stát Má Sloužit",
   "zkratka": "SMSka",
-  "sidlo": "251 01 Popovičky, Na Stádlech 65",
+  "sidlo": "102 00 Praha, Chudenická 1059/30",
   "den_registrace": "2014-07-31",
   "cislo_registrace": "MV-97630-6/VS-2014",
   "identifikacni_cislo": "03254658",
@@ -16,6 +16,7 @@
     {
       "role": "místopředsedkyně",
       "jmeno": "Zuzana Dušková",
+      "datum_narozeni": "1954-07-16",
       "adresa": "U Louže 559, 250 67 Klecany"
     },
     {
