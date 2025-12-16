@@ -20,6 +20,12 @@
       "adresa": "Pod Hájkem 93/45, 664 91 Ivančice"
     },
     {
+      "role": "člen",
+      "jmeno": "Otto Jarolímek",
+      "datum_narozeni": "1961-04-03",
+      "adresa": "Rubínová 1926, 511 01 Turnov"
+    },
+    {
       "role": "členka",
       "jmeno": "Zora Mlčáková",
       "datum_narozeni": "1956-02-23",
@@ -27,15 +33,15 @@
     },
     {
       "role": "místopředseda",
-      "jmeno": "Jan  Baránek",
-      "datum_narozeni": "1979-06-29",
-      "adresa": "Osvobození 343/24, 691 41 Břeclav"
-    },
-    {
-      "role": "místopředseda",
       "jmeno": "Petr Jurča",
       "datum_narozeni": "1965-09-27",
       "adresa": "Bezručova 1204, 357 35 Chodov"
+    },
+    {
+      "role": "místopředseda",
+      "jmeno": "Robert Kučera",
+      "datum_narozeni": "1969-09-23",
+      "adresa": "Ratbořská 298, 190 16 Praha"
     },
     {
       "role": "předseda",
