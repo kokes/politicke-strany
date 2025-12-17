@@ -1,0 +1,29 @@
+{
+  "nazev": "Zbrojovka a fotbal zpět za Lužánky",
+  "zkratka": "za Lužánky",
+  "sidlo": "613 00 Brno, Janouškova 581/7",
+  "den_registrace": "2025-12-16",
+  "cislo_registrace": "MV-191984-6/OV-2025",
+  "identifikacni_cislo": "24070408",
+  "statutarni_organ": "Předsednictvo, za které jeho členové jednají samostatně.",
+  "osoby": [
+    {
+      "role": "člen",
+      "jmeno": "JUDr. Richard Novák",
+      "datum_narozeni": "1961-10-21",
+      "adresa": "Pod Hospodou 588, 691 63 Velké Němčice"
+    },
+    {
+      "role": "člen",
+      "jmeno": "Lukáš Winkler",
+      "datum_narozeni": "1988-12-02",
+      "adresa": "Jana Dvořáka 1913/13, 664 51 Šlapanice"
+    },
+    {
+      "role": "člen",
+      "jmeno": "Michal Žvák",
+      "datum_narozeni": "1980-01-11",
+      "adresa": "Marie Kudeříkové 3844/4, 636 00 Brno"
+    }
+  ]
+}
