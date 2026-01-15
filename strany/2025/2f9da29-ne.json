@@ -6,5 +6,12 @@
   "cislo_registrace": "MV-59695-6/OV-2025",
   "identifikacni_cislo": "23287420",
   "statutarni_organ": "Předseda hnutí.",
-  "osoby": []
+  "osoby": [
+    {
+      "role": "předseda",
+      "jmeno": "Marian Kuś",
+      "datum_narozeni": "1963-02-20",
+      "adresa": "Krakovská 1363/12, 110 00 Praha"
+    }
+  ]
 }
