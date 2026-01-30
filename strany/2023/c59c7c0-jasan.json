@@ -9,21 +9,21 @@
   "osoby": [
     {
       "role": "člen předsednictva",
-      "jmeno": "Martin Havel",
-      "datum_narozeni": "1972-05-26",
-      "adresa": "294 77 Mečeříž 203"
-    },
-    {
-      "role": "člen předsednictva",
-      "jmeno": "Radomír Marszalek",
-      "datum_narozeni": "1961-12-22",
-      "adresa": "763 12 Lutonina 134"
+      "jmeno": "František Třeštik",
+      "datum_narozeni": "1956-03-16",
+      "adresa": "Puškinova 1122/16, 290 01 Poděbrady"
     },
     {
       "role": "člen předsednictva",
       "jmeno": "Stanislav Kulhavý",
       "datum_narozeni": "1962-06-07",
       "adresa": "Čs. armády 212, 254 01 Jílové u Prahy"
+    },
+    {
+      "role": "místopředseda",
+      "jmeno": "Bedřich Šmudla",
+      "datum_narozeni": "1961-12-23",
+      "adresa": "360 01 Sadov 7"
     },
     {
       "role": "předseda",
