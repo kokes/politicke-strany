@@ -21,15 +21,15 @@
     },
     {
       "role": "člen předsednictva",
-      "jmeno": "Ing. Radim Holiš",
-      "datum_narozeni": "1975-08-12",
-      "adresa": "Na Drahách 1132, 756 61 Rožnov pod Radhoštěm"
+      "jmeno": "Ing. Martin Kolovratník",
+      "datum_narozeni": "1975-04-11",
+      "adresa": "Luční 1054, 530 03 Pardubice"
     },
     {
       "role": "člen předsednictva",
-      "jmeno": "Ing. Roman Kubíček, Ph.D., MBA",
-      "datum_narozeni": "1963-05-06",
-      "adresa": "Spojovací 1592/1, 370 05 České Budějovice"
+      "jmeno": "Ing. Radim Holiš",
+      "datum_narozeni": "1975-08-12",
+      "adresa": "Na Drahách 1132, 756 61 Rožnov pod Radhoštěm"
     },
     {
       "role": "člen předsednictva",
@@ -38,28 +38,28 @@
       "adresa": "Werichova 4706/8, 796 01 Prostějov"
     },
     {
-      "role": "člen předsednictva",
-      "jmeno": "MUDr. David Kasal, MHA",
-      "datum_narozeni": "1969-01-01",
-      "adresa": "Svěchyňova 607, 537 01 Chrudim"
+      "role": "členka předsednictva",
+      "jmeno": "Ing. Monika Oborná",
+      "datum_narozeni": "1989-04-02",
+      "adresa": "675 74 Březník 197"
     },
     {
-      "role": "člen předsednictva",
-      "jmeno": "Mgr. Jaroslav Bžoch",
-      "datum_narozeni": "1983-11-30",
-      "adresa": "Jungmannova 917/5, 415 01 Teplice"
-    },
-    {
-      "role": "člen předsednictva",
-      "jmeno": "Mgr. Roman Zarzycký",
-      "datum_narozeni": "1977-09-07",
-      "adresa": "Bzenecká 1051/13, 323 00 Plzeň"
+      "role": "členka předsednictva",
+      "jmeno": "Mgr. Ing. Taťána Malá",
+      "datum_narozeni": "1981-10-01",
+      "adresa": "Tišnovka 244/7, 664 31 Lelekovice"
     },
     {
       "role": "členka předsednictva",
       "jmeno": "Mgr. Jana Pastuchová",
       "datum_narozeni": "1965-07-21",
       "adresa": "Boženy Němcové 3656/4, 466 04 Jablonec nad Nisou"
+    },
+    {
+      "role": "členka předsednictva",
+      "jmeno": "Mgr. Zuzana Mrázová",
+      "datum_narozeni": "1978-02-24",
+      "adresa": "Mírové náměstí 94/23, 418 01 Bílina"
     },
     {
       "role": "místopředseda",

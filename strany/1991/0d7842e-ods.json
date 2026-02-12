@@ -9,21 +9,21 @@
   "osoby": [
     {
       "role": "1. místopředseda",
-      "jmeno": "Ing. Zbyněk  Stanjura",
-      "datum_narozeni": "1964-02-15",
-      "adresa": "Horní 421/3A, 747 05 Opava"
+      "jmeno": "Mgr. Tomáš Portlík",
+      "datum_narozeni": "1978-08-20",
+      "adresa": "Zárybská 667/16, 190 00 Praha"
     },
     {
       "role": "místopředseda",
-      "jmeno": "Mgr. Martin  Baxa",
-      "datum_narozeni": "1975-09-16",
-      "adresa": "Višňová 121/5, 301 00 Plzeň"
+      "jmeno": "Mgr. Karel Haas",
+      "datum_narozeni": "1973-09-14",
+      "adresa": "Kyjevská 429, 530 03 Pardubice"
     },
     {
       "role": "místopředseda",
-      "jmeno": "Mgr. Martin Kupka",
-      "datum_narozeni": "1975-10-28",
-      "adresa": "Jana Pavelky 660, 250 65 Líbeznice"
+      "jmeno": "Mgr. Pavel Drobil",
+      "datum_narozeni": "1971-10-18",
+      "adresa": "Občanská 1103/25, 710 00 Ostrava"
     },
     {
       "role": "místopředseda",
@@ -32,10 +32,10 @@
       "adresa": "Máchova 169/8, 412 01 Litoměřice"
     },
     {
-      "role": "místopředsedkyně",
-      "jmeno": "Eva Decroix",
-      "datum_narozeni": "1982-05-26",
-      "adresa": "Jiráskova 2159/25, 586 01 Jihlava"
+      "role": "místopředseda",
+      "jmeno": "brig. gen. v. v. Mgr. Martin Červíček",
+      "datum_narozeni": "1972-04-03",
+      "adresa": "552 03 Vysokov 186"
     },
     {
       "role": "předseda poslaneckého klubu",
@@ -51,13 +51,13 @@
     },
     {
       "role": "předseda",
-      "jmeno": "prof. PhDr. Petr Fiala, Ph.D., LL.M.",
-      "datum_narozeni": "1964-09-01",
-      "adresa": "Jugoslávská 684/130, 613 00 Brno"
+      "jmeno": "Mgr. Martin  Kupka",
+      "datum_narozeni": "1975-10-28",
+      "adresa": "Jana Pavelky 660, 250 65 Líbeznice"
     },
     {
       "role": "předsedkyně klubu poslanců EP",
-      "jmeno": "Veronika Vrecionová",
+      "jmeno": "Ing. Veronika Vrecionová",
       "datum_narozeni": "1965-09-08",
       "adresa": "Dolní náves 21, 250 73 Přezletice"
     }
