@@ -1,35 +1,17 @@
 {
   "nazev": "Politické hnutí NEZLOMNÍ",
   "zkratka": "NEZLOMNÍ",
-  "sidlo": "258 01 Vlašim, Družstevní 988",
+  "sidlo": "466 04 Jablonec nad Nisou, Mechová 3601/21",
   "den_registrace": "2025-02-13",
   "cislo_registrace": "MV- 22689-2/OV-2025",
   "identifikacni_cislo": "22592989",
   "statutarni_organ": "Předsednictvo, za které jedná předseda.",
   "osoby": [
     {
-      "role": "člen",
-      "jmeno": "Jan Hrabčák",
-      "datum_narozeni": "1966-01-19",
-      "adresa": "739 37 Horní Bludovice 458"
-    },
-    {
-      "role": "člen",
-      "jmeno": "René Kaniok",
-      "datum_narozeni": "1972-09-25",
-      "adresa": "739 01 Baška 137"
-    },
-    {
-      "role": "členka",
+      "role": "místopředsedkyně",
       "jmeno": "Michaela Havelková",
       "datum_narozeni": "1980-04-21",
       "adresa": "Družstevní 988, 258 01 Vlašim"
-    },
-    {
-      "role": "místopředseda",
-      "jmeno": "Pavel Šrytr",
-      "datum_narozeni": "1964-06-27",
-      "adresa": "468 22 Železný Brod 14"
     },
     {
       "role": "předsedkyně",
