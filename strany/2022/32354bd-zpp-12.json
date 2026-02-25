@@ -9,15 +9,15 @@
   "osoby": [
     {
       "role": "člen",
-      "jmeno": "Ing. Jindřich Bašta",
-      "datum_narozeni": "1957-05-24",
-      "adresa": "Levského 3210/5, 143 00 Praha"
+      "jmeno": "Ing. Jiří  Flieger",
+      "datum_narozeni": "1967-04-08",
+      "adresa": "Na Havránce 395/37, 143 00 Praha"
     },
     {
       "role": "místopředseda",
-      "jmeno": "Ing. Jiří Flieger",
-      "datum_narozeni": "1967-04-08",
-      "adresa": "Na Havránce 395/37, 143 00 Praha"
+      "jmeno": "Ing. Jindřich  Bašta",
+      "datum_narozeni": "1957-05-24",
+      "adresa": "Levského 3210/5, 143 00 Praha"
     },
     {
       "role": "předseda",

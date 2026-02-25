@@ -8,6 +8,24 @@
   "statutarni_organ": "Předsednictvo, za které jedná předseda.",
   "osoby": [
     {
+      "role": "člen",
+      "jmeno": "Martin Bugár",
+      "datum_narozeni": "1990-08-27",
+      "adresa": "Huť 191, 468 26 Pěnčín"
+    },
+    {
+      "role": "člen",
+      "jmeno": "Martin Vrběcký",
+      "datum_narozeni": "1977-05-05",
+      "adresa": "Mechová 3601/21, 466 04 Jablonec nad Nisou"
+    },
+    {
+      "role": "členka",
+      "jmeno": "Vladimíra Šimáňová",
+      "datum_narozeni": "1978-06-20",
+      "adresa": "Žižkovo nám. 119, 258 01 Vlašim"
+    },
+    {
       "role": "místopředsedkyně",
       "jmeno": "Michaela Havelková",
       "datum_narozeni": "1980-04-21",

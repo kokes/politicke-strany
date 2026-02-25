@@ -6,5 +6,12 @@
   "cislo_registrace": "MV-205465-4/OV-2025",
   "identifikacni_cislo": "24397041",
   "statutarni_organ": "Předseda.",
-  "osoby": []
+  "osoby": [
+    {
+      "role": "předseda",
+      "jmeno": "Zdeněk Pávek",
+      "datum_narozeni": "1979-07-19",
+      "adresa": "Očovská 3706/26, 695 01 Hodonín"
+    }
+  ]
 }
