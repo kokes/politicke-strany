@@ -1,0 +1,23 @@
+{
+  "nazev": "Česká párty (The Czech Party)",
+  "zkratka": "(CzP)",
+  "sidlo": "110 00 Praha, Dlouhá 715/38",
+  "den_registrace": "2026-03-02",
+  "cislo_registrace": "MV-18628-4/OV-2026",
+  "identifikacni_cislo": "24569933",
+  "statutarni_organ": "2 spolupředsedové, každý samostatně. V případě finančního plnění nad 100 000 Kč jednají a podepisují oba společně.",
+  "osoby": [
+    {
+      "role": "Spolupředseda",
+      "jmeno": "JUDr. Václav Musílek",
+      "datum_narozeni": "1958-09-25",
+      "adresa": "Hybešova 521/6, 186 00 Praha"
+    },
+    {
+      "role": "Spolupředseda",
+      "jmeno": "Petr Levíček, MBA",
+      "datum_narozeni": "1964-04-16",
+      "adresa": "Odlehlá 178/23, 621 00 Brno"
+    }
+  ]
+}
