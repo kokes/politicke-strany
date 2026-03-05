@@ -6,5 +6,12 @@
   "cislo_registrace": "MV-22141-4/OV-2026",
   "identifikacni_cislo": "24524719",
   "statutarni_organ": "Předseda.",
-  "osoby": []
+  "osoby": [
+    {
+      "role": "předseda",
+      "jmeno": "Ing. Jaroslav Chalupský",
+      "datum_narozeni": "1974-04-27",
+      "adresa": "Mládežnická 397, 377 01 Jindřichův Hradec"
+    }
+  ]
 }
