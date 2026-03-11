@@ -9,15 +9,15 @@
   "osoby": [
     {
       "role": "místopředseda",
-      "jmeno": "Ing. Pavel Rödl",
-      "datum_narozeni": "1953-11-29",
-      "adresa": "Revoluční 303/31, 312 00 Plzeň"
-    },
-    {
-      "role": "místopředseda",
       "jmeno": "Mgr. Václav Chaloupek",
       "datum_narozeni": "1949-05-21",
       "adresa": "332 04 Milínov 64"
+    },
+    {
+      "role": "místopředseda",
+      "jmeno": "Václav Jáchim",
+      "datum_narozeni": "1966-07-02",
+      "adresa": "Glazunovova 885/8, 148 00 Praha"
     },
     {
       "role": "předseda",
