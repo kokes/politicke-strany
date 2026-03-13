@@ -1,0 +1,29 @@
+{
+  "nazev": "Naše Česko",
+  "zkratka": "NČ",
+  "sidlo": "370 04 České Budějovice, Pražská tř. 2738/94",
+  "den_registrace": "2026-03-12",
+  "cislo_registrace": "MV- 37084-4/OV-2026",
+  "identifikacni_cislo": "24623423",
+  "statutarni_organ": "Předsednictvo, za které jedná předseda.",
+  "osoby": [
+    {
+      "role": "člen",
+      "jmeno": "Petr Maroš",
+      "datum_narozeni": "1976-12-08",
+      "adresa": "Jar. Haška 1514/17, 370 04 České Budějovice"
+    },
+    {
+      "role": "člen",
+      "jmeno": "Zbyněk Sýkora",
+      "datum_narozeni": "1984-06-04",
+      "adresa": "Holkovská 2342/4, 370 07 České Budějovice"
+    },
+    {
+      "role": "předseda",
+      "jmeno": "MUDr. Martin Kuba",
+      "datum_narozeni": "1973-04-09",
+      "adresa": "Fr. Ondříčka 978/10, 370 11 České Budějovice"
+    }
+  ]
+}
