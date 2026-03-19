@@ -9,20 +9,21 @@
   "osoby": [
     {
       "role": "člen předsednictva",
-      "jmeno": "MUDr. Pavel Vychytil",
-      "datum_narozeni": "1980-10-05",
-      "adresa": "561 02 Dolní Dobrouč 6"
+      "jmeno": "Ing. Petr Beneš",
+      "datum_narozeni": "1984-01-17",
+      "adresa": "Nad vodovodem 3480/2a, 100 00 Praha"
     },
     {
-      "role": "místopředsedkyně",
-      "jmeno": "",
-      "adresa": ""
+      "role": "místopředseda",
+      "jmeno": "Ing. Jan Štern",
+      "datum_narozeni": "1953-06-12",
+      "adresa": "Na Topolce 1348/7, 140 00 Praha"
     },
     {
       "role": "předseda",
-      "jmeno": "MUDr. Marek Hilšer",
-      "datum_narozeni": "1976-03-23",
-      "adresa": "Pohořelec 110/26, 118 00 Praha"
+      "jmeno": "Ing. Lukáš Wagenknecht",
+      "datum_narozeni": "1978-09-24",
+      "adresa": "U Krematoria 2636, 530 02 Pardubice"
     }
   ]
 }

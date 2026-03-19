@@ -9,15 +9,9 @@
   "osoby": [
     {
       "role": "člen RR",
-      "jmeno": "Ing. Karel Poukar",
-      "datum_narozeni": "1950-01-02",
-      "adresa": "Tupolevova 464, 199 00 Praha"
-    },
-    {
-      "role": "člen RR",
-      "jmeno": "Ing. Libor Gavlas",
-      "datum_narozeni": "1978-07-26",
-      "adresa": "Aloise Jiráska 1525/3, 736 01 Havířov"
+      "jmeno": "Jan Kutáč",
+      "datum_narozeni": "1975-05-24",
+      "adresa": "Jarošovická 1103, 735 32 Rychvald"
     },
     {
       "role": "člen RR",
@@ -26,21 +20,16 @@
       "adresa": "Dostálova 994/20, 713 00 Heřmanice"
     },
     {
-      "role": "člen RR",
-      "jmeno": "Mgr. Miroslav Chlubna",
-      "datum_narozeni": "1974-02-28",
-      "adresa": "Zátiší 178, 735 14 Orlová"
+      "role": "členka RR",
+      "jmeno": "Anna Mašinská",
+      "datum_narozeni": "1959-12-07",
+      "adresa": "Hradišťská 160/39, 735 42 Těrlicko"
     },
     {
       "role": "místopředseda",
-      "jmeno": "Bc. Martin Polášek",
-      "datum_narozeni": "1971-09-10",
-      "adresa": "Slezská 82/5, 735 42 Těrlicko"
-    },
-    {
-      "role": "místopředsedkyně",
-      "jmeno": "",
-      "adresa": ""
+      "jmeno": "Bc. Petr Drozdík",
+      "datum_narozeni": "1983-05-12",
+      "adresa": "F. S. Tůmy 1244, 735 14 Orlová"
     },
     {
       "role": "předseda",
