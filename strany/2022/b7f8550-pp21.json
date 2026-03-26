@@ -9,21 +9,21 @@
   "osoby": [
     {
       "role": "člen",
-      "jmeno": "Otakar Janecký",
-      "datum_narozeni": "1960-12-26",
-      "adresa": "Pod Zahradami 709, 530 03 Pardubice"
+      "jmeno": "František Němec",
+      "datum_narozeni": "1966-07-26",
+      "adresa": "Brožíkova 435, 530 09 Pardubice"
     },
     {
       "role": "členka",
-      "jmeno": "Markéta Hujerová",
-      "datum_narozeni": "1972-02-28",
-      "adresa": "V Zátiší 1074, 530 12 Pardubice"
-    },
-    {
-      "role": "předsedkyně",
       "jmeno": "Marcela Nováčková",
       "datum_narozeni": "1965-08-27",
       "adresa": "Erno Košťála 958, 530 12 Pardubice"
+    },
+    {
+      "role": "předseda",
+      "jmeno": "Jakub Rychtecký",
+      "datum_narozeni": "1984-04-13",
+      "adresa": "Josefa Bublíka 367, 530 09 Pardubice"
     }
   ]
 }
