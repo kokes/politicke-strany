@@ -9,15 +9,15 @@
   "osoby": [
     {
       "role": "místopředseda",
-      "jmeno": "Michal Hozák",
-      "datum_narozeni": "1989-06-28",
-      "adresa": "Horní náměstí 204/13, 779 00 Olomouc"
+      "jmeno": "Ing. Mgr. Ondřej Hetmánek",
+      "datum_narozeni": "1978-08-10",
+      "adresa": "792 01 Široká Niva 243"
     },
     {
       "role": "předseda",
-      "jmeno": "MUDr. Ctirad Musil",
-      "datum_narozeni": "1978-05-12",
-      "adresa": "753 54 Dolní Nětčice 31"
+      "jmeno": "Ing. Aleš Sekanina",
+      "datum_narozeni": "1963-07-27",
+      "adresa": "Slovenská 152, 685 01 Bučovice"
     }
   ]
 }
