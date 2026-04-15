@@ -9,15 +9,15 @@
   "osoby": [
     {
       "role": "člen",
+      "jmeno": "František Čihák",
+      "datum_narozeni": "1946-10-16",
+      "adresa": "251 66 Hrusice 30"
+    },
+    {
+      "role": "předseda",
       "jmeno": "Milan Wenzl",
       "datum_narozeni": "1959-05-12",
       "adresa": "V aleji 568, 109 00 Praha"
-    },
-    {
-      "role": "člen",
-      "jmeno": "Pavel Černý",
-      "datum_narozeni": "1978-08-31",
-      "adresa": "Bruslařská 1187/12, 102 00 Praha"
     }
   ]
 }
