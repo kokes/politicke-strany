@@ -9,21 +9,21 @@
   "osoby": [
     {
       "role": "člen",
-      "jmeno": "JUDr. Richard Novák",
-      "datum_narozeni": "1961-10-21",
-      "adresa": "Pod Hospodou 588, 691 63 Velké Němčice"
+      "jmeno": "Marek Fišer",
+      "datum_narozeni": "1982-11-22",
+      "adresa": "Skřivanova 87/1, 602 00 Brno"
     },
     {
-      "role": "člen",
-      "jmeno": "Lukáš Winkler",
-      "datum_narozeni": "1988-12-02",
-      "adresa": "Jana Dvořáka 1913/13, 664 51 Šlapanice"
-    },
-    {
-      "role": "člen",
+      "role": "místopředseda",
       "jmeno": "Michal Žvák",
       "datum_narozeni": "1980-01-11",
       "adresa": "Marie Kudeříkové 3844/4, 636 00 Brno"
+    },
+    {
+      "role": "předseda",
+      "jmeno": "Lukáš Winkler",
+      "datum_narozeni": "1988-12-02",
+      "adresa": "Jana Dvořáka 1913/13, 664 51 Šlapanice"
     }
   ]
 }
