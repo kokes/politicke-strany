@@ -1,23 +1,29 @@
 {
   "nazev": "Stačilo!",
   "zkratka": "Stačilo!",
-  "sidlo": "671 72 Miroslav, Václavov 741/12",
+  "sidlo": "110 00 Praha, Politických vězňů 1531/9",
   "den_registrace": "2024-10-10",
   "cislo_registrace": "MV-141340-4/OV-2024",
   "identifikacni_cislo": "22142631",
   "statutarni_organ": "Předsednictvo, a to vždy společně dvěma členy, z nichž alespoň jeden je předsedou a druhý členem předsednictva anebo společně dvěma místopředsedy hnutí.",
   "osoby": [
     {
-      "role": "1. místopředseda",
-      "jmeno": "Ondřej Dostál",
-      "datum_narozeni": "1979-01-25",
-      "adresa": "Skořická 142, 338 43 Mirošov"
+      "role": "1.místopředsedkyně",
+      "jmeno": "Pavlína  Procházková",
+      "datum_narozeni": "1976-09-16",
+      "adresa": "768 33 Počenice-Tetětice 55"
     },
     {
-      "role": "členka",
-      "jmeno": "Dagmar Koníčková",
-      "datum_narozeni": "1952-05-10",
-      "adresa": "Novomlýnská 1238/3, 110 00 Praha"
+      "role": "člen",
+      "jmeno": "Jiří Medula",
+      "datum_narozeni": "1968-01-24",
+      "adresa": "747 15 Šilheřovice 9"
+    },
+    {
+      "role": "člen",
+      "jmeno": "Vítek Prokop",
+      "datum_narozeni": "1999-09-27",
+      "adresa": "Nad Hájovnou 632, 357 33 Loket"
     },
     {
       "role": "členka",
@@ -26,10 +32,16 @@
       "adresa": "743 01 Bílovec 83"
     },
     {
+      "role": "místopředseda",
+      "jmeno": "Michal Gulyáš",
+      "datum_narozeni": "1966-03-19",
+      "adresa": "Nad Potokem 186, 250 63 Nová Ves"
+    },
+    {
       "role": "místopředsedkyně",
-      "jmeno": "Pavlína Procházková",
-      "datum_narozeni": "1976-09-16",
-      "adresa": "768 33 Počenice-Tetětice 55"
+      "jmeno": "Jana Turoňová",
+      "datum_narozeni": "1983-10-01",
+      "adresa": "378 42 Bednárec 48"
     },
     {
       "role": "předseda",
