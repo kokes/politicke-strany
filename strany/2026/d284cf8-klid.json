@@ -8,34 +8,22 @@
   "statutarni_organ": "Předsednictvo, za které jedná samostatně předseda; v případě jeho nepřítomnosti společně 1. místopředseda a místopředseda.",
   "osoby": [
     {
-      "role": "člen",
-      "jmeno": "Karel Kalivoda",
-      "datum_narozeni": "1966-03-31",
-      "adresa": "Stamicova 288/3, 623 00 Brno"
-    },
-    {
-      "role": "člen",
-      "jmeno": "Petr Bořecký",
-      "datum_narozeni": "1977-02-17",
-      "adresa": "Výstavní 245/6, 603 00 Brno"
-    },
-    {
-      "role": "člen",
+      "role": "1. místopředseda",
       "jmeno": "Petr Souček",
       "datum_narozeni": "1981-01-09",
-      "adresa": "Moskalykova 97/2, 612 00 Brno"
+      "adresa": "Černohorská 97/2, 621 00 Brno"
     },
     {
-      "role": "členka",
-      "jmeno": "Karin Podivinská",
+      "role": "místopředsedkyně",
+      "jmeno": "Karin  Podivinská",
       "datum_narozeni": "1966-05-23",
       "adresa": "Hrnčířská 574/8, 602 00 Brno"
     },
     {
-      "role": "členka",
-      "jmeno": "Kateřina Jarošová",
-      "datum_narozeni": "1973-03-02",
-      "adresa": "Chaloupky 471/71, 624 00 Brno"
+      "role": "předseda",
+      "jmeno": "Petr Bořecký",
+      "datum_narozeni": "1977-02-17",
+      "adresa": "Výstavní 245/6, 603 00 Brno"
     }
   ]
 }
