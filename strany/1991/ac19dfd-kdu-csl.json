@@ -8,34 +8,28 @@
   "statutarni_organ": "Předsednictvo, za které jedná předseda nebo 1. místopředseda.",
   "osoby": [
     {
-      "role": "1. místopředseda",
-      "jmeno": "MVDr. Pavel Bělobrádek, Ph.D., MPA",
-      "datum_narozeni": "1976-12-25",
-      "adresa": "Vodárenská 1808, 547 01 Náchod"
-    },
-    {
-      "role": "generální sekretář",
-      "jmeno": "Mgr. Pavel Hořava",
-      "datum_narozeni": "1956-09-22",
-      "adresa": "Hermannova 71/16, 625 00 Brno"
+      "role": "místopředseda",
+      "jmeno": "Ing. Benjamin Činčila",
+      "datum_narozeni": "1996-01-26",
+      "adresa": "583 01 Sedletín 21"
     },
     {
       "role": "místopředseda",
-      "jmeno": "Mgr. Eduard Hulicius, M.A.",
-      "datum_narozeni": "1980-10-28",
-      "adresa": "Nad Klikovkou 1402/15, 150 00 Praha"
+      "jmeno": "Mgr. František Talíř",
+      "datum_narozeni": "1993-06-24",
+      "adresa": "382 32 Zubčice 24"
     },
     {
       "role": "místopředseda",
-      "jmeno": "PhDr. Jiří Horák, Ph.D.",
-      "datum_narozeni": "1984-07-24",
-      "adresa": "U Dráhy 637, 685 01 Bučovice"
-    },
-    {
-      "role": "místopředseda",
-      "jmeno": "Václav Pláteník, MA LLM",
+      "jmeno": "Václav Pláteník, MA, LL.M.",
       "datum_narozeni": "1990-04-02",
       "adresa": "Lhota 35, 756 42 Valašské Meziříčí"
+    },
+    {
+      "role": "místopředsedkyně",
+      "jmeno": "Libuše Hubáčková",
+      "datum_narozeni": "1987-01-21",
+      "adresa": "301 00 Plzeň 209"
     },
     {
       "role": "místopředsedkyně",
@@ -57,9 +51,9 @@
     },
     {
       "role": "předseda",
-      "jmeno": "Mgr. Marek Výborný",
-      "datum_narozeni": "1976-07-10",
-      "adresa": "Konopáčská 948, 538 03 Heřmanův Městec"
+      "jmeno": "Mgr. Jan Grolich",
+      "datum_narozeni": "1984-06-11",
+      "adresa": "664 05 Velatice 262"
     }
   ]
 }
