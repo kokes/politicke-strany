@@ -9,21 +9,15 @@
   "osoby": [
     {
       "role": "1. místopředseda",
-      "jmeno": "JUDr. Arnošt Urban",
-      "datum_narozeni": "1955-09-13",
-      "adresa": "Za Lípou 548/15, 500 09 Hradec Králové"
+      "jmeno": "Jaroslav Pokorný",
+      "datum_narozeni": "1981-06-28",
+      "adresa": "Bratří Čapků 580/9, 500 03 Hradec Králové"
     },
     {
       "role": "místopředseda",
       "jmeno": "Ing. Petr Kubát",
       "datum_narozeni": "1960-06-12",
       "adresa": "503 33 Praskačka 184"
-    },
-    {
-      "role": "místopředseda",
-      "jmeno": "Jaroslav Pokorný",
-      "datum_narozeni": "1981-06-28",
-      "adresa": "Bratří Čapků 580/9, 500 03 Hradec Králové"
     },
     {
       "role": "místopředsedkyně",
