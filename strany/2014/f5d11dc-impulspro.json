@@ -1,6 +1,6 @@
 {
-  "nazev": "START21",
-  "zkratka": "START",
+  "nazev": "IMPULS pro Dolní Břežany, Lhotu, Zálepy, Jarov",
+  "zkratka": "IMPULSPRO",
   "sidlo": "130 00 Praha, Korunní 1065/107",
   "den_registrace": "2014-02-12",
   "cislo_registrace": "MV-17186-4/VS-2014",
@@ -18,12 +18,6 @@
       "jmeno": "PhDr. Mgr. Václav Kott, DiS.",
       "datum_narozeni": "1960-03-12",
       "adresa": "Na Bělidlech 176, 251 65 Ondřejov"
-    },
-    {
-      "role": "tajemník",
-      "jmeno": "Ing. Robert Koželský LL.M., DBA",
-      "datum_narozeni": "1976-05-15",
-      "adresa": "Na Hrázi 91, 252 41 Dolní Břežany"
     }
   ]
 }
