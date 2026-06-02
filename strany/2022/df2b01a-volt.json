@@ -8,9 +8,10 @@
   "statutarni_organ": "Předsednictvo, za které jednají oba spolupředsedové nebo jeden ze spolupředsedů a místopředseda strany společně, případně jiný jimi pověřený člen předsednictva.",
   "osoby": [
     {
-      "role": "Místopředseda",
-      "jmeno": "",
-      "adresa": ""
+      "role": "Místopředsedkyně",
+      "jmeno": "Kamila Kurníková",
+      "datum_narozeni": "1993-05-02",
+      "adresa": "Českobratrská 1888/14, 702 00 Ostrava"
     },
     {
       "role": "Spolupředseda",
