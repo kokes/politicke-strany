@@ -1,0 +1,17 @@
+{
+  "nazev": "Pardubáci společně",
+  "zkratka": "Parspo",
+  "sidlo": "530 03 Pardubice, Na Drážce 1539",
+  "den_registrace": "2010-07-29",
+  "cislo_registrace": "MV-68061-6/VS-2010",
+  "identifikacni_cislo": "71443207",
+  "statutarni_organ": "Předseda.",
+  "osoby": [
+    {
+      "role": "předseda",
+      "jmeno": "František Brendl",
+      "datum_narozeni": "1976-05-20",
+      "adresa": "Spojilská 37, 530 03 Pardubice"
+    }
+  ]
+}

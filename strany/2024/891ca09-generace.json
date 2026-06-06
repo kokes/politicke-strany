@@ -9,20 +9,39 @@
   "osoby": [
     {
       "role": "1. místopředseda",
-      "jmeno": "Petr Jindřichovský",
-      "datum_narozeni": "1969-12-02",
-      "adresa": "Letohradská 369/3, 170 00 Praha"
+      "jmeno": "Martin Szetei",
+      "datum_narozeni": "2004-11-12",
+      "adresa": "Jílovská 913, 251 68 Kamenice"
     },
     {
-      "role": "člen předsednictva",
+      "role": "2. místopředseda",
       "jmeno": "Jonáš Továrek",
       "datum_narozeni": "2003-11-11",
       "adresa": "258 01 Tehov 41"
     },
     {
-      "role": "členka předsednictva a 2. místopředsedkyně",
-      "jmeno": "",
-      "adresa": ""
+      "role": "člen předsednictva",
+      "jmeno": "Alessandro Bottaro",
+      "datum_narozeni": "2002-10-05",
+      "adresa": "V podluží 679/2, 140 00 Praha"
+    },
+    {
+      "role": "člen předsednictva",
+      "jmeno": "Ing. Vojtěch Sokol",
+      "datum_narozeni": "1998-03-02",
+      "adresa": "Severní 189, 252 17 Tachlovice"
+    },
+    {
+      "role": "člen předsednictva",
+      "jmeno": "Petr Nezveda",
+      "datum_narozeni": "2004-09-30",
+      "adresa": "Kovářská 314/14, 669 02 Znojmo"
+    },
+    {
+      "role": "člen předsednictva",
+      "jmeno": "Tomáš Lejsek",
+      "datum_narozeni": "2000-03-16",
+      "adresa": "Budovatelská 917, 374 01 Trhové Sviny"
     },
     {
       "role": "předseda",
