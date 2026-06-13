@@ -9,21 +9,33 @@
   "osoby": [
     {
       "role": "1. místopředseda",
-      "jmeno": "Pavel Hrubeš",
-      "datum_narozeni": "2006-09-23",
-      "adresa": "Svornosti 881/3, 463 11 Liberec"
+      "jmeno": "Nicole Hermanová",
+      "datum_narozeni": "2006-10-05",
+      "adresa": "Klácelova 5, 560 02 Česká Třebová"
     },
     {
       "role": "2. místopředseda",
+      "jmeno": "Daniel Skalka",
+      "datum_narozeni": "2006-10-24",
+      "adresa": "Švehlova 173/6, 391 01 Sezimovo Ústí"
+    },
+    {
+      "role": "3. místopředseda",
+      "jmeno": "Petr Juráň",
+      "datum_narozeni": "2004-05-24",
+      "adresa": "Přílepská 28, 763 16 Lukoveček"
+    },
+    {
+      "role": "4. místopředseda",
       "jmeno": "Tomáš Novák",
       "datum_narozeni": "2006-05-21",
       "adresa": "Lipnická 179/5, 294 71 Benátky nad Jizerou"
     },
     {
       "role": "předseda",
-      "jmeno": "Kryštof Kolomazník",
-      "datum_narozeni": "2007-01-02",
-      "adresa": "Pivovarská 337, 463 11 Liberec"
+      "jmeno": "Pavel Hrubeš",
+      "datum_narozeni": "2006-09-23",
+      "adresa": "Svornosti 881/3, 463 11 Liberec"
     }
   ]
 }
