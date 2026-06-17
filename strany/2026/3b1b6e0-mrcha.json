@@ -1,0 +1,17 @@
+{
+  "nazev": "MÁME RÁDI CHOMUTOV",
+  "zkratka": "MRCHA",
+  "sidlo": "430 04 Chomutov, Kamenný vrch 5433",
+  "den_registrace": "2026-06-16",
+  "cislo_registrace": "MV- 94587-2/OV-2026",
+  "identifikacni_cislo": "29684251",
+  "statutarni_organ": "Předseda.",
+  "osoby": [
+    {
+      "role": "předsedkyně",
+      "jmeno": "Bc. Marcela Soukupová",
+      "datum_narozeni": "1968-07-03",
+      "adresa": "Kamenný vrch 5433, 430 04 Chomutov"
+    }
+  ]
+}
