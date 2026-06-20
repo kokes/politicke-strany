@@ -21,15 +21,21 @@
     },
     {
       "role": "člen",
-      "jmeno": "Ondřej Svoboda",
-      "datum_narozeni": "1994-06-07",
-      "adresa": "Křejpského 1531/6, 149 00 Praha"
+      "jmeno": "Filip Málek",
+      "datum_narozeni": "1992-04-22",
+      "adresa": "Ježkova 757/14, 130 00 Praha"
     },
     {
       "role": "člen",
-      "jmeno": "Pavel Zelenka",
-      "datum_narozeni": "1970-12-17",
-      "adresa": "Kostelní 36/36, 170 00 Praha"
+      "jmeno": "Jiří Knitl",
+      "datum_narozeni": "1975-08-31",
+      "adresa": "U akademie 366/11, 170 00 Praha"
+    },
+    {
+      "role": "člen",
+      "jmeno": "Jonáš Felkel",
+      "datum_narozeni": "2001-08-22",
+      "adresa": "Opatovická 1405/13, 110 00 Praha"
     },
     {
       "role": "člen",
@@ -39,27 +45,21 @@
     },
     {
       "role": "členka",
-      "jmeno": "Hana Třeštíková",
-      "datum_narozeni": "1982-03-21",
-      "adresa": "Kostelní 1103/14, 170 00 Praha"
+      "jmeno": "Jana Bašusová",
+      "datum_narozeni": "1985-03-14",
+      "adresa": "Jaromírova 663/42, 128 00 Praha"
     },
     {
       "role": "členka",
-      "jmeno": "Kristýna Drápalová",
-      "datum_narozeni": "1991-03-28",
-      "adresa": "Čimická 253/21, 182 00 Praha"
+      "jmeno": "Kateřina Linková",
+      "datum_narozeni": "1971-05-13",
+      "adresa": "U panské zahrady 724/18, 158 00 Praha"
     },
     {
       "role": "členka",
-      "jmeno": "Lucie Boudová",
-      "datum_narozeni": "1982-11-02",
-      "adresa": "Drtinova 327/15, 150 00 Praha"
-    },
-    {
-      "role": "členka",
-      "jmeno": "Mariana Čapková",
-      "datum_narozeni": "1983-08-08",
-      "adresa": "Bělohorská 517/181, 169 00 Praha"
+      "jmeno": "Radka Šimková",
+      "datum_narozeni": "1971-05-13",
+      "adresa": "U panské zahrady 724/18, 158 00 Praha"
     },
     {
       "role": "lídr",

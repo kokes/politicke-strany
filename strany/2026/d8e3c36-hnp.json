@@ -1,0 +1,17 @@
+{
+  "nazev": "Naše Praha",
+  "zkratka": "HNP",
+  "sidlo": "150 00 Praha, Radlická 298/105",
+  "den_registrace": "2026-06-19",
+  "cislo_registrace": "MV- 94573-4/OV-2026",
+  "identifikacni_cislo": "29698791",
+  "statutarni_organ": "Předseda",
+  "osoby": [
+    {
+      "role": "předseda",
+      "jmeno": "JUDr. Rudolf Blažek",
+      "datum_narozeni": "1968-01-22",
+      "adresa": "Souběžná II 429/8, 158 00 Praha"
+    }
+  ]
+}

@@ -6,5 +6,12 @@
   "cislo_registrace": "MV- 56088-4/OV-2026",
   "identifikacni_cislo": "24943011",
   "statutarni_organ": "Předseda.",
-  "osoby": []
+  "osoby": [
+    {
+      "role": "předseda",
+      "jmeno": "Ivan Křížek",
+      "datum_narozeni": "1976-01-13",
+      "adresa": "Proutěná 415/31, 149 00 Praha"
+    }
+  ]
 }
