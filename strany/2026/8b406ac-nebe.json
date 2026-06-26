@@ -6,5 +6,24 @@
   "cislo_registrace": "MV- 88672-2/OV-2026",
   "identifikacni_cislo": "29646961",
   "statutarni_organ": "Výkonný výbor, za který jedná předseda, případně místopředseda nebo člen výkonného výboru samostatně s výjimkou právních jednání, jejichž hodnota v každém jednotlivém případě přesahuje částku 10.000,- Kč. bez DPH zastupují vždy dva členové výkonného výboru společně.",
-  "osoby": []
+  "osoby": [
+    {
+      "role": "člen",
+      "jmeno": "Petr Kubát",
+      "datum_narozeni": "1988-11-16",
+      "adresa": "Na Parkáně 2094, 266 01 Beroun"
+    },
+    {
+      "role": "místopředseda",
+      "jmeno": "Radek Dolejš",
+      "datum_narozeni": "1973-08-25",
+      "adresa": "Pod Vodojemem 1581, 266 01 Beroun"
+    },
+    {
+      "role": "předseda",
+      "jmeno": "Antonín Marx",
+      "datum_narozeni": "1984-12-17",
+      "adresa": "Duslova 2059, 266 01 Beroun"
+    }
+  ]
 }

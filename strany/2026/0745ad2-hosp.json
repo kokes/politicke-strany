@@ -6,5 +6,24 @@
   "cislo_registrace": "MV- 71977-4/OV-2026",
   "identifikacni_cislo": "29556937",
   "statutarni_organ": "Představenstvo, a to společně dvěma členy, z nichž alespoň jeden je předsedou a druhý členem představenstva anebo společně třemi členy představenstva, z nichž jeden je místopředsedou hnutí a další dva členové jsou členy představenstva.",
-  "osoby": []
+  "osoby": [
+    {
+      "role": "členka",
+      "jmeno": "Alice Končinská",
+      "datum_narozeni": "1982-07-18",
+      "adresa": "Pod přehradou 89, 104 00 Praha"
+    },
+    {
+      "role": "místopředseda",
+      "jmeno": "Radim Pokorný",
+      "datum_narozeni": "1965-11-16",
+      "adresa": "V kuťatech 1288, 104 00 Praha"
+    },
+    {
+      "role": "předsedkyně",
+      "jmeno": "Hana Vagenknechtová",
+      "datum_narozeni": "1976-12-31",
+      "adresa": "Před oborou 204, 104 00 Praha"
+    }
+  ]
 }

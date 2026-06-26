@@ -6,5 +6,24 @@
   "cislo_registrace": "MV- 91456-4/OV-2026",
   "identifikacni_cislo": "29683874",
   "statutarni_organ": "Výkonný výbor, za která jedná předseda.",
-  "osoby": []
+  "osoby": [
+    {
+      "role": "člen",
+      "jmeno": "Lukáš Herich",
+      "datum_narozeni": "1977-06-03",
+      "adresa": "Plzeňská 1296/10, 405 02 Děčín"
+    },
+    {
+      "role": "místopředseda",
+      "jmeno": "Jaroslav Špička",
+      "datum_narozeni": "1982-03-18",
+      "adresa": "Lípová 2664, 438 01 Žatec"
+    },
+    {
+      "role": "předseda",
+      "jmeno": "Filip Ušák",
+      "datum_narozeni": "1989-09-03",
+      "adresa": "28. října 1027/31, 405 02 Děčín"
+    }
+  ]
 }
