@@ -5,6 +5,37 @@
   "den_registrace": "2026-06-24",
   "cislo_registrace": "MV- 93713-4/OV-2026",
   "identifikacni_cislo": "29715377",
-  "statutarni_organ": "Předsednictvo, za které jedná předseda.",
-  "osoby": []
+  "statutarni_organ": "Předsednictvo, za které jedná předseda, v případě jeho nepřítomnosti místopředseda nebo předsedou písemně pověřený člen Předsednictva.",
+  "osoby": [
+    {
+      "role": "člen",
+      "jmeno": "David Lorenc",
+      "datum_narozeni": "1980-10-31",
+      "adresa": "Semilská 926/54c, 197 00 Praha"
+    },
+    {
+      "role": "člen",
+      "jmeno": "Mgr. Hynek Vlas",
+      "datum_narozeni": "1970-01-09",
+      "adresa": "Sovenická 907/3, 197 00 Praha"
+    },
+    {
+      "role": "členka",
+      "jmeno": "Mgr. Veronika Krejčí LL.M.",
+      "datum_narozeni": "1991-06-08",
+      "adresa": "Jilemnická 136/11, 197 00 Praha"
+    },
+    {
+      "role": "místopředseda",
+      "jmeno": "Leoš Biskup",
+      "datum_narozeni": "1964-06-24",
+      "adresa": "Toužimská 108/39, 197 00 Praha"
+    },
+    {
+      "role": "předseda",
+      "jmeno": "Antonín Zámyslický",
+      "datum_narozeni": "1974-02-07",
+      "adresa": "Martinická 987/3, 197 00 Praha"
+    }
+  ]
 }
