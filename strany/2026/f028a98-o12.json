@@ -6,5 +6,24 @@
   "cislo_registrace": "MV- 79669-4/OV-2026",
   "identifikacni_cislo": "29672821",
   "statutarni_organ": "Předsednictvo, za které jedná předseda.",
-  "osoby": []
+  "osoby": [
+    {
+      "role": "člen",
+      "jmeno": "Jiří Koláček",
+      "datum_narozeni": "1974-03-27",
+      "adresa": "Barunčina 1857/48, 143 00 Praha"
+    },
+    {
+      "role": "místopředseda",
+      "jmeno": "Ing. Zdeněk Ročňák",
+      "datum_narozeni": "1984-04-28",
+      "adresa": "Soukalova 2180/4, 143 00 Praha"
+    },
+    {
+      "role": "předseda",
+      "jmeno": "Vladimír Vaněk",
+      "datum_narozeni": "1974-11-02",
+      "adresa": "Převoznická 2090/25, 143 00 Praha"
+    }
+  ]
 }
