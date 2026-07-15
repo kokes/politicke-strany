@@ -1,0 +1,29 @@
+{
+  "nazev": "Odvážné Česko",
+  "zkratka": "HOČ",
+  "sidlo": "687 07 Tupesy 189",
+  "den_registrace": "2026-07-14",
+  "cislo_registrace": "MV-107656-4/OV-2026",
+  "identifikacni_cislo": "29783232",
+  "statutarni_organ": "Předsednictvo, za které jedná předseda. Přesahuje-li hodnota právního jednání 500 000 Kč, jednají jménem Hnutí společně předseda a první místopředseda.",
+  "osoby": [
+    {
+      "role": "členka",
+      "jmeno": "Ing. Kateřina Úlehlová Chytilová",
+      "datum_narozeni": "1981-07-30",
+      "adresa": "768 01 Jarohněvice 114"
+    },
+    {
+      "role": "předsedkyně",
+      "jmeno": "Mgr. Margita Balaštíková",
+      "datum_narozeni": "1967-09-16",
+      "adresa": "687 07 Tupesy 169"
+    },
+    {
+      "role": "první místopředseda",
+      "jmeno": "Bc. Aleš Durďák",
+      "datum_narozeni": "1985-12-02",
+      "adresa": "Ve Skale 446, 686 05 Uherské Hradiště"
+    }
+  ]
+}
