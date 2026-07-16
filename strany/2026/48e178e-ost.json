@@ -6,5 +6,24 @@
   "cislo_registrace": "MV- 74036-4/OV-2026",
   "identifikacni_cislo": "29605938",
   "statutarni_organ": "Předsednictvo, za které jedná samostatně předseda hnutí či kterýkoli z místopředsedů nebo předsednictvo společně.",
-  "osoby": []
+  "osoby": [
+    {
+      "role": "místopředseda",
+      "jmeno": "Rudolf Oberfalcer",
+      "datum_narozeni": "1962-02-11",
+      "adresa": "Velké náměstí 7, 386 01 Strakonice"
+    },
+    {
+      "role": "místopředseda",
+      "jmeno": "Vít Holeksa",
+      "datum_narozeni": "1988-06-05",
+      "adresa": "Palackého náměstí 113, 386 01 Strakonice"
+    },
+    {
+      "role": "předseda",
+      "jmeno": "Jaroslav Horejš",
+      "datum_narozeni": "1978-04-12",
+      "adresa": "Lesní 431, 386 01 Strakonice"
+    }
+  ]
 }
