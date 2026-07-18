@@ -8,16 +8,16 @@
   "statutarni_organ": "Předsednictvo, za které jedná předseda.",
   "osoby": [
     {
-      "role": "člen",
-      "jmeno": "In. Michal Skaunic",
-      "datum_narozeni": "1966-08-19",
-      "adresa": "Cihlářská 745/2C, 503 11 Hradec Králové"
+      "role": "členka",
+      "jmeno": "Ing. Martina Hepnerová",
+      "datum_narozeni": "1981-11-06",
+      "adresa": "Střelecká 804/37, 500 02 Hradec Králové"
     },
     {
-      "role": "místopředseda",
-      "jmeno": "Ing. Petr  Nebeský",
-      "datum_narozeni": "1969-07-21",
-      "adresa": "Denisovo náměstí 56/6, 500 04 Hradec Králové"
+      "role": "místopředsedkyně",
+      "jmeno": "Ing. Zuzana Humhalová",
+      "datum_narozeni": "1976-10-19",
+      "adresa": "Nad Klikovkou 1404/5, 150 00 Praha"
     },
     {
       "role": "předseda",

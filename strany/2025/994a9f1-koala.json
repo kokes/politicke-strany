@@ -9,15 +9,15 @@
   "osoby": [
     {
       "role": "1.místopředsedkyně",
-      "jmeno": "Mgr. Darina Komínková MBA",
-      "datum_narozeni": "1986-05-20",
-      "adresa": "Hraničářská 5737, 430 03 Chomutov"
-    },
-    {
-      "role": "hlavní manažerka",
       "jmeno": "Hana Černá",
       "datum_narozeni": "1979-01-10",
       "adresa": "akademika Heyrovského 4117, 430 03 Chomutov"
+    },
+    {
+      "role": "hlavní manažer",
+      "jmeno": "Mgr. Justinian Popovič",
+      "datum_narozeni": "2000-04-17",
+      "adresa": "Topolová 580, 431 51 Klášterec nad Ohří"
     },
     {
       "role": "místopředseda",
@@ -33,15 +33,15 @@
     },
     {
       "role": "místopředseda",
-      "jmeno": "MUDr. Jiří Binter",
-      "datum_narozeni": "1954-07-04",
-      "adresa": "Prokopova 1827/5, 430 01 Chomutov"
-    },
-    {
-      "role": "místopředseda",
       "jmeno": "Martin Boček",
       "datum_narozeni": "1976-12-14",
       "adresa": "431 57 Chbany 37"
+    },
+    {
+      "role": "místopředseda",
+      "jmeno": "Tomáš Binter",
+      "datum_narozeni": "1978-05-19",
+      "adresa": "Selská 3594/22, 430 01 Chomutov"
     },
     {
       "role": "předseda",
