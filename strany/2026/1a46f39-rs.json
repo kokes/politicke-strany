@@ -6,5 +6,24 @@
   "cislo_registrace": "MV- 88706-4/OV-2026",
   "identifikacni_cislo": "29672929",
   "statutarni_organ": "Výkonná rada, za kterou jedná předseda samostatně; v době jeho nepřítomnosti místopředseda samostatně; v době nepřítomnosti místopředsedy třetí člen samostatně.",
-  "osoby": []
+  "osoby": [
+    {
+      "role": "člen",
+      "jmeno": "Martin Jaroš",
+      "datum_narozeni": "2002-02-28",
+      "adresa": "Nevanova 1057/28, 163 00 Praha"
+    },
+    {
+      "role": "místopředsedkyně",
+      "jmeno": "Mahulena Vodárková",
+      "datum_narozeni": "1990-01-20",
+      "adresa": "Laudova 1008/23, 163 00 Praha"
+    },
+    {
+      "role": "předseda",
+      "jmeno": "Lukáš Pokorný",
+      "datum_narozeni": "1980-04-12",
+      "adresa": "Nevanova 1043/4, 163 00 Praha"
+    }
+  ]
 }

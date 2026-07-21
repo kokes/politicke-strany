@@ -6,5 +6,12 @@
   "cislo_registrace": "MV- 94739-2/OV-2026",
   "identifikacni_cislo": "29684773",
   "statutarni_organ": "Předseda.",
-  "osoby": []
+  "osoby": [
+    {
+      "role": "předsedkyně",
+      "jmeno": "Ing. Lucie Fremrová",
+      "datum_narozeni": "1985-12-26",
+      "adresa": "Oldřichovice 995, 739 61 Třinec"
+    }
+  ]
 }
