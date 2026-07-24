@@ -6,5 +6,12 @@
   "cislo_registrace": "MV-102969-4/OV-2026",
   "identifikacni_cislo": "29779715",
   "statutarni_organ": "Předseda.",
-  "osoby": []
+  "osoby": [
+    {
+      "role": "předseda",
+      "jmeno": "Mgr. Břetislav Štefan",
+      "datum_narozeni": "1978-06-08",
+      "adresa": "Elplova 2077/26, 628 00 Brno"
+    }
+  ]
 }
