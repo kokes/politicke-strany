@@ -6,5 +6,18 @@
   "cislo_registrace": "MV- 81287-2/OV-2026",
   "identifikacni_cislo": "29606128",
   "statutarni_organ": "Předseda a místopředseda, každý jedná samostatně.",
-  "osoby": []
+  "osoby": [
+    {
+      "role": "místopředsedkyně",
+      "jmeno": "Ing. Alexandra Janáčková",
+      "datum_narozeni": "1967-01-24",
+      "adresa": "Na svěcence 1608/9, 193 00 Praha"
+    },
+    {
+      "role": "předsedkyně",
+      "jmeno": "Hana Markulinec Moravcová",
+      "datum_narozeni": "1970-10-08",
+      "adresa": "Čechurova 1988/31, 193 00 Praha"
+    }
+  ]
 }

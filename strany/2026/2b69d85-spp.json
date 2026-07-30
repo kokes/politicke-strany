@@ -6,5 +6,24 @@
   "cislo_registrace": "MV-103831-2/OV-2026",
   "identifikacni_cislo": "29753996",
   "statutarni_organ": "Výbor, za který jedná předseda a další člen výboru.",
-  "osoby": []
+  "osoby": [
+    {
+      "role": "člen",
+      "jmeno": "RNDr. Josef Rak, Ph.D.",
+      "datum_narozeni": "1979-12-12",
+      "adresa": "Komenského 512, 530 03 Pardubice"
+    },
+    {
+      "role": "místopředseda",
+      "jmeno": "Josef Máslo",
+      "datum_narozeni": "1966-12-05",
+      "adresa": "Růžová 120, 530 09 Pardubice"
+    },
+    {
+      "role": "předseda",
+      "jmeno": "MUDr. Vítězslav Novohradský, Ph.D.",
+      "datum_narozeni": "1959-09-05",
+      "adresa": "Jana Zajíce 984, 530 12 Pardubice"
+    }
+  ]
 }
