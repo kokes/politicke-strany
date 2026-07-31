@@ -6,5 +6,24 @@
   "cislo_registrace": "MV- 89570-2/OV-2026",
   "identifikacni_cislo": "29672775",
   "statutarni_organ": "Výkonný výbor, za který jedná předseda.",
-  "osoby": []
+  "osoby": [
+    {
+      "role": "člen",
+      "jmeno": "Jaroslav Pilař",
+      "datum_narozeni": "1975-08-05",
+      "adresa": "Vítězslava Nezvala 2538/32, 434 01 Most"
+    },
+    {
+      "role": "člen",
+      "jmeno": "MUDr. Roman Houska",
+      "datum_narozeni": "1973-02-11",
+      "adresa": "Jugoslávská 1777/69, 434 01 Most"
+    },
+    {
+      "role": "předseda",
+      "jmeno": "Ing. et Bc. Jiří Nedvěd",
+      "datum_narozeni": "1985-05-27",
+      "adresa": "Prokopa Holého 2007/11, 434 01 Most"
+    }
+  ]
 }

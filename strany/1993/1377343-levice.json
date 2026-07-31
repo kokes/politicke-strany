@@ -9,12 +9,6 @@
   "osoby": [
     {
       "role": "člen",
-      "jmeno": "František Otta",
-      "datum_narozeni": "1999-04-19",
-      "adresa": "Pionýrů 682, 783 91 Uničov"
-    },
-    {
-      "role": "člen",
       "jmeno": "Jakub Višňák",
       "datum_narozeni": "1984-12-30",
       "adresa": "Slunečná 214, 251 64 Struhařov"

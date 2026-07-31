@@ -6,5 +6,24 @@
   "cislo_registrace": "MV-104695-2/OV-2026",
   "identifikacni_cislo": "29755026",
   "statutarni_organ": "Předsednictvo, za které jedná předseda.",
-  "osoby": []
+  "osoby": [
+    {
+      "role": "člen",
+      "jmeno": "Aleš Ditrych",
+      "datum_narozeni": "1977-08-14",
+      "adresa": "Komenského 266/3, 500 03 Hradec Králové"
+    },
+    {
+      "role": "místopředseda",
+      "jmeno": "PaeDr. Jindřich Vedlich",
+      "datum_narozeni": "1966-08-15",
+      "adresa": "Medkova 1315/21, 500 02 Hradec Králové"
+    },
+    {
+      "role": "předsedkyně",
+      "jmeno": "Mgr. Ilona Dvořáková DBA",
+      "datum_narozeni": "1969-03-16",
+      "adresa": "Klumparova 833/1, 500 02 Hradec Králové"
+    }
+  ]
 }
