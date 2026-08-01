@@ -6,5 +6,24 @@
   "cislo_registrace": "MV-111249-4/OV-2026",
   "identifikacni_cislo": "29813671",
   "statutarni_organ": "Předsednictvo, za které jedná předseda nebo v jeho nepřítomnosti místopředseda nebo jiná osoba na základě písemné plné moci udělené předsedou hnutí.",
-  "osoby": []
+  "osoby": [
+    {
+      "role": "hospodářka",
+      "jmeno": "Jana Kubíčková",
+      "datum_narozeni": "1967-10-11",
+      "adresa": "Třebovská 317/31, 789 85 Mohelnice"
+    },
+    {
+      "role": "místopředseda",
+      "jmeno": "Tomáš Pavelka",
+      "datum_narozeni": "1998-05-19",
+      "adresa": "798 28 Mořice 17"
+    },
+    {
+      "role": "předseda",
+      "jmeno": "Marek Ošťádal",
+      "datum_narozeni": "1973-08-28",
+      "adresa": "Mezice 116, 783 32 Náklo"
+    }
+  ]
 }

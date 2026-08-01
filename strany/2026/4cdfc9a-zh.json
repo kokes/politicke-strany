@@ -6,5 +6,24 @@
   "cislo_registrace": "MV- 95708-2/OV-2026",
   "identifikacni_cislo": "29685702",
   "statutarni_organ": "Výbor, za který jedná předseda.",
-  "osoby": []
+  "osoby": [
+    {
+      "role": "člen",
+      "jmeno": "Lukáš Leško",
+      "datum_narozeni": "2000-10-21",
+      "adresa": "Kráčiny 285, 769 01 Holešov"
+    },
+    {
+      "role": "místopředseda",
+      "jmeno": "Zdeněk Chytil",
+      "datum_narozeni": "1980-10-24",
+      "adresa": "769 01 Holešov 131"
+    },
+    {
+      "role": "předseda",
+      "jmeno": "Vladan Daněk",
+      "datum_narozeni": "1977-01-27",
+      "adresa": "U Letiště 1255/51, 769 01 Holešov"
+    }
+  ]
 }

@@ -6,5 +6,18 @@
   "cislo_registrace": "MV-100570-4/OV-2026",
   "identifikacni_cislo": "29732531",
   "statutarni_organ": "Dva členové Výboru hnutí společně, jeden člen může v rozsahu písemné plné moci podepsané všemi ostatními členy výboru hnutí. Jeden člen Výboru hnutí jedná v případě, že počet členů výboru poklesne pod dva členy.",
-  "osoby": []
+  "osoby": [
+    {
+      "role": "člen výboru",
+      "jmeno": "Matúš Bóna",
+      "datum_narozeni": "1970-07-27",
+      "adresa": "Galandauerova 2591/13, 612 00 Brno"
+    },
+    {
+      "role": "člen výboru",
+      "jmeno": "Tomáš Ulrich",
+      "datum_narozeni": "1976-10-31",
+      "adresa": "Körnerova 219/2, 602 00 Brno"
+    }
+  ]
 }

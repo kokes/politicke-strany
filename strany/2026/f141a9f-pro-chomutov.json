@@ -6,5 +6,12 @@
   "cislo_registrace": "MV-107932-4/OV-2026",
   "identifikacni_cislo": "29801419",
   "statutarni_organ": "Předseda.",
-  "osoby": []
+  "osoby": [
+    {
+      "role": "předseda",
+      "jmeno": "Petr Veverka",
+      "datum_narozeni": "1986-07-16",
+      "adresa": "Husovo náměstí 37/4, 430 01 Chomutov"
+    }
+  ]
 }
