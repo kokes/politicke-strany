@@ -6,5 +6,18 @@
   "cislo_registrace": "MV-106233-4/OV-2026",
   "identifikacni_cislo": "29782953",
   "statutarni_organ": "Předsednictvo, za které jedná samostatně předseda nebo samostatně místopředseda na základě písemného pověření pro jednání ve vymezeném rozsahu záležitostí.",
-  "osoby": []
+  "osoby": [
+    {
+      "role": "místopředsedkyně",
+      "jmeno": "Christina Nicole Štunda",
+      "datum_narozeni": "1999-07-03",
+      "adresa": "Na Stráni 720, 251 68 Sulice"
+    },
+    {
+      "role": "předseda",
+      "jmeno": "Jiří Topinka",
+      "datum_narozeni": "1966-08-17",
+      "adresa": "Tisová 1812, 251 68 Kamenice"
+    }
+  ]
 }

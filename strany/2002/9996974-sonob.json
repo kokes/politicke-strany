@@ -9,15 +9,14 @@
   "osoby": [
     {
       "role": "člen výboru",
-      "jmeno": "Alena  Šimková",
-      "datum_narozeni": "1955-10-15",
-      "adresa": "381 01 Bohdalovice 35"
+      "jmeno": "",
+      "adresa": ""
     },
     {
       "role": "člen výboru",
-      "jmeno": "Hana Sieglová",
-      "datum_narozeni": "1961-06-12",
-      "adresa": "Biskupský dvůr 1147/6, 110 00 Praha"
+      "jmeno": "Alena  Šimková",
+      "datum_narozeni": "1955-10-15",
+      "adresa": "381 01 Bohdalovice 35"
     },
     {
       "role": "předseda",
