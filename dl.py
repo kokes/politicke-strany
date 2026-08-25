@@ -5,20 +5,17 @@ import os
 import re
 import unicodedata
 from glob import glob
-from urllib.request import urlopen
+from urllib.request import Request, urlopen
 
-import lxml.html
-
-BASE_URL = "https://aplikace.mv.gov.cz/seznam-politickych-stran/Vypis_Rejstrik.aspx?id="
+OPEN_DATA_URL = "https://mv.gov.cz/app/opendata/boards/SPS"
 CACHE_DIR = "cache"
 DATA_DIR = "strany"
 IDS_FN = "ids.txt"
 
-DT_RE = re.compile(r"[0-9]{1,2}\.[0-9]{1,2}\.[0-9]{4}")
-
 
 def download_if_not_cached(url):
     """Download the URL content only if not cached locally."""
+    os.makedirs(CACHE_DIR, exist_ok=True)
     file_path = os.path.join(
         CACHE_DIR, hashlib.sha256(url.encode("utf-8")).hexdigest()[:7]
     )
@@ -28,124 +25,105 @@ def download_if_not_cached(url):
             return f.read()
     else:
         logging.info("Downloading: %s", url)
-        with urlopen(url, timeout=5) as response:
+        req = Request(url, headers={"User-Agent": "politicke-strany-scraper/1.0"})
+        with urlopen(req, timeout=60) as response:
             content = response.read()
             with open(file_path, "wb") as f:
                 f.write(content)
             return content
 
 
-def tc(root, selector):
-    els = root.cssselect(selector)
-    if not els:
-        return None
-
-    return els[0].text_content().strip()
+def fetch_registry():
+    return json.loads(download_if_not_cached(OPEN_DATA_URL).decode("utf-8"))
 
 
-def iso_dt(s):
-    parts = s.split(".")
-    assert len(parts) == 3, parts
-    return f"{parts[2]}-{str(parts[1]).rjust(2, '0')}-{str(parts[0]).rjust(2, '0')}"
+def party_id(raw):
+    return int(raw["iri"].rsplit("/", 1)[-1])
 
 
-def first_typed_parent(el, tag):
-    parent = el.getparent()
-    while parent is not None:
-        if parent.tag.lower() == tag:
-            return parent
-        parent = parent.getparent()
-    return None
+def format_identifikacni_cislo(value):
+    if not value or not value.isdigit():
+        return value
+    return value.zfill(8)
+
+
+def convert_party(raw):
+    dt = {
+        "nazev": raw["název"],
+        "zkratka": raw.get("zkratka") or "",
+        "sidlo": raw.get("adresa_sídla") or "",
+        "den_registrace": raw.get("den_registrace") or "",
+        "cislo_registrace": raw.get("číslo_registrace") or "",
+        "identifikacni_cislo": format_identifikacni_cislo(
+            raw.get("identifikační_číslo") or ""
+        ),
+        "statutarni_organ": raw.get("statutární_orgán") or "",
+        "osoby": [],
+    }
+
+    for osoba_raw in raw.get("osoby") or []:
+        role = (osoba_raw.get("funkce") or "").rstrip(":")
+        osoba = {
+            "role": role,
+            "jmeno": osoba_raw.get("jméno") or "",
+        }
+        if osoba_raw.get("datum_narození"):
+            osoba["datum_narozeni"] = osoba_raw["datum_narození"]
+        adresa_parts = [
+            part
+            for part in (osoba_raw.get("adresa_ulice"), osoba_raw.get("adresa_město"))
+            if part
+        ]
+        if adresa_parts:
+            osoba["adresa"] = ", ".join(adresa_parts)
+        elif not osoba["jmeno"]:
+            osoba["adresa"] = ""
+        dt["osoby"].append(osoba)
+
+    dt["osoby"].sort(key=lambda x: json.dumps(x))
+    return dt
+
+
+def slug_from_zkratka(zkratka):
+    szkr = (
+        unicodedata.normalize("NFKD", zkratka.lower())
+        .encode("ascii", "ignore")
+        .decode("ascii")
+    )
+    return re.sub(r"[^a-zA-Z0-9]+", "-", szkr).strip("-")
+
+
+def target_path(dt):
+    fnid = hashlib.sha256(dt["cislo_registrace"].encode("utf-8")).hexdigest()[:7]
+    tdir = os.path.join(DATA_DIR, dt["den_registrace"][:4])
+    tfn = os.path.join(tdir, f"{fnid}-{slug_from_zkratka(dt['zkratka'])}.json")
+    return fnid, tdir, tfn
 
 
 if __name__ == "__main__":
     logging.getLogger().setLevel(logging.INFO)
     os.makedirs(CACHE_DIR, exist_ok=True)
-
-    ids = []
-    if os.path.exists(IDS_FN):
-        ids = [int(ln) for ln in open(IDS_FN)]
-
-    mid = max(ids) if len(ids) > 0 else 0
-    # inkrementalni zkouseni jen po kouskach, ale inicialni load
-    # udelame velkej
-    rng = 10 if mid > 0 else 200
-    # zkusime par novych IDs
-    for j in range(1, rng):
-        ids.append(mid + j)
-
-    changed, added, have = [], [], set()
-
     os.makedirs(DATA_DIR, exist_ok=True)
-    # list, abychom to duplikovali (budem mazat)
-    for pid in list(ids):
-        url = BASE_URL + str(pid)
-        data = download_if_not_cached(url)
-        ht = lxml.html.fromstring(data)
-        tbl = ht.cssselect("table#vypisRejstrik")[0]
-        dt = {
-            "nazev": tc(tbl, "span#ctl00_Application_lblNazevStrany"),
-            "zkratka": tc(tbl, "span#ctl00_Application_lblZkratkaStrany"),
-            "sidlo": tc(tbl, "span#ctl00_Application_lblAdresaSidla"),
-            "den_registrace": tc(tbl, "span#ctl00_Application_lblDenRegistrace"),
-            "cislo_registrace": tc(tbl, "span#ctl00_Application_lblCisloRegistrace"),
-            "identifikacni_cislo": tc(tbl, "span#ctl00_Application_lblIdentCislo"),
-            "statutarni_organ": tc(tbl, "span#ctl00_Application_lblStatutarOrgan"),
-            "osoby": [],
-        }
-        if dt["nazev"] == "":
-            logging.info("Preskakujem %d, nema nazev", pid)
-            ids.remove(pid)
+
+    registry = fetch_registry()
+    strany = registry["strany"]
+    ids = sorted(party_id(raw) for raw in strany)
+    logging.info("Found %d parties in registry", len(ids))
+
+    changed, added = [], []
+
+    for raw in strany:
+        dt = convert_party(raw)
+        if not dt["nazev"]:
+            logging.info("Preskakujem %d, nema nazev", party_id(raw))
             continue
-        dt["den_registrace"] = iso_dt(dt["den_registrace"])
 
-        # osoby jsou trochu tricky
-        osoby = [j for j in tbl.findall(".//h3") if j.text_content() == "Osoby"]
-        if len(osoby) == 1:
-            tros = first_typed_parent(osoby[0], "tr")
-            for el in tros.itersiblings():
-                if el.tag != "tr":
-                    break
-                tds = el.findall("td")
-                assert len(tds) == 2, tds
-                role = tds[0].text_content().strip().rstrip(":")
-                detaily = [j.strip() for j in tds[1].itertext()]
-                osoba = {
-                    "role": role,
-                    "jmeno": detaily[0],
-                }
-                idx = 1
-                if DT_RE.match(detaily[1]) is not None:
-                    osoba["datum_narozeni"] = iso_dt(detaily[1])
-                    idx += 1
-
-                adresa = detaily[idx : idx + detaily[idx:].index("")]
-                osoba["adresa"] = ", ".join(adresa)
-
-                # TODO: Plati od/plati do? v tom co zbylo
-                dt["osoby"].append(osoba)
-
-        # zda se, ze ten seznam osob neni uplne stabilni, tak je treba
-        # to napred seradit trochu, at nam to negeneruje diffy
-        dt["osoby"].sort(key=lambda x: json.dumps(x))
-
-        # puvodne jsem pro nazev souboru pouzival identifikacni cislo,
-        # ale zdaleka ne vsechny strany ho maj
-        fnid = hashlib.sha256(dt["cislo_registrace"].encode("utf-8")).hexdigest()[:7]
-        szkr = (
-            unicodedata.normalize("NFKD", dt["zkratka"].lower())
-            .encode("ascii", "ignore")
-            .decode("ascii")
-        )
-        szkr = re.sub(r"[^a-zA-Z0-9]+", "-", szkr).strip("-")
-        tdir = os.path.join(DATA_DIR, dt["den_registrace"][:4])
+        fnid, tdir, tfn = target_path(dt)
         os.makedirs(tdir, exist_ok=True)
-        tfn = os.path.join(tdir, f"{fnid}-{szkr}.json")
 
         serialised = json.dumps(dt, ensure_ascii=False, indent=2)
         write = False
 
-        # je mozny, ze mame soubor jinde - pokud zkratka byla jina nez ted
         fncand = glob(os.path.join(tdir, fnid + "*"))
         assert len(fncand) in (0, 1), fncand
 
@@ -160,7 +138,6 @@ if __name__ == "__main__":
                 changed.append(dt["nazev"])
                 write = True
 
-        # promaz predchozi soubor, pokud se zmenila zkratka
         for ex in fncand:
             if ex != tfn:
                 os.remove(ex)

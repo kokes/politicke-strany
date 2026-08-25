@@ -1,0 +1,29 @@
+{
+  "nazev": "Lepší město, lepší život",
+  "zkratka": "Lepší město",
+  "sidlo": "463 11 Liberec, Dlouhomostecká 1699",
+  "den_registrace": "2026-06-15",
+  "cislo_registrace": "MV- 90370-5/OV-2026",
+  "identifikacni_cislo": "29677670",
+  "statutarni_organ": "Představenstvo, za které jedná samostatně předseda, anebo společně místopředseda představenstva a další člen představenstva.",
+  "osoby": [
+    {
+      "role": "člen představenstva",
+      "jmeno": "Pavel Podlipný",
+      "datum_narozeni": "1960-08-15",
+      "adresa": "U Sila 1670, 463 11 Liberec"
+    },
+    {
+      "role": "místopředseda",
+      "jmeno": "Jiří Mejsnar",
+      "datum_narozeni": "1982-01-15",
+      "adresa": "Seniorů 1209, 463 11 Liberec"
+    },
+    {
+      "role": "předseda",
+      "jmeno": "Lukáš Pohanka",
+      "datum_narozeni": "1978-08-20",
+      "adresa": "Dlouhomostecká 1699, 463 11 Liberec"
+    }
+  ]
+}

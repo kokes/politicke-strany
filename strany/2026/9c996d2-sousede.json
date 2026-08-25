@@ -8,6 +8,12 @@
   "statutarni_organ": "Předsednictvo, za které jedná samostatně předseda nebo samostatně místopředseda na základě písemného pověření pro jednání ve vymezeném rozsahu záležitostí.",
   "osoby": [
     {
+      "role": "místopředseda",
+      "jmeno": "Vladimír Stojanović",
+      "datum_narozeni": "1971-02-25",
+      "adresa": "Sakurová 367, 251 68 Sulice"
+    },
+    {
       "role": "místopředsedkyně",
       "jmeno": "Christina Nicole Štunda",
       "datum_narozeni": "1999-07-03",
