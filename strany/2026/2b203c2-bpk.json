@@ -6,5 +6,24 @@
   "cislo_registrace": "MV-112250-4/OV-2026",
   "identifikacni_cislo": "29813841",
   "statutarni_organ": "Rada hnutí, za kterou jednají samostatně předseda nebo místopředseda.",
-  "osoby": []
+  "osoby": [
+    {
+      "role": "člen Rady hnutí",
+      "jmeno": "Ing. Ondřej Šafařík",
+      "datum_narozeni": "1998-08-31",
+      "adresa": "Zličská 1362, 280 02 Kolín"
+    },
+    {
+      "role": "místopředsedkyně",
+      "jmeno": "Dana Plašilová",
+      "datum_narozeni": "1968-07-01",
+      "adresa": "Zborovská 993, 280 02 Kolín"
+    },
+    {
+      "role": "předseda",
+      "jmeno": "Ing. Petr Uhlíř",
+      "datum_narozeni": "1985-04-14",
+      "adresa": "V Zídkách 357, 280 02 Kolín"
+    }
+  ]
 }
