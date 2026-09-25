@@ -9,27 +9,27 @@
   "osoby": [
     {
       "role": "členka",
-      "jmeno": "Klára Kadár",
-      "datum_narozeni": "1989-11-24",
-      "adresa": "338 08 Terešov 17"
+      "jmeno": "Lucie Spáčilová",
+      "datum_narozeni": "1981-05-16",
+      "adresa": "Topolová 419/1, 783 01 Olomouc"
     },
     {
       "role": "členka",
       "jmeno": "Marta Martinová",
       "datum_narozeni": "1981-03-23",
-      "adresa": "Pod Sokolovnou 252, 289 21 Kostomlaty nad Labem"
+      "adresa": "Palackého 779/53, 290 01 Poděbrady"
     },
     {
       "role": "členka",
-      "jmeno": "Michaela Nedory",
-      "datum_narozeni": "1996-05-31",
-      "adresa": "Kremličkova 976/5, 140 00 Praha"
+      "jmeno": "Veronika Holcnerová",
+      "datum_narozeni": "1984-09-25",
+      "adresa": "Tábor 890/25, 616 00 Brno"
     },
     {
       "role": "členka",
-      "jmeno": "Pavla Krausová",
-      "datum_narozeni": "1998-06-18",
-      "adresa": "261 01 Narysov 4"
+      "jmeno": "Zuzana Janková",
+      "datum_narozeni": "1981-03-15",
+      "adresa": "Lípová 471/6, 120 00 Praha"
     }
   ]
 }
