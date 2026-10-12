@@ -6,5 +6,24 @@
   "cislo_registrace": "MV- 57418-4/OV-2026",
   "identifikacni_cislo": "24942910",
   "statutarni_organ": "Kolegium, za které jedná předseda nebo první místopředseda společně s řadovým místopředsedou hnutí.",
-  "osoby": []
+  "osoby": [
+    {
+      "role": "řadový místopředseda",
+      "jmeno": "Mgr. Milan Šulc",
+      "datum_narozeni": "1986-12-14",
+      "adresa": "Haškova 139/2, 638 00 Brno"
+    },
+    {
+      "role": "předseda",
+      "jmeno": "prof. Ing. arch. Michal Sedláček",
+      "datum_narozeni": "1963-09-14",
+      "adresa": "Lísky 1020/86, 624 00 Brno"
+    },
+    {
+      "role": "první místopředsedkyně",
+      "jmeno": "Mgr. Markéta Peringerová",
+      "datum_narozeni": "1987-05-26",
+      "adresa": "Purkyňova 3030/35e, 612 00 Brno"
+    }
+  ]
 }
