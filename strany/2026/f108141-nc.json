@@ -8,16 +8,16 @@
   "statutarni_organ": "Předsednictvo, za které jedná předseda.",
   "osoby": [
     {
-      "role": "člen",
+      "role": "místopředseda",
       "jmeno": "Petr Maroš",
       "datum_narozeni": "1976-12-08",
       "adresa": "Jar. Haška 1514/17, 370 04 České Budějovice"
     },
     {
-      "role": "člen",
+      "role": "místopředseda",
       "jmeno": "Zbyněk Sýkora",
       "datum_narozeni": "1984-06-04",
-      "adresa": "Holkovská 2342/4, 370 07 České Budějovice"
+      "adresa": "Holkovská  2342/4, 370 07 České Budějovice"
     },
     {
       "role": "předseda",
