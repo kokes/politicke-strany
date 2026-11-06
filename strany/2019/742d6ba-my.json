@@ -9,12 +9,6 @@
   "osoby": [
     {
       "role": "člen",
-      "jmeno": "JUDr. Martin Netolický, Ph.D.",
-      "datum_narozeni": "1982-09-22",
-      "adresa": "Trávník 1996, 560 02 Česká Třebová"
-    },
-    {
-      "role": "člen",
       "jmeno": "Jan Stránský",
       "datum_narozeni": "1977-12-09",
       "adresa": "560 02 Přívrat 129"
@@ -45,9 +39,9 @@
     },
     {
       "role": "předseda",
-      "jmeno": "Petr Fiala",
-      "datum_narozeni": "1968-11-24",
-      "adresa": "Hausenská 864, 561 51 Letohrad"
+      "jmeno": "JUDr. Martin  Netolický, Ph.D.",
+      "datum_narozeni": "1982-09-22",
+      "adresa": "Trávník 1996, 560 02 Česká Třebová"
     }
   ]
 }
